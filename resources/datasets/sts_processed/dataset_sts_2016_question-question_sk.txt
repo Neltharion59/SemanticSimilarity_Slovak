@@ -1,0 +1,1550 @@
+4	Should I drink water during my workout?	Ako môžem dosiahnuť, aby moje batoľa pilo viac vody?
+4	Ako môžem dať niečo do knižného formátu bez toho, aby som to „zverejnil“?	Ako môžem svoje údaje „časovo označiť“ bez ich zverejnenia?
+4	Ako zabránim tomu, aby na mňa pes skočil?	How do I make my dog forget a command?
+4	Aký je najlepší spôsob skladovania špargle?	Aký je správny spôsob ukladania tukov?
+4	Ako vyrobím výškovo nastaviteľný stôl?	Ako môžem zostaviť nástenný stôl s nastaviteľnou výškou?
+4	What is the best time and temperature for taste when cooking a salmon fillet in the oven?	What is the best oil to use when cooking in a wok?
+4	Ako zistím, prečo moja práčka spadne do zásuvky?	Ako môžem zistiť, prečo moja práčka zakopáva o zásuvku GFCI?
+5	Čo by som mal hľadať v švihadle?	Čo by som mal hľadať v bežeckej obuvi?
+5	Mám použiť peniaze IRA na splácanie študentských pôžičiek?	Should I cash out my IRA to pay my student loans?
+0	Do I need a UK transit visa for flying to the Canary Islands?	Do I need a transit visa at Amsterdam to stay in airport?
+0	How do you remove paint from hair?	Ako môžem odstrániť farbu zo štrbinových hláv skrutiek?
+0	Potreboval by kolumbijský občan s pobytom v Kanade tranzitné vízum do Spojeného kráľovstva?	Does a UK Citizen with a foreign passport need a Visa to enter the UK?
+0	Ako môžem vyhľadať a opraviť únik?	Ako môžem vyhľadať a opraviť prerušenie obvodu?
+0	Ako môžem dosiahnuť, aby môj pes spomalil pri jedle?	How can I get my dog get used to a new small environment?
+0	What is the best way to repair a cracked bathtub?	What is the best way to fix this garage floor?
+0	Čo znamená platba na faktúru?	Čo to znamená „výskumná univerzita“?
+0	Aká dôležitá je výslovnosť prvých slov batoľaťa?	Aký dôležitý je chytľavý prvý odsek?
+0	Ako odstránim farbu z drevenej podlahy?	Ako môžem odstrániť časť podlahovej dosky z tvrdého dreva?
+0	How to strengthen my wrists?	How to strengthen calf muscles?
+0	Ako osloviť profesora v liste?	How to cite a letter in an anthology?
+0	Aký je najlepší spôsob skladovania špargle?	What's the best way to store unused sushi rice?
+4	Aká oliva je náhradou dobrej chuti pre Kalamata?	Čo je dobrá náhrada za mleté ​​teľacie mäso?
+4	Čo predstavuje škorpión na Disku?	Čo predstavuje origami v Blade Runner?
+4	Ako zvoliť plán tréningu?	Ako vytvoriť plán tréningu?
+4	Aké je autobusové spojenie z gréckeho Solúna do gruzínskeho Tbilisi?	Existuje autobus z gruzínskeho Tbilisi do gréckeho Solúna?
+2	How can I get my colleagues to stop interrupting me?	How do I motivate my colleagues?
+2	Dobre, všetci sme tu hlupáci, tak naozaj, ako preboha mám používať japonskú toaletu?	Dobre, všetci sme tu dospelí, tak naozaj, ako by som, preboha, mal žiť bez bidetu?
+2	Ako odstránite farbu z vlasov?	Ako odstránim farbu z drevenej podlahy?
+2	Ako funguje arbitráž v bejzbale?	How does velveting work?
+2	How can I use persimmons in a cooked dish?	How do I recognize if a dish cannot be cooked in a gas oven?
+2	If lost in the wilderness, what is the first thing I should do?	Aký je najdôležitejší nástroj na prežitie, ktorý by som mal mať, keď som v divočine?
+2	What is the PhD application process for Germany and Switzerland?	What is the process for PhD applications and contacting professors in France?
+2	Ako môžem vymeniť reťaz na ťahanie svetla stropného ventilátora?	How can I replace a recessed light with a ceiling fan?
+2	Ako môžem zistiť, ako veľmi si vážim svojho šéfa a spoločnosť?	Ako môžem vysvetliť svojmu šéfovi, že nie som schopný dokončiť úlohu?
+2	Aký je najlepší spôsob skladovania čerstvých bobúľ?	Aký je najlepší spôsob skladovania domácich omáčok?
+2	Do I need a UK transit visa when flying from Lebanon to Ireland?	Do I need a transit visa at Amsterdam to stay in airport?
+2	What is the best way to store fresh berries?	What's the best way to store asparagus?
+2	What can I do to make my writing fit the 1950s?	Can I do anything to make my gas oven better?
+2	Ako pripravím stenu pre backsplash dlaždice?	How should I prepare a sub-floor for porcelain tile?
+2	Is there a way to find out if I need a transit visa for a layover in the UK?	Does one need to fill in a form for a Visa On Arrival?
+2	Ako pripojím odťahový ventilátor / svetlo do kúpeľne k dvom spínačom?	Ako nainštalujem výfukový systém pre kúpeľňu?
+2	Čo „robí“. myslíš v starých receptoch?	Čo znamená „Rezervácia v dome“?
+2	How can I stop my pie from burning?	Ako môžem zastaviť spotené ruky?
+2	Ako postaviť plastový prototyp?	Ako postaviť rozoberateľnú štruktúru?
+2	Potrebujem učiteľa, aby sa naučil hrať na husle?	Do I need to write a bibliography?
+2	Ako získať finančné prostriedky na tento nápad?	How to get rid of this shed?
+2	How can I explain to my boss that I am not able to complete a task?	Ako dosiahnuť, aby môj pes pochopil, že chcem, aby šiel na určité miesto?
+2	Je možné vymeniť vypínač za zásuvku?	Je možné vymeniť regulátor otáčok stropného ventilátora za prepínač?
+2	How long can I safely keep a thawing pork shoulder in the fridge?	Ako dlho môžem držať stehno šunky v chladničke?
+2	Aký je správny spôsob zabezpečenia samostatného rozsahu pre plyn?	Aký je správny spôsob odpočtu plynomeru?
+2	Ako môžem zvládnuť žiadosť o ďalšie 2 pracovné miesta, keď už mám prácu na čiastočný úväzok?	Ako môžem dať svoj životopis online, keď už mám prácu?
+2	Ako prinútim svojho psa zabudnúť na povel?	How do I fix a door frame that my dog chewed?
+2	How much thinset is enough?	Koľko kopírovania je v poriadku?
+2	Do I need a UK transit visa when flying from Lebanon to Ireland?	Do I need a visa to transit India?
+2	How can I prevent my ferrets from smelling bad?	How can I prevent my ferrets from chewing on wires?
+2	Ako môžem vymeniť reťaz na ťahanie svetla stropného ventilátora?	Ako môžem vymeniť svoje svietidlo za stropný ventilátor?
+3	Musím požiadať o tranzitné vízum do Spojeného kráľovstva, keď mám vízum pre návštevníkov?	Potrebujem tranzitné vízum na medzipristátie v Taliansku?
+3	How can I connect additional wires to a receptacle?	How do I connect the wires to this USB receptacle?
+0	What kind of socket is this?	What type of faucet is this?
+0	Aký je rozdiel medzi akciou a dlhopisom?	Aký je rozdiel medzi režimom a stupnicou?
+2	Čo znamená táto tabuľková notácia?	Čo znamená rozhovor
+2	How do I maintain a good relationship with my old boss after being promoted?	Ako si môžem po ukončení práce udržiavať dobré vzťahy so zamestnávateľom?
+5	How can I tell if I'm planking correctly?	How can I tell if my cat is pregnant?
+5	Is there a way to find out if I need a transit visa for a layover in the UK?	Potrebujem tranzitné vízum na zastávku v Londýne?
+5	Where could the air in the water system be coming from?	Where could water be coming from inside the joint between bathtub and wall tiles?
+5	What are the types of Guitar available and what are the pros and cons of each?	What are the pros and cons of storing bread in various locations?
+5	How to get rid of oversleeping?	How to get rid of weevils?
+5	How long should it take to read a paper?	Ako dlho by malo trvať získanie ruského pasu?
+5	Ako nainštalujem prepínače do tohto poľa?	How do I install this sump basin?
+5	Potrebujem na cestu na Kanárske ostrovy tranzitné vízum do Spojeného kráľovstva?	Aké víza potrebujem na návštevu svojho strýka vo Veľkej Británii?
+5	How do I clean the bottom of a gas grill?	How do I clean a pasta maker?
+5	How High Can I Raise My Lights?	Môžem použiť svoj dehydratátor na chlieb?
+5	What is the difference between a Rollover IRA and a Roth IRA?	Aký je rozdiel medzi doplňujúcim slovom a diskurznou značkou?
+5	How do I keep my dog's water clean?	How do I make my dog forget a command?
+5	Where can I find a good vocabulary list?	Kde nájdem históriu dividend z akcie?
+5	How can I wire my WIFI thermostat to control my millivolt fireplace?	How can I add tile to my fireplace?
+5	Aký je rozdiel medzi stroganom a gulášom?	What is the difference between portamento and glissando?
+5	Do I need to apply for a UK transit visa when I have a visitor visa?	Potrebujem letiskové tranzitné vízum cez Švajčiarsko, ak mám schengenské vízum?
+5	Aký je rozdiel medzi akciou a dlhopisom?	Aký je rozdiel medzi krevetou a krevetou?
+5	Is it safe to travel to Turkey at this time (August 2013)?	Is it safe to travel to Kiev at the moment?
+5	How can I help my dog adjust to a move?	How can I get my dog get used to a new small environment?
+5	O aký nástroj ide?	Čo je to akordová notácia?
+5	Aký význam mal „21 gramov“?	Čo znamená „objednávka na prvej stránke - prvej“?
+5	How much water is too much?	Piť koľko vody sa považuje za príliš veľa vody?
+5	How do I reconnect a ceiling fan light chain?	How do I connect a ceiling fan without a light kit?
+5	How do you teach a toddler not to share?	Ako naučiť batoľa zaobchádzať s knihou?
+5	How can I get my dog to slow down when eating?	Ako môžem dosiahnuť, aby môj pes prestal byť taký citlivý na hluk?
+5	Ako mám uzemniť GFCI na kovovú skrinku?	How should I connect to a short ground wire in a metal box?
+5	Musím požiadať o tranzitné vízum do Spojeného kráľovstva, keď mám vízum pre návštevníkov?	Potrebujem tranzitné vízum do Spojeného kráľovstva alebo do Írska, keď letím z USA do krajiny schengenského priestoru?
+5	Do I need a UK transit visa for flying to the Canary Islands?	Do I need a transit visa in Paris and Panama?
+5	What is the actual difference between Graduate and Undergraduate texts?	aký je rozdiel medzi Ereborom a Moriou?
+5	How can I control a bath fan with two lights through a single wire?	How can I replace a single switch with two switches?
+5	How does one invent a cookie recipe?	How does the number of eggs affect a cookie recipe?
+5	Musím požiadať o tranzitné vízum do Spojeného kráľovstva, keď mám vízum pre návštevníkov?	Potrebujem tranzitné vízum na medzipristátie v Luande?
+5	What is the difference between EFTA and the EU?	What is the difference between chicken cubes and ground chicken?
+5	Ako zabránim prasknutiu vajíčka počas varenia?	Ako zabránim prasknutiu vajíčka pri prudkom varení?
+3	What kind of spider web is this - and how do I get rid of it?	How do I get rid of this mould?
+3	Ako môžem pripraviť túto starú vonkajšiu stenu na maľovanie?	How do I prepare this porous interior wall for paint?
+3	Čo „robí“. myslíš v starých receptoch?	What does "respectively" mean in the Tenth Amendment?
+3	Aký je rozdiel medzi analógovými a digitálnymi efektovými pedálmi?	What is the difference between portamento and glissando?
+3	How can I control a bath fan with two lights through a single wire?	Ako zapojím ventilátor do vane?
+3	Prečo v kuchyni nie je voda?	Prečo v kuchyni nie je teplá voda?
+3	How can I get rid of springtails?	How can I get rid of mosquitoes?
+3	Do I need to apply for a UK transit visa when I have a visitor visa?	Potrebujem tranzitné vízum do Spojeného kráľovstva, keď cestujem v dodatočnej lehote víza J1?
+3	Aké sú dostupné typy gitary a aké sú výhody a nevýhody každej z nich?	Aké sú výhody a nevýhody kŕmenia na požiadanie?
+3	Ako zabránim tomu, aby mačka cikala na koberčeky a bielizeň?	How can I stop my dog from peeing on our neighbor's door?
+3	How to address a professor in letter?	How to address a person in a letter?
+3	Aký je rozdiel medzi akciou a dlhopisom?	Aký je rozdiel medzi dlhopisom a dlhopisom?
+3	How do I fix a hole/gap between my shower tile and the dry wall next to it?	Ako vyplním medzeru medzi krbom a rámom z tvrdého dreva okolo neho?
+3	Aký je rozdiel medzi akciou a dlhopisom?	Aký je rozdiel medzi portamento a glissando?
+3	Čo mám robiť s nulovým vodičom a zemou pri zapojení prepínacieho spínača?	Ako zapojím prepínač, keď sa farby drôtu nezhodujú?
+3	Ako môžem vybrať oddelený piest z odtoku vane?	Ako vymením vypínaciu páčku odtoku vane?
+3	How do I stop my dog from jumping on me?	How can I stop my pie from burning?
+3	Aký je najlepší spôsob opravy prasknutej vane?	What is the best way to filter the Turkish coffee?
+3	Ako môžem znížiť potrebu zmeny vody v prostredí mojej korytnačky?	How do I know when it's time to change a tube on my amplifier?
+3	What is the difference between assertive and non-assertive words?	Aký je rozdiel medzi dvojhláskou a kĺzačkou?
+3	Is it ok to use "and/or" in my dissertation?	Is it appropriate for a TA to say "My Students"?
+3	What are the pros and cons of setting up a 529 plan for myself?	What are the pros and cons of being co-supervised?
+3	Potrebujem pri odlete z Libanonu do Írska tranzitné vízum do Spojeného kráľovstva?	Do I need a transit Visa when changing terminals in LHR(UK)?
+3	I'm an Indonesian citizen. Do I need a visa for South Korea?	Návšteva Kórey ako indonézskeho občana so študentskými vízami USA: Potrebujem vízum do Kórey?
+3	Čo viac môžem urobiť, aby som zlepšil svoje kreditné skóre?	Can I pay a collection agency in a way that will improve my credit score?
+4	What is the difference between an amp and a head?	What is the difference between a copula and a transitive verb?
+4	What is the difference between mono and stereo?	aký je rozdiel medzi Ereborom a Moriou?
+4	Ako mám vyplniť jamy v betónovej podlahe, aby som mohol nainštalovať laminát?	How can I paint a concrete floor?
+4	Which job title to use?	Which survey software to use?
+4	How do I make my own chocolate chips?	I want to make my own cheese. How do I get started?
+4	Layover at Narita for 3 hours. Do i need a transit visa?	Do I need a transit visa in Paris and Panama?
+4	What kind of socket is this?	What is type of screw is this?
+4	How do I track investment performance in Quicken across rollovers?	How do I track 401k rollovers in Quicken?
+2	What are the pros and cons of buying a house using an FHA loan?	What are the pros and cons of feeding on demand?
+2	Ako môžem zabrániť tomu, aby môj predškolák kňučal?	Ako môžem zabrániť horeniu koláča?
+2	What kind of socket is this?	What kind of trade is this?
+2	Je normálne, že mačky jedia trávu?	Is it normal for a cat to eat moths?
+2	Aký je pôvod syrového dipu?	Aký je pôvod jazdcov čiernych / diablov?
+2	Mám kontaktovať redaktora v časopise, ktorý odmietol môj príspevok, a požiadať o spätnú väzbu?	Should I resubmit a rejected paper to the same journal?
+2	Can I ask a company what I should wear to an interview?	What should I ask as an applicant in a job interview?
+5	Ako odstránite pleseň zo stanu?	How do I remove mildew from a tent?
+2	What is the best way to toast pecans?	Aký je najlepší spôsob skladovania čerstvých bobúľ?
+2	Ako môžem uľahčiť preosievanie?	How can I make an exterior door?
+2	Mám svoju žiadosť o zamestnanie deklarovať na schôdzi?	Mám náborovým pracovníkom pripomenúť môj stav žiadosti o zamestnanie?
+2	Ako môžem pomôcť svojmu psovi prispôsobiť sa pohybu?	How can I help a dog to lose weight?
+2	Can I travel to Paris with a type A multiple entry visa valid for 3 years?	Môžem cestovať do Fínska s viacnásobným vízom vydaným pre Taliansko?
+2	What is the difference between a stock and a bond?	What is the difference between a complication/twist and a situation?
+2	Americká daň z príjmu a charitatívne dary: O koľko sa daň z príjmu znižuje o dary?	Britská daň z príjmu a charitatívne dary: O koľko sa daň z príjmu znižuje o dary?
+3	Ako môžem vymeniť vchodové dvere na štukovom dome?	How can I replace the seal on the bottom of my shower door?
+3	Potrebujem na cestu na Kanárske ostrovy tranzitné vízum do Spojeného kráľovstva?	Potrebujem tranzitné vízum?
+3	How can I make an improvised vegetable steamer?	How can I make an exterior door?
+3	What is the function of "-ter" in words "laughter" and "daughter"?	Sémantická logika slova „both“ v angličtine - odlišná od „a“?
+3	Bar ware - What kind of glass is this?	Čo je to za sklo?
+1	Potreboval by kolumbijský občan s pobytom v Kanade tranzitné vízum do Spojeného kráľovstva?	Will I Need a Transit visa or ESTA for the US as a Canadian?
+4	Do I need to apply for a UK transit visa when I have a visitor visa?	Potrebujem tranzitné vízum do Veľkej Británie, ak už mám vízum pre Veľkú Britániu?
+1	Koľko vody je príliš veľa?	Koľko thinset je dosť?
+1	What should I look for in a jump rope?	What should I look for in a rope for climbing?
+1	Ako dlho môžete uchovávať čokoládu v mrazničke?	How long should you keep Salami for?
+1	Musím požiadať o tranzitné vízum do Spojeného kráľovstva, keď mám vízum pre návštevníkov?	Môžem požiadať o americké vízum, keď som návštevníkom v Kanade?
+1	Čo treba hľadať pri výbere novej vane?	Mám si hľadať novú prácu?
+1	Aké sú výhody a nevýhody Jeffersona oproti konvenčným mŕtvym ťahom?	What are the pros and cons of feeding on demand?
+1	How does arbitration work in baseball?	How does leverage work?
+1	Je možné vymeniť vypínač za zásuvku?	Is it safe to replace a switch with a dimmer on halogen spots?
+3	How High Can I Raise My Lights?	Ako môžem zistiť, prečo moje svetlá blikajú?
+3	Is there a way to find out if I need a transit visa for a layover in the UK?	Tranzitné vízum vo Veľkej Británii?
+3	Ako môžem odstrániť vosk z dreveného pultu, aby som ho mohol znovu nabrousiť dánskym olejom?	Ako môžem odstrániť farbu z drevenej paluby, aby som ju mohol zafarbiť?
+3	Naozaj potrebujem nadbytočné čerpadlo na kal?	Musím nainštalovať jímkové čerpadlo?
+4	Medzipristátie v Narite na 3 hodiny. Potrebujem tranzitné vízum?	Medzipriestor v Narite v Japonsku. Potrebujem tranzitné vízum?
+2	How can I remove a key that has broken off in a lock?	Ako môžem odstrániť zaseknutý a zlomený kľúč zo zámku?
+2	Čo by som mal hľadať v švihadle?	Čo by som mal hľadať pri elektronickom meraní zloženia tela?
+2	How long boiled egg can be stored in fridge?	How long can formula be stored in fridge and freezer?
+2	How do I stop my daughter from hitting another child?	How do my wife and I stop our son from learning to swear from us?
+2	Aký je rozdiel medzi zosilňovačom a hlavou?	What is the difference between a conservatory and an orangery?
+2	Ako jednať so spoločnosťou, ktorá pre mňa nestanovuje očakávania ani úlohy?	Ako zvládnuť obávané úlohy?
+2	what are the pros and cons of structured deposits?	Aké sú výhody a nevýhody kŕmenia na požiadanie?
+2	Ako naučím svoje batoľa žuvať jedlo?	Ako naučím svoje batoľa, aby si neplnilo líčka jedlom?
+2	Môžem pripojiť dve záťažové vedenia k zásuvke GFCI?	Ako môžem pripojiť ďalšie vodiče k zásuvke?
+3	How can I work out how valuable I am to my boss and company?	How can I convince my boss I am the right person to lead a future team?
+2	Ako si kúpite správny lístok na vlak vo Veľkej Británii?	Do I have to validate train tickets in the UK?
+2	Musím svoj nadzemný bazén / systém so slanou vodou uzemniť?	Musím svoj bazén uzemniť?
+2	Ako znova pripojím svetelný reťaz stropného ventilátora?	How do I install a ceiling fan remote?
+2	Ako môžem rýchlo rozmraziť zamrznutý vonkajší odtok?	Ako môžem posúvať odtokové potrubie?
+2	How should I install a thermostat for a baseboard heater?	Musíte mať termostat pre elektrický ohrievač základnej dosky?
+2	Môžem pripojiť svoj 50-ampérový generátor k 30 A zástrčke?	How can I connect my 30 amp electric dryer to a 50 amp plug?
+2	Som indonézsky občan. Potrebujem vízum do Južnej Kórey?	Aké víza potrebujem na cestu do juhovýchodnej Ázie, ak som občanom Kanady?
+2	Ako nahradím pokazenú halogénovú žiarovku v zapustenom svetle v kúpeľni?	Ako môžem vymeniť žiarovku v tomto stropnom ventilátore?
+3	Ako napravím dosku hlavnej knihy, ktorá sa oddeľuje od domu?	Ako mám opraviť vinylovú krytinu, ktorá vychádza z nosného nosníka vonkajšej paluby?
+3	Aká je pravdepodobnosť prijatia na PhD, ak profesor súhlasí s dohľadom?	Aká je hodnota pre študenta profesora ponúkajúceho dohľad nad doktorátom?
+3	Ako dlho vydrží varený TVP v chladničke?	Ako dlho vydržia uvarené cestoviny v chladničke?
+3	Prečo sú kožušinové guľky za ušami môjho psa a ako sa ich zbavím?	Čo sú to malé biele mravce v mojom byte a ako sa ich zbavím?
+3	Neublíži mi získanie kreditnej karty na zakúpenie jednej drahej položky alebo mi pomôže?	Pomôže mi získanie druhej kreditnej karty môj úverový rating?
+3	Nakoľko by ste mali byť oboznámení s témou predtým, ako ju zadáte bakalárskej práci ako dizertačnú prácu?	As a student, how should I ask a professor for an opportunity to do research with them?
+3	Ako dlho vydrží cesto na tortillu?	Na ako dlho by ste mali udržiavať salámu?
+3	Musím požiadať o tranzitné vízum do Spojeného kráľovstva, keď mám vízum pre návštevníkov?	Potrebujem pri odlete z Libanonu do Írska tranzitné vízum do Spojeného kráľovstva?
+3	What are the types of Guitar available and what are the pros and cons of each?	Aké sú rôzne typy kotiev do sadrokartónu a aké sú výhody každého z nich?
+3	Ako zistím, či plánujem správne?	Ako zistím, či je môj mikrofón poškodený?
+3	Ako môžem potlačiť vibračný hluk ventilátora?	Ako môžem znížiť hluk z kúpeľňového ventilátora?
+3	What is the difference between a 'trader' and a 'stockbroker'?	Rozdiel medzi „abstraktom“ a „úvodom“ v článku o hlavnej úlohe?
+3	How do you reduce a cream sauce?	Ako si otvoríte kokos?
+3	What are the types of Guitar available and what are the pros and cons of each?	What are the pros and cons of doubling on two brass instruments?
+3	Ako dlho môžem uchovávať restovanú cibuľu v chladničke?	Ako môžem nakrájanú cibuľu skladovať v chladničke bez zápachu?
+3	Musím požiadať o ESTA?	Let z Kalifornie do Texasu: potrebujem ESTA?
+2	Ako môžem dosiahnuť, aby ma kolegovia prestali vyrušovať?	Ako môžem zabrániť horeniu koláča?
+2	Ako mám opraviť strop s popcorn?	Mám vymeniť alebo nalepiť sadrový strop?
+2	Aké sú princípy improvizácie v newgrassovej hudbe?	Aké sú princípy improvizácie v indickej hudbe?
+2	Ako funguje eliminačná komunikácia?	How does leverage work?
+2	Čo mám robiť, ak profesor na zahraničnej univerzite neodpovedá na moje e-maily?	Čo mám robiť, ak profesorka tvrdí, že nechápe moje otázky v úradných hodinách?
+2	Môžem urobiť všetko pre to, aby sa moja plynová rúra zlepšila?	Čo by som mal podniknúť pri riešení problémov s mojou plynovou rúrou?
+2	Čo sú možnosti automatických garážových brán pre garáž s nízkou svetlou výškou?	Aké sú možnosti osvetlenia garáže so stodolou?
+2	What can I do to make my writing fit the 1950s?	Čo môžem urobiť, aby bolo moje písanie menej trhané?
+2	Môžem v rámci USA pokračovať v cestovaní na základe víz so skončenou platnosťou?	Môžem cestovať v rámci USA s vízom, ktorého platnosť skončila?
+2	Ako si mám zostaviť rozpočet?	How should I translate this?
+2	Ako znova pripojím svetelný reťaz stropného ventilátora?	Ako zapojím stropný ventilátor?
+2	Ako môžem zabrániť tomu, aby môj pes štekal, keď neviem, na čo šteká?	Ako zabránim tomu, aby môj pes štekal na ľudí cez plot?
+2	Aké ťažké je získať akademické miesto v Austrálii / na Novom Zélande s titulom PhD z USA?	Aké ťažké je pre absolventa Kanady nájsť zamestnanie v USA?
+2	Ako mám uchovávať vajcia v chladničke?	How should I store steaks in the freezer?
+2	I accepted an offer, then the company stopped responding. Do I keep chasing the offer?	Poviem náborovému pracovníkovi, ktorého ponuku odmietnem, podrobnosti o ponuke, ktorú som prijal?
+2	Čo je zlé na mojej náhradnej zásuvke GFCI?	Čo sa pokazilo na mojich brownies?
+2	Ako funguje zmätenosť svalov?	How does leverage work?
+2	Ako si pripravím hrniec kávy na grile?	Ako pripraviť dobrú kávu v hrnci Moka?
+2	Aké piesne / hudbu môžem použiť na precvičovanie huslí?	Aké sú niektoré materiály, ktoré môžem použiť na zostavenie tabule?
+2	Cestujete do Rumunska na 4 dni so schengenskými vízami vydanými Nemeckom?	Cestujete do Rumunska na krátkodobý pobyt Schengenské vízum vydané Francúzskom?
+4	Aká je pravdepodobnosť prijatia na PhD, ak profesor súhlasí s dohľadom?	Aká je motivácia postgraduálneho študenta pomôcť pri vývoji profesorského MOOC?
+4	Mám ísť na pohovor, ak mám pocit, že nie som pripravený?	Mal by som byť flexibilný alebo rozhodný, keď sa ma spýta, kedy budem k dispozícii na pohovor?
+4	Aké ťažké je získať akademické miesto v Austrálii / na Novom Zélande s titulom PhD z USA?	Je ťažšie získať pozíciu Tenure Track v USA, keď sa uchádzate zvonku?
+4	Je v poriadku uchádzať sa o viac ako jeden doktorandský študijný program?	Je vhodné prihlásiť sa na viac ako jeden doktorandský program?
+2	Nakoľko by ste mali byť oboznámení s témou predtým, ako ju zadáte bakalárskej práci ako dizertačnú prácu?	Ako rozhodnúť, či sa má poradca považovať za spoluautora príspevku alebo nie?
+2	What are the pros and cons of feeding on demand?	Aké sú výhody a nevýhody používania opatrovateľskej kamery?
+2	Aký je profesionálny spôsob nadviazania kontaktu s manažérom pre projektovú príležitosť?	Aký je profesionálny spôsob jednania so šéfom môjho manažéra?
+0	Musím požiadať o tranzitné vízum do Spojeného kráľovstva, keď mám vízum pre návštevníkov?	Musím požiadať o vízum pre vstup do Južnej Kórey, ak som už dostal vízum Aus?
+0	What are the pros and cons of feeding on demand?	Aké sú výhody a nevýhody LED osvetlenia pre domáce použitie?
+0	Aký je najlepší spôsob opekania pekanových orechov?	Aký je najlepší spôsob liečby zaseknutého prsta?
+0	Musím požiadať o tranzitné vízum do Spojeného kráľovstva, keď mám vízum pre návštevníkov?	Do I require a transit visa for Cuba?
+0	Musím si pri hľadaní práce aktualizovať životopis?	How do I highlight my portfolio when applying to jobs that just ask for cover letter and CV?
+0	Aké bolo priemerné percento daní v Európe počas stredoveku?	Aká bola priemerná veľkosť francúzskych rodín v stredoveku?
+0	What is the best way to toast pecans?	Aký je najlepší spôsob predstavenia mačiek novorodencom?
+0	Čo by som mal hľadať v švihadle?	What should I look for in a good metronome?
+0	Aký je najlepší spôsob opravy prasknutej vane?	Aký je najlepší spôsob čistenia strúhadla?
+1	How can I get my dog to slow down when eating?	Ako môžem vycvičiť svojho psa, aby sa správal k starostlivosti?
+1	How is rental income taxed?	Ako sa zdaňujú príjmy zo študentských víz J1?
+1	Ako naučíme naše batoľa, že je v poriadku chodiť na nočník?	Ako pomáhame nášmu batoľu prespať celú noc?
+1	Do I need to update my resume when not looking for a job?	Čo by som mal vziať do úvahy pred nosením okuliarov Google Glass na pracovný pohovor, keď pre nich robím vývoj?
+1	Ako zistím, či môj let má WiFi?	Ako zistím svoje kreditné skóre?
+1	Ako zvýšim strop garáže po napenení striekaním?	How do I raise my box bed?
+1	Čo by som mal hľadať v novom automobile (automobile)?	What should I look for in a new kitchen knife set?
+1	Aký je najlepší spôsob skladovania čerstvých bobúľ?	Aký je najlepší spôsob skladovania nakrájanej zeleniny?
+1	What's the process to get an Indonesian tourist visa for a US citizen?	Ako skontrolovať stav žiadosti o britské pracovné vízum pre Inda?
+1	Čo znamená platba na faktúru?	Čo znamená režijná sadzba?
+1	Ako môžem zistiť, ako veľmi si vážim svojho šéfa a spoločnosť?	Dajte projekt, ktorý nechcem robiť. Ako to môžem povedať svojmu šéfovi?
+1	Prečo ma moja mačka neolizuje?	Prečo kýchanie mojej mačky obsahuje krv?
+1	How do you keep up with a toddler?	Ako naučíte batoľa nezdieľať?
+1	Potrebujem pri odlete z Libanonu do Írska tranzitné vízum do Spojeného kráľovstva?	Potrebujem tranzitné vízum do Spojeného kráľovstva alebo do Írska, keď letím z USA do krajiny schengenského priestoru?
+1	Existuje pojem pre opak Chuckovho Cunninghamovho syndrómu?	Existuje názov pre inverziu syndrómu podvodníka?
+1	What kind of socket is this?	Čo je to za žiarovku?
+1	Do we NEED to help a baby learn how to self-sooth? And how long can it take?	How can I learn how to focus better?
+1	Ako opravím toto netesné odtokové potrubie umývačky riadu?	Ako môžem opraviť netesný sprinklerový ventil?
+1	Čo sa môže stať s mojou pecou?	Čo môže byť zlé na mojom časovači sušičky?
+1	Musím požiadať o tranzitné vízum do Spojeného kráľovstva, keď mám vízum pre návštevníkov?	Potrebujem tranzitné vízum?
+1	How exactly do the sounds of Arabic "ﻕ" and Georgian "ყ" differ?	What's the difference between the Lao vowel letters "ໄ" and "ໃ"?
+1	Mám si hľadať novú prácu?	Moved to a new country and not enjoying the new job, should I look for a new one?
+1	How to get rid of oversleeping?	Ako sa zbaviť celulitídy?
+1	What is the best way to store fresh berries?	Aký je najlepší spôsob skladovania mrkvy?
+0	Po opätovnom prihlásení sa na rovnaký doktorandský program po jednom roku, mám uviesť, že som si podal prihlášku v predchádzajúcom roku?	Should I apply for PhD program this year after one semester of research experience, or wait another year?
+0	What's the best way to store asparagus?	Aký je najlepší spôsob ukladania energie?
+0	Čo by som musel ukázať, aby som zmenil polia a dostal sa na doktorandský program z fyziky?	Čo musím urobiť, aby som získal magisterský titul v odbore neuroveda?
+0	What could be causing my GFCI to trip?	Čo môže spôsobiť spustenie môjho AFCI?
+0	Je správne očakávať, že moji spolupracovníci budú mať rovnaké odhodlanie pracovať ako ja?	Is it okay to give a gift to my research mentor who happens to be the dean?
+0	Aký je rozdiel medzi zosilňovačom a hlavou?	aký je rozdiel medzi Ereborom a Moriou?
+0	How can I determine how much my car insurance will cost me?	Ako zistím, koľko by predajca skutočne zaplatil za moje auto?
+0	Prečo vo filme Avengers zatvorili portál?	Prečo sa film Avengers vo Veľkej Británii nazýval inak?
+0	Je normálne, že má 12-ročné dieťa Vibrato?	Is it normal for a kitten to have a big belly?
+0	Do I need a UK transit visa for flying to the Canary Islands?	Do I need a transit visa for Germany on the way to Canada?
+0	How can I stop my fireplace from disabling my thermostat?	How can I stop my pie from burning?
+0	Čo sa stalo na konci Rockyho?	Čo sa stalo na jej konci?
+0	What is the best way to store fresh berries?	Aký je najlepší spôsob citovania anonymného pisateľa?
+4	Aký je najlepší spôsob pečatenia okolo tohto faucetu?	What's the best way to avoid slipping on ice?
+4	Ako odstránim farbu z drevenej podlahy?	Ako môžem odstrániť malé škvrny od farby z drevenej podlahy?
+2	Ako môžem vysvetliť svojmu šéfovi, že nie som schopný dokončiť úlohu?	Ako slušne povedať svojmu šéfovi, že chcem prevziať inú rolu?
+2	If lost in the wilderness, what is the first thing I should do?	What should I do if I feel the pilot is guiding the flight in the wrong direction?
+2	Can I patent work after I have published a paper about it?	Zistil som, že vo svojich publikovaných časopisoch mám plagiát, čo mám robiť teraz?
+2	After a job interview, is it inappropriate if I want to talk to an employee in private?	Je zlý nápad zúčastniť sa pohovoru pre prácu, ktorú neplánujete prijať?
+2	Ako držíte krok s batoľaťom?	Ako udržiavate batoľa v bezpečí pri vode?
+2	Prečo je priemerná kompenzácia v USA oveľa vyššia ako v západnej Európe?	Prečo je záujem o MMA nižší v USA ako v Európe?
+5	Ako zohrejem kastról v rúre?	How do I reheat a casserole in the microwave?
+5	Existuje spôsob, ako zistiť, či potrebujem tranzitné vízum na prestávku vo Veľkej Británii?	Potrebujem tranzitné vízum na technické zastavenie v Austrálii?
+5	What is the difference between an amp and a head?	Aký je rozdiel medzi školou a odborom?
+5	Aký je rozdiel medzi elektronickým a magnetickým predradníkom?	Aký je rozdiel medzi colnými a prisťahovalectvom?
+5	What are the pros and cons of Jefferson vs conventional deadlifts?	What are the pros and cons of eating 1-3 grapefruits every day?
+5	What is a mezrag-holder?	What is a timeshare?
+5	Ako zabránim tomu, aby na mňa pes skočil?	How do I stop toothpaste from piling up on the cover?
+5	What's the best way to store asparagus?	Aký je najlepší spôsob výmeny tohto napájacieho vedenia drezu?
+5	Ako sa ako postdoktorát uistiť, že dostanem uznanie za pomoc študentom s vysokoškolským vzdelaním?	Ako študent by som mal požiadať profesora o možnosť robiť s nimi výskum?
+5	Aký parameter je najlepšie zvýšiť - čas alebo teplota?	Aká je najlepšia teplota na uskladnenie medu?
+5	What kind of material do I need above the tile line in my shower?	What kind of water filter do I need?
+5	Môžem pripojiť dve záťažové vedenia k zásuvke GFCI?	How can I install a new bathroom GFCI receptacle?
+5	Replacing a hot water heater: tank or tankless?	Calculate savings from/cost-effectiveness of installing a tankless hot water heater?
+5	What could be wrong with my air conditioner?	Čo sa môže stať s mojou klimatizačnou jednotkou?
+2	Do I need to apply for a UK transit visa when I have a visitor visa?	Do i need a transit visa for Paris if i have a Schengen visa issued by Portugal?
+2	Koľko času môžete požiadať pred vstupom do novej spoločnosti?	Môže nová spoločnosť zistiť, koľko vám platia?
+2	What are the types of Guitar available and what are the pros and cons of each?	What are the pros and cons of using a nanny-cam?
+2	What is the significance of the cat?	What is the significance of the abstract painting?
+3	Do I need to apply for a UK transit visa when I have a visitor visa?	Lietanie z USA do Veľkej Británie cez Kanadu so španielskym pasom. Musím požiadať o vízum?
+3	What is the motivation behind using the 2-3-2 (vs. 2-2-1-1-1) series format for the NBA Finals?	Aké je zdôvodnenie výberu štýlu animácie pre sériu Klonové vojny (2008 - 2014)?
+3	Ako znova pripojím svetelný reťaz stropného ventilátora?	How do I wire a ceiling fan with a light kit?
+3	Should I let potential employers know I have a job offer?	Mám povedať svojmu šéfovi, že mám pracovnú ponuku na plný úväzok?
+3	What would be a good substitute for Rice Wine?	What is a good pine nut substitute for pesto?
+3	Ako opravím vodou poškodené podlahy z tvrdého dreva?	Ako môžem opraviť povrch svojej podlahy?
+2	Ako vyčistím regenerované drevo od stavby?	How do I remove paint from a wood floor?
+2	Čo sa môže stať s mojou pecou?	What could be wrong with my A/C unit?
+2	How should I use heat tape?	How should I translate this?
+2	Do we NEED to help a baby learn how to self-sooth? And how long can it take?	How much do I need to sleep?
+2	What is the difference between an electronic and a magnetic ballast?	What is the difference between portamento and glissando?
+2	Is it appropriate to call a professor for a recommendation on the weekend?	Je vhodné požiadať profesora e-mailom o odporúčací list?
+2	What could be causing water pressure to build up after changing my under sink filter?	What could be causing water to back up into my bathroom basin?
+0	Can I use romex in my unfinished, detached garage or should I use MC?	Môžem Romex používať v nedokončenom suteréne alebo podkroví?
+0	Why are Cinnabons so soft and moist?	Prečo je môj chlieb taký hustý a vlhký?
+0	U.S. income tax & charitable donations: How much is income tax reduced by donations?	Canadian income tax & charitable donations: How much is income tax reduced by donations?
+0	Where can I find a good vocabulary list?	Kde nájdem kompletný zoznam akordov Freddie Green?
+3	What is the best way to toast pecans?	What is the best way to cite an anonymous writer?
+3	Aký je rozdiel medzi „falošným príbuzným“ a „falošným priateľom“?	What's the difference between a Flanger and a Phaser?
+3	Glue underlayment to concrete: how long does it take to cure?	Ako dlho by mal betón trvať, kým sa úplne vytvrdí?
+4	Ako môžem požiadať šéfa, aby zaplatil náklady?	My boss wants to buy me a gift. How do I account for taxes for this?
+4	When is it a remix, and when is it a cover?	Kedy je MSG vhodné a kedy nie?
+4	Ako naučíte batoľa nezdieľať?	Ako naučím svoje batoľa, aby si neplnilo líčka jedlom?
+4	Ako dlho vydrží balzamová redukcia?	How long will cold brew keep?
+4	Čo znamená výraz „Z pece“?	What does "The Middle" refer to in the TV show "The Middle"?
+4	What is the difference between mono and stereo?	What is the difference between a filler word and a discourse marker?
+4	Does this beginning hook the reader?	Does my story beginning hook the reader? (dialogue + narration)?
+4	Ako zabránim tomu, aby moja dcéra bila ďalšie dieťa?	How can I stop my pie from burning?
+4	How do I adjust for a door jamb that's thicker than the wall?	How do I install a garden door that's thicker than the wall?
+4	Ako môžem odstrániť skutočne zaseknutú skrutku?	How can I remove this screw?
+3	How do you remove mold from a tent?	How to remove mold from Styrofoam ceiling tiles?
+3	Job transfer with a house I can't sell. How should I handle it?	Kolega mi dlhuje peniaze. Ako mám / mám nárokovať späť?
+3	Je lepšie požiadať o odporúčací list osobne po hodine alebo e-mailom?	Is it appropriate to ask a professor via e-mail for a letter of recommendation?
+2	Aké sú dobré silové cvičenia pre maratóncov?	Aká je dobrá alternatívna obuv pre silový tréning?
+2	Should I go for an interview if I feel I am not prepared?	Should I appear in a test, if I have not completely prepared for it?
+2	How to get from Rzeszów to Lviv?	Ako ísť z Gilimanuku do Denpasaru?
+2	Which is the cheapest ferry to Jeju in South Korea?	Which ferry from China to South Korea is the cheapest?
+2	Ako mám zalepiť veľkú dieru do tehál?	How do I patch a large hole in plaster and lath?
+2	Can I repair a plaster ceiling with drywall?	Ako môžem vyrovnať zlú opravu sadrokartónu?
+2	Aký je rozdiel medzi zosilňovačom a hlavou?	Aký je rozdiel medzi portamento a glissando?
+2	aký je rozdiel medzi Ereborom a Moriou?	Aký je rozdiel medzi spájaním a superpozíciou?
+2	What should I look for in a new car (automobile)?	Čo by som mal hľadať v bežeckej obuvi?
+2	How do I retrofit a junction box in an insulated wall?	Ako utesním elektrickú skrinku pre stropný ventilátor?
+2	Ako môžem odstrániť staré škvrny od čaju z koberca / koberca?	How can I remove a coffee stain from carpet?
+2	How can I win my Supervisor's trust to do some big work?	Put onto a project I don't want to do. How can I tell my boss?
+2	What olive is a good taste substitute for Kalamata?	Čo by bolo dobrou náhradou za ryžové víno?
+2	Ako si mám zostaviť rozpočet?	How high should I make my yurt platform?
+2	How do I keep my dog's water clean?	Ako môžem aplikovať liek na uši do uší môjho psa?
+2	Do I need to apply for a UK transit visa when I have a visitor visa?	Potrebujem na tranzit v schengenskom priestore vízum?
+2	My name was misspelled in a citation, what should I do?	For publications, what do I do when my first name is abbreviated?
+2	What can I eat the night before to help me get up in the morning?	What trigger do you use to get up early in the morning?
+3	I have a Schengen visa but my UAE Residence visa cancelled. Can I still travel then?	Môžem vycestovať do Spojeného kráľovstva, ak mi vypršali schengenské víza?
+4	What could be causing my GFCI to trip?	Čo môže spôsobiť vypnutie ističov a nádob GFCI?
+2	How can I locate and repair a leak?	How can I repair a ground-fault?
+2	Ako prevediem stropný ventilátor s 2 samostatnými spínačmi na stenu na samostatný spínač ventilátora a svetla?	How do I wire 2 switches to control a ceiling light?
+1	Ako dlho vydrží varený TVP v chladničke?	How long will uncooked chicken keep in the fridge?
+4	Ako môžem dosiahnuť, aby ma kolegovia prestali vyrušovať?	How can I get my colleague to stop calling me over to his desk when he wants my help?
+0	What is the difference between assertive and non-assertive words?	Aký je rozdiel medzi portamento a glissando?
+2	Požiadať o nové turistické vízum zo Spojeného kráľovstva z domova, zatiaľ čo súčasné je stále platné?	O aké turistické víza z Veľkej Británie by som mal požiadať?
+2	What is the difference between assertive and non-assertive words?	what is the difference between Erebor and Moria?
+2	Je po pracovnom pohovore nevhodné, ak sa chcem so zamestnancom rozprávať v súkromí?	When (if ever) in the interview process is it appropriate to recommend a colleague?
+0	Aký je vzťah medzi slovami „kozák“ a „kazašský“?	What is the difference between "mince" and "dice"?
+0	Do I need to ground my above ground pool / with saltwater system?	Ako by som mal vyrovnať povrch môjho nadzemného bazéna?
+0	How do you remove paint from hair?	How do I effectively remove dog hair from carpets?
+0	Čo je to za pavučinu - a ako sa jej zbavím?	What kind of valve is this and how do I disconnect it?
+0	What is the difference between a 'trader' and a 'stockbroker'?	What is the difference between a copula and a transitive verb?
+0	What's the best way to store asparagus?	What is the best way to clean a grater?
+0	Je téza „Prečo tučníme: a čo s tým robiť“ správna?	What is "mud-jacked", and why is it not done in the UK?
+0	Ako môžem pomôcť svojmu psovi prispôsobiť sa pohybu?	How to remove a ticks on my dog?
+0	Is it a good idea to go to the airport and ask for the next cheap flight to anywhere?	Is it possible for me to take a visa to Vienna and travel to Prague?
+0	Why does the shower get cold when I flush, and how can I prevent it?	Prečo syr niekedy skĺzne z mojej pizze a ako tomu môžem zabrániť?
+0	Musím požiadať o tranzitné vízum do Spojeného kráľovstva, keď mám vízum pre návštevníkov?	Potrebujem britské aj schengenské vízum?
+0	Koľko vody je príliš veľa?	Protein: How much is too much?
+0	Môžem v podkroví spustiť 3 stopy vodovodného potrubia na dažďovú sprchu?	Can I run a copper pipe for water in an exterior wall without it freezing in the winter?
+0	Ako môžem zabrániť tomu, aby môj pes štekal, keď neviem, na čo šteká?	Ako zabrániť tomu, aby môj pes neustále štekal, keď nie som doma?
+0	Existuje spôsob, ako zistiť, či potrebujem tranzitné vízum na prestávku vo Veľkej Británii?	Do I need a UK transit visa for flying to the Canary Islands?
+0	Ako mám postupovať, keď ma kolegovia požiadajú, aby som skryl problémy s ich prácou?	Ako sa vysporiadať s problémami spojenými s dyslexiou?
+0	Čo ak nemám dostatok pracovnej vzorky na pohovor?	What should I do if I have an idea but can't work on it immediately?
+2	How do I prepare a wall for backsplash tile?	Ako pripravím túto poréznu vnútornú stenu na farbu?
+2	Aká veľkosť suchého vrecka je najlepšia na uchovávanie a pranie oblečenia?	Bag technique for washing clothes while backpacking?
+2	Čo sa stalo na konci Rockyho?	What happened at the end of The Grey?
+2	Ako mám uchovávať vajcia v chladničke?	Ako mám uchovávať fazuľové klíčky?
+2	Čo je to za pavučinu - a ako sa jej zbavím?	O aký typ konektora ide a ako ho odstránim?
+2	How can I connect additional wires to a receptacle?	Ako môžem pripojiť zásuvku k dvojžilovému predlžovaciemu káblu?
+2	Ako odstránite farbu z vlasov?	How do I remove paint from pipes?
+2	Čím to je, že je slanina taká chutná?	Čo je to Turecká slanina?
+2	Ako sa môžem zbaviť bĺch?	Ako sa zbaviť tejto búdy?
+2	What are the pros and cons of using a nanny-cam?	Aké sú klady a zápory kultivovanej mramorovej vane?
+2	Koľko vody je príliš veľa?	Koľko je príliš veľa škody?
+2	Je môj americký vodičský preukaz platný v Európe?	Je grécky vodičský preukaz platný v USA?
+0	What is the best way to store fresh berries?	Aký je najlepší spôsob filtrovania tureckej kávy?
+2	How should I make a budget?	How to make a roux?
+2	What kind of socket is this?	Čo je to za koláč?
+2	Mám mať samostatné sporiace účty pre rôzne sporiace ciele?	Should I have separate business and personal accounts for my start up?
+2	Kedy je vhodné pri stretnutí so študentom zavrieť dvere svojej kancelárie?	Kedy je vhodné pracovať počas stretnutia?
+2	Ako by som mal postaviť studové steny na výrobu políc v miestnosti so šikmým stropom a podlahou?	Ako by som mal postaviť nízkoprofilovú studovú stenu v suteréne?
+2	How do you remove mold from a tent?	How do I remove paint from a wood floor?
+2	Aký je najlepší spôsob skladovania zemiakov a maximalizácia ich trvanlivosti?	Aký je najlepší spôsob skladovania nepoužitej sushi ryže?
+2	Ako by som mal svojho psa upravovať?	How can I help my dog's furuncles?
+2	Existuje spôsob, ako zistiť, či potrebujem tranzitné vízum na prestávku vo Veľkej Británii?	Existuje spôsob, ako zistiť, či potrebujem tranzitné vízum do Kanady?
+2	Aké sú výhody a nevýhody kúpy domu pomocou pôžičky FHA?	Aké sú výhody a nevýhody používania opatrovateľskej kamery?
+2	Aký je najjednoduchší spôsob vytrhnutia kúpeľňového podkladu?	What is the easiest way to open a foreign Bank Account?
+2	How do I replace a broken bathtub drain?	Ako vymením vypínaciu páčku odtoku vane?
+2	Ako môžem vysvetliť svojmu šéfovi, že nie som schopný dokončiť úlohu?	Musím svojmu manažérovi vysvetliť, ako som získal kľúč od obchodného parku?
+2	Čo je držiak mezrag?	Čo je to Chairleg camstud?
+2	Medzipristátie v Narite na 3 hodiny. Potrebujem tranzitné vízum?	Potrebujem na prestup v Nemecku letiskové tranzitné vízum?
+2	Musia moje deti podať daňové priznanie?	Naozaj potrebujem podať daňové priznanie k dani z príjmu?
+2	Musím požiadať o tranzitné vízum do Spojeného kráľovstva, keď mám vízum pre návštevníkov?	Potrebujem tranzitné vízum na prestávku v Turecku?
+2	Musím požiadať o tranzitné vízum do Spojeného kráľovstva, keď mám vízum pre návštevníkov?	Potrebujem na návštevu Bieloruska vízum, ak mám ruské vízum?
+2	Čo je „beta“ pre investíciu alebo portfólio a ako ho môžem použiť?	What is a "wet edge" and how do I maintain one?
+2	Môžem v podkroví spustiť 3 stopy vodovodného potrubia na dažďovú sprchu?	Môžem viesť vodu cez podkrovie?
+2	Mám povedať budúcemu zamestnávateľovi, že som získal zvýšenie platu v súčasnej práci?	Mám počas môjho opätovného pohovoru povedať svojmu nadriadenému a ich šéfovi, že hľadám inú prácu?
+2	Ako dlho môžete uchovávať čokoládu v mrazničke?	Ako dlho môžete kosti kurčaťa skladovať v chladničke?
+2	Potrebujem pri odlete z Libanonu do Írska tranzitné vízum do Spojeného kráľovstva?	Potrebujem vízum do tranzitu USA?
+2	Čo viac môžem urobiť, aby som zlepšil svoje kreditné skóre?	Aké cviky môžem urobiť, aby som si zlepšil čas?
+2	Ako môžem uľahčiť preosievanie?	Ako môžem uľahčiť používanie týchto kúpeľových ventilov?
+2	Ako sa prestať cítiť zle, keď opúšťate spoločnosť, ktorá sa vám páči, pre novú prácu?	Čo treba robiť ako prvé pri nástupe do nového zamestnania?
+2	How do I prepare this porous interior wall for paint?	Ako pripravím túto vonkajšiu betónovú stenu na farbu?
+2	Aké sú technické rozdiely medzi kostrou a sánkou?	What are the objective differences between the guitar and the piano?
+2	Ako dlho by sa malo mäso dusiť?	How long should you keep Salami for?
+2	aké sú výhody a nevýhody štruktúrovaných vkladov?	Čo sú klady a zápory trekingového sóla?
+2	How do I clean a Hammerite paint brush?	Ako vyčistím teakový olej zo štetca?
+2	Medzipristátie v Narite na 3 hodiny. Potrebujem tranzitné vízum?	Do I need a transit visa at Amsterdam to stay in airport?
+2	Je bezpečné nechať maslo pri izbovej teplote?	Ako zistím, či je jedlo, ktoré je ponechané pri izbovej teplote, stále bezpečné?
+2	Aký je najlacnejší spôsob cesty z Poľska do Lyonu (Francúzsko)?	What is the cheapest way to send books from USA to France?
+2	Je možné steak overmarinovať?	Is it possible to gut-load a mouse?
+2	Ako odstránim farbu z drevenej podlahy?	Ako odstránim hrubú vrstvu farby z dlaždíc?
+3	Môžem do existujúcej dlaždice pridať porcelánové kúpeľňové zariadenie?	Ako môžem pridať kachle na svoj krb?
+3	How do I install switches in this box?	How do I install this flush-mount ceiling light?
+3	Aký význam mal „21 gramov“?	Aký je súčasný význam pojmu „Izrael“?
+3	Ako odstránim farbu z drevenej podlahy?	How can I remove paint from a deck?
+1	How can I improve hvac air flow to my attic?	How can I improve air flow in my basement?
+1	Čo „robí“. myslíš v starých receptoch?	Čo znamená pojem „zápas s trhom“?
+1	How can I tell the difference between a rabbit and a cat?	Ako môžem otestovať videnie králika?
+1	Čo je to 13. akord?	What is this Chord Notation?
+1	Is there a way to find out if I need a transit visa for a layover in the UK?	Do I need a transit visa for a layover in Turkey?
+1	Aké sú skvelé cvičenia pre dospelých rekordérov?	Aké sú naťahovacie cvičenia pre golf?
+1	Ako odstránim farbu z drevenej podlahy?	How do I remove paint from pipes?
+4	Aký je rozdiel medzi stroganom a gulášom?	Aký je rozdiel medzi Flangerom a Phaserom?
+4	How to remember things you don't often use?	What techniques can I use to remember to do simple things that are context sensitive?
+4	Aký je rozdiel medzi zosilňovačom a hlavou?	What is the difference between a filler word and a discourse marker?
+4	Aký je rozdiel medzi portamento a glissando?	Aký je rozdiel medzi Melange a Cappuccino?
+4	What are the types of Guitar available and what are the pros and cons of each?	Aké sú výhody a nevýhody spoločného dohľadu?
+4	Ako môžem vytvoriť vylúčenie zodpovednosti?	Ako môžem posúvať odtokové potrubie?
+4	ako zatemniť okno veľkej spálne s rozpočtom?	How can I thoroughly blackout a bedroom window on a budget?
+5	Medzipristátie v Narite na 3 hodiny. Potrebujem tranzitné vízum?	Potrebujem tranzitné vízum, ak mám 9 hodín medzipristátia na letisku v Dillí?
+5	What language does this look like?	Čo je to za jazyk?
+4	Môžem počas svojho OPD cestovať mimo USA, ale s vízom po uplynutí platnosti?	Môžem v rámci USA pokračovať v cestovaní na základe víz so skončenou platnosťou?
+4	Medzipristátie v Narite na 3 hodiny. Potrebujem tranzitné vízum?	Do i need a transit visa for heathrow airport?
+4	What is the best way to repair a cracked bathtub?	Aký je najlepší spôsob skladovania čerstvých bobúľ?
+4	Aké sú výhody a nevýhody používania opatrovateľskej kamery?	Aké sú výhody a nevýhody spoločného dohľadu?
+4	Aký typ nohavíc je vhodný na zdvíhanie závažia?	Čo je dobré cvičebné oblečenie na zdvíhanie závažia?
+0	How do I determine if a pipe is frozen?	Ako zistiť, či je faucet plastový alebo kovový?
+0	Musím si pri hľadaní práce aktualizovať životopis?	Ako môžem opustiť svoju prácu, keď pracujem pre náborára?
+0	Som indonézsky občan. Potrebujem vízum do Južnej Kórey?	Musím požiadať o vízum pre vstup do Južnej Kórey, ak som už dostal vízum Aus?
+0	Môžem sadrokartónový strop opraviť sadrokartónom?	Mám vymeniť alebo nalepiť sadrový strop?
+0	Aké sú výhody a nevýhody kúpy domu pomocou pôžičky FHA?	Aké sú výhody a nevýhody spoločného dohľadu?
+0	Musím požiadať o tranzitné vízum do Spojeného kráľovstva, keď mám vízum pre návštevníkov?	Potrebujem japonské vízum?
+0	What are the pros and cons of Jefferson vs conventional deadlifts?	Aké sú výhody a nevýhody LED osvetlenia pre domáce použitie?
+0	Prenos práce s domom, ktorý nemôžem predať. Ako to mám zvládnuť?	I want to run but have a bad knee. How should I deal with it?
+0	Aký je najjednoduchší spôsob, ako sa zbaviť rozliatych trblietok?	Aký je najefektívnejší spôsob, ako sa zbaviť striebristých rýb?
+0	Ako môžem pomôcť svojmu psovi prispôsobiť sa pohybu?	Ako môžem posúvať odtokové potrubie?
+0	Najnižšie skóre, ktoré nikdy nezískal pálkar v zmene.	Najvyššie nájazdy, ktoré môže pálkar v presilovke skórovať?
+0	How to prepare cinder block wall for painting?	Ako sa pripraviť na preteky?
+0	What is the difference between EFTA and the EU?	What is the difference between a copula and a transitive verb?
+0	Ako rozhodnúť, či zmluva „mala“, „mala“ a „bola by“?	Dodávajú slová ako „začať“, „uvedomiť si“ a „rozhodnúť“ sa pri konaniach nejednoznačnosť?
+0	Aký je vzťah medzi slovami „kozák“ a „kazašský“?	Aký je zdravý zákon, ktorý popisuje etymológiu „špirály“ a „vulvy“?
+0	Aké značky naznačujú dobrú kvalitu vody pre tropické ryby?	Čo by som mal okrem kvality vody zvážiť pred pridaním ďalších tropických rýb?
+0	Ako si spevniť zápästia?	Ako relaxovať moje zápästia?
+0	Ako zistím, či má moja mačka červy?	Ako môžem zistiť, či mačka trpí?
+0	Čo sa môže stať s mojou klimatizáciou?	What could cause my in-wall air conditioner to blow 3 power boards?
+0	Aký je najlepší spôsob čistenia výfuku sušiča bielizne?	What is the best way to clean a grater?
+5	Aké možnosti pôžičky existujú pre maloletých?	Aké sú možnosti konsolidácie veľkého množstva dlhu zo súkromnej študentskej pôžičky?
+5	Čo „robí“. myslíš v starých receptoch?	Čo v tejto súvislosti znamenajú „základné body“?
+5	Čo viac môžem urobiť, aby som zlepšil svoje kreditné skóre?	What can I realistically do to raise my credit score?
+1	Musím minúť peniaze svojou kreditnou kartou na zvýšenie svojho kreditného skóre?	Do I have to pay interest to increase my credit score?
+1	Ako môžem nainštalovať prívod vody do umývačky riadu?	Ako nainštalujem prívod vody do chladničky v kuchyni s kuchyňou?
+1	Čo to znamená „výskumná univerzita“?	Čo v tejto súvislosti znamenajú „základné body“?
+1	Musím požiadať o tranzitné vízum do Spojeného kráľovstva, keď mám vízum pre návštevníkov?	Budem ako držiteľ kanadského študentského víza potrebovať tranzitné vízum do USA?
+1	How can I remove a really stuck screw?	Ako môžem odstrániť farbu zo štrbinových hláv skrutiek?
+2	How much activity is too much for my older dog?	Koľko mäsa je dosť pre môjho psa?
+2	Aký je správny spôsob zadržania kaucie podnájomcu?	Aký je najjednoduchší spôsob, ako nájsť dovolenkový prenájom?
+2	Čo spôsobuje tieto triesky v stene z cementovej tehly a ako ich môžem opraviť?	What are these holes in my concrete wall and how can I mount things to them?
+2	Aký význam má scéna s policajtom na konci filmu The Artist?	What is the meaning of the apearance of dogs in the good the bad the ugly?
+2	Do I need a UK transit visa for flying to the Canary Islands?	Do I need a visa to enter the US as a UK citizen in transit?
+2	Čo môže spôsobiť zálohovanie mojej toalety?	Čo môže spôsobiť, že voda steká do mojej kúpeľne?
+4	Can you thaw a frozen turkey in a dryer?	How can I thaw a frozen exterior drain quickly?
+4	Ako môžem vysvetliť svojmu šéfovi, že nie som schopný dokončiť úlohu?	How do I tell my boss I am moving to a different organization?
+4	What is the difference between a Rollover IRA and a Roth IRA?	Aké sú rozdiely medzi „tradičnou“ IRA a Roth IRA?
+4	How can I wire my WIFI thermostat to control my millivolt fireplace?	How can I get my thermostat C wire connected?
+4	Ako naložiť s dieťaťom, keď obaja rodičia nie sú na rovnakej stránke?	Ako zaobchádzať s batoľaťom, keď ja a môj partner nie sme na jednej vlne?
+1	Ako môžem dosiahnuť, aby si batoľa, o ktoré sa starám počas dňa, zdriemlo?	Where can I go take a nap during the day?
+1	In a dialogue, how do you write that a character says a letter?	How do I write a letter to a publisher?
+1	Prečo ma moja mačka neolizuje?	Why does my cat lick the fur off her lower belly?
+1	Ako znova pripojím svetelný reťaz stropného ventilátora?	Ako zapojím náhradný stropný ventilátor?
+4	Odkiaľ by mohol pochádzať vzduch vo vodnom systéme?	Where could the water leaching from the base of the drywall be coming from?
+4	Is it possible to steam steak?	Je možné steak overmarinovať?
+4	Ako môžem zistiť, koľko ma bude stáť moje poistenie auta?	How can I determine how much to talk about my personal life with clients?
+4	How to ask for more details about the job before applying?	How to ask management for more staff?
+4	Aký je najlepší spôsob skladovania čerstvých bobúľ?	Aký je najlepší spôsob, ako sa začať učiť nový kurz?
+4	Ako načerpám tlak vody v sprche?	Ako môžem vyriešiť nízky tlak vody v jednej sprche?
+4	Job transfer with a house I can't sell. How should I handle it?	Dajte projekt, ktorý nechcem robiť. Ako to môžem povedať svojmu šéfovi?
+4	How can I repair my floors' finish?	Ako môžem opraviť odlupujúcu sa povrchovú úpravu mojich drevených okien?
+4	Ako sa môžem zbaviť jarabíc?	Ako sa môžem zbaviť I-94?
+4	Čo sú niektoré bežné chyby začiatočníkov, keď sa učia hrať na klavíri?	Aká dobrá kniha je na učenie sa hrať na klavíri?
+4	Prečo moja mini chladnička nezostáva chladná?	Prečo moja mini chladnička nechladne?
+4	How to get rid of unwanted and annoying co-author?	Ako sa zbaviť tejto búdy?
+4	Aký je rozdiel medzi loptičkami v Teste a ODI Cricket?	Aký je rozdiel medzi katedrou a fakultou?
+4	What is the difference between an amp and a head?	Is there a huge difference between 1.6amp and 3amp power usage?
+4	Existuje spôsob, ako zistiť, či potrebujem tranzitné vízum na prestávku vo Veľkej Británii?	Need to travel Tokyo in layover. Do I need transit visa?
+4	Greek type D visa: Can I travel to other Schengen countries?	Môžem ísť navštíviť krajiny Schengenu s vízom typu D-mult?
+1	Je možné pripraviť steaky?	Je možné chovať cvrčky?
+1	What could cause my ceiling fan light to go off after 2 seconds of being on?	What could cause ceiling fan lights to flicker on with power and then go out immediately?
+1	What is the significance of the cat?	Aký význam má motýľ?
+1	Čo mohlo spôsobiť výpadok môjho GFCI a čo s tým môžem urobiť?	My wife is pregnant and I don't want to be part of it, what I should do?
+1	How should I patch a popcorn ceiling?	How should I make a budget?
+1	What is the best way to introduce myself in a letter to a prospective graduate adviser?	Aký je najlepší spôsob predstavenia mačiek novorodencom?
+1	What can I do to minimize my risk of being laid off?	What can I do to stop my child from being over-sensitive?
+1	What is the difference between a stock and a bond?	What is the difference between a biscuit and a roll?
+1	How do I use a floor nailer near the wall?	Can I use a wall tile on the floor?
+1	How should I store eggs in the refrigerator?	How long can I store cooked rice in the refrigerator?
+4	Aký význam má scéna s policajtom na konci filmu The Artist?	Aký význam má riadok na konci čínskej štvrte?
+4	Čo môžem urobiť so štvorcového hrubého otvoru pre nové okná?	Čo môžem urobiť s Drsným otvorom, ktorý je SKUTOČNE mimo štvorca?
+1	Aký je najlepší spôsob skladovania zemiakov a maximalizácia ich trvanlivosti?	What's the best way to reheat frozen boiled potatoes?
+1	What's the best way to store potatoes and maximize their shelf-life?	Aký je najlepší spôsob skladovania špargle?
+2	What is the meaning of the letters on the top of a common hex bolt?	Aký je účel korunky v strede montážnej dosky smerovača?
+2	Ako môžem udržiavať vodu svojho psa čistú?	Ako môžem pomôcť furuncles môjho psa?
+2	What is the safest way to travel from Tehran to North-Pakistan?	Aký je najlepší spôsob cesty z IST do Istanbulu?
+2	How do I paint art onto a wall?	How do I clean a Hammerite paint brush?
+2	Aký je rozdiel medzi akciou a dlhopisom?	Aký je rozdiel medzi SCI a SCIE?
+2	Ako jednať so zasahujúcimi spolupracovníkmi?	Ako zvládnuť obávané úlohy?
+2	Ako dosiahnem, aby môj 1 rok starý spal v jeho postieľke?	How do we get an eight month old back to sleeping in his crib?
+2	Je nejaký rozdiel medzi článkom a prácou?	Je rozdiel medzi zdvíhaním vzhľadom / veľkosťou / silou?
+2	What are the principles of improvisation in newgrass music?	Aké sú princípy improvizácie v jazzovej hudbe?
+2	How can I explain to my boss that I am not able to complete a task?	How do I tell a colleague that I don't want to add him to Facebook?
+2	What's the evidence for and against isochrony?	Aké sú argumenty za a proti nadmernému precvičovaniu?
+2	Is it possible to get a Schengen visa for future date?	Is it possible to get a Canadian visa without concrete plans?
+2	What more can I do to improve my credit score?	Ako môžem vylepšiť svoje skóre poistenia automobilov?
+2	should I continue with this research?	How should I translate this?
+2	Lose more or gain weight?	Lose weight or Gain Muscle?
+2	Ako požiadať o aktualizáciu prípadného otvorenia?	How to ask for an internal transfer?
+2	At what age should a child's self-involvement begin to decrease?	At what age should a child be able to dress herself?
+2	Aké sú výhody a nevýhody Jeffersona oproti konvenčným mŕtvym ťahom?	Aké sú výhody a nevýhody používania opatrovateľskej kamery?
+2	Môžem počas svojho OPD cestovať mimo USA, ale s vízom po uplynutí platnosti?	Can I travel within the US with an expired visa?
+2	What is the significance of the cat?	Aký význam majú traja žobráci?
+2	What can I eat the night before to help me get up in the morning?	How can I make sure to get up early in the morning and study?
+2	What should I look for in strawberries at the market?	What should I look for in a new car (automobile)?
+2	ako inštalovať hotové podlahy z tvrdého dreva?	How do I repair water-damaged hardwood floors?
+2	How do I replace a broken halogen bulb in the recessed light in my bathroom?	Can I replace broken clips in a recessed light fixture?
+2	How to bake a chicken?	How to truss a chicken?
+0	What is the best way to treat feline ringworm?	What is the best way to clean a grater?
+2	Why is there no water after replacing the filter in a Samsung refrigerator?	Why is there no water in the kitchen?
+2	Do I need to apply for a UK transit visa when I have a visitor visa?	Do I need a transit visa for a technical stop in Australia?
+2	Kedy by som mal použiť kurzívu vo vedeckom písaní?	How much outlining should I use in writing my book?
+2	What kind of spider web is this - and how do I get rid of it?	What are these bugs and how do I get rid of them?
+0	Do I need to apply for a UK transit visa when I have a visitor visa?	Do I need a transit visa in Dubai?
+0	How do I get play-doh out of the carpet?	How do I get the butter out of my chocolate fondue?
+0	What information/guarantees should I get from a company in financial difficulty?	Čo mám robiť v informačnom hovore od spoločnosti, ktorá ma zaujíma?
+0	How do I prepare this porous interior wall for paint?	How do I paint art onto a wall?
+0	What's the best way to seal around this faucet?	What's the best way to store asparagus?
+4	How to remove construction adhesive from concrete?	Ako odstránim textúru z vonkajšej betónovej dosky?
+0	What are the pros and cons of setting up a 529 plan for myself?	What are the pros and cons of using a nanny-cam?
+0	Platí optimálne rozpätie hypertrofie pre unavené svaly?	Which rep range contributes to the most hypertrophy of calves?
+0	Is there any difference between an article and a paper?	Is there a difference between seasoning and flavouring?
+0	Ako nainštalujem prepínače do tohto poľa?	Ako môžem nainštalovať vonkajšiu elektrickú skrinku zapustenú do štuku?
+0	Aký je rozdiel medzi akciou a dlhopisom?	What is the difference between a riff and a lick?
+1	What's the difference between stroganoff and goulash?	What's the difference between overtones and harmonics?
+1	What should I look for in a jump rope?	What should I look for in a new car (automobile)?
+1	Aký je rozdiel medzi „obchodníkom“ a „obchodníkom s cennými papiermi“?	Is there a difference between 'Saucisson Sec' and 'Salami'?
+1	Is it safe to eat sprouted onions?	Is it safe to eat freshwater fish raw?
+1	What's the best way to seal around this faucet?	What's the best way to replace this sink supply line?
+1	How can I replace a ceiling fan light pull chain?	Ako znova pripojím svetelný reťaz stropného ventilátora?
+1	Aký je najlepší spôsob skladovania čerstvých bobúľ?	What is the best way to store oars?
+1	How do I teach my toddler to chew his food?	How do you teach a toddler not to share?
+2	Ako opraviť strop garáže?	How to properly insulate a garage?
+2	When should you use metal studs?	Môžem na zarámovanie búdy použiť kovové čapy?
+2	How do I repair my porcelain floor?	Ako môžem opraviť povrch svojej podlahy?
+2	How do I clean a Hammerite paint brush?	How do I clean a pasta maker?
+2	Can anyone tell me what this is?	Môže mi niekto povedať, o aký film ide?
+2	Ako si môžete kúpiť lístky na vlak na letisku Oslo?	How to buy train tickets in Indonesia?
+2	Can I ask a company what I should wear to an interview?	How should I respond to an inappropriate question in a job interview?
+2	Should I look for a new job?	Sťahovanie - kedy by som si mal začať hľadať novú prácu?
+2	Aký je rozdiel medzi zosilňovačom a hlavou?	Aký je rozdiel medzi colnými a prisťahovalectvom?
+2	Do I need to apply for a UK transit visa when I have a visitor visa?	Potrebujem na tranzit v LHR vízum?
+2	What is the best temperature to store honey at?	What is the proper way to store steak at home?
+2	Ako znova pripojím svetelný reťaz stropného ventilátora?	How do I add a light to my existing ceiling fan?
+2	What is the best way to store fresh berries?	What is the best way to introduce cats to newborns?
+2	What goes in a student success statement for a faculty application?	What is a good length for the statement of purpose in a U.S. PhD application?
+0	What is the difference between shawarma and gyros?	aký je rozdiel medzi Ereborom a Moriou?
+4	What type of hardware do I need for a heavy fence gate?	How do I rebuild a large fence gate?
+4	Why won't my new Craftsman garage door opener power on?	Why isn't my garage door opener button working on new installation?
+4	Ako nahradím pokazený odtok z vane?	How do I replace a drain stack?
+4	Aké sú výhody a nevýhody používania opatrovateľskej kamery?	What are the pros and cons of LED lighting for home use?
+4	What kind of socket is this?	What type of snake is this?
+4	Je pre občana USA legálne cestovať na Kubu?	How long does it take for a US citizen to get a visa to travel to Israel?
+4	Is it safe to travel to Turkey at this time (August 2013)?	Is it unsafe to travel to Greece at this time?
+4	Musím požiadať o tranzitné vízum do Spojeného kráľovstva, keď mám vízum pre návštevníkov?	Do I need a transit visa going through the US?
+4	Can I claim child care expenses as a deduction on my federal return in Quebec?	Can you claim child care expenses on your tax return in the UK?
+4	How do you remove paint from hair?	How do I remove multiple layers of paint from wooden entrance ledge?
+4	Ako vyčistiť rozliatu farbu na koberci?	How can I clean powder of dry paint on carpet?
+4	What is the significance of the scene with the cop near the end of The Artist?	Aký význam má vzhľad vlka?
+4	Aký je najbezpečnejší spôsob cesty z Teheránu do severného Pakistanu?	What is the cheapest way to get from Eindhoven to Amsterdam?
+4	Potrebujem pri odlete z Libanonu do Írska tranzitné vízum do Spojeného kráľovstva?	Do I need a transit visa through Italy from Romania to Algeria?
+4	How do I prepare this porous interior wall for paint?	How do I prepare an interior cement floor for painting?
+4	Ako môžem vysvetliť svojmu šéfovi, že nie som schopný dokončiť úlohu?	How to motivate students to complete work that I cannot frequently check?
+4	What's the best way to seal around this faucet?	What's the best way to keep my garage from freezing?
+4	Is there a keyed switch that can be used to power off a subpanel?	Is there a remote switch I can use to replace a switch located in a wall being removed?
+4	How can I reinforce a wall mounted ikea shelf?	Ako môžem zostaviť nástenný stôl s nastaviteľnou výškou?
+4	Ako môžem získať dôveru svojho nadriadeného pre vykonanie veľkej práce?	How do I let my old manager know I don't want to return to his team?
+4	Aké sú dostupné typy gitary a aké sú výhody a nevýhody každej z nich?	Aké sú typy zariadení na meranie krvného tlaku? Aké sú ich klady a zápory?
+4	Odkiaľ pochádza koncepcia „smeráckych kampaní“?	Where and how did the concept of "incorporation" originate?
+4	Musím vstúpiť do Európy so schengenskými vízami z krajiny, kde som podal žiadosť?	If I have Schengen visa, can I enter Schengen area from different country?
+4	Ako môžem nainštalovať novú kúpeľňovú zásuvku GFCI?	Ako môžem pripojiť ďalšie vodiče k zásuvke?
+4	How can I work out how valuable I am to my boss and company?	how do I tell my boss I'd like to work from home on a regular basis?
+4	What is the origin of the black/devil riders?	Aký je pôvod rozprávok Jataka?
+4	Do I need to apply for a UK transit visa when I have a visitor visa?	Potrebujem pri tranzite občana Spojeného kráľovstva vízum?
+4	Musím požiadať o tranzitné vízum do Spojeného kráľovstva, keď mám vízum pre návštevníkov?	Do I need a transit visa for a stop in London?
+4	Prečo Sherlock predstieral svoju smrť týmto spôsobom?	Prečo a ako Sherlock predstieral jeho smrť?
+4	Existuje spôsob, ako zistiť, či potrebujem tranzitné vízum na prestávku vo Veľkej Británii?	Čo potrebujem, aby som ako občan Holandska mohol pracovať a cestovať v USA 10 mesiacov?
+4	How do I remove a panel from the ceiling of my side porch?	How do I remove the front panel of my refrigerator to replace the water line?
+4	Does a UK Citizen with a foreign passport need a Visa to enter the UK?	Does the spouse of British national with UK permanent residence need a Schengen visa to travel to France?
+4	Ako odstránim farbu z drevenej podlahy?	How do I remove the cover from my light fixture?
+4	How does mobile home insurance work?	Ako funguje pákový efekt?
+4	What are the properties I should look for in running shoes?	What should I look for in a running shoe?
+4	Čo môže spôsobiť zálohovanie mojej toalety?	What could be causing my bathroom drains to back up?
+3	Ako dlho môžu byť ryby vynechané?	Ako dlho môžu olivy zostať mimo chladničky?
+3	Ako nepôvodný anglický spisovateľ, ako môžem zlepšiť svoj štýl písania v angličtine?	Ako môžem zlepšiť plynulosť písania v angličtine?
+3	What is the cheapest and most direct route from the UK to Malawi?	Aký je najlacnejší spôsob odosielania kníh z USA do Francúzska?
+3	Aká je najlepšia teplota na uskladnenie medu?	What is the best way to store ground coffee?
+3	Ako odstránim farbu z drevenej podlahy?	Ako odstránim viac vrstiev farby z drevenej vstupnej rímsy?
+3	How can I replace the roller mechanism on this door?	How do I replace the front door on a stucco house?
+3	Musím požiadať o tranzitné vízum do Spojeného kráľovstva, keď mám vízum pre návštevníkov?	Potrebujem na prestávku turecké tranzitné vízum?
+3	Čo je to za zásuvku?	Aký je to druh panvice?
+3	Ako držíte krok s batoľaťom?	How do you ween a toddler off of breastfeeding?
+3	Aký je vzťah medzi slovami „kozák“ a „kazašský“?	Aký je rozdiel medzi „anaforou“ a „deixis“?
+3	Ako požiadať o schengenské vízum?	Ako mám požiadať o schengenské vízum zo Spojeného kráľovstva?
+0	Aký je najlacnejší spôsob cesty z Poľska do Lyonu (Francúzsko)?	Aký je najlacnejší spôsob cesty z Lyonu (Francúzsko) do Milána (Taliansko)?
+0	Ako môžem odstrániť škárovaciu maltu z odtoku?	Ako môžem posúvať odtokové potrubie?
+0	Aký je rozdiel medzi mono a stereo?	What is the difference between chicken cubes and ground chicken?
+0	Ako odstránim farbu z drevenej podlahy?	Ako odstránim tvrdohlavý prvok z ohrievača vody?
+0	Čo viac môžem urobiť, aby som zlepšil svoje kreditné skóre?	Ako môžem skontrolovať svoje kreditné skóre?
+0	Musím požiadať o tranzitné vízum do Spojeného kráľovstva, keď mám vízum pre návštevníkov?	Potrebujem tranzitné vízum cez Zürich s kanadskými vízami?
+0	Ako pripravím túto poréznu vnútornú stenu na farbu?	Ako pripravím otvor pre betón?
+0	How can I get my dog to take liquid vitamins from a dropper?	Ako môžem zvyknúť svojho psa na nové malé prostredie?
+0	Aký je rozdiel medzi zosilňovačom a hlavou?	Aký je rozdiel medzi režimom a stupnicou?
+0	Ako môžem dosiahnuť, aby ma kolegovia prestali vyrušovať?	Ako môžem dosiahnuť, aby moje batoľa pilo viac vody?
+0	Potrebujú občania Bangladéša tranzitné vízum do Malajzie?	Do I need a transit visa in Paris and Panama?
+0	Môže mi niekto povedať, čo to je?	Can anyone tell me what kind of squash this is?
+0	How can I install a new bathroom GFCI receptacle?	How do I replace a GFCI receptacle in my bathroom?
+0	Aký je výraz pre „amuse-bouche“ na konci jedla?	Aký je správny výraz pre „rok 0“?
+0	What is the best way to apply Shellac-based primer?	Aký je najlepší spôsob čistenia strúhadla?
+2	How do I teach my toddler to chew his food?	Ako naučím svoje dieťa vyjadrovať svoju frustráciu?
+2	Aké sú výhody a nevýhody kúpy domu pomocou pôžičky FHA?	Aké sú výhody a nevýhody LED osvetlenia pre domáce použitie?
+2	Kedy neodpovedať na náborového pracovníka, pretože by bolo zrejmé, že je to strata času?	Je normálne byť tak frustrovaný za jeden mesiac práce a je to znamenie prestať?
+2	Je bezpečné nechať maslo pri izbovej teplote?	Is it safe to leave cooked poultry at room temperature overnight?
+2	Ako dosiahnuť, aby dieťa prestalo predstierať, že sa dusí potravinami, ktoré jesť nechce?	Ako môžem dosiahnuť, aby môj pes jedol vitamíny, keď nechce?
+2	Čo znamená výraz „Z pece“?	Čo znamená alebo odkazuje na „roky profesionálnej praxe“?
+2	Do I need to apply for a UK transit visa when I have a visitor visa?	Potrebujem vízum do tranzitu USA?
+2	Potrebujem pri odlete z Libanonu do Írska tranzitné vízum do Spojeného kráľovstva?	Potrebujem tranzitné vízum cez Londýn z Indie do Toronta?
+2	Musím požiadať o tranzitné vízum do Spojeného kráľovstva, keď mám vízum pre návštevníkov?	Do I need a transit visa for Germany on the way to Canada?
+2	How should I install a thermostat for a baseboard heater?	Where should I install a wall heater?
+2	Aký je najlepší spôsob vedenia drôtu zvnútra mojej garáže?	What's the best way to attach a hook to the back of my metal gutters?
+2	Ako môžem odstrániť skutočne zaseknutú skrutku?	Ako môžem odstrániť západku západky, ktorá je zaseknutá v západke?
+2	Aké sú vlastnosti dobrej kávy z celých zŕn?	Aká rozmanitosť kávových bobúľ je dobrá na zaváranie?
+2	Ako môžem výmenou za autorstvo zdieľať svoje výskumné nápady s ostatnými, aby ich mohli rozvíjať?	Ako môžem rozvinúť svoje nápady?
+2	Čo by som mal hľadať v jahodách na trhu?	Čo by som mal hľadať pri elektronickom meraní zloženia tela?
+2	Aké sú najefektívnejšie cviky pre mačky?	What is the most effective plan to get abs?
+2	Musím požiadať o tranzitné vízum do Spojeného kráľovstva, keď mám vízum pre návštevníkov?	Musím získať vízum do Turecka?
+2	Čo robiť so studeným kútikom?	Čo robiť s novým dohadom o matematike?
+2	How do I keep my dog's water clean?	Ako urobím vlasy svojej dcére?
+2	Čo to znamená „výskumná univerzita“?	Čo to znamená „naštartovať váš metabolizmus“?
+2	Aký je najlepší spôsob skladovania špargle?	Aký je najlepší spôsob dlhodobého skladovania ryže?
+2	Ako môžem pripraviť mäkký chapattis?	Ako urobiť chapattis okrúhly a rovnakej hrúbky?
+2	How should you respond to your teacher who cannot help you with a recommendation?	Ako by ste mali jednať s ťažko pochopiteľným učiteľom?
+1	Can I apply for a post-doc in theoretical physics without publications?	Môžem sa uchádzať o postdoktorand v globálnych štúdiách v Severnej Amerike?
+1	What is the best way to repair a cracked bathtub?	Aký je najlepší spôsob opravy trhliny v akrylovej vani?
+1	Existuje spôsob, ako zistiť, či potrebujem tranzitné vízum na prestávku vo Veľkej Británii?	Potrebujem tranzitné vízum v Zürichu na ceste do Indie?
+1	Musím za svoje podnikanie platiť dane z príjmu, ak to nezarobilo peniaze?	Musím pre svoje podnikanie uchovávať papierové záznamy?
+1	Ako môžem pripraviť čokoládový sirup, ktorý je možné zmraziť?	Ako môžem pripraviť jahodový sirup bez cukru?
+1	Ako môžem pripraviť mäkký chapattis?	Ako urobím majonézu rozdelenú?
+1	Ako Bellator prežil?	Ako prežila Lori?
+1	Ako môžem vymeniť reťaz na ťahanie svetla stropného ventilátora?	Ako môžem nahradiť stropný ventilátor bežným svietidlom?
+2	Medzipristátie v Narite na 3 hodiny. Potrebujem tranzitné vízum?	Potrebujem tranzitné vízum na návštevu Londýna na 4 - 5 hodín počas medzipristátia?
+2	Koľko by som mal prezradiť o svojom nápade na knihu zástupcovi vydavateľstva?	Ako môžem šéfovi predstaviť produktový nápad?
+2	Mám povedať budúcemu zamestnávateľovi, že som získal zvýšenie platu v súčasnej práci?	Mám to oznámiť zamestnávateľovi, keď nakupujem prácu?
+2	Ako sa vysporiadať s tínedžerom v móde?	Ako zvládnuť obávané úlohy?
+2	Aký je najlepší spôsob vedenia drôtu zvnútra mojej garáže?	Aký je najlepší spôsob, ako zabrániť zamrznutiu mojej garáže?
+2	Ako môžem pripojiť ďalšie vodiče k zásuvke?	Ako môžem zapojiť zásuvku do spínača?
+2	Musím požiadať o tranzitné vízum do Spojeného kráľovstva, keď mám vízum pre návštevníkov?	Potrebujem k svojim vízam do schengenského priestoru na vstup aj tranzitné vízum?
+2	Ako môžem izolovať podlahu miestnosti nad verandou?	Ako môžem postaviť verandu?
+2	Ako opravím vodou poškodené podlahy z tvrdého dreva?	Ako opravím miesta poškodenej povrchovej úpravy z tvrdého dreva?
+2	Čo mám robiť s mojím dlhom na kreditnej karte?	Aký by mal byť môj úverový limit?
+0	Je pre občana USA legálne cestovať na Kubu?	Je vhodné, aby sa občan USA pokúsil navštíviť Kubu bez agentúry?
+0	Je bezpečné zapojiť zásuvný konektor priamo do spojovacej skrinky?	Je v poriadku nepripojiť uzemňovací vodič k stropnej skrinke?
+0	Ako môžem vysvetliť svojmu šéfovi, že nie som schopný dokončiť úlohu?	Ako môžem vysvetliť potenciálnym zamestnávateľom, že nemôžem poskytnúť ospravedlňujúci list?
+0	Potrebujem na cestu na Kanárske ostrovy tranzitné vízum do Spojeného kráľovstva?	Do I need a transit visa for a layover in Turkey?
+0	What's the best way to store asparagus?	Aký je najlepší spôsob, ako zabrániť zamrznutiu mojej garáže?
+0	Môžem slušne povedať „Nie“ za úlohu, ktorú nemám záujem robiť?	Ako môžem povedať „Potrebujem zásoby spoločnosti alebo získavam nové zamestnanie“?
+0	Aký je rozdiel medzi doplňujúcim slovom a diskurznou značkou?	Aký je rozdiel medzi kopulou a tranzitívnym slovesom?
+2	Where should I travel to see this building?	Kam musím cestovať, aby som videl tento dom?
+2	Ako opravím svoju porcelánovú podlahu?	Ako môžem opraviť odlupujúcu sa povrchovú úpravu mojich drevených okien?
+2	Ako reagovať na ponuku s nízkym platom?	Ako reagovať na neoficiálnu ponuku PhD?
+2	Ako sa nastaví pre rám dverí, ktorý je hrubší ako stena?	Ako opravím zatvorené dvere?
+2	Čo môže spôsobiť zálohovanie mojej toalety?	Čo môže spôsobiť koróziu vstupného potrubia ohrievača vody?
+2	What is the difference between an amp and a head?	Aký je rozdiel medzi koncentráciou a stopou v rámci dur?
+2	Aký je rozdiel medzi Rollover IRA a Roth IRA?	Aký je rozdiel medzi kopulou a tranzitívnym slovesom?
+2	British citizen, why does my South-African wife need a visa to visit me in the UK?	Aké víza potrebujem na návštevu svojho strýka vo Veľkej Británii?
+2	Ako môžem požiadať šéfa, aby zaplatil náklady?	How do I ask my colleagues to pay up for lunch?
+2	What kind of spider web is this - and how do I get rid of it?	čo je to za faucet a ako vyzlečiem rukoväť?
+2	How can I practice Climbing without the actual wall and/or equipment?	Ako môžem bezpečne trénovať tradičné lezenie?
+2	What's the best way to run a wire from inside my garage to the outside?	Aký je najlepší / najjednoduchší spôsob inštalácie a zapojenia nástenného svietidla?
+1	Čo treba hľadať pri výbere novej vane?	Čo treba hľadať pri výbere holandskej rúry?
+1	Aký je rozdiel medzi „falošným príbuzným“ a „falošným priateľom“?	Aký je rozdiel medzi profesiami „spisovateľ“ a „scenárista“?
+1	Aký je najlepší spôsob odstránenia zápachu domácich miláčikov z betónu?	Aký je najlepší spôsob odstránenia sušeného vajíčka z domu?
+1	Čo by som mal hľadať v novom automobile (automobile)?	Čo by som mal hľadať v rebríku?
+1	Aký je rozdiel medzi zosilňovačom a hlavou?	Aký je rozdiel medzi národom a štátom?
+1	Ako sa volá tento štukový povrch?	What's this rhythm called?
+1	Prečo môj obojsmerný stmievač nefunguje?	Prečo nefunguje nastavenie 3-smerného stmievača?
+1	Ako dlho trvá prílet z letiska Southend do Londýna?	How long does it take from Heathrow Airport to King's Cross Station, London?
+1	Ako môžem znížiť kyslosť citrónu v jablkovej polievke?	How do I reduce the acidity of homemade honey lemon juice?
+1	Ako si môžete pripraviť želatínu doma?	Ako môžem urobiť príťahy doma?
+1	Ako sa vyberá riaditeľov spoločnosti Vanguard?	How are trustees chosen?
+1	Čo môžem reálne urobiť, aby som zvýšil svoje kreditné skóre?	Čo viac môžem urobiť, aby som zlepšil svoje kreditné skóre?
+1	Ako mám uzemniť GFCI na kovovú skrinku?	Ako mám pripojiť uzemňovací vodič zo zariadenia k tejto skrinke?
+1	Can I enter a different schengen country before I enter the country of my student residence permit?	Ak mám schengenské vízum, môžem vstúpiť do schengenského priestoru z inej krajiny?
+1	Ako môžem opraviť svoje dve šikmé betónové platne?	How can I repair my floors' finish?
+3	Ako prevediem stropný ventilátor s 2 samostatnými spínačmi na stenu na samostatný spínač ventilátora a svetla?	Ako pripojím nové stropné svetlo s napájaním na strop a trojcestnými spínačmi?
+3	Ako požiadať o schengenské vízum?	Ako požiadať o pracovné schengenské vízum namiesto pracovného víza?
+3	Môžem v rámci USA pokračovať v cestovaní na základe víz so skončenou platnosťou?	Môžem vycestovať do Spojeného kráľovstva, ak mi vypršali schengenské víza?
+3	Aký je rozdiel medzi elektronickým a magnetickým predradníkom?	Aký je rozdiel medzi zosilňovačom a hlavou?
+3	Potrebujem na cestu na Kanárske ostrovy tranzitné vízum do Spojeného kráľovstva?	Potrebujem tranzitné vízum do Londýna vo Veľkej Británii?
+3	Ako môžem odstrániť skutočne zaseknutú skrutku?	Ako mám odstrániť pijavicu?
+3	Prečo moja pec fúka horúci vzduch von cez PVC rúrku?	Prečo moja pec vháňa horúci vzduch von?
+1	Ako filipínsky štát potrebujem tranzitné vízum na plavbu po krajinách schengenského priestoru, Veľkej Británii a Írsku?	Potrebujem britské aj schengenské vízum?
+1	Ako môžem zistiť, ako veľmi si vážim svojho šéfa a spoločnosť?	Ako mám povedať svojmu šéfovi, že prechádzam do inej organizácie?
+1	POTREBUJEME pomôcť dieťaťu naučiť sa, ako sa upokojiť? A ako dlho to môže trvať?	Môžu sa deti naučiť až 4 rôzne jazyky? A ako na to?
+1	Why does the shower get cold when I flush, and how can I prevent it?	Prečo a kedy sa na zahriatom mlieku vytvorí pokožka a ako tomu môžem zabrániť?
+1	What can I do to make my writing fit the 1950s?	What sites can I use to crowdsource my writing project?
+1	How can I repair the carpet around a new shower?	Ako môžem opraviť netesnú sprchu?
+1	Ako dlho by malo trvať prečítanie príspevku?	How Long Can It Take For a Check I Write to Clear on My Account?
+1	Aký je rozdiel medzi elektronickým a magnetickým predradníkom?	Aký je rozdiel medzi kopulou a tranzitívnym slovesom?
+1	Koľko zvislej vzdialenosti je možné dosiahnuť za deň?	Je možné byť bežcom na dlhé trate a mať balíček šiestich? Ako?
+1	Medzipristátie v Narite na 3 hodiny. Potrebujem tranzitné vízum?	Potrebujem tranzitné vízum na čakanie 23 hodín na dubajskom letisku?
+1	Aký je vzťah medzi slovami „kozák“ a „kazašský“?	Aký je rozdiel medzi „štátom“ a „zvrchovaným“ v sociálnej zmluve?
+1	What is the difference between an amp and a head?	Aký je rozdiel medzi power slide a hokejovou zastávkou?
+1	Čo by som mal hľadať v švihadle?	What should I look for in a crib?
+1	Môže mi niekto povedať, čo to je?	Môže mi niekto povedať, z akého filmu to je?
+1	Ako sa vyhnem plateniu vyšších daní za prácu na voľnej nohe vo Veľkej Británii?	How do I avoid paying income taxes on the sale of my business abroad?
+1	Where can I find a good vocabulary list?	Kde nájdem dobrý tezaurus online?
+4	Kedy požiadať o novú kreditnú kartu?	Čo treba hľadať pri výbere novej vane?
+4	Ako môžem zistiť, ako veľmi si vážim svojho šéfa a spoločnosť?	Ako môžem zabezpečiť, aby som získal kredit za svoju prácu pri práci s nechceným a nedôveryhodným spolupracovníkom?
+4	How can I locate and repair a leak?	How can I repair a chewed-through power cable?
+4	Why is my dryer taking longer to dry clothes?	Prečo trvá sušenie bielizne mojej sušičke 3 hodiny?
+2	Ako funguje poistenie mobilného domu?	How does bank deposit insurance work in Singapore?
+2	mám pokračovať v tomto výskume?	Should I publish this?
+2	Aký je rozdiel medzi akciou a dlhopisom?	What is the difference between an electronic and a magnetic ballast?
+2	Ako môžem opraviť odlupovanie na rukoväti faucetu?	Ako môžem opraviť povrch svojej podlahy?
+2	Prečo moja mini chladnička nechladne?	Prečo moja mini chladnička nezostáva chladná?
+2	Is it possible for a foreigner to drive through (mainland) China in a foreign-registered car?	Je možné, aby si občan USA v Brazílii prenajal auto?
+2	What could cause my ceiling fan light to go off after 2 seconds of being on?	Čo by mohlo spôsobiť vypnutie a opätovné zapnutie môjho svetla a televízora?
+2	Ako môžem pripojiť ďalšie vodiče k zásuvke?	Can I connect two load lines to a GFCI receptacle?
+2	Ako sa môžem zbaviť bĺch?	Ako sa môžem zbaviť komárov?
+2	Ako zabránim tomu, aby na mňa pes skočil?	Ako zabránim tomu, aby môj pes štekal, keď ho vyvediem von?
+0	Ako sa volá táto hlasová technika?	What is this stucco-like finish called?
+1	How can I improve my piano sight reading?	How can I improve my auto insurance score?
+1	Ako dlho môžete uchovávať čokoládu v mrazničke?	How long can I keep eggs in the refrigerator?
+1	Ako môžem odstrániť farbu z drevenej paluby, aby som ju mohol zafarbiť?	How can I remove a coffee stain from carpet?
+1	What are the types of Guitar available and what are the pros and cons of each?	Aké sú výhody a nevýhody rôznych typov okien?
+1	Ako môžem opraviť povrch svojej podlahy?	How can I repair a leaking shower?
+4	Aký význam má mačka?	What is the significance of the appearance of the wolf?
+4	Aký je rozdiel medzi loptičkami v Teste a ODI Cricket?	What is the difference between writing in the first and the third person?
+4	Should I put my résumé on LinkedIn when applying for a PhD?	What should I know when applying for my first job?
+4	How long should it take to read a paper?	How much time does it take to write a professional book?
+4	Ako mám uchovávať fazuľové klíčky?	How should I translate this?
+4	Aká je najefektívnejšia študijná metóda?	What is the most effective exterior insecticide?
+4	Aké sú dobré silové cvičenia pre maratóncov?	Aké sú dobré postupy na silový tréning pre bežcov?
+0	What does casual mean in this context?	What does this tablature notation mean?
+0	aký je rozdiel medzi Ereborom a Moriou?	What is the difference between chicken cubes and ground chicken?
+0	What language to use in Georgia (the country)? Is English widely spoken?	Aký prízvuk (pre anglický jazyk) je najrozšírenejší a najľahšie pochopiteľný?
+0	Čo by som mal hľadať v švihadle?	What qualities should I look for in a good walking pole?
+0	Do I have to spend money with my credit card to increase my credit score?	Can I increase my credit limit by transferring money to my Credit Card account?
+0	How to get rid of oversleeping?	Ako sa zbaviť švábov?
+0	How can I connect additional wires to a receptacle?	Môžem vymeniť túto zásuvku, ku ktorej sú pripojené štyri vodiče?
+0	What kind of socket is this?	Čo je to za chybu?
+1	What is the best way to apply Shellac-based primer?	What is the best way to toast pecans?
+1	Ako mám ovládať hlas pri rapovaní?	How should I control my garage heater?
+1	What is the best way to toast pecans?	What is the best way to clean a grater?
+1	How to get my cat to stop being annoying at night?	How can I get my dog to stop being so sensitive to noise?
+1	Is there any difference between an article and a paper?	What is the difference between an electronic and a magnetic ballast?
+1	What are the most effective cat exercises?	What is the most effective exterior insecticide?
+1	Why does turning on one light turn off a different light?	Why does turning my kitchen light off turn on my outside light?
+1	Why did my brown beef stock end up yellow?	Why did I end up with mushy corned beef?
+1	What exactly is a CV?	What is a life CV ?
+1	In the Avengers movie, why did they close the portal?	In the Avengers movie, why did the Chitauri troops die almost instantly when the portal closed?
+1	How do I secure an old aluminum/glass sliding door?	Ako zmeriam štandardné posuvné sklenené dvere?
+0	I added insulation to my attic rafters, but should I have left room for airflow?	Should I agree to have more insulation added to my attic?
+0	How to teach a toddler how to treat a book?	How to teach a dog how to bark?
+0	What is the best way to toast pecans?	What is the best way to start learning a new course?
+1	How can I stop this Shower faucet leak?	How do I remove this shower fixture?
+0	How do I know if my cat has worms?	How do I discourage my cat from biting?
+0	What is the best way to store fresh berries?	What is the best way to clean a grater?
+0	How can I tell the difference between a rabbit and a cat?	How can I tell the difference between play and aggression at the dog park?
+0	Is there any difference between an article and a paper?	Is there a difference between green and spring onions?
+0	How can I control a bath fan with two lights through a single wire?	How do I wire two lights with a switch?
+0	How common were horses at the beginning of the 20th century?	How common was smoking in first half of the 20th century?
+0	As Philippine do I need a transit visa on a cruise through Schengen countries and the UK and Ireland?	Do I need a visa to enter the US as a UK citizen in transit?
+0	How do I clean a very dirty refrigerator?	How do I clean a pasta maker?
+0	What instrument is this?	What is this guitar?
+0	Ako opravím vodou poškodené podlahy z tvrdého dreva?	How do I repair terrazzo floors?
+0	Čo mám robiť, ak profesor na zahraničnej univerzite neodpovedá na moje e-maily?	What do I do if a university does not inform me of my masters application status?
+0	What is the difference between an amp and a head?	Aký je rozdiel medzi spájaním a superpozíciou?
+0	Should I look for a new job?	How should I deal with bullying while looking for a new job?
+0	What is the actual difference between Graduate and Undergraduate texts?	What is the difference between portamento and glissando?
+2	How much does a tailpiece affect the overall sound quality of an electric guitar?	How does the type of wood used to make an acoustic guitar affect its sound?
+2	Is it safe to eat sprouted onions?	Is it safe to eat potatoes that have sprouted?
+2	Chcem nahrávať, ale som z toho nervózny, prečo, ako sa pripraviť?	How to get across on LinkedIn that I absolutely enjoy, and am committed to, my company?
+2	Should I tell prospective employer that I got a raise at my current job?	How do I bring up that I got a better job offer to my new current employer?
+3	Do I need to apply for a UK transit visa when I have a visitor visa?	Do I need a transit visa in Milan?
+3	How can I get my dog to slow down when eating?	How can I train my dog to stop eating everything?
+3	What are the differences between hot and cold roof systems?	What are the major differences between yams and sweet potatoes?
+3	What are the types of Guitar available and what are the pros and cons of each?	What are the different ways to hold drumsticks and what are the pros and cons of each?
+3	What is the best way to remove pet odor from concrete?	What is the best way to store energy?
+3	What is the difference between a stock and a bond?	what is the difference between Erebor and Moria?
+3	Aké sú dostupné typy gitary a aké sú výhody a nevýhody každej z nich?	What are the pros and cons of LED lighting for home use?
+3	Is it possible to use one thesis for two degrees?	Je možné víno zmraziť pre budúce použitie?
+3	Do I need to update my resume when not looking for a job?	When secretly looking for a new job, how not to accidentally apply to my own company?
+3	What are the chances of getting into a PhD program in math after other pursuits in life?	What are the benefits of getting a PhD in statistics?
+3	Mám si hľadať novú prácu?	What should I look for in a running shoe?
+3	How do I remove paint from a wood floor?	How can I remove paint from a wood deck so I can stain it?
+3	How do I prevent water from streaming into my driveway?	How do I prevent water from leaking down my chimney?
+3	Do I need to apply for a UK transit visa when I have a visitor visa?	Do I need a visa to transit through Germany?
+3	How should you respond to your teacher who cannot help you with a recommendation?	How do you deal with someone who makes you not want to talk to them?
+3	What happened at the end of Rocky?	OK so what the hell happened at the end of Birdman?
+3	Je téza „Prečo tučníme: a čo s tým robiť“ správna?	What is an "Approval Letter", and how do I get one?
+3	What's the difference between a "false cognate" and a "false friend"?	What is the difference between a "riff" and a "melody"?
+3	Do I need to replace my hot water tank's pressure release valve?	Musím vymeniť tento vodný tlakový ventil?
+2	Aký je najlepší spôsob odstránenia zápachu domácich miláčikov z betónu?	What is the safest way to remove tinsel/ribbon from a cat?
+2	How do I get a recruiter to stop bothering me?	How do I get a coworker to stop chit chatting?
+2	Aké sú dobré silové cvičenia pre maratóncov?	What are some stretching exercises for golf?
+2	How do I reconnect a ceiling fan light chain?	How can I troubleshoot a ceiling fan light kit Issue?
+2	How to judge the quality of my own paper?	How can I assess the quality of a paper outside my field?
+4	Čo znamená táto tabuľková notácia?	What is this Chord Notation?
+4	What is the difference between an electronic and a magnetic ballast?	What is the difference between a mode and a scale?
+4	Medzipristátie v Narite na 3 hodiny. Potrebujem tranzitné vízum?	Do Indian citizens need a transit visa for a 3 hour layover at Tokyo, Japan?
+4	Potrebujem učiteľa, aby sa naučil hrať na husle?	Čo môžem urobiť, aby som sa naučil hrať na husle predtým, ako pôjdem k učiteľovi?
+4	How should I make a budget?	Ako mám odstrániť pijavicu?
+4	Musím požiadať o tranzitné vízum do Spojeného kráľovstva, keď mám vízum pre návštevníkov?	Potrebujem priame letecké tranzitné vízum alebo návštevníka tranzitného víza pre Veľkú Britániu?
+4	Ako pripravím svoj dom na výpadok elektrickej energie?	How do I prepare my home for the arrival of my premature baby?
+4	How can I remove paint from a wood deck so I can stain it?	Ako môžem odstrániť farbu zo štrbinových hláv skrutiek?
+4	Ako môžem vysvetliť svojmu šéfovi, že nie som schopný dokončiť úlohu?	Ako môžem slušne povedať profesorovi, že som príliš zaneprázdnený na to, aby som s ním tento termín robil výskum?
+4	Ako vyrovnám malý dvor?	How do I reference a constitution?
+4	Je po pracovnom pohovore nevhodné, ak sa chcem so zamestnancom rozprávať v súkromí?	Is it risky to invite a senior member of the company to coffee, if I'm an intern?
+4	Akým spôsobom prúdi vzduch mojou pecou?	Which way does air flow into a furnace?
+0	What is the difference between EFTA and the EU?	what is the difference between Erebor and Moria?
+4	Ako dostanem hraciu dohru z koberca?	How can I get the most out of my practice time?
+4	What is the proper way to install a exterior door in brick/drywall wall?	What's the best way to install a pet door in an exterior wall?
+4	Do I need to file income taxes for my business if it made no money?	do i have to file taxes in Canada if no income?
+4	How to tell when a muzzleloader nipple needs to be replaced?	How to know when a fixture needs to be re-caulked?
+4	What does it mean to write a song in a certain key?	Je skutočne dôležité hrať skladbu v inom kľúči?
+4	What is causing my butter toffee to separate?	Čo spôsobuje, že moja kyslá kapusta vonia sladko?
+4	Je pre občana USA legálne cestovať na Kubu?	Je pre občana Iránu ťažké získať vízum na cestu do Maroka ako turista?
+4	Aký je rozdiel medzi zosilňovačom a hlavou?	Aký je rozdiel medzi trvalosťou a anuitou?
+4	Ako sa nastaví pre rám dverí, ktorý je hrubší ako stena?	Ako nainštalujem márnosť, ktorá je vyššia ako zrkadlo?
+4	Is it a good idea to link your LinkedIn profile in the CV section of your dissertation?	Is it a good idea to put Summary in place of Objective in your resume?
+4	Medzipristátie v Narite na 3 hodiny. Potrebujem tranzitné vízum?	Potrebujem tranzitné vízum na letisku Heathrow?
+4	Prečo moja práčka vydáva tento zvuk?	Čo je to za zvuk z mojej práčky?
+3	Prečo ma moja mačka neolizuje?	Why does my cat eat dog food?
+3	How can I explain to my boss that I am not able to complete a task?	I am able to self-fund a PhD, how can I use this when applying?
+3	Ako môžem čo najlepšie využiť čokoládové papriky?	Ako môžem najlepšie využiť čerstvé hovädzie mäso?
+3	OK we're all nerds here, so really, how on earth should I use a Japanese toilet?	Dobre, všetci sme tu dospelí, takže naozaj, ako, preboha, mám použiť drepovú toaletu?
+3	Ako zistíte, či je niekto dehydrovaný?	Ako môžem zistiť, či je moja mačka tehotná?
+3	Ako zabránim vniknutiu vody na moju príjazdovú cestu?	How do I prevent water from leaking into my basement?
+3	Čo „robí“. myslíš v starých receptoch?	Čo znamená „VYPNUTÉ“ v skripte?
+3	Čo definuje jedinečný štýl písania?	Čo definuje jazyk?
+3	Aký je najlepší spôsob skladovania špargle?	What's the best way to present regression results in a conference?
+3	Ako nahradím pokazenú halogénovú žiarovku v zapustenom svetle v kúpeľni?	Ako vymením žiarovku v tomto kúpeľňovom svetle / ventilátore?
+3	Aké sú výhody a nevýhody používania opatrovateľskej kamery?	What are the pros and cons of eating 1-3 grapefruits every day?
+3	Aký je pôvod syrového dipu?	What is the origin of Indian weekday names?
+3	How can I say "Facebook will not get you anywhere"?	How do you say "not now"?
+3	Čo sa môže stať s mojou klimatizačnou jednotkou?	Čo je s mojou plynovou pecou?
+3	Ako si spevniť zápästia?	Ako si spevniť predlaktie?
+3	Ako môžem zabrániť hravému, ale agresívnemu správaniu svojej mačky?	Je agresívne správanie mojej mačky hravé alebo zlé a ako ho zastavím?
+4	Prečo moje zemiakové kolieska nevyprážané neboli chrumkavé?	Ako môžem urobiť svoje domáce zemiakové zemiaky chrumkavé?
+4	Ako prevediem stropný ventilátor s 2 samostatnými spínačmi na stenu na samostatný spínač ventilátora a svetla?	Ako môžem pridať nové svietidlo zo stropného ventilátora zapojeného do dvoch spínačov?
+0	Ako sa zbaviť prespania?	Ako sa môžem zbaviť jarabíc?
+0	Je možné získať schengenské vízum na budúci deň?	Je možné získať predbežný letový itinerár a požiadať o taiwanské vízum bez zaplatenia?
+0	Musím požiadať o tranzitné vízum do Spojeného kráľovstva, keď mám vízum pre návštevníkov?	Potrebujem britské tranzitné vízum?
+0	Would a Colombian citizen with Canadian residency need a transit visa for the UK?	Potrebuje nikaragujský občan vízum do Spojeného kráľovstva?
+0	Ako nainštalujem prepínače do tohto poľa?	Ako nainštalujem (značkový) faucet „Light in the Box“?
+0	Ako odstránite pleseň zo stanu?	Ako odstránite farbu z vlasov?
+0	Ako odstrániť stavebné lepidlo z betónu?	Ako odstrániť podlahové lepidlo z betónu?
+0	Potreboval by kolumbijský občan s pobytom v Kanade tranzitné vízum do Spojeného kráľovstva?	Potrebujem pri tranzite občana Spojeného kráľovstva vízum?
+0	Aký je rozdiel medzi zosilňovačom a hlavou?	Aký je rozdiel medzi šekom a výplatou?
+0	What is the best way to repair a cracked bathtub?	Aký je najlepší spôsob liečby zaseknutého prsta?
+0	Aký je najlepší spôsob nanášania základného náteru na báze šelaku?	Aký je najlepší spôsob, ako sa začať učiť nový kurz?
+0	Môžem pre prácu použiť prezývku?	Čo môžem použiť pre veľmi malý prístupový panel?
+0	Aký je najlepší spôsob skladovania čerstvých bobúľ?	Aký je najlepší spôsob opravy tejto podlahy v garáži?
+1	Musím požiadať o tranzitné vízum do Spojeného kráľovstva, keď mám vízum pre návštevníkov?	Potrebujem schengenské tranzitné vízum?
+1	Môžem požiadať spoločnosť, čo si mám na pohovor vziať?	Ako mám sformulovať e-mail alebo konverzáciu, z ktorej potrebujem ustúpiť z rozhovoru?
+1	Čo môžem urobiť, aby som zabránil škrípaniu vane zo sklenených vlákien?	Čo môžem urobiť, aby moje dieťa nebolo nadmerne citlivé?
+1	Môžem požiadať spoločnosť, čo si mám na pohovor vziať?	Čo si mám obliecť na rozhovor so systémovým analytikom?
+1	Ako odstránim farbu z drevenej podlahy?	Ako odstránim farbu z poréznej dosky stola?
+4	Čo mám robiť s mojím dlhom na kreditnej karte?	Čo viac môžem urobiť, aby som zlepšil svoje kreditné skóre?
+4	aké sú výhody a nevýhody štruktúrovaných vkladov?	Aké sú výhody a nevýhody LED osvetlenia pre domáce použitie?
+4	Aká je najlepšia pozícia na sledovanie?	Aký je najlepší spôsob skladovania vesiel?
+4	Existuje zoznam online plánovačov verejnej dopravy?	Existuje verejný zoznam narážok na potvrdenie a potvrdenie?
+4	Ako môžem opraviť tyč na uteráky s jedným koncom vytrhnutým zo steny?	Ako môžem opraviť vešiak na uteráky, ktorý bol vytrhnutý zo steny?
+0	Aký je rozdiel medzi zosilňovačom a hlavou?	Aký je rozdiel medzi kuracími kockami a mletým kuracím mäsom?
+0	Aký je rozdiel medzi akciou a dlhopisom?	Aký je rozdiel medzi kuracími kockami a mletým kuracím mäsom?
+5	Ako odstrániť kliešte na mojom psovi?	Ako odstrániť kliešťa na psovi?
+4	Moji kolegovia zarábajú dvakrát viac ako ja. Ako môžem požiadať svojho zamestnávateľa o spravodlivý plat?	Ako mám požiadať zamestnávateľa, aby požiadal o patent na môj algoritmus?
+4	Ako môžem odstrániť skutočne zaseknutú skrutku?	Ako môžem odstrániť zaseknutú skrutku, ktorá sa bude stále točiť?
+3	Ktorá kreditná karta s odmenou / výhodami je najlepšou hodnotou za peniaze v Kanade?	Ktorá karta odmien / výhod má najlepšiu hodnotu za peniaze v Austrálii?
+2	Som vysokoškolský študent 2. ročníka. Čo by som mal urobiť teraz, aby som sa pripravil na doktorát?	Ako si naplánujem doktorát, keď som absolvoval magisterský titul bez práce?
+2	Ako jednať so spoločnosťou, ktorá pre mňa nestanovuje očakávania ani úlohy?	Ako sa vyrovnať s neprimeranými očakávaniami?
+2	Je zlá prax pri písaní začínať vety slovesom?	Názov príspevku, Je lepšie začať slovesom?
+3	Ako sa volá táto hlasová technika?	Ako sa táto technika volá?
+4	Ako môžem zistiť, ako veľmi si vážim svojho šéfa a spoločnosť?	Ako vysvetliť svojmu šéfovi, že potrebujem voľno na pohovory a prečo odchádzam?
+4	Ako zaobchádzať s dieťaťom vo fáze „nemôžem“?	Ako sa správať k „nereagujúcim“ kolegom?
+4	Aký je najlepší spôsob skladovania čerstvých bobúľ?	Aký je najlepší spôsob liečby zaseknutého prsta?
+4	Je zlá prax pri písaní začínať vety slovesom?	Je zlá prax v písaní ukončiť odsek otázkou?
+4	Aký je pôvod Dragons?	Aký je pôvod indických mien vo všedný deň?
+4	Aký je najlepší spôsob cestovania po Izraeli a Palestíne?	Aký je najlepší spôsob čistenia strúhadla?
+4	Ako by som mal svojho psa upravovať?	Ako často si mám voskovať basu?
+4	Čo sú časopisy s recenziou a bez rozhodcu?	Aké sú rozdiely medzi odbornými časopismi a recenzovanými časopismi?
+5	Aké sú výhody a nevýhody používania tenšej podložky na jogu?	Aké sú výhody a nevýhody viacnásobného poradcu?
+5	Ako funguje zmätenosť svalov?	Ako funguje zamat?
+5	Ako odstránite pleseň zo stanu?	Ako odstránite jamu z manga?
+5	Ako načerpám tlak vody v sprche?	Ako môžem zlepšiť tlak vody v sprche?
+2	Ako dlho by malo trvať prečítanie príspevku?	Ako dlho by malo trvať napísanie 100 000 slov?
+2	aké sú výhody a nevýhody štruktúrovaných vkladov?	Aké sú výhody a nevýhody vinylových žľabov?
+2	Aký význam má scéna s policajtom na konci filmu The Artist?	Aký význam má mačka?
+2	Schengenské vízum pre občana Spojeného kráľovstva?	Ako požiadať o schengenské vízum?
+0	Ako sa vulgárna latinská „parabola“ vyvinula v slovo „slovo“?	Ako sa z gréckeho „tropa“ vyvinul latinský „tropus“?
+0	Ako znova pripojím svetelný reťaz stropného ventilátora?	Ako môžem vymeniť reťaz na ťahanie svetla stropného ventilátora?
+0	Čo je to za zásuvku?	Čo je to za steak?
+0	Ako dlho vydrží celá morka v chladničke?	Ako dlho vydrží studený var?
+0	Čo znamená výraz „Z pece“?	Čo znamená výraz „Boardroom poker“?
+0	Potrebujem na cestu na Kanárske ostrovy tranzitné vízum do Spojeného kráľovstva?	Musím požiadať o tranzitné vízum do Spojeného kráľovstva, keď mám vízum pre návštevníkov?
+0	Prečo bol môj koláč Tiramisu suchý?	Prečo sa môj pivný koláč nevaril správne?
+0	Aký je proces získania indonézskeho turistického víza pre občana USA?	Aký druh dokumentácie potrebuje občan USA, aby mohol vstúpiť do Spojeného kráľovstva na základe turistických víz?
+0	Čím môžem nahradiť spoločnosť Microsoft Money, keď ju MS opustili?	Teraz, keď sú peniaze spoločnosti Microsoft Money preč, čo môžem robiť?
+0	Aký je najlepší spôsob opekania pekanových orechov?	Aký je najlepší spôsob skladovania špargle?
+2	Ako mám uzemniť GFCI na kovovú skrinku?	Ako pripevním schránku na schránku namiesto čapu?
+2	Prečo dozorca nechal Šalamúna visieť?	Prečo Šalamúnova duša patrila Diablovi?
+2	Čo môžem urobiť, aby som sa spojil so svojím predčasne narodeným dieťaťom?	Čo viac môžem urobiť, aby som zlepšil svoje kreditné skóre?
+2	Odkiaľ pochádza koncepcia udržiavania dopravy na „pravej“ strane ulice?	Odkiaľ pochádza koncepcia „smeráckych kampaní“?
+2	Aký je rozdiel medzi zosilňovačom a hlavou?	Je rozdiel medzi manuálnou a automatickou brúskou?
+2	Čo znamená „hrať v rytme“ a „hrať v rytme“?	Význam vety: Hnať loptu „hore“?
+2	Aká je najlepšia teplota na uskladnenie medu?	Aký je najlepší spôsob ukladania energie?
+2	Aký je rozdiel medzi zosilňovačom a hlavou?	Aký je rozdiel medzi elektronickým a magnetickým predradníkom?
+2	Je rozdiel medzi manuálnou a automatickou brúskou?	Je rozdiel medzi dochucovadlom a príchuťou?
+2	Ako urobím svoje syrové „krekry“ menej mastnými?	Chcem si vyrobiť svoj vlastný syr. Ako môžem začať?
+2	Čo môžem jesť večer predtým, aby mi pomohlo vstať ráno?	Aké jedlá môžem jesť, aby som udržal energiu v kancelárskej práci popoludní?
+2	Mám schengenské vízum, ale moje vízum na pobyt v SAE bolo zrušené. Môžem potom ešte cestovať?	Môžem cestovať do Veľkej Británie ako turista, aj keď mi bolo zrušené vízum na pobyt v SAE?
+2	Čo mám robiť, ak sa šek stratí v pošte?	Ak sa stratím v divočine, čo je prvé, čo by som mal urobiť?
+2	Ako nahradím pokazený odtok z vane?	Ako opravím rozbitú dlaždicu?
+2	Ako odstránim klince z palubovky z trámov?	Ako odstránim farbu z drevenej podlahy?
+2	Potrebujem vôbec kreditné karty?	Potrebujem obchodnú kreditnú kartu?
+2	Čo sa môže stať s mojou pecou?	Čo sa môže stať s mojou klimatizáciou?
+0	Aký je najlepší spôsob odstránenia zápachu domácich miláčikov z betónu?	Aký je najlepší spôsob odstraňovania chĺpkov z kobercov?
+0	Ako zabránim tomu, aby na mňa pes skočil?	Ako zabránim tomu, aby môj pes ťahal na vodítku?
+0	Čo je to za zásuvku?	O aký druh azbestu ide?
+0	Ako znova pripojím svetelný reťaz stropného ventilátora?	Ako vyvážim stropný ventilátor?
+0	Aké sú výhody a nevýhody kŕmenia na požiadanie?	Aké sú klady a zápory zdvojnásobenia na dvoch dychových nástrojoch?
+0	Aký je najlepší spôsob cestovania po Izraeli a Palestíne?	Aký je najlepší spôsob opekania pekanových orechov?
+0	Čo môže spôsobiť zálohovanie mojej toalety?	Čo môže spôsobiť, že sa môj ohrievač základnej dosky nehreje?
+0	Ako môžem pomôcť dieťaťu, ktoré sa bojí tmy?	Ako môžem pomôcť mačke, ktorá sa, zdá sa, bojí svojho postroja?
+0	Ako môžem predĺžiť svoje schengenské námornícke vízum?	Ako môžem predĺžiť svoje obchodné schengenské vízum?
+0	Ako si môžem vyrobiť vlastné čokoládové lupienky?	Môžem si vyrobiť svoj slad?
+0	Ako jednať so spoločnosťou, ktorá pre mňa nestanovuje očakávania ani úlohy?	Ako riešiť nejasné úlohy?
+0	Čo znamená výraz „Z pece“?	Čo znamená „do“ vo všeobecnej doložke o sociálnej starostlivosti?
+4	Ako sa naučiť hrať na gitare so šmýkačkou?	Koľko klávesov stačí na to, aby ste sa naučili hrať na klavíri?
+4	Potrebujem pri odlete z Libanonu do Írska tranzitné vízum do Spojeného kráľovstva?	Potrebujem na cestu do Írska tranzitné vízum do Spojeného kráľovstva?
+4	Ako môžem pripraviť túto starú vonkajšiu stenu na maľovanie?	Ako pripravím túto vonkajšiu betónovú stenu na farbu?
+1	Prečo môj pes ignoruje pochúťky, ktoré sa mu snažím dať pri hraní?	Prečo na mňa moja mačka vrčí / syčí, keď sa s ním pokúšam hrať alebo brať jeho hračku?
+1	Musím vstúpiť do Európy so schengenskými vízami z krajiny, kde som podal žiadosť?	Musím v žiadosti o vízum určiť, kam vstúpim do schengenského priestoru?
+1	Čo je to za zásuvku?	Čo je toto za slovnú hračku?
+1	Čo robiť so studeným kútikom?	Čo robiť s netesným drezom?
+1	Čo by som mal hľadať v švihadle?	Čo by som mal hľadať v rebríku?
+1	Koľko dní vopred si mám s FlightHub rezervovať letenku?	How do I find out how long a UK train should be, in advance online?
+1	Pri akej teplote a ako dlho mám tilapiu variť na grile?	Ako dlho mám variť jablká v rúre?
+1	Ktorá časť GRE je pre prijímacie komisie dôležitejšia?	Why do admissions committees consider the Statement of Purpose to be important?
+2	Ako môžem napraviť svoj vzťah so svojím manažérom?	Ako môžem opraviť povrch svojej podlahy?
+2	Ako vyrovnám potrubie so zemou?	Ako sa vysporiadam s trámom spôsobom, keď potrebujem viesť potrubie?
+2	Ako zistím, aký veľký vodomer je potrebný?	How can I determine what is in my water?
+2	Aký význam mala pevnosť Wilderness v Patriote?	Aký význam má mačka?
+2	Ako v dialógu napíšete, že postava hovorí písmeno?	Ako píšeš vnútorný monológ postavy?
+2	Ako môžem zabrániť tomu, aby moje fretky páchli?	Ako môžem dosiahnuť, aby moja izba prestala tak páchnuť?
+2	Čo môžem urobiť, aby sa moje písanie hodilo do 50. rokov?	Čo môžem urobiť, aby som zostal fit v aute?
+2	Ako môžem pomôcť svojmu psovi prispôsobiť sa pohybu?	Ako môžem dosiahnuť, aby môj pes spomalil pri jedle?
+2	Mám rokovať, ak mi ponúknu viac, ako som pôvodne požadoval?	Môžem požiadať o vyšší plat, ak som už povedal, koľko chcem?
+2	Mal by sa doktorand pokúsiť predniesť na konferencii recenzný príspevok?	Ako prezentovať hodnotiaci príspevok na konferencii?
+2	Ako môžem jednať so zamestnancom, ktorý príde vždy neskoro?	Ako môže autor riešiť neskoré recenzie?
+2	Aký je rozdiel medzi označovaním častíc a prísadami?	Aký je rozdiel medzi portamento a glissando?
+2	Musím požiadať o tranzitné vízum do Spojeného kráľovstva, keď mám vízum pre návštevníkov?	Potrebujem tranzitné vízum do Londýna vo Veľkej Británii?
+2	Ako si môžem vyrobiť vlastné čokoládové lupienky?	Ako prinútim svojho psa zabudnúť na povel?
+2	Aké sú výhody a nevýhody nastavenia plánu 529 pre seba?	aké sú výhody a nevýhody štruktúrovaných vkladov?
+2	Can you book hotels on a prepaid credit card worldwide?	Ako nájdem najlacnejšiu predplatenú kreditnú kartu?
+2	Môžem pri príprave ovocného koláča použiť namiesto bieleho cukru hnedý cukor?	Môžem v No Bake Cookies použiť namiesto granulovaného cukru hnedý cukor?
+2	Čo môžem urobiť, aby som sa spojil so svojím predčasne narodeným dieťaťom?	How do I prepare my home for the arrival of my premature baby?
+2	Ako preukázať zručnosti prostredníctvom dôkazov?	How to increase conversational skills?
+2	Prečo sa môj nový otvárač garážových brán Craftsman nezapne?	Prečo môj otvárač garážových brán Touch N Go nezdvíha dvere?
+2	Je lepšie brať bielkovinové doplnky pred alebo po tréningu?	Is it better to stain before or after assembly?
+2	Čo môžem jesť večer predtým, aby mi pomohlo vstať ráno?	Čo môžem urobiť, aby som uľahčil jazdu v noci v daždi?
+2	Schengenské vízum pre občana Spojeného kráľovstva?	Tranzitné vízum vo Veľkej Británii?
+2	Ako môžem zabrániť tomu, aby môj pes žuval a ničil veci?	Ako môžem zabrániť tomu, aby mačka lezla po stole?
+2	How should I finish around this hole in my slab?	Mám zaplátať tento otvor v doske?
+2	How can I get rid of fleas?	Ako môžem zo svojho cvičebného času vyťažiť maximum?
+2	Je možné dostať sa do dobrého magisterského programu v odbore informatika s 3-3,5 GPA?	Je možné po ukončení magisterského štúdia v odbore informatika prejsť na lepšiu univerzitu na doktorát?
+2	Aký je najlepší spôsob odstránenia zápachu domácich miláčikov z betónu?	Aký je najlepší spôsob odstránenia popcornu zo stropu?
+2	Ako naučíte batoľa nezdieľať?	Ako učiť dieťa náboženským názorom?
+0	What are the pros and cons of setting up a 529 plan for myself?	Aké sú výhody a nevýhody kŕmenia na požiadanie?
+0	Aké sú výhody a nevýhody konzumácie 1 - 3 grapefruitov každý deň?	Aké sú výhody a nevýhody LED osvetlenia pre domáce použitie?
+0	Ako naučíte batoľa nezdieľať?	Ako odradíte batoľa od dojčenia?
+0	Je možné získať schengenské vízum na budúci deň?	Je možné vycestovať pri podaní žiadosti o nové vízum?
+0	Aký význam mal „21 gramov“?	Čo znamená „priemysel $ N“?
+0	Do I even need credit cards?	Potrebujem tranzitné vízum?
+0	Ako zistím, aký generátor veľkosti potrebujem?	How do I know what size guitar strings I need?
+0	How can I gain a lot of weight in one month?	Ako môžem pomôcť svojmu dospelému králikovi pribrať na váhe?
+0	Ako sa prestať cítiť zle, keď opúšťate spoločnosť, ktorá sa vám páči, pre novú prácu?	How to motivate yourself when you are in a company of a negative person?
+0	Ako vyrovnám potrubie so zemou?	Ako vyrovnám malý dvor?
+0	What does "the anointed of the Lord" mean?	Čo znamená koniec filmu „Koherencia“?
+0	Ako môžem vysvetliť svojmu šéfovi, že nie som schopný dokončiť úlohu?	Ako môžem vysvetliť svojmu dieťaťu, že nie som nadčlovek?
+0	Existuje spôsob, ako zistiť, či potrebujem tranzitné vízum na prestávku vo Veľkej Británii?	Musím požiadať o tranzitné vízum do Spojeného kráľovstva, keď mám vízum pre návštevníkov?
+0	Ako zistím, či má moja mačka červy?	Ako môžem zistiť, či je moja mačka tehotná?
+0	Aký je rozdiel medzi shawarma a gyros?	What is the difference between portamento and glissando?
+3	How can I stop my boiler from making all this noise?	Ako môžem zabrániť horeniu koláča?
+3	Ako môžem dosiahnuť, aby môj pes spomalil pri jedle?	Ako môžem dosiahnuť, aby sa moja mačka očistila?
+3	Ako môžem odstrániť škárovaciu maltu z odtoku?	Ako môžem opraviť veľmi pomalý odtok?
+3	Čo znamená výraz „Boardroom poker“?	Čo znamená „pomazaný Pánom“?
+3	What does the circle around a note mean in a guitar chord diagram?	Čo znamená duplikovaná nota v akorde?
+3	Do I need a UK transit visa when flying from Lebanon to Ireland?	Do I need a visa to enter the US as a UK citizen in transit?
+3	What does it mean by a "research university"?	What does the notation "2/3BII" mean?
+3	Should I use IRA money to pay down my student loans?	Should I pay off my student loan before putting money into Roth IRA?
+3	What is the significance of the cat?	What is the significance of the missing elevator car?
+3	How long is the life of a shot of espresso?	What is the optimal length of time for pulling a shot of espresso?
+2	How should I wake up my 4 year old?	Ako vysvetlím dobré športové správanie štvorročnému dieťaťu?
+2	What are the pros and cons of feeding on demand?	What are the pros and cons of being co-supervised?
+2	Do I need to hang a bear cache?	Do I need to write a bibliography?
+2	How do I remove paint from a wood floor?	How do I properly paint a wood floor made of plywood?
+2	Existuje spôsob, ako zistiť, či potrebujem tranzitné vízum na prestávku vo Veľkej Británii?	Potrebujem tranzitné vízum na medzipristátie v Luande?
+2	Ako pripraviť haluškové cesto na zmiešané suroviny?	How to prepare for a race?
+2	What is the best way to store fresh berries?	What is the best temperature to store honey at?
+2	what are the pros and cons of structured deposits?	What are the pros and cons of eating 1-3 grapefruits every day?
+2	What is the best way to apply Shellac-based primer?	What is the best way to store fresh berries?
+2	How to deal with a bedwetting teenager?	How to deal with meddling coworkers?
+2	what is the difference between Erebor and Moria?	What is the difference between a copula and a transitive verb?
+2	O koľko viac pomáha odporúčací list od absolventov pri prijímaní na doktorát?	How much do letters of recommendation help in a statistics PhD program application?
+2	What is the best way to learn finger-picking on an acoustic guitar?	What is the best way to learn to play a piece on the guitar?
+3	Do we NEED to help a baby learn how to self-sooth? And how long can it take?	How do you get a child to eat?
+3	Is it possible to get a Schengen visa for future date?	Is it possible to freeze wine for future use?
+3	What's the difference between "Wood Filler" and "Floor patch & Smoothing Compound"?	What's the difference between "writer" and "screenwriter" professions?
+3	How do I make my own chocolate chips?	How do I duplicate these chips?
+3	My cat is gaining too much weight, how often should I be feeding her?	How much food should I be giving my dog to maintain his weight?
+3	How can I improve hvac air flow to my attic?	How can I improve my vertical?
+3	How should I store eggs in the refrigerator?	How long can I keep eggs in the refrigerator?
+3	After a job interview, is it inappropriate if I want to talk to an employee in private?	Is it a good idea to follow up after an interview, and if so, how soon?
+3	What kind of spider web is this - and how do I get rid of it?	What kind of lock is this, and how can I replace it?
+3	What should I look for in a new car (automobile)?	What should I look for in a cookie jar?
+3	What is the difference between a stock and a bond?	What is the difference between a concentration and a track within the major?
+3	What is a good substitute for ground veal?	What would be a good substitute for Rice Wine?
+3	How do I determine what size Generator I need?	How do I select the right generator?
+3	How do I prepare this porous interior wall for paint?	How can I prepare this old exterior wall for painting?
+3	What could be causing my toilet to back up?	What could be causing my sink and dishwasher to back up?
+3	How to get rid of oversleeping?	How to get rid of unwanted and annoying co-author?
+3	How can I add a GFCI receptacle on a circuit with split receptacles?	How can I remotely monitor a GFCI receptacle?
+3	I have a Schengen visa but my UAE Residence visa cancelled. Can I still travel then?	Can I still travel to Schengen countries if I have an expired residence permit?
+3	Cheapest way to travel from Osaka Kansai airport to Kyoto and back?	How to travel from Lombok airport to Gili Trawangan in cheapest and fastest way?
+3	Why would anyone buy a government bond?	How to buy a bond?
+3	What can I do if I have a colleague who is picking on me?	What can I do if I am constantly invited as a reviewer, but don't have the time?
+3	How can I keep my dog from barking when I don't know what he's barking at?	How do I stop my dog from barking when I bring him outside?
+3	How to fix a leaking bath tub overflow drain?	How do I fix this leaking dishwasher drain pipe?
+3	Do I need to apply for a UK transit visa when I have a visitor visa?	Do I need a transit Visa when changing terminals in LHR(UK)?
+3	What's the best way to reheat frozen boiled potatoes?	What's the best way to store asparagus?
+3	How can I proof-read my own work more effectively?	How can I edit my own, very old work?
+3	What's the best way to seal around this faucet?	What is the best way to fix this garage floor?
+3	What is the longest six in cricket history?	What is the shortest six in cricket?
+3	Where can I find an LED replacement for this CFL bulb?	How can I find replacement parts for an unknown faucet?
+3	How can I stop my fireplace from disabling my thermostat?	How can I add tile to my fireplace?
+3	What kind of socket is this?	What kind of floor is this?
+3	What is the difference between portamento and glissando?	What is the difference between a copula and a transitive verb?
+3	How can I get rid of fleas?	How can I get rid of fleas in my crawlspace forever?
+5	What's the best way to store asparagus?	What is the best way to read a textbook?
+5	Do I need to apply for a UK transit visa when I have a visitor visa?	Do I need a Schengen visa if I have a UK tier 1 visa with Indian passport?
+5	How can you tell if someone is dehydrated?	How can I tell if my microphone is broken?
+5	How can I work out how valuable I am to my boss and company?	How can I communicate I am leaving a company to someone I hired who hasn't started?
+5	How do I properly prepare a deck for repainting?	How to prepare for a race?
+5	What should I look for in strawberries at the market?	What should I look for in a running shoe?
+5	How to get from Rzeszów to Lviv?	How to get from Courmayeur to Milano?
+5	What can I do to minimize my risk of being laid off?	What can I do to improve the chances of my being promoted?
+5	How do I paint art onto a wall?	How do I cut down a bathroom wall drain?
+5	After a job interview, is it inappropriate if I want to talk to an employee in private?	Is it a good idea to point to the person that referred you after you decline an offer?
+5	What can I do to make driving in the rain at night easier?	What can I do to stay fit in the car?
+5	How do I remove paint from a wood floor?	How do I clean dripped paint from a wood floor?
+5	How can I remove paint from a wood deck so I can stain it?	Ako môžem odstrániť farbu z paluby?
+5	What's the difference between masa for tortillas and for tamales?	What's the difference between overtones and harmonics?
+5	What are the pros and cons of eating 1-3 grapefruits every day?	What are the pros and cons of being co-supervised?
+5	Schengenské vízum pre občana Spojeného kráľovstva?	Where to take photo for Schengen Visa?
+5	Ako znižujete statiku v mlynčeku na kávu?	Ako zredukujete krémovú omáčku?
+5	Is it possible to do a Master's in Mathematics after a Bachelor's in Economics?	Can I get a Master's in Economics with a Bachelor's in Mathematics?
+3	How do I wire a combo with two supplies?	How do I wire two lights with a switch?
+3	How can a ventless (gas) fire box be put in a wall safely?	How to secure a wooden box (tunnel) in a wall?
+3	How do I repair this broken pipe?	How do I repair crumbling wall plaster?
+3	What skis should I buy?	Aké činky s hmotnosťou by som si mal kúpiť?
+3	Do I need a UK transit visa when flying from Lebanon to Ireland?	American citizen travelling to London from Ghana - do I need a UK visa?
+3	How can I keep my dog from barking when I don't know what he's barking at?	What can I do when my dog loves going out at night?
+3	What are the types of Guitar available and what are the pros and cons of each?	Aké sú výhody a nevýhody týchto 3 druhov činiek?
+3	Mám povedať budúcemu zamestnávateľovi, že som získal zvýšenie platu v súčasnej práci?	Should I tell my employer that I am running for a political office?
+3	Musím vstúpiť do Európy so schengenskými vízami z krajiny, kde som podal žiadosť?	Do I need to enter US from the country where I got my visa?
+3	What could be wrong with my air conditioner?	What is wrong with my gas furnace?
+3	What is the best way to treat feline ringworm?	Aký je najlepší spôsob liečby zaseknutého prsta?
+3	What does the term "Out of the Furnace" refer to?	Čo znamená „pomazaný Pánom“?
+3	How to ask for an update on a potential opening?	How much of a raise to ask for?
+3	Medzipristátie v Narite na 3 hodiny. Potrebujem tranzitné vízum?	Potrebujem tranzitné vízum?
+3	Ako zabránim tomu, aby na mňa pes skočil?	How do I prevent my cat from getting on the table?
+3	What's the best way to store asparagus?	Aký je najlepší spôsob skladovania mrkvy?
+3	How can I manage my Credit Card Debt in Australia?	Ako nájdem najlacnejšiu predplatenú kreditnú kartu?
+3	Je potrebné grenadín uchovávať v chlade?	Naozaj musí byť hlávkový šalát chladený?
+3	What do I need to look for in a Y splitter for guitar?	Do I need to use a guitar capo for this song?
+3	Aký je rozdiel medzi akciou a dlhopisom?	Aký je rozdiel medzi národom a štátom?
+3	Should I switch to third person or continue in first person?	Mám napísať svoj životopis v prvej alebo tretej osobe?
+2	Aký je pôvod syrového dipu?	What is the origin of Jataka tales?
+2	What should I do to promote my books?	What workout should I do if I want to prepare my condition?
+2	What would be a good substitute for Rice Wine?	Čo je dobrá náhrada za koriander?
+2	Ako zvoliť plán tréningu?	How to select a good GPS receiver?
+2	Aký je proces získania indonézskeho turistického víza pre občana USA?	Does an Irish citizen need a visa for a week's tourist visit to America?
+2	Potrebuje občan Spojeného kráľovstva so zahraničným pasom vízum na vstup do Spojeného kráľovstva?	Does a US Citizen need a visa to enter as a tourist to the UK for 6 months?
+2	How should I install a digital timer?	Ako si mám zostaviť rozpočet?
+2	Aký je rozdiel medzi zosilňovačom a hlavou?	Aký je rozdiel medzi riffom a lizom?
+2	Je možné dosiahnuť magisterský titul z matematiky po bakalárskom odbore ekonómia?	V ktorých krajinách je možné nastúpiť na doktorandský program v odbore prírodoveda priamo po bakalárskom štúdiu?
+2	Ako osloviť profesora v liste?	Ako osloviť odporúčanú osobu v odporúčanom liste?
+2	Ako môžem otestovať videnie králika?	How can I learn to do Rabbit Showmanship?
+2	What is the best way to toast pecans?	What is the best way to fix this garage floor?
+2	Čo to znamená „výskumná univerzita“?	What does it mean by "Hitting the wall" in marathon run?
+2	How can I remove 6-8 inches of concrete from a wooden floor?	How can I remove a portion of a hardwood floor board?
+2	Ako opravím svoju porcelánovú podlahu?	How do I repair spots of damaged hardwood floor finish?
+2	Čo sa stalo na konci Rockyho?	Čo sa stalo na konci filmu Prometheus?
+2	What is the difference between an electronic and a magnetic ballast?	Aký je rozdiel medzi spájaním a superpozíciou?
+2	Ako môžem dokončiť okraj zrkadlovej steny?	Ako môžem dokončiť dieru v stene?
+2	Aký je pôvod Dragons?	Aký je pôvod jazdcov čiernych / diablov?
+2	Ako si môžete pripraviť želatínu doma?	How can I make yogurt at home?
+2	Musím požiadať o tranzitné vízum do Spojeného kráľovstva, keď mám vízum pre návštevníkov?	Do I need a transit visa despite having a Schengen visa?
+2	KORG TRITON LE, môžem vydávať vlastné zvuky?	Môžem si vyrobiť svoj slad?
+2	Ako môžem odstrániť kľúč, ktorý sa odlomil v zámku?	Ako otvoriť nápojovú plechovku, ktorá má zlomený štítok?
+2	Aký je rozdiel medzi elektronickým a magnetickým predradníkom?	What is the difference between a perpetuity and an annuity?
+2	Ako môžem zabrániť úniku tohto sprchovacieho faucetu?	Ako môžem zabrániť tomuto úniku zvodu?
+2	Musím požiadať o ESTA?	Musím napísať bibliografiu?
+2	Je v mojej dizertačnej práci použiteľné „a / alebo“?	Je v poriadku používať výraz „myslím“ v beletrii?
+2	Ako sa môžem vyhnúť vetrom ošľahaným vdolkom v konvekčnej peci?	Can I roast nuts in a convection microwave oven?
+2	Ako môžem zvládnuť žiadosť o ďalšie 2 pracovné miesta, keď už mám prácu na čiastočný úväzok?	Ako môžem získať predstavu o pracovnej dobe pri uchádzaní sa o prácu?
+2	Ako môžem vyriešiť poruchu svojej elektrickej rúry?	Ako môžem vyriešiť problém s elektrickou pecou?
+3	Musím požiadať o tranzitné vízum do Spojeného kráľovstva, keď mám vízum pre návštevníkov?	Potrebujem na absolvovanie IELTS vo Veľkej Británii všeobecné alebo obchodné vízum?
+3	Potrebujem pri odlete z Libanonu do Írska tranzitné vízum do Spojeného kráľovstva?	Potrebujem na vstup do Londýna z Írskeho Corku vízum do Spojeného kráľovstva?
+3	Ako môžem zistiť, či sa matematický časopis zdá renomovaný?	Ako zistím, či je denník renomovaný?
+1	Existuje spôsob, ako zistiť, či potrebujem tranzitné vízum na prestávku vo Veľkej Británii?	Mám medzipristátie v Japonsku, chystám sa zostať na mesiac, potrebujem tranzitné vízum?
+5	Ako môžem dosiahnuť, aby môj pes prijímal tekuté vitamíny z kvapkadla?	Ako môžem dosiahnuť, aby môj pes spomalil pri jedle?
+5	Musím požiadať o ESTA?	Aké vízum potrebujem pre cestu do Španielska?
+5	Mám povedať budúcemu zamestnávateľovi, že som získal zvýšenie platu v súčasnej práci?	Mám povedať svojmu šéfovi, že mám pracovnú ponuku na plný úväzok?
+5	Ako môžem pomôcť svojmu psovi prispôsobiť sa pohybu?	How do I help my dog adjust after moving?
+1	Aký je rozdiel medzi „falošným príbuzným“ a „falošným priateľom“?	Je «pravdepodobný» falošný priateľ medzi angličtinou a španielčinou?
+1	Aká je definícia filmu CBFC?	Aká je definícia cestovného poistenia vo vojnovej zóne?
+1	How long does cooked TVP keep in the fridge?	Ako dlho vydrží nevarené mäso, keď je uchovávané v mrazničke?
+1	Ako odstránim farbu z drevenej podlahy?	Ako maľujem umenie na stenu?
+1	Ako mám zalepiť veľkú dieru do tehál?	Ako môžem zalepiť veľkú dieru v kovovej vani?
+1	Ako zabránim tomu, aby na mňa pes skočil?	Ako môžem zabrániť tomu, aby mačka vyskočila na auto?
+1	Ako mám uchovávať fazuľové klíčky?	Ako mám uchovávať škvrnu?
+1	Čo treba hľadať pri výbere novej vane?	Čo treba venovať pozornosť pri kúpe mixéra?
+1	Kde pripevním uzemňovací vodič k svietidlu v spálni?	Ako odstránim kryt z môjho svietidla?
+1	How do I reconnect a ceiling fan light chain?	How do I wire this ceiling fan?
+1	Potrebujem na cestu na Kanárske ostrovy tranzitné vízum do Spojeného kráľovstva?	Tranzitné vízum vo Veľkej Británii?
+1	Je možné dosiahnuť magisterský titul z matematiky po bakalárskom odbore ekonómia?	Je v mojom prípade vhodné absolvovať druhý bakalársky stupeň?
+1	Ako môžem vymeniť 3-vodičový termostat za 4-vodičový na elektrickom ohrievači na doske?	Ako mám nainštalovať termostat pre ohrievač základnej dosky?
+1	Je možné patentovať recepty?	Je možné chovať cvrčky?
+1	Potrebuje občan Spojeného kráľovstva so zahraničným pasom vízum na vstup do Spojeného kráľovstva?	Vyžaduje Indián s bydliskom vo Veľkej Británii vízum na návštevu Holandska?
+1	Je vhodné zavolať cez víkend na odporúčanie profesora?	Je vhodné poslať darček profesorovi na online kurz?
+5	Aká oliva je náhradou dobrej chuti pre Kalamata?	Čo je dobrá náhrada píniových orieškov za pesto?
+5	How can I replace a ceiling fan light pull chain?	Ako zapojím tento stropný ventilátor?
+5	Ako môžem pohodlne a bezpečne kúpať svojho vipeta?	How do I bathe my cat?
+5	Ako môžem čo najlepšie využiť čokoládové papriky?	Ako môžem pripraviť čokoládový sirup, ktorý je možné zmraziť?
+5	Ako načerpám tlak vody v sprche?	Ako môžem zvýšiť tlak vody v sprche?
+0	Ako môžem dosiahnuť, aby ma kolegovia prestali vyrušovať?	Ako môžem dosiahnuť, aby moje dieťa prestalo hrýzť ostatných?
+0	Medzipristátie v Narite na 3 hodiny. Potrebujem tranzitné vízum?	Potrebujem vízum na medzipristátie na nemeckom letisku?
+0	Potrebuje občan Spojeného kráľovstva so zahraničným pasom vízum na vstup do Spojeného kráľovstva?	Potrebuje nikaragujský občan vízum do Spojeného kráľovstva?
+0	Prečo mi práčka uniká iba počas cyklu sušenia v sušičke?	Prečo mi práčka uniká iba počas cyklu odstreďovania?
+0	Aký je najlepší spôsob opravy prasknutej vane?	What is the best way to start learning a new course?
+0	Schengenské vízum pre občana Spojeného kráľovstva?	Poradenstvo pri rozhodovaní o vízach vo Veľkej Británii?
+0	Aký je najlepší spôsob liečby mačkovitého kožného ochorenia?	Aký je najlepší spôsob filtrovania tureckej kávy?
+0	What is the significance of the cat?	Aký význam majú umelecké diela?
+4	Aké sú výhody a nevýhody používania opatrovateľskej kamery?	aké sú výhody a nevýhody štruktúrovaných vkladov?
+4	Do I need to apply for a UK transit visa when I have a visitor visa?	Potrebujem letiskové tranzitné vízum do Nemecka, ak mám schengenské vízum?
+4	Čo sa stalo na konci Rockyho?	Čo sa stalo s Jackom Swiftom na konci hory Brokeback Mountain?
+4	Aký je najlepší spôsob, ako sa vyhnúť pošmyknutiu na ľade?	Aký je najlepší spôsob skladovania špargle?
+4	What does it mean by a "research university"?	Čo to znamená „ďalší majstri“?
+4	Ako pripraviť sušené tortellini?	Ako sa pripraviť na preteky?
+4	What can I do to fix store-bought mayonnaise that split?	Ako urobím majonézu rozdelenú?
+3	Musím požiadať o tranzitné vízum do Spojeného kráľovstva, keď mám vízum pre návštevníkov?	Vyžadujem tranzitné vízum?
+3	Aký je najlepší spôsob cestovania po Izraeli a Palestíne?	Aký je najlepší spôsob pečatenia okolo tohto faucetu?
+3	Čo znamená výraz „Z pece“?	What does the term "match the market" mean?
+3	Ako mám nainštalovať termostat pre ohrievač základnej dosky?	How should I install a new water heater?
+3	Aký druh zásuvkového adaptéra by som mal zabaliť pre Indiu?	What kind of plug adapter do I need?
+3	Ako sa môžem zbaviť jarabíc?	Ako sa môžem zbaviť bĺch?
+3	Ako môžem udržiavať vodu svojho psa čistú?	Ako môžem udržiavať čistú vodu v bazéne bez nepríjemných chemikálií?
+3	I need a new bank! How do I determine the financial stability of a bank in the US?	Musím zaplatiť daň zo sumy úspor, ktoré mám v banke?
+3	Ako sa môžem zbaviť bĺch?	Ako sa môžem zbaviť I-94?
+3	Aké sú dostupné typy gitary a aké sú výhody a nevýhody každej z nich?	Aké sú výhody a nevýhody rôznych typov inteligentných prepínačov na britskom trhu?
+3	What are the pros and cons of setting up a 529 plan for myself?	Aké sú výhody a nevýhody LED osvetlenia pre domáce použitie?
+3	What is the best way to treat feline ringworm?	What is the best way to toast pecans?
+3	Existuje spôsob, ako zistiť, či potrebujem tranzitné vízum na prestávku vo Veľkej Británii?	Do I need a transit visa for London, UK?
+3	Aký je najlepší spôsob skladovania špargle?	What is the best way to store oars?
+3	Čo v tejto súvislosti znamená príležitostné?	Čo znamená rozhovor
+3	How can I stop my pie from burning?	Ako môžem bezpečne znovu zohriať kurací koláč bez spálenia kôry?
+1	Ako môžem zabrániť tomu, aby môj pes štekal, keď neviem, na čo šteká?	Ako môžem zabrániť tomu, aby môj pes plakal, keď je v aute zabitý?
+1	Je možné patentovať recepty?	Je možné pripraviť steaky?
+1	Ako naučíte batoľa nezdieľať?	How do you teach a child to call for help?
+1	Ako zistím, či má moja mačka červy?	Ako zabránim svojej mačke v hryzení šnúr?
+1	Can I travel to Paris with a type A multiple entry visa valid for 3 years?	Môžem vycestovať na jeden deň do Paríža s jednorazovým vízom do Schengenu zo Švajčiarska?
+1	Ako môžem zistiť, ako veľmi si vážim svojho šéfa a spoločnosť?	Ako povedať svojej spoločnosti, že mám problémy so šéfom?
+1	Do I need a UK transit visa for flying to the Canary Islands?	Potrebujem pri zmene terminálu v LHR (UK) tranzitné vízum?
+1	Prečo musíte broskyne lúpať?	Ako lúpať broskyne?
+1	How can I explain to my boss that I am not able to complete a task?	Put onto a project I don't want to do. How can I tell my boss?
+1	How do I increase the height of a sliding glass door lock?	Ako zmeriam štandardné posuvné sklenené dvere?
+1	Čo to znamená „výskumná univerzita“?	Čo znamená „poradie na univerzite“ pre prijímaciu komisiu pre absolventov?
+1	Je možné s Fl Studio vytvoriť profesionálnu hudbu?	Je skutočne možné vytvoriť palác mysle?
+1	Aký je najlepší spôsob pečatenia okolo tohto faucetu?	Aký je najlepší spôsob utesnenia tohto starého prieduchu krbu?
+1	How do I clean a very dirty refrigerator?	Ako vyčistím štetec na farbu Hammerite?
+2	How to apply for a Schengen visa?	Is it possible to get a Schengen visa for future date?
+3	Aký je najlepší spôsob opekania pekanových orechov?	Aký je najlepší spôsob filtrovania tureckej kávy?
+3	Čo znamená „pomazaný Pánom“?	Čo znamená „respektíve“ v desiatom dodatku?
+3	Ako môžem ovládať ventilátor vane pomocou dvoch svetiel pomocou jedného drôtu?	Ako môžem nahradiť svietidlo dvojcestným spínačom?
+3	Je šunka bezpečná na konzumáciu, ak mala izbovú teplotu, ale bola znovu pripravená?	Ako zistím, či je jedlo, ktoré je ponechané pri izbovej teplote, stále bezpečné?
+3	Ako môžem odstrániť 6-8 palcov betónu z drevenej podlahy?	How do I remove paint from a wood floor?
+3	Ako zmeriam štandardné posuvné sklenené dvere?	Ako mám namontovať vodiacu lištu posuvných dverí?
+3	Ako otestovať, či netečie toaleta?	Ako sa dá testovať, či je zelenina organická?
+3	Aký vplyv má na príbeh pohlavie rozprávača?	Aký je vplyv alkoholu na organizmus?
+3	what are the pros and cons of structured deposits?	Aké sú výhody a nevýhody spoločného dohľadu?
+3	Je vhodné prihlásiť sa na viac ako jeden doktorandský program?	Je v poriadku uchádzať sa o viac ako jeden doktorandský študijný program?
+3	Musím požiadať o tranzitné vízum do Spojeného kráľovstva, keď mám vízum pre návštevníkov?	Musím získať DATV na tranzit cez Spojené kráľovstvo na vízach F1?
+3	Ako požiadať o druhé zvýšenie platu druhýkrát?	Koľko by bolo spravodlivé zvýšenie alebo zvýšenie platu, o ktoré by ste požiadali v práci?
+3	Koľko vody je príliš veľa?	Koľko je u dieťaťa príliš veľa starostí / úzkosti?
+3	Existuje spôsob, ako zistiť, či potrebujem tranzitné vízum na prestávku vo Veľkej Británii?	Musím dostať tranzitné vízum na medzipristátie na kanadskom letisku?
+3	How do I replace a broken halogen bulb in the recessed light in my bathroom?	Ako vymeniť zapustené halogénové svetlo z očnej bulvy?
+4	How can I work out how valuable I am to my boss and company?	How can I avoid telling my boss about the new company that I'll be working for during resignation?
+4	Aký je rozdiel medzi zosilňovačom a hlavou?	Je rozdiel medzi dochucovadlom a príchuťou?
+4	Aký je najlepší spôsob zavedenia činčily do domácnosti s mačkami?	Aký je najlepší spôsob, ako sa predstaviť v liste potenciálnemu absolventovi poradcu?
+4	Prečo v kuchyni nie je voda?	Prečo v The Hunger Games nebolo rozprávanie?
+4	Medzipristátie v Narite na 3 hodiny. Potrebujem tranzitné vízum?	Potrebujem tranzitné vízum na prestávku v Turecku?
+4	Aký je rozdiel medzi akciou a dlhopisom?	What is the difference between a college and a university?
+4	Aký je rozdiel medzi zosilňovačom a hlavou?	Aký je rozdiel medzi makarónom a sušienkou amaretti?
+4	Čo je dobrá náhrada za mleté ​​teľacie mäso?	Existuje náhrada za dashi?
+4	Ako môžem sledovať, čo moje deti robia na počítači?	Čo môžem urobiť, keď sa čalúnenie na stoličke môjho počítača odlepuje?
+4	Ako pripraviť drobivé cookies?	Ako urobiť cookies menej drobivé?
+4	Mám rokovať, ak mi ponúknu viac, ako som pôvodne požadoval?	I was offered the minimum salary I requested, should I ask for more?
+2	Musím požiadať o tranzitné vízum do Spojeného kráľovstva, keď mám vízum pre návštevníkov?	Ako mám požiadať o schengenské vízum zo Spojeného kráľovstva?
+2	How can I get my dog to slow down when eating?	How can I get my dog to eat vitamins when she doesn't want to?
+2	Ako môžem požiadať šéfa, aby zaplatil náklady?	How do I go about asking my boss for an extended leave to travel abroad?
+2	Čo je to intonácia a ako zistím, či má moja gitara správnu intonáciu?	Ako zistím svoje kreditné skóre?
+2	Ako si môžem byť istý, že môj zmäkčovač vody funguje?	Ako môžem zistiť, čo je v mojej vode?
+1	Ako pripojím odťahový ventilátor / svetlo do kúpeľne k dvom spínačom?	Ako zapojím kombo s dvoma spotrebnými materiálmi?
+3	Aký je rozdiel medzi akciou a dlhopisom?	What is the difference between a creditor and a lender?
+3	Ako zistím, či plánujem správne?	Ako zistím, či používam floss správne?
+3	Ako zabránim tomu, aby na mňa pes skočil?	How can I stop my dog from peeing on our neighbor's door?
+3	Ako môžem požiadať šéfa, aby zaplatil náklady?	Ako sa rozhodnem, koľko budem účtovať svojmu šéfovi za maľbu?
+3	How to frame a door in a passageway?	Ako osadiť nové dvere do užšej zárubne?
+3	Čo robiť, keď váš manažér neprijme odpoveď vášho predajcu na chybu?	What to do when a journal publishes a paper plagiarizing one's work but doesn't care about it?
+3	Ak sa stratím v divočine, čo je prvé, čo by som mal urobiť?	Čo treba urobiť ako prvé, keď je človek pochovaný v lavíne?
+3	Čo môže spôsobiť spustenie môjho GFCI?	What could be causing my new GFCI receptacle to keep tripping?
+3	How to get rid of oversleeping?	How to get rid of this shed?
+3	Ako zistím, aký generátor veľkosti potrebujem?	Ako zistím, aké veľké tlakové čerpadlo a nádrž potrebujem?
+3	Mám súhlasiť s pridaním väčšej izolácie do môjho podkrovia?	Podkrovné krokvy som si doplnil izoláciou, mal by som však nechať priestor na prúdenie vzduchu?
+3	Musím požiadať o tranzitné vízum do Spojeného kráľovstva, keď mám vízum pre návštevníkov?	Potrebujem na návštevu Spojeného kráľovstva vízum, ak mám pracovné povolenie pre Írsko?
+3	How can I get power to this garage?	How can I get myself writing again?
+3	How can I get rid of springtails?	How to get rid of weevils?
+3	Je prijateľné ako rozhodca kontaktovať autora v príspevku, ktorý recenzujete?	Is it appropriate as a referee to contact an author after the editor rejected the manuscript?
+0	Ako môžem pridať GFCI zásuvku na obvod s rozdelenými zásuvkami?	How can I install a new bathroom GFCI receptacle?
+0	How can I prevent my ferrets from smelling bad?	How I prevent my computer from collecting dust?
+0	Is there an alternative to Wikipedia?	Is there an alternative to the common genre-system for classifying books?
+0	Čo je to za pavučinu - a ako sa jej zbavím?	What kind of board is this, and where can I get some?
+1	What are the pros and cons of feeding on demand?	What are the pros and cons of eating 1-3 grapefruits every day?
+1	Do I need to apply for a UK transit visa when I have a visitor visa?	Potrebujem samostatné víza na cestu cez Mníchov do Ženevy, ak už mám schengenské vízum?
+1	I was published in a journal on Beall's list - how bad is my mistake?	Should I publish in a journal that appears on Beall’s list?
+1	Layover at Narita for 3 hours. Do i need a transit visa?	Potrebujem tranzitné vízum na medzipristátie v Taliansku?
+1	Ako sa môžem zbaviť jarabíc?	How to get rid of this shed?
+1	What could be wrong with my air conditioner?	What went wrong with my brownies?
+1	What is the origin of Dragons?	What is the origin of Rap?
+1	Čo v tejto súvislosti znamená príležitostné?	What does overhead rate mean?
+1	How do I repair this broken pipe?	How can I repair this broken bathroom tap?
+1	How can I replace a 3 wire thermostat with a 4 wire on baseboard electric heater?	How can I upgrade a 3 wire appliance receptacle to a 4 wire receptacle?
+1	How can I ask for a raise at my internship-turned-full time job?	How do I take out time for my research while working a full time job?
+1	How should I cite a screenshot in APA style for my student paper?	How should I cite StackOverflow questions in my term paper?
+3	How should I understand time signature?	How should I translate this?
+3	Does a UK Citizen with a foreign passport need a Visa to enter the UK?	Aký druh dokumentácie potrebuje občan USA, aby mohol vstúpiť do Spojeného kráľovstva na základe turistických víz?
+3	Aká je najlepšia teplota na uskladnenie medu?	Aký je najlepší spôsob skladovania špargle?
+3	Ako vysoko môžem zdvihnúť svoje svetlá?	Ako môžem požiadať o zvýšenie platu na svojej stáži v práci na plný úväzok?
+3	Aký je rozdiel medzi akciou a dlhopisom?	Je rozdiel medzi manuálnou a automatickou brúskou?
+3	What is a good solo to learn in the Dorian mode?	Čo je dobré gitarové sólo naučiť sa v menšom meradle?
+2	What  milestones should we be aware of when planning for our child?	What types of developmental milestones should we be concerned about?
+2	What is the longest timespan depicted in a movie?	What is the shortest timespan depicted in a movie?
+2	Ako zakryjem križovatku T na hrebeni strechy?	How do I finish a ridge cap?
+1	What should I look for in a jump rope?	What should I look for in a cooking class?
+1	How do you teach a toddler not to share?	How do you get a child to eat?
+1	Je správne požiadať o konferenciu o miesto PhD?	Is it ethical to look for a new job at a conference my current employer is paying for?
+1	How should I wake up my 4 year old?	How can I get my 4 year old to clean up toys without a battle?
+1	How can I remove a non-load bearing wall in my basement?	How do I install a new, non load bearing wall in my basement?
+1	How can I get my dog to slow down when eating?	How can I train my dog to be calm when greeting friends?
+1	How long does it take to get into London from Southend airport?	From London to Luton Airport by National Express - how long does it take?
+1	How do I remove paint from a wood floor?	How can I remove paint from slotted screw heads?
+1	Ako môžem urobiť strop čierny, nie natrvalo?	How can I level the joists and ceiling?
+1	How long should meat be steamed for?	How long should a feeding be attempted?
+1	What is the difference between a stock and a bond?	What is the difference between AUG and CCG?
+1	Do I need a UK transit visa for flying to the Canary Islands?	Do I need a UK transit visa when flying from Lebanon to Ireland?
+1	How long can I keep sauteed onions in the fridge?	How long can I keep espresso in the fridge?
+1	When should I use italics in scientific writing?	Should I prefer long or short sentences in scientific writing?
+1	As Philippine do I need a transit visa on a cruise through Schengen countries and the UK and Ireland?	Do I need a UK or Ireland transit visa when flying from the US to a Schengen country?
+1	How to best store scallions?	How to best store cocoa powder?
+1	Does a UK Citizen with a foreign passport need a Visa to enter the UK?	Does a Ukrainian citizen with UK visa and Estonian residence need a tourist visa to Spain?
+1	How can I repair my two sloping concrete slabs?	How can I repair my concrete porch?
+1	Why doesn't my cat lick me?	Why doesn't my cat like being held?
+2	What is the difference between a stock and a bond?	What is the difference between a filler word and a discourse marker?
+2	Do I need to write a bibliography?	What do I need to use a headboard?
+2	What is the decision on my paper?	What is the white film on my wet carrots?
+2	What are modes and how are they useful?	What are electrolytes and why are they important?
+2	How to address a professor in letter?	How to compose a great recommendation letter?
+2	What is the most effective way to filter your twitter stream?	What is the best way to filter the Turkish coffee?
+2	Can I put a convection toaster oven over the range?	Can I roast nuts in a convection microwave oven?
+2	What kind of socket is this?	What type of switch is this?
+2	How can I build a porch enclosure?	How can I build a mantel around my fireplace?
+2	How do I stop my dog from jumping on me?	How do I stop my dog from barking at people through the fence?
+2	How do I determine if a pipe is frozen?	How do I level a pipe with the ground?
+2	What is the difference between shawarma and gyros?	What is the difference between a copula and a transitive verb?
+2	Do I need a UK transit visa when flying from Lebanon to Ireland?	Flying USA to UK via Canada with Spanish passport. Do I need to apply for a visa?
+2	How to make a strong mug of filter coffee without any Coffee machine?	How to make a strong mug of instant Coffee?
+1	Can you really teach how to play notes on the flute?	How do you play really short notes on the acoustic guitar?
+1	How can I increase the number of push-ups I can do?	How can I calculate the number of deductions I should use?
+1	How do I prepare a wall for backsplash tile?	How to prepare for a race?
+1	How do you keep up with a toddler?	How do you help a child with nightmares?
+1	How much water is too much?	How much cinnamon is too much?
+1	Ako opravím toto prasknuté potrubie?	How do I level a pipe with the ground?
+2	What is the difference between EFTA and the EU?	What is the difference between portamento and glissando?
+2	Aký je najlepší spôsob nanášania základného náteru na báze šelaku?	Aký je najlepší spôsob opravy tejto podlahy v garáži?
+2	How to record and optimize sleep patterns?	Ako optimalizovať úsilie?
+2	How to apply for a Schengen visa?	How can I apply for an Irish tourist visa?
+2	What is the difference between balls in Test and ODI Cricket?	Aký je rozdiel v krikete medzi „dôchodcom“ a „dôchodcom mimo“?
+2	In a dialogue, how do you write that a character says a letter?	How do I punctuate a statement that a character is ordered to say in a future scenario?
+2	How can I explain to my boss that I am not able to complete a task?	Ako môžem bojovať proti svojej tendencii stále chcieť robiť to, čo nie som schopný?
+2	How do I season wood on my own?	How do I make my own chocolate chips?
+2	What instrument is this?	What this instrument is used for?
+2	What are the types of Guitar available and what are the pros and cons of each?	Aké sú výhody a nevýhody rôznych spôsobov podpory klasickej gitary?
+1	How can I control a bath fan with two lights through a single wire?	How can I control two ceiling fans and lights with one single pole switch?
+1	Čo mám robiť, ak profesor na zahraničnej univerzite neodpovedá na moje e-maily?	Recruiter doesn't respond to my e-mail for a week. What should I do?
+1	What is the best way to clean your clothes dryer exhaust?	What is the best way to clean a dryer vent?
+1	Aký typ oneskorovacích skrutiek by som mal použiť pre palubu?	Aký typ skrutiek by som mal použiť?
+1	Ako môžem vysvetliť svojmu šéfovi, že nie som schopný dokončiť úlohu?	Should I tell to my boss that I don't like to work with the new colleague?
+1	Ako opravím toto prasknuté potrubie?	Ako môžem opraviť rozbité kamene na terase?
+1	Is the reciprocity fee for US citizens only charged if you arrive at Santiago International Airport?	What is the reciprocity fee for US citizens entering Argentina?
+1	Ako maľujem umenie na stenu?	How do I make this paint match?
+1	Ako môžem dosiahnuť, aby ma kolegovia prestali vyrušovať?	How can I get my cat to clean himself?
+1	Potrebuje občan Spojeného kráľovstva so zahraničným pasom vízum na vstup do Spojeného kráľovstva?	Potrebujem tranzitné vízum do Spojeného kráľovstva alebo do Írska, keď letím z USA do krajiny schengenského priestoru?
+1	What's the best way to introduce a chinchilla to a household with cats?	Aký je najlepší spôsob predstavenia mačiek novorodencom?
+0	Musím požiadať o tranzitné vízum do Spojeného kráľovstva, keď mám vízum pre návštevníkov?	potrebujem tranzitné vízum v Londýne?
+0	Is it possible to get a Schengen visa for future date?	Is it possible to get a Schengen visa without travel insurance and a copy of the itinerary?
+0	Do I need a UK transit visa when flying from Lebanon to Ireland?	Potrebujem tranzitné vízum letiace z Nemecka do Indie cez tranzit v Londýne?
+0	Koľko vody je príliš veľa?	Vitamíny: Koľko je príliš veľa?
+0	Aký je najlepší spôsob skladovania zemiakov a maximalizácia ich trvanlivosti?	Aký je najlepší spôsob skladovania čerstvých bobúľ?
+2	Aký je najlepší spôsob liečby mačkovitého kožného ochorenia?	What is the best way to store fresh berries?
+2	Môžem sadrokartónový strop opraviť sadrokartónom?	How can I repair drywall after removing tile?
+2	How does mobile home insurance work?	Ako funguje zamat?
+2	To what extent should a professor give students freedom to do independent research?	Čo by mal profesor s povolením urobiť, aby prešiel na školu zameranú viac na výskum?
+2	What is the significance of the cat?	What is the significance of the billboard?
+2	Ako by som mal postaviť šmykľavú základňu pre svoju búdu?	How do I build an on grade foundation for a shed?
+2	Čo mám robiť s nulovým vodičom a zemou pri zapojení prepínacieho spínača?	Čo mám robiť so zemniacim vodičom?
+2	What is a mezrag-holder?	Čo je to blokátor?
+2	Ako môžem profesionálne ukončiť prácu, o ktorej som si uvedomil, že nie je pre mňa?	Ako odídem z práce, ak som toho ešte veľa neurobil?
+2	Aké sú dostupné typy gitary a aké sú výhody a nevýhody každej z nich?	Aký druh chodcov je k dispozícii a aké sú výhody a nevýhody každého z nich?
+2	How do I fix a hole/gap between my shower tile and the dry wall next to it?	Ako odstránim medzeru medzi vaňou a stenou?
+1	Aký je najlepší spôsob skladovania čerstvých bobúľ?	What is the best way to store ground coffee?
+4	What are the guidelines for declaring for the MLB Draft?	What are the guidelines for declaring for the NFL Draft?
+4	What does "respectively" mean in the Tenth Amendment?	Čo v tejto súvislosti znamenajú „základné body“?
+4	Should I be worried about tears in my foundation wrap?	Should I be worried about my baby's eyesight?
+4	What is this vocal technique called?	Ako sa volá tento rytmus?
+4	Aký je najlepší spôsob skladovania špargle?	Aký je najlepší spôsob okorenenia liatinovej panvice?
+4	Čo je to vlastne životopis?	Čo je to krátky životopis?
+4	How do I season wood on my own?	Ako môžem opraviť odlupujúcu sa povrchovú úpravu mojich drevených okien?
+4	How long can a pitcher of tap water be left out, and still be drinkable?	How long can fish be left out?
+4	Ako môžem sledovať, čo moje deti robia na počítači?	How do I play the synthesizer on my own?
+4	Ako dlho môžem uchovávať restovanú cibuľu v chladničke?	How long can I keep eggs in the refrigerator?
+4	Ako pripojím odťahový ventilátor / svetlo do kúpeľne k dvom spínačom?	Can I wire a Bathroom Fan to two Switches in Parallel?
+4	What is the origin of Dragons?	Aký je pôvod rozprávok Jataka?
+4	Čo môžem použiť na postavenie dočasných múrov v nedokončenom suteréne?	Môžem Romex používať v nedokončenom suteréne alebo podkroví?
+4	Aký je rozdiel medzi akciou a dlhopisom?	Aký je rozdiel medzi školou a odborom?
+4	Ako môžem pomôcť svojmu psovi prispôsobiť sa pohybu?	Ako môžem pomôcť furuncles môjho psa?
+4	Aký je najlepší spôsob skladovania čerstvých bobúľ?	Aký je najlepší spôsob čítania učebnice?
+4	Ako môžem ovládať ventilátor vane pomocou dvoch svetiel pomocou jedného drôtu?	Ako môžem nezávisle ovládať svetlo a ventilátor, keď sa používa iba jeden horúci drôt?
+4	Kladie Apple Magic Trackpad väčší dôraz na ruku, zápästie a ruku ako tradičná myš?	Kladie použitie guľových loptičiek viac na ruku, zápästie a ruku ako na klasickú myš?
+4	Aký je rozdiel medzi shawarma a gyros?	What is the difference between chicken cubes and ground chicken?
+4	Čo znamená táto tabuľková notácia?	Čo znamená tento zápis?
+3	Ako môžem použiť celý čerstvý tamarind?	Ako môžem použiť tamarindový prášok?
+3	How can I get rid of fleas?	Ako sa zbavím bĺch na svojom králikovi?
+3	Existuje spôsob, ako zistiť, či potrebujem tranzitné vízum na prestávku vo Veľkej Británii?	Potrebujem tranzitné vízum vo Frankfurte nad Mohanom na ceste do Indie?
+3	Kde nájdem náhradu LED pre túto žiarovku CFL?	Kde nájdem vnútorné LED svetlomety?
+3	Ako dosiahnem, aby môj 1 rok starý spal v jeho postieľke?	Ako môžem dosiahnuť, aby moje 2,5-ročné dieťa spalo samo?
+3	Spôsobuje pitie alkoholu problémy v nadmorskej výške?	Spôsobuje pitie čaju problémy vo výške?
+3	Ako môžem zistiť, prečo moje toalety nesplachujú správne?	Ako môžem zistiť, prečo moje svetlá blikajú?
+3	Aký je rozdiel medzi portamento a glissando?	What is the difference between chicken cubes and ground chicken?
+3	Aký je najlepší spôsob nanášania základného náteru na báze šelaku?	Aký je najlepší spôsob filtrovania tureckej kávy?
+3	Aký je najjednoduchší spôsob, ako sa zbaviť rozliatych trblietok?	Aký je najlepší spôsob, ako sa zbaviť pary na zrkadle?
+3	Aký význam má mačka?	Aký význam má olympijské logo?
+3	Musím požiadať o tranzitné vízum do Spojeného kráľovstva, keď mám vízum pre návštevníkov?	Budem potrebovať kanadské tranzitné vízum alebo ESTA do USA?
+3	Je vízum na vstup do Paraguaja platné viac ako 90 dní?	Môžem zostať v Európe dlhšie ako 90 dní s pracovným vízom do Spojeného kráľovstva?
+3	Ako môžem vyhľadať a opraviť únik?	Ako môžem nájsť a riešiť plesne medzi poschodiami?
+3	Aký je rozdiel medzi portamento a glissando?	what is the difference between Erebor and Moria?
+3	Ako zabezpečím vinylové okno na stene?	How can I secure a plastic toolbox to the wall?
+3	Ako zabezpečím vinylové okno na stene?	How do I know if it is safe to remove a wall?
+3	How does Elimination Communication work?	Ako funguje zamat?
+3	Ako zvýšiť konverzačné schopnosti?	Ako rozvíjať muzikantské schopnosti?
+3	What are the properties I should look for in running shoes?	Aké sú vlastnosti, ktoré by som mal hľadať v dobrej predškolskej škole?
+3	Som indonézsky občan. Potrebujem vízum do Južnej Kórey?	Potrebujem vízum do EÚ, ak som vydatá za občana Spojeného kráľovstva?
+3	Je možné cestovať z Londýna do Indie, keď ste na vízum pre IKT vo Veľkej Británii?	Je možné získať britskú vízovú darčekovú kartu v USA?
+3	Ako dlho vydrží varený TVP v chladničke?	Ako dlho vydrží varený cesnak v chladničke?
+3	Aký význam má mačka?	What is the significance of the statue given to Hank?
+3	Čo by som mal hľadať v švihadle?	Čo hľadať pri novej / náhradnej toalete?
+3	Aký je pôvod indických mien vo všedný deň?	Aký je pôvod rozprávok Jataka?
+3	Ako môžem pomôcť svojmu psovi prispôsobiť sa pohybu?	Ako môžem dosiahnuť, aby môj pes prijal postroj bez liečby?
+3	Ako môžem pridať GFCI zásuvku na obvod s rozdelenými zásuvkami?	Ako môžem pridať prerušovač GFCI na dva okruhy so zdieľaným neutrálom bez opätovného zapojenia?
+1	Musím požiadať o tranzitné vízum do Spojeného kráľovstva, keď mám vízum pre návštevníkov?	Potrebujem tranzitné vízum na návštevu Zürichu, ak mám platné vízum F-1?
+1	Čo je to za pavučinu - a ako sa jej zbavím?	Čo je to za zásuvku časovača a ako ju môžem uviesť do prevádzky?
+1	Aký je najlepší spôsob nanášania základného náteru na báze šelaku?	Aký je najlepší spôsob podania žiadosti o spoločnosť?
+1	Čo sa môže stať s mojou pecou?	Čo sa pokazilo na mojich brownies?
+1	Musím požiadať o tranzitné vízum do Spojeného kráľovstva, keď mám vízum pre návštevníkov?	Kde môže turista požiadať o vízum pre Spojené kráľovstvo (štandardné)?
+1	Na čo si mám dať pri kúpe batohu pozor?	Na čo si mám dať pozor pri kúpe gitary?
+1	Budem musieť odcestovať z Heathrow na colnici pri ceste z USA do Lisabonu?	Kde budem colne vybavovať cestovanie z USA do Grécka a späť cez Toronto?
+1	Aký význam má mačka?	Aký význam má Origami Bum?
+1	Zúčastnil som sa olympiády pre študentov a neuspel som. Ako si to mám zapísať do životopisu?	Mám nedokončený preklad odbornej knihy. Mám si to zapísať do svojho životopisu / SOP?
+1	Ako sa naučiť hrať na gitare so šmýkačkou?	Ako sa naučiť variť?
+1	Ako dlho môžem bezpečne držať rozmrazené bravčové rameno v chladničke?	Ako dlho môžem uchovávať espresso v chladničke?
+1	Do Bangladeshi citizens need transit visa in Malaysia?	Potrebujem tranzitné vízum na prestávku v Turecku?
+1	Čo je to vlastne životopis?	Čo je držiak mezrag?
+1	Ako môžem ísť ďalej od učenia piesní?	Ako môžem posúvať odtokové potrubie?
+1	Aká je funkcia „-ter“ v slovách „smiech“ a „dcéra“?	Aký je zdravý zákon, ktorý popisuje etymológiu „špirály“ a „vulvy“?
+1	Ako môžem pomôcť svojmu psovi prispôsobiť sa pohybu?	Ako by som mal svojho psa upravovať?
+1	Potrebuje občan Spojeného kráľovstva so zahraničným pasom vízum na vstup do Spojeného kráľovstva?	Do I need a visa to enter the US as a UK citizen in transit?
+1	Ako môžem napraviť svoj vzťah so svojím manažérom?	Ako môžem opraviť netesnú sprchu?
+1	Čo znamená písať pieseň do určitého klávesu?	Je možné napísať pieseň bez kľúča?
+2	Som indonézsky občan. Potrebujem vízum do Južnej Kórey?	Potrebujem ako indický občan tranzitné vízum do Kanady?
+2	Ako môžem odstrániť kľúč, ktorý sa odlomil v zámku?	Ako môžem odstrániť kľúč, ktorý je uviaznutý v zámku?
+2	Aký je rozdiel medzi elektronickým a magnetickým predradníkom?	aký je rozdiel medzi Ereborom a Moriou?
+2	Potreboval by kolumbijský občan s pobytom v Kanade tranzitné vízum do Spojeného kráľovstva?	Budem ako držiteľ kanadského študentského víza potrebovať tranzitné vízum do USA?
+2	What is the best way to calculate total yield on a stock portfolio?	Aký je najlepší spôsob čistenia strúhadla?
+2	Ako si môžem vyrobiť vlastné čokoládové lupienky?	Ako urobím svoj chlieb / buchty super mäkkým?
+2	Aký je najlepší spôsob skladovania čerstvých bobúľ?	Aký je najlepší spôsob ukladania energie?
+2	Aké sú ďalšie dobré ďalšie kroky pre HENRY?	Čo môže byť pre kojenca dobré rozptýlenie?
+2	Ako môžem pomôcť svojmu psovi prispôsobiť sa pohybu?	Ako môžem pomôcť svojmu dieťaťu zostať v pokoji?
+2	Ako sa môžem nechať znova písať?	Ako sa môžem prinútiť čítať knihy?
+2	Čo sa môže stať s mojou pecou?	Čo môže byť na tejto nádobe zlé?
+2	Aký je najlepší spôsob, ako sa naučiť hrať prstom na akustickej gitare?	Aký je najlepší spôsob citovania anonymného pisateľa?
+2	What is the term for the "amuse-bouche" at the end of the meal?	Why was the removal of the shrapnel just "thrown-in" at the end?
+2	Čo je dobré sólo, aby ste sa naučili v Dorianovom režime?	Čo je dobré sólo sa naučiť vo veľkom meradle?
+4	How can I explain to my boss that I am not able to complete a task?	Ako môžem presvedčiť svojho šéfa, že som tou pravou osobou na vedenie budúceho tímu?
+4	Ako opravím svoju porcelánovú podlahu?	Ako môžem opraviť otvor v podlahe?
+4	Ako dlho vydrží varený TVP v chladničke?	Ako dlho vydrží čerstvá petržlenová vňať v chladničke?
+4	Why isn't the switch working to turn off my ceiling lamp after I replaced a fan w/light?	Prečo sa môj stropný ventilátor vypne, keď zapnem svetlo?
+1	Ako dlho mám čakať medzi aplikáciou injektážnej zmesi a tmelom?	Ako dlho mám čakať na zaschnutie / vytvrdnutie omietky medzi vrstvami?
+0	Ako znova pripojím svetelný reťaz stropného ventilátora?	Ako nainštalujem stropné svetlo tam, kde nikdy neexistovalo?
+0	Kde nájdem návrhy dobrých hračiek pre každú vekovú skupinu?	Kde nájdem percentilové dôchodkové úspory pre moju vekovú skupinu?
+0	Čo je to za zásuvku?	Čo je to za sklo?
+0	Ako odstrániť zaseknutý flexibilný inštalačný bit?	Ako môžem odstrániť skutočne zaseknutú skrutku?
+0	Aký je rozdiel medzi akciou a dlhopisom?	Aký je rozdiel medzi šekom a výplatou?
+0	oplatí sa získať náborára v inej krajine?	Oplatí sa mi získať majstrov v CS?
+0	Čo sa môže stať s mojou klimatizačnou jednotkou?	Čo sa pokazilo na mojich brownies?
+0	Musím požiadať o tranzitné vízum do Spojeného kráľovstva, keď mám vízum pre návštevníkov?	Potrebujem na prepravu cez Indiu vízum?
+0	Ako môžem zvýšiť počet klikov, ktoré môžem urobiť?	Ako môžem zvýšiť početnosť batoliat?
+0	Ako pridám podlahové kúrenie na malú plochu?	Ako vyrovnám malý dvor?
+0	Aké sú výhody a nevýhody Jeffersona oproti konvenčným mŕtvym ťahom?	What are the pros and cons of being co-supervised?
+0	Mám si hľadať novú prácu?	Should I start looking for a new job? If so, how soon?
+0	Ako zistím, či bol papier plagovaný?	How do I determine if a wall is load bearing?
+0	Čo sú možnosti automatických garážových brán pre garáž s nízkou svetlou výškou?	Aké sú lacné možnosti výmeny garážovej brány s jedným výklopom?
+0	Aká je najlepšia teplota na uskladnenie medu?	Aký je najlepší spôsob skladovania mrkvy?
+0	Poradenstvo pri rozhodovaní o vízach vo Veľkej Británii?	Transit Visa in the UK?
+0	Aký je rozdiel medzi akciou a dlhopisom?	What is the difference between a tortoise and a turtle?
+2	Existuje spôsob, ako zistiť, či potrebujem tranzitné vízum na prestávku vo Veľkej Británii?	Medzipristátie v Narite na 3 hodiny. Potrebujem tranzitné vízum?
+2	What are the pros and cons of buying a house using an FHA loan?	aké sú výhody a nevýhody štruktúrovaných vkladov?
+2	Musím požiadať o tranzitné vízum do Spojeného kráľovstva, keď mám vízum pre návštevníkov?	Potrebujem tranzitné vízum do Švajčiarska?
+2	Ako opraviť prepadový odtok z vane?	Ako hada vane bez prepadového odtoku?
+2	Ako dlho môžete uchovávať čokoládu v mrazničke?	Ako dlho môžem uchovávať espresso v chladničke?
+2	Prečo je moja špargľa príliš žuvacia?	Prečo sa slaná treska stáva žuvačkou?
+2	Ako odstránim farbu z drevenej podlahy?	How to remove milk smell from hardwood floor?
+3	Ako ovplyvní platba kreditnou kartou v plnej výške VS splácanie úrokov vaše kreditné skóre?	Ovplyvní predčasné splatenie kreditnej karty moje kreditné skóre?
+0	Ako sa môžem nechať znova písať?	Ako môžem získať tenšie palacinky?
+0	Aký je rozdiel medzi mono a stereo?	What is the difference between balls in Test and ODI Cricket?
+0	Aký je najlepší spôsob skrátenia nôh na stole a stoličkách?	Aký je najlepší spôsob čistenia strúhadla?
+0	Aký je najlepší spôsob dlhodobého skladovania môjho spacáku?	Aký je najlepší spôsob skladovania špargle?
+1	Existuje spôsob, ako zistiť, či potrebujem tranzitné vízum na prestávku vo Veľkej Británii?	Potrebujem pri tranzite občana Spojeného kráľovstva vízum?
+1	Ako môžem pripraviť mäkký chapattis?	How do I make my bread/buns super soft?
+1	Aký je vzťah medzi slovami „kozák“ a „kazašský“?	Aký je rozdiel medzi „Mongolian Grill“ a „Hibachi“?
+1	What does a piano teacher do?	Čo robí kompresorový pedál?
+1	Ako dlho môžete uchovávať čokoládu v mrazničke?	Ako dlho môžem chlebové cesto uchovávať v chladničke?
+3	How can I take apart this kind of tap to replace the washer?	Čo je to za zámok a ako ho môžem nahradiť?
+3	What is the relation between the words "Cossack" and "Kazakh"?	What is the difference between "Solo" and "Improvisation"?
+3	Is it a good idea to tell my programmer colleagues that I actually code for fun?	Je dobrý nápad povedať svojim kolegom, že niekedy mám depresívne kúzla?
+3	Aký je proces získania indonézskeho turistického víza pre občana USA?	Čo sa vyžaduje od austrálskeho občana, aby získal vízum na Ukrajinu?
+3	Aký je rozdiel medzi stroganom a gulášom?	What's the difference between TaxAct and TurboTax?
+3	Ako zistím, prečo moja práčka spadne do zásuvky?	Ako zistím svoje kreditné skóre?
+3	Robil som nekvalitnú elektroinštaláciu na stropnom ventilátore?	Bad ceiling fan wiring?
+3	Aký je najlepší spôsob skladovania čerstvých bobúľ?	Aký je najlepší spôsob uloženia môjho stanu?
+3	Ako lúpať broskyne?	How do you peel chickpeas?
+3	Mám kontaktovať doktoranda alebo jeho nadriadeného pre prípadnú spoluprácu?	Ako by mal doktorand pristupovať k spolupráci?
+4	Ako si mám vybrať, na ktoré doktorandské programy sa mám uchádzať?	How to better prepare myself for the application to masters degree programs in the U.S.?
+4	Čo môže spôsobiť zahriatie batérie v detektore dymu?	What could cause a battery hedge trimmer to have white smoke come out of it?
+4	Potrebujem pri odlete z Libanonu do Írska tranzitné vízum do Spojeného kráľovstva?	Do I need a DATV to travel via London from USA to India on F1 visa?
+4	Ako mám zalepiť veľkú dieru do tehál?	Ako môžem zapichnúť otvor v tejto tehlovej stene?
+4	How long does it take for sugar to get to the hard ball stage?	Ako dlho trvá, kým sa mlieko nezchladí?
+4	Je možné vziať so sebou bicykel do lietadla?	Je možné na let odbaviť dvojitý kočík?
+4	Potrebuje občan Spojeného kráľovstva so zahraničným pasom vízum na vstup do Spojeného kráľovstva?	Can a Brazilian citizen enter the country with a visa on a foreign passport?
+4	Ako môžem zlepšiť svoje čítanie na klavíri?	How can I improve my writing fluency in English?
+4	Ako funguje systém klasifikácie USDA?	How does leverage work?
+4	Aký je najlepší spôsob skladovania špargle?	Aký je najlepší spôsob uloženia môjho stanu?
+4	How do you go about calculating how much you need after retirement?	Ako viete, koľko úsilia musíte urobiť a ako dlho?
+4	Môže mi niekto povedať, čo to je?	Can anyone identify this warship?
+4	Ako môžem zistiť, ako veľmi si vážim svojho šéfa a spoločnosť?	How do I (or should I) tell my manager that I am not enjoying my job?
+4	Aký je najlepší spôsob dlhodobého skladovania môjho spacáku?	What is the best way to store fresh berries?
+4	How to encourage a toddler to swallow his food?	Ako povzbudiť batoľa, aby nehádzalo jedlo?
+4	How do I convert a ceiling fan with 2 separate wall switches to a separate fan & light switch?	Ako nahradím stropný ventilátor ovládaný 2 nástennými spínačmi za štandardnú zásuvku?
+4	Musím požiadať o tranzitné vízum do Spojeného kráľovstva, keď mám vízum pre návštevníkov?	Do I need to provide a transit visa in Moscow?
+4	What is the difference between a stock and a bond?	Is there a difference between seasoning and flavouring?
+4	How do I remove a panel from the ceiling of my side porch?	How do I remove the cover from my light fixture?
+4	Aký je rozdiel medzi akciou a dlhopisom?	What is the difference between a copula and a transitive verb?
+4	Ako pripraviť dobrú kávu v hrnci Moka?	How to make more than one good cup of coffee with a moka pot?
+1	Ako pripravím túto poréznu vnútornú stenu na farbu?	How do I install a new interior partition wall?
+4	How do I improve heating in back room of house?	How do I improve my singing?
+4	What's the best way to seal around this faucet?	Aký je najlepší spôsob, ako sa dozvedieť, čo ktoré korenie je?
+4	What could be causing my GFCI to trip?	What could be causing my GFCI outlet to trip?
+1	How do I help a child who is afraid of the dark?	Čo mám robiť so psom, ktorý sa bojí všetkých okrem mňa?
+1	How did the Vulgar Latin 'parabola' evolve to mean 'word'?	Ako sa latinský kmeň „-duce“ vyvinul tak, že znamená „od účinku“?
+1	How long will a whole turkey keep in a refrigerator?	Ako dlho vydrží balzamová redukcia?
+1	Is there a way to find out if I need a transit visa for a layover in the UK?	Do I need a transit visa for Germany on the way to Canada?
+1	How can I explain to my boss that I am not able to complete a task?	How do explain to my boss that I need time off for interviews, and why I am leaving?
+1	What is the best way to repair a cracked bathtub?	What is the best way to toast pecans?
+1	What could be causing my GFCI to trip?	Čo môže spôsobiť, že voda steká do mojej kúpeľne?
+1	Is there any difference between an article and a paper?	Is there a difference between a manual and an automatic grinder?
+1	How do I prepare this porous interior wall for paint?	How do I make this paint match?
+4	Why isn't my mini fridge getting cold?	Prečo mi nechladí chladnička?
+4	What is a good substitute for ground veal?	What is a good pine nut substitute for pesto?
+4	Can I easily reach Salar de Uyuni in Bolivia, from Puno, Titicaca lake in Peru?	How can I get from La Paz, Bolivia to Puno, Peru?
+4	What do I need to look for in a Y splitter for guitar?	What do I have to do in preparation for applying for a PhD?
+4	How do I remove paint from a wood floor?	How can I remove oil stains from a concrete floor?
+4	What is the difference between mono and stereo?	What is the difference between portamento and glissando?
+4	How can I repair my relationship with my manager?	How can I repair my two sloping concrete slabs?
+4	What kind of socket is this?	What kind of ambiguity is this called?
+4	How do I teach my toddler to chew his food?	How do I teach my toddler not to abuse animals?
+4	How do I stop my daughter from hitting another child?	What can I do to stop my child from being over-sensitive?
+4	What can I do to fix water coming up from floor drain?	How can I stop water from coming up through the floor?
+4	What is the difference between mono and stereo?	What is the difference between a copula and a transitive verb?
+4	What could be wrong with my furnace?	What is wrong with my gas furnace?
