@@ -5,18 +5,18 @@
 0.4	Takže vám teraz klesám a kladiem vám otázku: „Kde je Marx?“	Ďalej vám položím otázku: „Kde je hovädzie mäso“?
 4.6	choď obrázok Žiadate ma, aby som preukázal negatívum?	Žiadate odo mňa, aby som preukázal negatívum?
 5	Som v poriadku s lekárskym použitím!	Som v poriadku s lekárskym použitím !!
-2	The prices for everything you need have gone up due to inflation.	Ceny všetkého, čo vlastníte, sú v IE nižšie.
+2	Ceny všetkého potrebného sa zvýšili kvôli inflácii.	Ceny všetkého, čo vlastníte, sú v IE nižšie.
 5	Vojna na Blízkom východe.	VOJNA na Blízkom východe.
 0.6	Pôvodne poslal Viedeň Aké to bolo autoritárske?	Pôvodne Poslal zaf vzdávam sa.
-1	Predstavte si miesto, ktoré je% biele a% čierne.	Imagine a place with % men and % women.
+1	Predstavte si miesto, ktoré je% biele a% čierne.	Predstavte si miesto s% mužov a% žien.
 5	Nie je šanca na spravodlivý proces.	nie je šanca na spravodlivý proces.
-3.6	Nirvana is very different than oblivion.	Nirvana is NOT oblivion.
+3.6	Nirvana je veľmi odlišná od zabudnutia.	Nirvana NIE JE zabudnutie.
 4	My v Británii myslíme inak ako Američania.	Pôvodne Poslal zaf My v Británii myslíme inak ako Američania.
 3.1	Ak odpoviete áno a nie, ste pravdepodobne rovní.	Ak odpoviete nie, ale áno, ste pravdepodobne rovný.
-2.2	Celá Zem dohromady vyprodukuje dostatok potravy pre miliardy ľudí.	Who does it now only produce enough for  billion?
+2.2	Celá Zem dohromady vyprodukuje dostatok potravy pre miliardy ľudí.	Pre koho to teraz produkuje iba dosť pre miliardy?
 3.2	BTW mal na ten čas príslušné odklady.	Primerané odklady na čas, hm?
 4.4	Ahoj, modré oči, ako je to v Londýne?	** smooches Ran ** Hej, Blue-Eyes, ako je to v Londýne?
-2.2	ale v spravodajských reláciách som videl, že ho volali biely.	but it seems it would have less "impact" if they didn't call him white.
+2.2	ale v spravodajských reláciách som videl, že ho volali biely.	ale zdá sa, že by to malo menší „dopad“, keby ho nenazvali bielym.
 2.4	Podľa priateľky a Zimmermana to urobil.	Podľa Zimmermana to urobil.
 2.8	Moji rodičia mi povedali, že je to pre teba zlé.	Moji učitelia mi povedali, že je to pre teba zlé.
 4.6	.Nazi je slangový výraz pre NSWP.	Pôvodne odoslal Odins eye. Nazi je slangový výraz pre NSWP.
@@ -35,190 +35,190 @@
 2	AJ ODHAD SATELITNEJ INTENZITY ODHADUJE Z TAFB A SAB IBA T. /	PREDMET INTENZITY DVORAK ODHADUJE Z TAFB A SAB ZVÝŠENÝCH NA KT.
 1.2	„Víly neexistujú“ - fajn.	„Satyrs neexistujú“ - fajn.
 2.8	Chceš vedieť, čo mi pripadá zvedavé?	To mi pripadá zvedavé.
-2.6	When did I compare homo sexuaity with a developmental disorder?	Porovnával som homofóbiu s vývojovou poruchou.
+2.6	Kedy som porovnal homo sexualitu s vývojovou poruchou?	Porovnával som homofóbiu s vývojovou poruchou.
 2.6	Ak ste sa konzervatívcov opýtali, čísla budú skreslené doprava.	Ak by ste sa opýtali, postupujúci, čísla by boli skreslené doľava.
 0.8	Pred týmto jedným príspevkom ste nespomenuli PFA.	Nezmienil som sa ani o súdnom príkaze.
 2.4	Ramblin 'Rose od Nat King Cole Všetci sme plavidlá naplnené mnohými zázrakmi.	Oko tigra Všetci sme plavidlá plné zázrakov.
 3	z predchádzajúceho roku.	oteplené.C z predchádzajúceho roka.
 1	Stále milujem túto šou.	Sväté hovienko hovienko, táto šou.
 3.2	ich rozsiahle vlastnosti sú chránené vládou.	ich veľké bohatstvo je chránené vládou.
-4.6	Zásadný rozdiel, prosím?	Fundamental difference?
+4.6	Zásadný rozdiel, prosím?	Zásadný rozdiel?
 1.4	Ako presne je Nemecko „potrestané“ za hlúposť WW?	Ako presne sú trestaní?
-3	Z ho prenasledoval, potom ho zastrelil.	You claimed Zimmerman " Stalked him down, then shot him ".
+3	Z ho prenasledoval, potom ho zastrelil.	Tvrdili ste, že Zimmerman „Prenasledoval ho a potom ho zastrelil“.
 5	Nie som rozhorčený, som sklamaný.	Boh žehnaj nie som pobúrený, som sklamaný.
 0.8	Nikdy sme sa z toho nedostali na prvom mieste!	Odkiaľ vlastne peniaze pochádzajú?
 2.11111111111111	Sloboda prejavu má následky!	Ak má sloboda prejavu následky, nie je zadarmo.
-2.8	Moji rodičia mi povedali, že je to pre teba zlé.	My teachers have told me it is bad for you.
+2.8	Moji rodičia mi povedali, že je to pre teba zlé.	Moji učitelia mi povedali, že je to pre teba zlé.
 2	keby si mohol zabiť jedného človeka, aby si zachránil štyroch, však?	O tom, že by som človeka zabil, aby som zachránil, netuším.
 1.1	Nie je to vnucovanie morálky.	Zavádza to zákon.
-5	It depends how you define extreme.	Depends on how you define "extreme".
-1.2	At least Mexico had a presence in California.	Mexiko má voči Kalifornii nárok Nula.
+5	Závisí to od toho, ako definujete extrém.	Závisí od toho, ako definujete „extrém“.
+1.2	Aspoň Mexiko malo zastúpenie v Kalifornii.	Mexiko má voči Kalifornii nárok Nula.
 3	Takže ÁNO, ČÍTAME bibliu, aby sme sa dozvedeli viac o kresťanstve.	osobne by som si prečítal bibliu, aby som sa dozvedel o kresťanstve.
 4.5	Ah ha, ha, ha, ha, ha!	Ha, ha, ha, ha, ha, ha!
-3.4	A preto na mňa kričíš a odmietaš odpovedať na moje otázky?	Still refusing to answer my questions?
-3.8	Máte príliš veľa regulácie, nie príliš málo.	You have to much intervention in free markets, not too little.
-4	Ľudský prvok Hádam by si mohol podpísať Lancea Berkmana na konci roka?	You could sign Lance Berkman at the end of the year I guess?
+3.4	A preto na mňa kričíš a odmietaš odpovedať na moje otázky?	Stále odmietate odpovedať na moje otázky?
+3.8	Máte príliš veľa regulácie, nie príliš málo.	Musíte veľa zasahovať do voľných trhov, nie príliš málo.
+4	Ľudský prvok Hádam by si mohol podpísať Lancea Berkmana na konci roka?	Lance Berkman by ste mohli podpísať hádam na konci roka?
 2.6	Prečo bola Kniha Tomášova vynechaná z kánonu?	Prečo by malo byť z kánonu vynechané pridanie ďalších Ježišových slov?
 1.8	Myslíš, že veríš slovu Mainstream Media?	Myslíš, že veríš slovu SpringHallConvert?
 2.4	Máme za úlohu skúmať.	Máme sa hýbať.
 3.4	Izrael nedáva ****, prijmi ho.	Že Izrael nedáva **** to, čo si myslí ktokoľvek iný.
 3.4	Všetci sme nádoby naplnené mnohými zázrakmi.	I Want to Rock and Roll by Kiss Všetci sme nádoby naplnené mnohými zázrakmi.
-3.6	Slutstamp! A dear friend from Ohio sent me this.	Toto mi poslal drahý priateľ z Ohia.
+3.6	Slutstamp! Toto mi poslal drahý priateľ z Ohia.	Toto mi poslal drahý priateľ z Ohia.
 1.6	Príbeh Titanicu je predsa tým, ktorý podrobuje kontrole dôkazov.	Nová štúdia ukazuje, že príbeh Titanicu neobstojí pred kontrolou imo.
-3.2	Môže skutočne zarobiť peniaze z google adsense.	Who makes money off google ad sense?
+3.2	Môže skutočne zarobiť peniaze z google adsense.	Kto zarába peniaze na reklame na google?
 4.6	Vedia, že na videu nie je vidieť plynovú komoru.	Záverom je, že videoklip nezobrazuje plynovú komoru.
-4.4	Warm , maybe record.	Teplejšie, takmer určite rekord.
+4.4	Teplo, možno záznam.	Teplejšie, takmer určite rekord.
 2.2	Z výrazu „jasný, ale rozptýlený“ sa stáva „liečenie drogami“.	Výraz „tvrdohlavý a tvrdohlavý“ sa stáva liečiteľným “.
 1.2	Aká je tvoja definícia „života“?	Aká je tvoja definícia prírody?
 2.2	Môže to byť veľa vecí.	Môže to byť jednoduchá chyba.
 3.8	Žiadne vydieranie, žiadne úplatky, žiadne peniaze. Za svoj hlas žiada peniaze.	Žiadne vydieranie, žiadne úplatky, žiadne peniaze, iba ťažké zločiny triedy E.
-4	Dr. Neander's revised version.	Neanderova prepracovaná verzia „?
-2.2	Should I just tell her how I feel?	Mám to len počkať a uvidím, ako to pôjde?
-0.8	I. ATLANTIC REQUIREMENTS .	PACIFIC REQUIREMENTS .
+4	Neanderova prepracovaná verzia.	Neanderova prepracovaná verzia „?
+2.2	Mám jej povedať len to, ako sa cítim?	Mám to len počkať a uvidím, ako to pôjde?
+0.8	I. ATLANTICKÉ POŽIADAVKY.	PACIFICKÉ POŽIADAVKY.
 2.6	v päťuholníku nemáte žiadne zvyšky rakety.	nemáš žiadnych svedkov pre raketu v päťuholníku.
-2.2	"Jane" wants me to ask the helpful party guest to pay for it.	I can't believe she is asking YOU to ask the helpful party guest for money!
-1.6	any woman that wants birth control can get it.	Môže dostať každá žena, ktorá chce a potrat.
-2.6	Is it legal to grow?	Yes, it's legal to grow.
-1.8	pressing one does not "do" english.	Pressing one does send a tone.
-2.8	Aký je môj názor na sériu?	What was my opinion of Firefly in the interim?
-3.6	We are all vessels filled with many wonders.	Chuck Close We are all vessels filled with many wonders.
-2	Does he have supporters?	He definently has supporters.
-2.2	ale dobre, najvyššia suverenita?	Thus, ultimate sovereignty.
-4.8	to nie je odpoveď.	no, it's not an answer.
-2.2	The Nazis increases the longevity of a handgun permit from  to  years.	Nacisti znížili minimálny vek na nákup strelnej zbrane od do.
-3.6	Ale nemôžeme to urobiť bez pomoci.	We can't do it without you."
-1.4	No healthy person needs gambling.	No healthy person needs sex.
-2	Povedal som, že to nebola osoba, v právnom zmysle.	If it isn't a person, then WTF is it?
-1.8	Vidíte, že Obama volá po reforme regulácie?	Do you see Obama calling for Cut, Cap and Balance?
+2.2	„Jane“ chce, aby som požiadal ochotného hosťa strany, aby za ňu zaplatil.	Nemôžem uveriť, že vás žiada, aby ste požiadali pomocného hosťa večierku o peniaze!
+1.6	môže ju dostať každá žena, ktorá chce antikoncepciu.	Môže dostať každá žena, ktorá chce a potrat.
+2.6	Je legálne rásť?	Áno, je legálne rásť.
+1.8	stlačenie jedného "nerobí" angličtinu.	Stlačením jedného sa odošle tón.
+2.8	Aký je môj názor na sériu?	Aký bol môj predbežný názor na Firefly?
+3.6	Všetci sme nádoby naplnené mnohými zázrakmi.	Chuck Close Všetci sme plavidlá plné zázrakov.
+2	Má priaznivcov?	Určite má priaznivcov.
+2.2	ale dobre, najvyššia suverenita?	Teda najvyššia suverenita.
+4.8	to nie je odpoveď.	nie, to nie je odpoveď.
+2.2	Nacisti zvyšujú životnosť ručných zbraní z na roky.	Nacisti znížili minimálny vek na nákup strelnej zbrane od do.
+3.6	Ale nemôžeme to urobiť bez pomoci.	Bez vás to nezvládneme. ““
+1.4	Žiadny zdravý človek nepotrebuje hazardné hry.	Žiadny zdravý človek nepotrebuje sex.
+2	Povedal som, že to nebola osoba, v právnom zmysle.	Ak to nie je človek, tak WTF, však?
+1.8	Vidíte, že Obama volá po reforme regulácie?	Vidíte, že Obama volá po Cut, Cap a Balance?
 3	„Škriatkovia neexistujú“ - v poriadku.	„Elfovia neexistujú“ - fajn.
-2	Got some Heine and coors light i started it last night xanis.	začal som to včera v noci xanis.
+2	Mám svetlo Heine a coors, začal som to včera v noci xanis.	začal som to včera v noci xanis.
 4.2	Irán je tiež podpísanou NPT a IAEA.	Musím milovať EK faktoid, že „Irán je tiež podpísaným NPT a IAEA.
 2	„Gorgóny neexistujú“ - v poriadku.	„Satyrs neexistujú“ - fajn.
-3	Best way to get money out is to get rid of lobby, all of it.	Best way to turn it on its head is to get money out.
-3.4	I have  years of "Neener Neener" rights Usually I get pretty decent care.	Mám roky práv „Neener Neener“, sú trhlinami.
+3	Najlepším spôsobom, ako dostať peniaze von, je zbaviť sa lobby, a to všetkého.	Najlepším spôsobom, ako to otočiť na hlavu, je dostať peniaze von.
+3.4	Mám roky práv „Neener Neener“. Spravidla sa mi venuje celkom slušná starostlivosť.	Mám roky práv „Neener Neener“, sú trhlinami.
 3.6	Dutchy Už niekto počul od Dutchyho?	@NickFun, už niekto počul od Dutchyho?
-3.6	Commodity Expanded Value-Form, .	Forma hodnoty základného komoditného kapitálu.
-1.4	You are a Christian.	Preto nie ste kresťanom.
-4	And the simple fact today?	I repeat: And the simple fact today?
-2	Morals have absolutely nothing to do with it !	and morals and honesty have everything to do with it.
-1.8	"Oh, you're such a good person!	Si taký zlý človek! “
-3.6	Fern I think stories like this are stupid.	- vlk Myslím si, že také príbehy sú hlúpe.
-3.4	CYCLONE FORMATION IS NOT EXPECTED DURING THE NEXT  HOURS.	TROPICAL CYCLONE FORMATION IS NOT EXPECTED.
-1.2	Do you not understand what that string of words means?	Nerozumiete, čo znamená slovo „led“?
-1.2	Neexistuje sloboda náboženstva.	There is no freedom of speech.
-2.4	Originally Posted by SolInvictus The messahe of all the scriptures is oneness.	Pôvodne poslal SolInvictus Ah.
-3	Ako dlho po vyhladení by sa malo dieťa vrátiť do školy?	How long after the obliteration should it no longer bother the kid?
-3.4	A man and a woman are different yes.	Men and women are different yes?
-2.2	Double Jeopardy actually enforces a jury nullification.	As far as legality goes I can use jury nullification.
-1	Facilitátor: Ukáž mi šikovné dieťa.	Facilitator : And why is she the dumb child?
-3.2	náboženská fikcia Nie je to nadbytočné a opakujúce sa?	Isn't that redundant and repetetive?
+3.6	Forma rozšírenej komodity.	Forma hodnoty základného komoditného kapitálu.
+1.4	Si kresťan.	Preto nie ste kresťanom.
+4	A jednoduchá skutočnosť dnes?	Opakujem: A jednoduchá skutočnosť dnes?
+2	Morálka s tým nemá absolútne nič spoločné!	a morálka a čestnosť s tým majú všetko spoločné.
+1.8	„Och, si taký dobrý človek!	Si taký zlý človek! “
+3.6	Fern Myslím, že také príbehy sú hlúpe.	- vlk Myslím si, že také príbehy sú hlúpe.
+3.4	FORMÁCIA CYKLÓNU SA NEČAKAJE POČAS ĎALŠÍCH HODÍN.	TROPICKÁ FORMA CYKLÓNU SA NEOČAKÁVA.
+1.2	Nechápete, čo ten reťazec slov znamená?	Nerozumiete, čo znamená slovo „led“?
+1.2	Neexistuje sloboda náboženstva.	Neexistuje sloboda slova.
+2.4	Pôvodne Poslal SolInvictus Posolstvom všetkých Písiem je jednota.	Pôvodne poslal SolInvictus Ah.
+3	Ako dlho po vyhladení by sa malo dieťa vrátiť do školy?	Ako dlho po vyhladení by to už nemalo dieťa trápiť?
+3.4	Muž a žena sú rozdielni, áno.	Muži a ženy sa líšia, áno?
+2.2	Double Jeopardy v skutočnosti vynucuje zrušenie poroty.	Pokiaľ ide o zákonnosť, môžem použiť anulovanie poroty.
+1	Facilitátor: Ukáž mi šikovné dieťa.	Facilitátor: A prečo je to hlúpe dieťa?
+3.2	náboženská fikcia Nie je to nadbytočné a opakujúce sa?	Nie je to nadbytočné a opakujúce sa?
 0	Pôvodne Poslal anabelle Čo je na tom zlé?	Pôvodne Poslal Viedeň „Povedať“ čo?
-1.6	Cracklin' Rosie by Neil Diamond We are all vessels filled with many wonders.	Jingle Bell Rock by Bobby Helm We are all vessels filled with many wonders.
-1.6	Some people have complete confidence in the people running these institutions.	Other people have no confidence at all in teh people running these institutions.
-2.2	loose change started out as a work of fiction.	It finished as a work of fiction.
-3	If it wasn't a life, then it would not be able to be born.	If it wasn't alive, then it would miscarriage on it's own.
-2.4	GL, Terral That is absolutely amazing.	Hi Ollie: That is absolutely amazing.
-3.77777777777778	predpokladajme, že máme% bielej a% čiernej.	Imagine a place that's % white and % black.
-2.11111111111111	Freedom of speech has consequences!	Ak má sloboda prejavu následky, nie je zadarmo.
-1	"Fairies don't exist" - fine.	"Leprechauns don't exist" - fine.
-3.2	If so, state that is why they're not true.	Prosím, čo o nich nie je pravda.
-2.8	-Not- talking about it 'and' -Not- doing anything.	je ešte horšie, ako o tom hovoriť a nič nerobiť.
-1.4	"Being against nukes" does not mean "not wanting to use nukes".	"Being against using nukes" means "not wanting to use nukes".
-1.4	My niece is married to a black man.	My great niece is half black.
-1	The UK population is just over  million.	Japonská populácia je takmer milión.
-3.4	I Shot the Sheriff We are all vessels filled with many wonders.	Všetci sme nádoby naplnené mnohými zázrakmi.
-2	I hope this is nothing.	I hope everything is ok!
-4.2	The money I spent adopting Velociraptor.	Those may be my top . The money I spent adopting Velociraptor.
-4.2	So, you actually believe every word of what Terral wrote?	GL, Terral Hi Corn: So, you actually believe every word of what Terral wrote?
-1.6	Čo nie je to, čo sa predalo?	It's not how it was sold, gb.
-4.4	I know I'd hate to be him.	Nerád by som bol aj ním.
-4.6	neboli zbrane.	Of course there were no weapons.
-3	Je to také hlúpe, že to musí byť len pravda.	It's amusing to think it even might be true.
-4.4	Osobná zodpovednosť veľa?	Again, personal responsibility.
-4.57142857142857	Do you notice the nonsensical things you are saying?	And to be fair, do you notice the nonsensical things you are saying?
-2.6	I guess I pulled it out of the census's rear end in a top hat.	Does the census have an rear end in a top hat?
-4.4	How is this slanted against Bush??	Where is the slant against Bush?
-4.8	If it wasn't bollocks it wouldn't be homeopathy.	That's simple logic If it wasn't bollocks it wouldn't be homeopathy.
-0.4	Nikdy som ho neobviňoval z nadmerného miligramovania, nič.	I've never accused him of doctoring a baseball.
-3.8	The bailout was bigger than TARP Bloomberg news.	The bailout was bigger than TARP This title is misleading.
-2	My parents have told me it is bad for you.	policajti mi povedali, že je to pre vás zlé.
-1	His position is that it is the individual's risk to assume.	His position is the way it is currently.
-0.8	I. ATLANTIC REQUIREMENTS .	PACIFIC REQUIREMENTS .
-4.8	Read More: You have never met anyone that is Pro-Abortion?	You have never met anyone that is Pro-Abortion?
-0.2	I have no problem with those that have money!	I have many problems with these men, way to many to state here!
-2	Nixon, Ford and Carter shut down the oilfields?	No has has shut down the oil fields.
-1	i don't want a president who 'cares'.	nechcem prezidenta, ktorý by bol charizmatický.
-0	Nemusí to byť braindead.	I don't have a proposed model.
-3.2	žiadny raketový dôkaz.	no missile witnesses.
-2.2	My teachers have told me it is bad for you.	officers have told me its bad for you.
+1.6	Cracklin 'Rosie od Neila Diamonda Všetci sme nádoby naplnené mnohými zázrakmi.	Jingle Bell Rock od Bobbyho Helma Všetci sme plavidlá naplnené mnohými zázrakmi.
+1.6	Niektorí ľudia majú úplnú dôveru v ľudí, ktorí riadia tieto inštitúcie.	Ostatní ľudia vôbec nedôverujú ľuďom, ktorí riadia tieto inštitúcie.
+2.2	voľná zmena začala ako fiktívne dielo.	Skončilo to ako umelecké dielo.
+3	Keby to nebol život, potom by sa nemohol narodiť.	Keby to nebolo nažive, potom by to samé potratilo.
+2.4	GL, Terral To je úplne úžasné.	Ahoj Ollie: To je úplne úžasné.
+3.77777777777778	predpokladajme, že máme% bielej a% čiernej.	Predstavte si miesto, ktoré je% biele a% čierne.
+2.11111111111111	Sloboda prejavu má následky!	Ak má sloboda prejavu následky, nie je zadarmo.
+1	„Víly neexistujú“ - fajn.	„Škriatkovia neexistujú“ - v poriadku.
+3.2	Ak je to tak, uveďte dôvod, prečo nie sú pravdivé.	Prosím, čo o nich nie je pravda.
+2.8	-Ne- hovorte o tom a nič nerobte.	je ešte horšie, ako o tom hovoriť a nič nerobiť.
+1.4	„Byť proti atómovým jadrám“ neznamená „nechcem používať atómové bomby“.	„Brániť proti používaniu jadrových zbraní“ znamená „nechcem používať atómové bomby“.
+1.4	Moja neter je vydatá za černocha.	Moja skvelá neter je napoly čierna.
+1	Populácia vo Veľkej Británii je niečo vyše milióna.	Japonská populácia je takmer milión.
+3.4	Zastrelil som šerifa. Všetci sme plavidlá plné zázrakov.	Všetci sme nádoby naplnené mnohými zázrakmi.
+2	Dúfam, že to nie je nič.	Dúfam, že je všetko v poriadku!
+4.2	Peniaze, ktoré som minul na adopciu Velociraptoru.	To môžu byť moje top. Peniaze, ktoré som minul na adopciu Velociraptoru.
+4.2	Takže vlastne veríte každému slovu toho, čo Terral napísal?	GL, Terral Ahoj kukurica: Takže vlastne veríš každému slovu toho, čo Terral napísal?
+1.6	Čo nie je to, čo sa predalo?	Nie je to tak, ako sa to predalo, gb.
+4.4	Viem, že by som nerád bol ním.	Nerád by som bol aj ním.
+4.6	neboli zbrane.	Samozrejme, že neexistovali žiadne zbrane.
+3	Je to také hlúpe, že to musí byť len pravda.	Je zábavné si myslieť, že by to mohla byť pravda.
+4.4	Osobná zodpovednosť veľa?	Opäť osobná zodpovednosť.
+4.57142857142857	Všímate si nezmysly, ktoré hovoríte?	A aby som bol spravodlivý, všímate si nezmysly, ktoré hovoríte?
+2.6	Asi som to vytiahol zo zadného konca sčítania v cylindri.	Má sčítanie ľudu zadok v cylindri?
+4.4	Ako je to šikmé proti Bushovi?	Kde je sklon proti Bushovi?
+4.8	Keby to neboli pikošky, nebola by to homeopatia.	Je to jednoduchá logika. Keby to neboli pikošky, nebola by to homeopatia.
+0.4	Nikdy som ho neobviňoval z nadmerného miligramovania, nič.	Nikdy som ho neobvinil, že si dal bejzbal.
+3.8	Finančná výpomoc bola väčšia ako správy agentúry TARP Bloomberg.	Finančná výpomoc bola väčšia ako TARP. Tento titul je zavádzajúci.
+2	Moji rodičia mi povedali, že je to pre teba zlé.	policajti mi povedali, že je to pre vás zlé.
+1	Jeho pozícia je taká, že je na riziku jednotlivca.	Jeho pozícia je taká, aká je v súčasnosti.
+0.8	I. ATLANTICKÉ POŽIADAVKY.	PACIFICKÉ POŽIADAVKY.
+4.8	Čítajte viac: Nikdy ste nestretli nikoho, kto by bol potratom?	Nikdy ste nestretli nikoho, kto by bol potratom?
+0.2	Nemám problém s tými, ktorí majú peniaze!	Mám veľa problémov s týmito mužmi, k mnohým by som to tu mohol uviesť!
+2	Nixon, Ford a Carter uzavreli ropné polia?	Spoločnosť No nevypla ropné polia.
+1	nechcem prezidenta, ktorý by sa „staral“.	nechcem prezidenta, ktorý by bol charizmatický.
+0	Nemusí to byť braindead.	Nemám navrhovaný model.
+3.2	žiadny raketový dôkaz.	žiadni svedkovia rakiet.
+2.2	Moji učitelia mi povedali, že je to pre teba zlé.	policajti mi povedali, že je to pre vás zlé.
 4.2	Môj bože, ja som ten s tehotenským tickerom.	Mám tehotenský záznamník.
-1.4	Then he is not omnipotent.	Then he is malevolent.
-3	tin foil hat for the dog face, what size do u wear?	tin foil hat for the sarg, what size do u wear?
-4.2	Rovnako ako tento rok starý, ktorý bol zastrelený pri trestnom čine spojenom s marihuanou.	Or the  year old boy shot dead with automatic weapons by marijuana dealers.
-2.6	If you leap up to make a hit, you're getting a penalty.	Ak vaša hokejka udrie chlapa do tváre, dostanete pokutu.
-2.4	ALL of the electrical energy comes from the battery.	VŠETKA elektrická energia nakoniec pochádza z alternátora.
-2.4	Do you know how many passengers testified or what they said?	How many passengers said they saw an iceberg?
-1.6	Imagine a place with % men and % women.	Predstavte si miesto, ktoré je% biele a% čierne.
+1.4	Potom nie je všemocný.	Potom je zlomyseľný.
+3	alobal na tvár psa, akú veľkosť nosíš?	alobal pre Sarga, akú veľkosť nosíš?
+4.2	Rovnako ako tento rok starý, ktorý bol zastrelený pri trestnom čine spojenom s marihuanou.	Alebo ročný chlapec zastrelený automatickými zbraňami dílermi marihuany.
+2.6	Ak vyskočíte, aby ste trafili, dostanete pokutu.	Ak vaša hokejka udrie chlapa do tváre, dostanete pokutu.
+2.4	VŠETKA elektrická energia pochádza z batérie.	VŠETKA elektrická energia nakoniec pochádza z alternátora.
+2.4	Viete, koľko cestujúcich vypovedalo alebo čo povedali?	Koľko cestujúcich uviedlo, že videli ľadovec?
+1.6	Predstavte si miesto s% mužov a% žien.	Predstavte si miesto, ktoré je% biele a% čierne.
 1.75	Scenár A predpokladá, že rýchlosť rastu CO sa zrýchli o.% / Rok.	Predpokladá, že rýchlosť rastu metánu sa zrýchli o.% / Rok.
-4.6	They have actually showed a cooling trend since  due to the recent decline.	get a cooling trend from  because of the recent decline.
-3	We are all vessels filled with many wonders.	Landon Memory from CATS We are all vessels filled with many wonders.
+4.6	V skutočnosti vykazujú trend ochladzovania odvtedy kvôli nedávnemu poklesu.	získať ochladzujúci trend z dôvodu nedávneho poklesu.
+3	Všetci sme nádoby naplnené mnohými zázrakmi.	Landonova pamäť od KOCÚROV Sme všetci plavidlá plné zázrakov.
 4.5	opakovať: NIE SÚ tak suverénne ako predtým.	Už NIE sú také suverénne ako predtým.
-4.25	Out of touch and completely untrustworthy, however, wouldn't.	Out of touch and untrustworthy?
-3.6	It is mostly just the Dutch.	V skutočnosti sú to iba Holanďania.
-4.8	We're talking about angels and common pins again, right?	@Lustig Andrei, We're talking about angels and common pins again, right?
-2.6	claims about trayvon's character And when did I do that?	slanted blogs And when did I do that?
-2.6	% How much money does PP take in for abortion services?	How much is spent on abortions services?
-2.4	Why did that transaction take place.	Prebehla transakcia?
-2.4	There is no more egg cell post-fertilization.	There is no more sperm cell.
-4	Lacey - vitaj späť!	Anyway, welcome back.
-4.4	More factchecking: I don't know why anyone is making a fuss over the $, bet.	I don't know why anyone is making a fuss over the $, bet.
-2.4	Ak ste neurobili žiadne nároky, stačí to povedať.	I haven't made any claims.
+4.25	Dotykový a úplne nedôveryhodný by však nebol.	Nedotknuteľní a nedôveryhodní?
+3.6	Väčšinou sú to iba Holanďania.	V skutočnosti sú to iba Holanďania.
+4.8	Opäť hovoríme o anjeloch a bežných špendlíkoch, že?	@Lustig Andrei, opäť hovoríme o anjeloch a spoločných špendlíkoch, že?
+2.6	tvrdenia o postave trayvonu A kedy som to urobil?	šikmé blogy A kedy som to urobil?
+2.6	% Koľko peňazí berie PP za umelé prerušenie tehotenstva?	Koľko sa vynakladá na potratové služby?
+2.4	Prečo sa táto transakcia uskutočnila.	Prebehla transakcia?
+2.4	Už neexistuje post-oplodnenie vajíčkových buniek.	Už nie je spermiogram.
+4	Lacey - vitaj späť!	Každopádne, vitajte späť.
+4.4	Ďalšia kontrola faktov: Neviem, prečo niekto robí rozruch okolo $, stavte sa.	Neviem, prečo niekto robí rozruch okolo $, stavte sa.
+2.4	Ak ste neurobili žiadne nároky, stačí to povedať.	Neurobil som žiadne nároky.
 2.4	Žiadny Thatcherita sa nikdy nemôže nazývať libertariánom.	Ergo, uráža ma, keď sa Thatcheriti nazývajú liberálni.
 2.46666666666667	problém nie je v tom, kto má peniaze.	problém je v tom, kto nemá peniaze.
-2.8	But do you actually believe there was an iceberg in those waters?	Neverím, že by niekde v blízkosti Titanicu bol vôbec nejaký ľadovec.
-3	not astros or orioles bad Gameday for the orioles game is frozen for me.	Gameday for the orioles game is frozen for me.
-2.4	If so, alot of cops should take presciption drugs.	Ak je to tak, veľa vynálezcov, autorov by malo brať lieky na predpis.
-4	Tell us what the charges were.	Áno, aké sú jeho obvinenia.
-1.8	Those are partial psychopaths.	Bol Ted Bundy čiastočný psychopat?
-4.2	those who ignore history are doomed to repeat it.	ooo strike TWO those who ignore history are doomed to repeat it.
-2.4	this is NOT a war deployment.	nejde o oficiálne nasadenie.
-3.6	Nutrax Množné číslo anekdoty nie sú údaje Potrebovali páni chaperony?	Nutrax The plural of anecdote is not data
-4	Dobre, práve som vošiel.	not well Alright just got in.
-3	h and i both read the books and thought the movie moved so quickly.	I haven't read the books, but I saw the movie today.
-2.4	That's not the Moloch scene, though.	Toto je Molochova scéna.
+2.8	Ale skutočne veríte, že v týchto vodách bol ľadovec?	Neverím, že by niekde v blízkosti Titanicu bol vôbec nejaký ľadovec.
+3	nie astros alebo orioles zlý Gameday pre hru orioles je pre mňa zamrznutý.	Gameday pre hru Orioles je pre mňa zmrazený.
+2.4	Ak je to tak, veľa policajtov by malo brať lieky na predpis.	Ak je to tak, veľa vynálezcov, autorov by malo brať lieky na predpis.
+4	Povedzte nám, aké boli poplatky.	Áno, aké sú jeho obvinenia.
+1.8	To sú čiastoční psychopati.	Bol Ted Bundy čiastočný psychopat?
+4.2	tí, ktorí ignorujú históriu, sú odsúdení ju opakovať.	ooo štrajk DVA tí, ktorí ignorujú históriu, sú odsúdení ju opakovať.
+2.4	toto NIE je vojnové nasadenie.	nejde o oficiálne nasadenie.
+3.6	Nutrax Množné číslo anekdoty nie sú údaje Potrebovali páni chaperony?	Nutrax Množné číslo anekdoty nie sú údaje
+4	Dobre, práve som vošiel.	nie dobre, dobre, práve vstúpil.
+3	Ja a obaja sme si prečítali knihy a mysleli sme si, že sa film hýbal tak rýchlo.	Knihy som nečítal, ale film som dnes videl.
+2.4	To však nie je molochovská scéna.	Toto je Molochova scéna.
 4.4	@Lustig Andrei, takže Lyndon Johnson a John Kennedy boli kompatibilní?	@edgarblythe, Takže Lyndon Johnson a John Kennedy boli kompatibilní?
 0.6	Musíte sa rozhodnúť.	Musíte si vylepšiť svoje logické schopnosti.
 1.4	Ten, ktorý má potom chodí domov a ide spať.	Ten, ktorý má tri, kráča domov a bije svoju ženu.
-3.8	- Správca DrPizza a zabudol som, aká si vlhká malá posteľ.	and i'd forgotten what a whiny little bed wetter you are.
-4.2	The argument was "Albert Einstein didn't go to college".	OMG: „Einstein nešiel na vysokú školu.“
-2.4	Capital gains, top rate:  percent.	Daň z príjmu, najvyššia sadzba: percentá.
+3.8	- Správca DrPizza a zabudol som, aká si vlhká malá posteľ.	a zabudol som, aká si vlhká malá posteľ.
+4.2	Argument bol „Albert Einstein nešiel na vysokú školu“.	OMG: „Einstein nešiel na vysokú školu.“
+2.4	Kapitálové zisky, najvyššia sadzba: percentá.	Daň z príjmu, najvyššia sadzba: percentá.
 1	Zaškrtnutie je neprijateľné.	Opiť sa je neprijateľné.
 3.4	Už roky nebol vtipný.	Odkedy bol v šou Larry Bud Melman, nebol vtipný.
 2.4	Ak má vesmír vysvetlenie svojej existencie, je ním Boh.	Preto má vesmír vysvetlenie svojej existencie.
 5	Čo dostaneme na oplátku za to, že za nich bojujeme?	------ ----------- Čo dostaneme na oplátku za to, že sme za nich bojovali?
-1.2	It wouldn't stop joke marriages.	A nebojujem za manželstvo.
-2.2	If they were Jews, I would call them Jews.	If they were Catholics, I would call them Catholics.
+1.2	Nezastavilo by to vtipné manželstvá.	A nebojujem za manželstvo.
+2.2	Keby to boli Židia, nazval by som ich Židmi.	Keby to boli katolíci, nazval by som ich katolíkmi.
 4	Bola to skvelá dáma.	Bola to milá dáma.
-0.8	He's not wealthy because he's successful.	Prečo nenávidieť ľudí, pretože sú úspešní?
-1.75	Nie tak podráždene ako vy.	You seem as irritated as Henry.
-2.5	Je to vec zdravého rozumu / deduktívneho uvažovania.	Hilited your common sense/deductive reasoning thing.
+0.8	Nie je majetný, pretože je úspešný.	Prečo nenávidieť ľudí, pretože sú úspešní?
+1.75	Nie tak podráždene ako vy.	Vyzeráš rovnako podráždene ako Henry.
+2.5	Je to vec zdravého rozumu / deduktívneho uvažovania.	Hilited tvoj zdravý rozum / deduktívne uvažovanie vec.
 0.8	Už ste to urobili - práve máme vo funkcii moslima.	-CryptoLutheran Nie. Momentálne máme vo funkcii kresťana.
-3.4	Povedal som, že nikdy nemusela byť súčasťou žiadnej pracovnej sily.	Ann Romney has never had to get out and be a part of the workforce.
+3.4	Povedal som, že nikdy nemusela byť súčasťou žiadnej pracovnej sily.	Ann Romney sa nikdy nemusela dostať von a byť súčasťou pracovnej sily.
 3	Pokiaľ viem, DreamTech nikdy nebol ejakulovaný.	Pokiaľ viem, nikdy to nebolo ejakulované.
 1.2	Nehovoril som, že sme odvtedy zmäkli / Rand.	Povedal som, že ste VY zmäkli.
 3.8	Všetci veríme, že dostávame to, čo očakávame.	Väčšinou,% času, dosiahneme to, čo očakávame.
 4.4	Ohavný Ben, prestaň sa snažiť hľadať pre muža výhovorky.	Ben, prestaň sa snažiť hľadať pre toho muža výhovorky.
 3.6	Pokiaľ to nie je v rôznych krajinách iné?	Stručne povedané, áno, v rôznych krajinách to pravdepodobne bude iné.
-2.2	Nová štúdia nepodporuje vaše tvrdenie.	The physical evidence does not support your claim.
-4.6	He said at EVERY level.	Ale povedal KAŽDÚ úroveň.
+2.2	Nová štúdia nepodporuje vaše tvrdenie.	Fyzické dôkazy nepodporujú vaše tvrdenie.
+4.6	Povedal na KAŽDEJ úrovni.	Ale povedal KAŽDÚ úroveň.
 2.2	morálka neexistuje, takže technicky sa nemôže morálne mýliť nič.	Znovu sa pýtam, či Boh neexistuje, môže byť niečo morálne zlé?
 4	Myslel som si, že to sú väčšinou iba Holanďania.	Väčšinou sú to iba Holanďania.
 3.2	Toyland od Johnnyho Mathisa Všetci sme plavidlá naplnené mnohými zázrakmi.	Oko tigra Všetci sme plavidlá plné zázrakov.
 3.8	Poďme to hrať na súde.	Nič nebráni tomu, aby sa táto hra dohrávala pred súdom.
 1.8	Byť v gangu nie je trestný čin.	Spáchanie trestného činu v gangu je trestný čin.
 4.2	Navrhla by som Iránu dohodu.	Chuck, ponúkol by som Iránu dohodu.
-1.2	Áno, obe sú odlišné.	Opinions are different.
-1.1	Nie je to vnucovanie morálky.	It's imposing a law.
+1.2	Áno, obe sú odlišné.	Názory sú rôzne.
+1.1	Nie je to vnucovanie morálky.	Zavádza to zákon.
 3.8	Použila niekedy Annie svoju sexualitu takto?	Jedno slovo: Zombie Využila niekedy Annie svoju sexualitu takto?
 2.4	ČISTÝ KOMUNIZMUS: Máte dve kravy.	LIBERTARIÁN / ANARCHO-KAPITALIZMUS: Máte dve kravy.
 3.4	Mali by ste postaviť vedcov na piedestál.	Prečo ľudia ako vy kladú vedcov na piedestál?
@@ -228,14 +228,14 @@
 4.4	Už NIE sú také suverénne ako predtým.	opakovať: NIE SÚ tak suverénne ako predtým.
 2	Nevidím Obamu ako menšie z dvoch ziel.	Vôbec ho nevidím ako zlého.
 3.2	Alebo toto od Jima Croceho. Všetci sme plavidlá plné zázrakov.	Všetci sme nádoby naplnené mnohými zázrakmi.
-3.4	The point is an unarmed child was murdered.	Ide o to, že bolo zavraždené neozbrojené dieťa, ktoré bolo čierne.
-0.9	Zimmerman replied, "What are you doing here?"	Martin povedal: „Prečo ma sleduješ?“
+3.4	Ide o to, že neozbrojené dieťa bolo zavraždené.	Ide o to, že bolo zavraždené neozbrojené dieťa, ktoré bolo čierne.
+0.9	Zimmerman odpovedal: „Čo tu robíš?“	Martin povedal: „Prečo ma sleduješ?“
 1.6	Bezbožnosť, ktorá to robí, mám problém.	Náboženstvo, ktoré to nerobí, s ktorým nemám problém.
-3.2	Ak sa hnevám, prejaví sa to v jednom z tých skenov ..	If I'm hyper active, it will show up in one of those scans..
+3.2	Ak sa hnevám, prejaví sa to v jednom z tých skenov ..	Ak som hyperaktívny, zobrazí sa v jednom z týchto skenov.
 1.4	Ak chcete kúpiť miliardu dolárov za kmeňové akcie spoločnosti XYZ Inc., koho to zaujíma?	Ak si chcete kúpiť dom alebo SUV, koho to zaujíma?
 1.53333333333333	miliárd. Všetci na svete na súčasnej úrovni prosperity Mexika.	Všetci na svete na súčasnej úrovni „prosperity“ severozápadnej Afriky.
-3.1	If you answer yes to  and no to  you are probably straight.	Ak odpoviete nie, ale áno, ste pravdepodobne rovný.
-4.2	Sometimes I fantasize about having power.	Aj ja niekedy fantazírujem o ohýbaní ľudí pred svojou dementnou vôľou.
+3.1	Ak odpoviete áno a nie, ste pravdepodobne rovní.	Ak odpoviete nie, ale áno, ste pravdepodobne rovný.
+4.2	Niekedy fantazírujem o tom, že mám moc.	Aj ja niekedy fantazírujem o ohýbaní ľudí pred svojou dementnou vôľou.
 2.8	Moji rodičia mi povedali, že je to pre teba zlé.	Môj šerif mi povedal, že je to pre vás zlé.
 3.6	Atlas pokrčil plecami Je to tiež hviezdny umelec, pokiaľ ide o blithering idiocy.	Je to tiež hviezdny umelec, pokiaľ ide o blithering idiocy.
 2.4	Ako by Martin nevedel, že to tak nie je?	Ako by mohol Martin alebo ktokoľvek iný spoznať jeho úmysly na základe jeho konania?
@@ -247,17 +247,17 @@
 1.6	Mannova práca bola predovšetkým o matematike.	Mannova práca a HS boli všetko o krúžkoch na stromoch.
 4	Je mi veľmi ľúto, že som túto Kelly počula.	Je mi to veľmi ľúto, Kelly.
 3	Nemám rád ochutené pivá.	Nemám rád veľa ochutených nápojov.
-1.6	Dúfam, že je všetko v poriadku!	I hope your LO is ok.
-1.6	any woman that wants birth control can get it.	Any woman that wants and abortion can get one.
-4.6	S Ako si prajete: Vidíte Hitlera zabíjať Židov?	Do you see Hitler killing Jews?
+1.6	Dúfam, že je všetko v poriadku!	Dúfam, že tvoj LO je v poriadku.
+1.6	môže ju dostať každá žena, ktorá chce antikoncepciu.	Môže dostať každá žena, ktorá chce a potrat.
+4.6	S Ako si prajete: Vidíte Hitlera zabíjať Židov?	Vidíte Hitlera zabíjať Židov?
 4	A som tvoj kamarát Mitt.	Váš dobrý kamarát Mitt.
-1.6	It means its AN option.	Neznamená to, že je to ZLÁ možnosť.
+1.6	Znamená to jeho možnosť AN.	Neznamená to, že je to ZLÁ možnosť.
 5	Myslím, že si treba prečítať znova to, čo som napísal.	Musíte si prečítať znova to, čo som napísal.
 3.77777777777778	predpokladajme, že máme% bielej a% čiernej.	Predstavte si miesto, ktoré je% biele a% čierne.
-1.8	Mom busted in and said, "What's that noise?"	Moje deti zatkli a povedali: „Čo je to za otca?“
+1.8	Mama vtrhla a povedala: „Čo je to za hluk?“	Moje deti zatkli a povedali: „Čo je to za otca?“
 3.6	Najlepšie, Kutte, môj bývalý snúbenec, by nepoužil lekára VA alebo Navy.	Jay Môj bývalý snúbenec by nepoužil lekára VA alebo Navy.
 2.8	Držiteľ podal trojstranový list.	Sudcovia nariaďujú podanie trojstranového listu.
-2.2	@Lustig Andrei, Lustig, agreed.	@ Zábavný Andrej, ďakujem, vtipné.
+2.2	@ Zábavný Andrej, vtipné, súhlasil.	@ Zábavný Andrej, ďakujem, vtipné.
 4.8	Tým sa zatieni starý záznam o vydaní.	Týmto sa prekonáva denný rekord nasadenia.
 0.9	Zimmerman odpovedal: „Čo tu robíš?“	Martin povedal: „Prečo ma sleduješ?“
 1.6	Neviem, aké je to legitímne, ale počul som, že je trochu samovražedný.	Takže neviem, aké je to legitímne, ale áno.
@@ -265,140 +265,140 @@
 0.4	Váš schtick je zatuchnutý.	Vaša misogynia sa stáva chaotickou.
 1.6	Funguje to tak?	Nie, takto to nefunguje.
 4.4	Dýchajte, dýchajte, choďte ďalej.	bwhahahaha Dýchaj, dýchaj, pokračuj.
-3.8	wait until they become more consistent and closer together.	počkajte, až sa kontrakcie zosilnia a zblížia.
+3.8	počkajte, kým sa nestanú konzistentnejšími a bližšie k sebe.	počkajte, až sa kontrakcie zosilnia a zblížia.
 4.8	Obama je extrémny a ľavicový.	Obama je súčasťou extrémnej ľavice.
 2.5	@Frank Apisa, ako to chcete nazvať, je len na vás.	@Cyracuz, ako to chcete nazvať, je len na vás.
-2.6	Zrušenie poroty nemá nič spoločné s ústavnosťou zákonov.	Jury nullification means a law isn't Constitutional?
+2.6	Zrušenie poroty nemá nič spoločné s ústavnosťou zákonov.	Zrušenie poroty znamená, že zákon nie je ústavný?
 4.4	Aké presvedčenie, o ktorom si hovoril predtým?	Aké by to bolo presvedčenie?
-4.6	Takže som si vlastne prečítal OP a hádam, čo som zistil.	Furthermore I found this: So I actually read the OP and guess what I found out.
-3.6	Vláda neurčuje, či ste vydatá alebo nie.	The government doesnt have to declare you married before you can be married.
+4.6	Takže som si vlastne prečítal OP a hádam, čo som zistil.	Ďalej som našiel toto: Takže som vlastne prečítal OP a hádam, čo som zistil.
+3.6	Vláda neurčuje, či ste vydatá alebo nie.	Vláda nemusí vyhlásiť, že ste sa oženili, skôr ako sa budete môcť vydávať.
 1.8	Demokracia je hrozbou pre slobodu.	Demokracia nemá nič spoločné so slobodou.
 4	Ahoj Pro a kukurica: Koľko vlákien plánujete vyrobiť?	Koľko vlákien plánujete vyrobiť?
 4	Povedzte mi presne, ktorý systém práve nefunguje?	Ktorý systém nám teda nefunguje?
-4	Aha, a opäť tvrdí, že manželstvo je základné ľudské právo.	Particularly after stating that marriage is a fundamental human right.
+4	Aha, a opäť tvrdí, že manželstvo je základné ľudské právo.	Najmä po konštatovaní, že manželstvo je základným ľudským právom.
 4.2	Prečo sú Rusi v Damasku?	Rusi v Damasku!
 1.8	Áno, je to o zriedení.	Ehm, takto nefunguje riedenie.
 3.8	Áno, nemyslím si, že je to také kontroverzné.	Nemyslím si, že to, čo hovorí, je také kontroverzné.
-4	Operation Chaos is merely people voting.	Chaos je iba hlasovanie ľudí.
+4	Operácia Chaos je iba hlasovanie ľudí.	Chaos je iba hlasovanie ľudí.
 1.2	Pôvodne Poslal JonD Pochybné.	Pôvodne odoslal eleanor.ellis
 3	Klasický plyn Všetci sme plavidlá plné zázrakov.	Ústredná pieseň na zdravie: Všetci sme nádoby naplnené mnohými zázrakmi.
 4.5	opakovať: NIE SÚ tak suverénne ako predtým.	Už NIE sú také suverénne ako predtým.
 2	Morálka s tým nemá absolútne nič spoločné!	a morálka a čestnosť s tým majú všetko spoločné.
-3	i be having conversations will cornell west My dear brother.	Budem konverzovať, bude Cornell West Čo to do pekla je?
+3	Budem konverzovať, bude na západe, môj drahý brat.	Budem konverzovať, bude Cornell West Čo to do pekla je?
 4.6	Na Blízkom východe nie je vojna.	Na Blízkom východe nie je „VOJNA“.
-2.4	He had no intention of apprehending him.	- Nehovoril som, že ho plánoval zadržať.
+2.4	Nemal v úmysle ho zadržať.	- Nehovoril som, že ho plánoval zadržať.
 3.6	Všetci sme nádoby naplnené mnohými zázrakmi.	Vlož trochu lásky do svojho srdca Všetci sme nádoby naplnené mnohými zázrakmi.
-2.4	Ste „zhluk buniek“.	I'm "a bunch of cells."
+2.4	Ste „zhluk buniek“.	Som „zhluk buniek“.
 1.4	Čo je to dievčenská sprcha?	Ste dievčenská sprcha.
-2	Zrušenie poroty znamená, že zákon nie je ústavný?	No. Jury nullification does not mean that a law is unconstuitutional.
+2	Zrušenie poroty znamená, že zákon nie je ústavný?	Nie. Zrušenie poroty neznamená, že zákon je protiústavný.
 4	Určite to NIE JE to, čo bývalo.	hlasoval Hlasoval Rozhodne NIE JE to, čo bývalo.
-3.4	The onus is on the manufacturer of a product to convince consumers it is safe.	Výrobca musí presvedčiť vládu, že je to bezpečné.
+3.4	Povinnosťou výrobcu je presvedčiť spotrebiteľov, že je bezpečný.	Výrobca musí presvedčiť vládu, že je to bezpečné.
 0.8	Myslím si, že vám chýba zmysel pre podnikateľov.	Opäť si myslím, že vám chýba bod v Twainovom citáte.
 1.6	„Cyklopy neexistujú“ - fajn.	„Škriatkovia neexistujú“ - v poriadku.
 1.6	„Bola to duševná choroba, čo ťa teraz učia?“	Uviedol, že išlo o duševnú chorobu, ako je to s tým fanatizmom?
-1.8	Landon A tak toto sú Vianoce Všetci sme nádoby naplnené mnohými zázrakmi.	Play With Fire We are all vessels filled with many wonders.
-1.8	Bush gets zero credit for the budget under him.	And, Obama gets zero credit for the budget under him.
-1.8	. Hriešni ľudia sa nedostanú do neba.	Or sin is removed upon entry to heaven.
+1.8	Landon A tak toto sú Vianoce Všetci sme nádoby naplnené mnohými zázrakmi.	Hrajte sa s ohňom Všetci sme plavidlá plné zázrakov.
+1.8	Bush dostane nulový kredit za rozpočet, ktorý je pod ním.	A Obama dostane nulový kredit za rozpočet, ktorý riadi.
+1.8	. Hriešni ľudia sa nedostanú do neba.	Alebo je hriech odstránený pri vstupe do neba.
 3	Ako dlho po vyhladení by sa malo dieťa vrátiť do školy?	Ako dlho po vyhladení by to už nemalo dieťa trápiť?
-3.8	Holly Holy We are all vessels filled with many wonders.	Povedz, čo chceš. Všetci sme nádoby naplnené mnohými zázrakmi.
-1.2	What was the "answer" in Chicago?	Aká bude odpoveď v Kalifornii?
-4.2	The entire thing just makes no sense.	See that makes no sense.
+3.8	Svätá svätá Všetci sme nádoby naplnené mnohými zázrakmi.	Povedz, čo chceš. Všetci sme nádoby naplnené mnohými zázrakmi.
+1.2	Aká bola „odpoveď“ v Chicagu?	Aká bude odpoveď v Kalifornii?
+4.2	Celá vec nemá zmysel.	Uvidíte, že to nemá zmysel.
 4.8	Kto údajne prevádzkoval vražedné plynové komory?	Osviežte si pamäť: Kto údajne prevádzkoval vražedné plynové komory?
 3.6	Preto je vysvetlením existencie vesmíru Boh.	Ak má vesmír vysvetlenie svojej existencie, je ním Boh.
-1.4	Genetická predispozícia na rezistenciu na rakovinu je vynikajúca genetika.	Genetic predisposition to Alzheimer is inferior genetics.
+1.4	Genetická predispozícia na rezistenciu na rakovinu je vynikajúca genetika.	Genetickou predispozíciou na Alzheimerovu chorobu je nižšia genetika.
 4.57142857142857	Všímate si nezmysly, ktoré hovoríte?	A aby som bol spravodlivý, všímate si nezmysly, ktoré hovoríte?
 1.2	-Použitie sily na obranu osoby. -A	Použitie sily agresorom.
-3.6	To ukazujú dostupné údaje.	That's what the historical record shows.
+3.6	To ukazujú dostupné údaje.	To ukazuje historický záznam.
 3	Radosť svetu Všetci sme nádoby naplnené mnohými zázrakmi.	Ústredná pieseň na zdravie: Všetci sme nádoby naplnené mnohými zázrakmi.
-2.6	I thought that was mostly just the Dutch.	V skutočnosti sú to iba Holanďania.
-2.2	Pozerala som deti, ako sa hrajú.	I like watching kids play.
-4.8	David @OmSigDAVID, myslím si, že Santorum je pravdepodobnejšie ako Gingrich.	@sozobe, I think Santorum's more likely than Gingrich.
-2.8	They're looking at each other!	Prečo sa na seba tak pozerajú?!?!
-2.6	Šoférujete jeden?	Are you driving a fucking Volt?
-1.4	S týmto náboženstvom mám problém.	Irreligion that doesn't do that I don't have a problem with.
-1.6	I think he'd be better for American business interests overall.	Would he be better for American society?
-4.4	not a constitutional issue.	again, this is not a constitutional issue.
-4.2	YOU FOOLS..bought the  cover-up..hook..	Ahoj Eots: VY FOOLS..kúpili ste krytie .. hák ..
+2.6	Myslel som si, že to sú väčšinou iba Holanďania.	V skutočnosti sú to iba Holanďania.
+2.2	Pozerala som deti, ako sa hrajú.	Rada sa pozerám na deti, ako sa hrajú.
+4.8	David @OmSigDAVID, myslím si, že Santorum je pravdepodobnejšie ako Gingrich.	@ sozobe, myslím, že Santorum je pravdepodobnejšie ako Gingrich.
+2.8	Pozerajú sa na seba!	Prečo sa na seba tak pozerajú?!?!
+2.6	Šoférujete jeden?	Šoféruješ kurva Volta?
+1.4	S týmto náboženstvom mám problém.	Bezbožnosť, ktorá to nerobí, s ktorou nemám problém.
+1.6	Myslím si, že by bol celkovo lepší pre americké obchodné záujmy.	Bol by lepší pre americkú spoločnosť?
+4.4	nie ústavná otázka.	opäť nejde o ústavnú otázku.
+4.2	VY FOOLS..kúpili ste si zakrývanie..háčik ..	Ahoj Eots: VY FOOLS..kúpili ste krytie .. hák ..
 1.6	„Čo robí stlačenie čísla jeden?“	„Stlačením čísla jeden sa aktivuje angličtina.“
-4.4	Aké by to bolo presvedčenie?	What conviction where you talking about before?
-3.8	Originally Posted by spikdboy Not wishful thinking, rather realistic.	Originally Posted by objectivism Not wishful thinking, rather realistic.
-3.4	Trilióntykrát som nikdy nepovedal, že rehabilitácia nefunguje.	The point you quote should say "I never said rehabilitation could never work."
+4.4	Aké by to bolo presvedčenie?	Aké presvedčenie, o ktorom si hovoril predtým?
+3.8	Pôvodne Poslal spikdboy Nie zbožné prianie, skôr realistické.	Pôvodne odoslal objektivizmus Nie zbožné prianie, skôr realistické.
+3.4	Trilióntykrát som nikdy nepovedal, že rehabilitácia nefunguje.	V bode, ktorý citujete, by malo byť napísané „Nikdy som nepovedal, že rehabilitácia nikdy nemôže fungovať.“
 3	Charlie Rangel odsúdený Videl niekto videozáznam toho?	Videl niekto zábery z toho?
 2	Červený október v pohotovosti.	Červená líška v pohotovosti.
 3.2	Iba tak sa nepíšu právne briefy.	Takto jednoducho nefunguje právne zdôvodnenie.
-3	Nie, žiadny z týchto faktorov nezohľadňuje nedávne oteplenie.	You don't know if those factors account for the warming, or not.
+3	Nie, žiadny z týchto faktorov nezohľadňuje nedávne oteplenie.	Neviete, či tieto faktory majú vplyv na otepľovanie, alebo nie.
 3.4	Stone oznámil kapitánovi Lordovi.	Aj on to oznámil kapitánovi Lordovi.
 2.2	Primárne zameranie systematickej dialektiky je syn chronické, nie diaronické.	Meta - systémovo - atiková dialektika je teda diachronicko - synchrónna dialektika.
-2.6	Šoférujete jeden?	Are you driving a fucking Volt?
-0.8	And that is happening in GOP controlled states.	Michigan IS a GOP controlled state.
-4.2	in  Foxe basin was frozen.	Foxe bol väčšinou zamrznutý.
-4.2	@Frank Apisa, Frank, I observe and perceive.	@cicerone podvodník, Frank, pozorujem a vnímam.
-1.2	Government deciding what pregnancies need to be carried to term, that's fine.	Government spying on its own citizens, that's fine.
+2.6	Šoférujete jeden?	Šoféruješ kurva Volta?
+0.8	A to sa deje v štátoch kontrolovaných GOP.	Michigan JE štát kontrolovaný GOP.
+4.2	v povodí Foxe bola zamrznutá.	Foxe bol väčšinou zamrznutý.
+4.2	@ Frank Apisa, Frank, pozorujem a vnímam.	@cicerone podvodník, Frank, pozorujem a vnímam.
+1.2	Vláda rozhodujúca o tom, aké tehotenstvo je potrebné znášať, je v poriadku.	Vláda špehuje svojich občanov, to je v poriadku.
 2.8	Vlož trochu lásky do svojho srdca Všetci sme nádoby naplnené mnohými zázrakmi.	Landon A tak toto sú Vianoce Všetci sme nádoby naplnené mnohými zázrakmi.
-1	Higher than  per cent but not very high.	Menej ako percento, ale nie veľmi nízke.
-1.6	Čo nie je to, čo sa predalo?	It's not how it was sold, gb.
-2.6	Boh rozhodne neexistuje.	God probably does not exist.
-4.4	Breathe In, Breathe Out, Move On.	buwhahahaha Breathe In, Breathe Out, Move On.
-2	It is an excellent indicator of climate change.	I think we all agree on the nature of the change.
-1.8	The great thing about living here is there's space.	The bad thing is there's space.
+1	Vyššie ako percento, ale nie veľmi vysoké.	Menej ako percento, ale nie veľmi nízke.
+1.6	Čo nie je to, čo sa predalo?	Nie je to tak, ako sa to predalo, gb.
+2.6	Boh rozhodne neexistuje.	Boh asi neexistuje.
+4.4	Dýchajte, dýchajte, choďte ďalej.	bwhahahaha Dýchaj, dýchaj, pokračuj.
+2	Je to vynikajúci ukazovateľ zmeny podnebia.	Myslím si, že všetci sa zhodneme na povahe zmeny.
+1.8	Skvelé na živote tu je, že je tu priestor.	Zlá je, že je tu priestor.
 4.5	Ah ha, ha, ha, ha, ha!	Ha, ha, ha, ha, ha, ha!
-3.8	Nechápem, ako bude zakázaná sloboda slova.	Your freedom of speech will be no more prohibited than it is today.
-3.2	Je potrebné si položiť otázku.	It is a question that needs to be answered.
-2.8	You purport to value life very heavily.	I purport to value human life very highly.
-1.8	The Infestation posts.	The mosquitoes posts.
-4.6	i don't want a president who 'cares'.	nechcem prezidenta súcitného.
-2.4	do you have anything to make it less compelling or not?	Do you have anything to make it more compelling?
-3.4	For the trillionth time, I've never said rehabilitation doesn't work.	V bode, ktorý citujete, by malo byť napísané „Nikdy som nepovedal, že rehabilitácia nikdy nemôže fungovať.“
-2.4	Classical Gas We are all vessels filled with many wonders.	Time of the Season by the Zombies We are all vessels filled with many wonders.
-4	pelove Takže súhlasíme, že to prišlo v podstate vo voľnom páde?	Do we agree that they came down essentially in freefall?
-1	Pro-life people do not want a woman to be able to choose abortion for herself.	Pro-choice people do not try to force an abortion on anyone.
-3.4	So answer the question.	Stop avoiding the question.
-4.2	Haiti is a shithole.	Haiti has been a shithole.
-1.2	I absolutely do believe there was an iceberg in those waters.	Neverím, že by niekde v blízkosti Titanicu bol vôbec nejaký ľadovec.
-4.4	The Face Of The Franchise: The worst part is that he's not even a Leafs fan!	The worst part is that he's not even a Leafs fan!
-4	I agree completely I am hoping he is into a second term of office.	I am hoping he is into a second term of office.
-0.4	Jake with the assist.	Voracek with the goal.
-3.2	Is it possible his home was affected and the school was not?	Sure, it is possible his home was affected, but not the school.
-4.2	The people had awakened.	Because the people had awakened.
-4	Umm the California was a cargo ship I dont care what the article says.	The California was a cargo ship.
-2.6	Umm, that pretty clearly states, "the statute is presumed constitutional."	And until they decide that, "the statute is presumed constitutional."
-3.4	Florida The ignorance is yours!	Nevedomosť je vaša!
-1.6	I'm going to shout for justice for Trayvon.	The people shouting for justice for Trayvon are all hypocrites.
-2.2	How do you know what's right and wrong?	How do you know which story is the right one?
+3.8	Nechápem, ako bude zakázaná sloboda slova.	Vaša sloboda prejavu nebude viac zakázaná ako dnes.
+3.2	Je potrebné si položiť otázku.	Je to otázka, na ktorú si treba zodpovedať.
+2.8	Máte v úmysle vážiť si život veľmi ťažko.	Mám v úmysle veľmi si vážiť ľudský život.
+1.8	Zamorenie.	Komáre prispievajú.
+4.6	nechcem prezidenta, ktorý by sa „staral“.	nechcem prezidenta súcitného.
+2.4	máš niečo, aby to bolo menej príťažlivé alebo nie?	Máte niečo, čím by to bolo príťažlivejšie?
+3.4	Trilióntykrát som nikdy nepovedal, že rehabilitácia nefunguje.	V bode, ktorý citujete, by malo byť napísané „Nikdy som nepovedal, že rehabilitácia nikdy nemôže fungovať.“
+2.4	Klasický plyn Všetci sme plavidlá plné zázrakov.	Čas sezóny od zombie Všetci sme nádoby naplnené mnohými zázrakmi.
+4	pelove Takže súhlasíme, že to prišlo v podstate vo voľnom páde?	Súhlasíme s tým, že zostúpili v podstate vo voľnom páde?
+1	Pro-life ľudia nechcú, aby si žena mohla sama zvoliť potrat.	Ľudia s pro-výberom sa nesnažia nikomu vnútiť potrat.
+3.4	Takže odpovedzte na otázku.	Prestaňte sa otázke vyhýbať.
+4.2	Haiti je sračka.	Haiti bola sračka.
+1.2	Absolútne verím, že v týchto vodách bol ľadovec.	Neverím, že by niekde v blízkosti Titanicu bol vôbec nejaký ľadovec.
+4.4	The Face Of The Franchise: Najhoršie na tom je, že nie je ani fanúšikom Leafs!	Najhoršie na tom je, že nie je ani fanúšikom Leafs!
+4	Úplne súhlasím, dúfam, že bude v druhom funkčnom období.	Dúfam, že bude v druhom funkčnom období.
+0.4	Jake s asistenciou.	Voráček s bránkou.
+3.2	Je možné, že bol zasiahnutý jeho domov a škola nie?	Iste, je možné, že bol ovplyvnený jeho domov, ale nie škola.
+4.2	Ľudia sa prebudili.	Pretože ľudia sa prebudili.
+4	Umm, Kalifornia bola nákladná loď, je mi jedno, čo hovorí článok.	Kalifornia bola nákladná loď.
+2.6	Umm, to celkom jasne hovorí, „zákon je považovaný za ústavný.“	A kým nerozhodnú, „zákon je považovaný za ústavný“.
+3.4	Florida Neznalosť je tvoja!	Nevedomosť je vaša!
+1.6	Budem kričať za Trayvona za spravodlivosť.	Ľudia kričiaci za Trayvona za spravodlivosťou sú všetci pokrytci.
+2.2	Ako viete, čo je správne a čo zlé?	Ako viete, ktorý príbeh je ten pravý?
 5	Ha, ha, ha, ha, ha, ha!	Ah ha, ha, ha, ha, ha!
-0.6	And Nugent was a complete fool to say what he said.	Natalie was a complete fool to have insulted their fan base.
-1.2	It is all Bush's fault.	Obama is Bush's fault.
-2.4	Mali by ste prestať všetko prefixovať alebo príponu nenávidieť Židov.	I don't prefix or suffix everything with "you hate Jews."
+0.6	A Nugent bol úplný blázon, aby povedal, čo povedal.	Natalie bola úplná hlúposť, že urazila ich fanúšikovskú základňu.
+1.2	Je to všetko Bushova chyba.	Obama je Bushovou chybou.
+2.4	Mali by ste prestať všetko prefixovať alebo príponu nenávidieť Židov.	Nechcem predponu ani príponu všetkého označovať slovami „nenávidíte Židov“.
 2.4	Chýbal mi bod, keď povedal, že černosi sa budú búrať.	Nikdy, nikdy som nepovedal, že sa černoši chystajú k výtržnostiam.
-2	Yet you didn't have to declare it.	A nemusel si.
-4.6	Proverbs  John the Baptist was a Nazarite from birth.	John the Baptist was a Nazarite from birth.
-2.2	James : says faith without works is dead.	Paul did not preach faith without works.
-1.53333333333333	 billion . Everyone in the world at Mexico's current prosperity level.	Everyone in the world at the current "prosperity" level of Northwest Africa.
-4.6	and videos Seismic data does not equal duration of collapse.	Seismic data does not equal duration of collapse.
+2	Napriek tomu ste to nemuseli deklarovať.	A nemusel si.
+4.6	Príslovia Ján Krstiteľ boli od narodenia Nazarejci.	Ján Krstiteľ bol od narodenia Nazarita.
+2.2	James: hovorí, že viera bez skutkov je mŕtva.	Pavol nehlásal vieru bez skutkov.
+1.53333333333333	miliárd. Všetci na svete na súčasnej úrovni prosperity Mexika.	Všetci na svete na súčasnej úrovni „prosperity“ severozápadnej Afriky.
+4.6	a videá Seizmické údaje sa nerovnajú dĺžke zrútenia.	Seizmické údaje sa nerovnajú trvaním zrútenia.
 2.2	Pôvodne Poslal Lone Fox Už ste to povedali niekoľkokrát.	Pôvodne Poslal Lone Fox A tiež to nie je všetko spojené s Iránom.
-2.6	You might not like Obamas views, but he has them.	You might not like the positions he holds, but atleast he has them.
-3	But do you actually believe there was an iceberg in those waters?	I absolutely do believe there was an iceberg in those waters.
-1.4	There is simply no winning for Obama among conservatives.	Toto je bohatstvo pochádzajúce od konzervatívca.
-1.6	Satan represents indulgence instead of abstinence!	. Satan represents vengeance instead of turning the other cheek!
-3.8	Iba ak je zaplatená daň z tohto predaja.	Just so long as the tax is paid.
-1.2	fix?: Islam itself is not political.	Islam has always been political.
-4	March  is also the date for the uprising in CHINA.	Originally posted by Vitchilo March  is also the date for the uprising in CHINA.
-5	Dúfam, že je všetko v poriadku!	I hope everything is okay.
-3.2	Do you understand why it's absurd to limit the question to US residents?	Do you understand why non-US residents are also relevant to the statistics?
-4	V minulosti som videl UFO nad Varšavou.	Respectfully submitted, Steve I have seen UFO over Warsaw in the past.
-4.6	depending on which action furthers their loony-tunes agenda of the moment.	depending on which action furthers their lonny-tunes agenda.
-3.8	Do you further agree that I have made no claim?	So that you will admit and verify that I have made no claim.
-2.4	Zimmerman says that he was sucker punched by his car.	Jeho „priatelia“ hovoria, že ho konfrontovalo jeho auto.
-4.6	There is no "WAR" in the middle east.	Na Blízkom východe nie je vojna.
-3.8	Part of pro-life is the opposition to legalized abortion.	Pro-life also refers to just "opposition to abortion".
-2.8	Capital gains, top rate:  percent.	 - Income, top rate:  percent.
-2.8	Time of the Season by the Zombies We are all vessels filled with many wonders.	The theme song to Cheers: We are all vessels filled with many wonders.
-4	Nie, ukazujem, že ste svojvoľne ignoranti.	LOL, you are so ignorant.
-3	We are all vessels filled with many wonders.	Jingle Bell Rock od Bobbyho Helma Všetci sme plavidlá naplnené mnohými zázrakmi.
-2.46666666666667	the problem isn't who has money.	problém je v tom, kto nemá peniaze.
-2.8	Sadly Ford did accept taxpayer money.	Ford didn't accept taxpayer money to save the company.
-1	Moslimovia by povedali to isté o Koráne.	The Hindus would say the same thing about the Bhagavad Ghita.
-3.8	Your confusion doesn't make me a liar.	Potom z teba môj zmätok tiež nerobí klamára.
+2.6	Možno by sa vám Obamasove názory nepáčili, ale má ich.	Pozície, ktoré zastáva, by sa vám nemuseli páčiť, ale aspoň ich má.
+3	Ale skutočne veríte, že v týchto vodách bol ľadovec?	Absolútne verím, že v týchto vodách bol ľadovec.
+1.4	Medzi konzervatívcami jednoducho pre Obamu neexistuje žiadna výhra.	Toto je bohatstvo pochádzajúce od konzervatívca.
+1.6	Satan predstavuje pôžitok namiesto abstinencie!	. Satan predstavuje pomstu namiesto toho, aby obrátil druhé líce!
+3.8	Iba ak je zaplatená daň z tohto predaja.	Iba pokiaľ je zaplatená daň.
+1.2	opraviť ?: Samotný islam nie je politický.	Islam bol vždy politický.
+4	Marec je tiež dátumom povstania v ČÍNE.	Vitchilo March pôvodne zverejnil dátum povstania v ČÍNE.
+5	Dúfam, že je všetko v poriadku!	Dúfam, že je všetko v poriadku.
+3.2	Rozumiete tomu, prečo je absurdné obmedziť túto otázku na obyvateľov USA?	Rozumiete tomu, prečo sú pre štatistiku relevantní aj obyvatelia krajín mimo USA?
+4	V minulosti som videl UFO nad Varšavou.	S úctou odovzdaný, Steve, v minulosti som videl UFO nad Varšavou.
+4.6	podľa toho, ktorá akcia podporuje ich looney-melodickú agendu okamihu.	podľa toho, ktorá akcia podporuje ich looney-melodickú agendu.
+3.8	Ďalej súhlasíte s tým, že som nenárokoval?	Aby ste pripustili a overili, že som nenárokoval.
+2.4	Zimmerman hovorí, že bol bičovaný autom.	Jeho „priatelia“ hovoria, že ho konfrontovalo jeho auto.
+4.6	Na Blízkom východe nie je „VOJNA“.	Na Blízkom východe nie je vojna.
+3.8	Súčasťou pro-life je odpor proti legalizovaným potratom.	Pro-life označuje aj „opozíciu proti potratom“.
+2.8	Kapitálové zisky, najvyššia sadzba: percentá.	- Príjem, najvyššia sadzba: percentá.
+2.8	Čas sezóny od zombie Všetci sme nádoby naplnené mnohými zázrakmi.	Ústredná pieseň na zdravie: Všetci sme nádoby naplnené mnohými zázrakmi.
+4	Nie, ukazujem, že ste svojvoľne ignoranti.	LOL, si taký ignorant.
+3	Všetci sme nádoby naplnené mnohými zázrakmi.	Jingle Bell Rock od Bobbyho Helma Všetci sme plavidlá naplnené mnohými zázrakmi.
+2.46666666666667	problém nie je v tom, kto má peniaze.	problém je v tom, kto nemá peniaze.
+2.8	Ford, žiaľ, prijal peniaze daňových poplatníkov.	Ford neprijal peniaze daňových poplatníkov, aby zachránil spoločnosť.
+1	Moslimovia by povedali to isté o Koráne.	Hinduisti by povedali to isté o Bhagavadgíte.
+3.8	Tvoj zmätok zo mňa nerobí klamára.	Potom z teba môj zmätok tiež nerobí klamára.
 1.6	When Christians are extreme its just simply religion.	When Muslims are extreme it's terrorism.
 1.2	Some believe the 'right' is most important.	Some believe not slaughtering the unborn is most important.
 1.6	Evolution is not an opinion, not a belief.	Atómová teória nie je názor, ani viera.

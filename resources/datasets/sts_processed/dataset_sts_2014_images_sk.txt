@@ -1,437 +1,437 @@
-3.6	A cat standing on tree branches.	Čierna a biela mačka je vysoko na konároch stromov.
-4.4	Dva zelené a biele vlaky sediace na koľajiskách.	Two green and white trains on tracks.
-2.6	Malá biela mačka so žiariacimi očami stojaca pod stoličkou.	A white cat stands on the floor.
-3.2	A large boat in the water at the marina.	A large boat on the sea.
-4	autobus jazdiaci po ulici.	Red double decker bus driving down street.
-0	Baránok sa pozerá do kamery.	A small bird standing on a log at the waters edge.
-4.8	Osobný vlak čakajúci v stanici.	A passenger train sits in the station.
-3.4	žena za jedálenským stolom písajúca do svojho zošita.	Woman at table busy with something.
+3.6	Mačka stojaca na konároch stromov.	Čierna a biela mačka je vysoko na konároch stromov.
+4.4	Dva zelené a biele vlaky sediace na koľajiskách.	Dva zelené a biele vlaky na koľajach.
+2.6	Malá biela mačka so žiariacimi očami stojaca pod stoličkou.	Na podlahe stojí biela mačka.
+3.2	Veľký čln vo vode pri prístave.	Veľká loď na mori.
+4	autobus jazdiaci po ulici.	Červený poschodový autobus jazdiaci po ulici.
+0	Baránok sa pozerá do kamery.	Malý vták stojaci na guľatine na okraji vôd.
+4.8	Osobný vlak čakajúci v stanici.	V stanici sedí osobný vlak.
+3.4	žena za jedálenským stolom písajúca do svojho zošita.	Žena pri stole zaneprázdnená niečím.
 3.8	Počítač Apple sediaci na zemi.	Počítač Macintosh sediaci na zemi.
 3.4	Detail hlavy hnedého koňa.	Bočný pohľad na hlavu koňa.
-2.8	A group of people eat at a table outside.	Skupina starších ľudí sediacich okolo stola.
-2.8	The curious boys look in the shed.	Two small boys in a woody area looking at a shed.
-3.8	A jockey riding a horse.	Džokej jazdiaci na koni v koterci.
-1.4	Býk stojaci v poli.	A brown horse stands in a lush green field.
-4	The man is riding a motorcycle down the road.	Muž jazdí na červenej motorke na ceste.
-3.8	A woman riding a brown horse.	Mladé dievča na hnedom koni.
-2.2	Čierne a biele kravy sa pozastavia pred bránou.	A black cow and a brown cow stands in a plain in front of an uprooted tree.
-0	A kid jumping a ledge with a bike.	Čiernobiela mačka sa hrá s dekou.
-4.4	A moped in front of steps of ruins.	Moped pred ruinami.
+2.8	Skupina ľudí jesť pri stole vonku.	Skupina starších ľudí sediacich okolo stola.
+2.8	Zvedaví chlapci sa pozrú do búdy.	Dvaja malí chlapci v zalesnenom prostredí pri pohľade na kôlňu.
+3.8	Džokej jazdiaci na koni.	Džokej jazdiaci na koni v koterci.
+1.4	Býk stojaci v poli.	Na sviežom zelenom poli stojí hnedý kôň.
+4	Muž jazdí na motocykli po ceste.	Muž jazdí na červenej motorke na ceste.
+3.8	Žena na hnedom koni.	Mladé dievča na hnedom koni.
+2.2	Čierne a biele kravy sa pozastavia pred bránou.	Na rovine pred vyvráteným stromom stojí čierna krava a hnedá krava.
+0	Dieťa skákajúce na rímsu s bicyklom.	Čiernobiela mačka sa hrá s dekou.
+4.4	Moped pred schodmi ruín.	Moped pred ruinami.
 4	Muž spí s dieťaťom v lone.	Muž spí na stoličke a drží dieťa.
 3.8	Skupina štyroch ľudí na večeri pri torte.	Štyria ľudia jedia dezert okolo stola.
-3	A black dog standing in front of yellow flowers.	Čierny pes stojaci v poli.
-4.4	Close up of a bottle of water.	Zblízka pohľad na fľašu vody.
-0.6	Zblízka hnedej mačky.	A close up of an ostrich face.
+3	Čierny pes stojaci pred žltými kvetmi.	Čierny pes stojaci v poli.
+4.4	Zblízka fľaše vody.	Zblízka pohľad na fľašu vody.
+0.6	Zblízka hnedej mačky.	Zblízka pštrosej tváre.
 3.2	ovce stojace v cudzine.	Ovca pasúca sa na poli.
 2.6	Skupina ľudí jesť pri stole vonku.	Skupina starších ľudí pózuje okolo jedálenského stola.
-3.6	A longed-haired cat with it's eyes closed.	Zblízka mačky so zavretými očami.
-2.6	Žena v šedej košeli sa usmieva do kamery, zatiaľ čo žena za ňou robí tvár.	A woman with a surprised look on her face is holding a smiling woman from behind.
-0.6	A silver and blue Amtrak train on the tracks near a small train station.	Pri čerpacej stanici parkovalo malé biele auto.
-0	A person in a blue shirt reclines near a coffee table and television.	Osoba sa postaví na sedadlo motocykla a vyskočí na koliesko.
+3.6	Dlhovlasá mačka so zavretými očami.	Zblízka mačky so zavretými očami.
+2.6	Žena v šedej košeli sa usmieva do kamery, zatiaľ čo žena za ňou robí tvár.	Žena s prekvapeným výrazom v tvári drží zozadu usmievavú ženu.
+0.6	Strieborný a modrý vlak Amtrak na koľajiskách neďaleko malej vlakovej stanice.	Pri čerpacej stanici parkovalo malé biele auto.
+0	Osoba v modrej košeli leží v blízkosti konferenčného stolíka a televízie.	Osoba sa postaví na sedadlo motocykla a vyskočí na koliesko.
 2.6	Dve mačky sa pozerajú na okno.	Biela mačka pozerajúca sa z okna.
 1.4	Čiernobiela fotografia ženy, ktorá ukazuje koňa.	čiernobiela fotografia kráv v ich stánkoch.
-4.2	A dark brown horse standing in a field.	Na sviežom zelenom poli stojí hnedý kôň.
-0	A pitched tent with a horse in the background.	A black and white lamb with other lambs in the background.
-0.4	Older man wearing beret with mountains in background.	A sheep in the morning mist with trees in the background.
+4.2	Tmavo hnedý kôň stojaci v poli.	Na sviežom zelenom poli stojí hnedý kôň.
+0	Rozložený stan s koňom v pozadí.	Čierne a biele jahňacie s ostatnými jahňatami v pozadí.
+0.4	Starší muž na sebe baret s horami v pozadí.	Ovečka v rannej hmle so stromami v pozadí.
 4	Kravy sa kŕmia v koryte.	V žľabe jedia hnedé a biele kravy.
-2.25	A small red and gray bird perched amongst the bare branches of a tree.	Na vetvách je posadený červený a hnedý vták.
-1.2	A person wearing a helmet rides a bike near a white structure.	A girl wearing black shorts and boots is standing next to a blue motorcycle.
+2.25	Medzi holými vetvami stromu sa posadil malý červený a sivý vtáčik.	Na vetvách je posadený červený a hnedý vták.
+1.2	Osoba, ktorá nosí prilbu, jazdí na bicykli v blízkosti bielej konštrukcie.	Dievča v čiernych šortkách a čižmách stojí vedľa modrej motorky.
 4	Skupina ľudí sediacich okolo stola s jedlom.	Skupina ľudí sedí pri stole s jedlom a pivom.
-3.2	Čierna a drevená jedáleň v malom byte.	Black and brown table in living room setting.
-3.8	A brown horse stands in a lush green field.	A brown horse in a green field.
+3.2	Čierna a drevená jedáleň v malom byte.	Čierny a hnedý stôl v prostredí obývacej izby.
+3.8	Na sviežom zelenom poli stojí hnedý kôň.	Hnedý kôň na zelenom poli.
 4	čiernobiela krava v sene.	Čiernobiela krava v koterci so senom.
 5	Staršia žena stojí v kuchyni s dvoma mačkami pri nohách.	Stará pani stojí v kuchyni s dvoma mačkami pri nohách.
-1	A school bus is driving uphill on a rural road.	A race care driving along a dirt road.
-0	A bag of cotton in front of a couch.	Calico cat sitting on step in front of a door.
+1	Školský autobus jazdí do kopca po poľnej ceste.	Závodné auto jazdiace po poľnej ceste.
+0	Vrece bavlny pred gaučom.	Kaliko, kocúr, miesto, prostredníctvom, schod pred, dvere.
 4.4	Maskovacie lietadlo sediace na trávnatom poli.	Maskované lietadlo sediace na zelenej tráve.
 0.4	Tri mladé ženy stojace v miestnosti spolu.	Dve indické ženy s dvoma indickými dievčatami blízko vody.
-4	Red double decker bus driving through the streets.	Double decker passenger bus driving with traffic.
-1.2	A white sheep on a hillside looking at the camera.	The skinny cows are standing on the grass.
-1.6	Skupina oviec na poli.	A group of horses grazing in a field.
-0	A close-up, distorted photo of an empty glass Coke bottle.	Detailný obrázok stola s počítačom a papiermi na ňom.
+4	Červený poschodový autobus jazdiaci po uliciach.	Poschodový osobný autobus jazdiaci s premávkou.
+1.2	Biela ovca na úbočí pri pohľade na fotoaparát.	Chudé kravy stoja na tráve.
+1.6	Skupina oviec na poli.	Skupina koní pasúcich sa na poli.
+0	Detailná, skreslená fotografia prázdnej sklenenej fľaše s koksom.	Detailný obrázok stola s počítačom a papiermi na ňom.
 3	Veľmi preplnený kancelársky stôl so zapnutým počítačovým monitorom.	Špinavý počítačový stôl s dvoma monitormi.
 3.2	Muž sediaci v neprehľadnej miestnosti.	Muž leží v posteli v preplnenej miestnosti.
-1.4	Dve biele kravy na zelenom pastvine.	The tan horse is in the pasture.
+1.4	Dve biele kravy na zelenom pastvine.	Opálený kôň je na pastve.
 3.2	Muž s bicyklom v kaviarni.	Muž chodiaci na bicykli na terasu kaviarne.
 3.8	Čierna krava kráčajúca pod stromami na pastvine.	Krava kráčajúca pod stromom na paši.
-0.4	Two horses standing in a field with trees in the background.	A black and white bird on a body of water with grass in the background.
+0.4	Dva kone stojace v poli so stromami v pozadí.	Čiernobiely vták na vodnej ploche s trávou v pozadí.
 1.8	Dvaja ľudia sedia pri stole v reštaurácii.	štyria ľudia sedia za stolom.
 3.8	Červený poschodový autobus jazdiaci po ulici.	Po ulici jazdí červený dvojposchodový autobus.
-3.2	A smiling woman with a beer sitting outside with another smiling woman.	Dve ženy sediace vonku so smiechom.
-3.2	Vták držiaci sa kovovej brány.	A multi-colored bird clings to a wire fence.
-0.6	The skinny cows are standing on the grass.	Biele kačice stoja na zemi.
-2.2	A women laying across two men sitting on a sofa.	A man and two women smiling at the camera while sitting on a blue sofa.
-3.4	a woman with a big necklace.	A young woman with a black top and a necklace.
+3.2	Usmievavá žena pri pive sedí vonku s ďalšou usmievavou ženou.	Dve ženy sediace vonku so smiechom.
+3.2	Vták držiaci sa kovovej brány.	Na drôtenom plote sa drží viacfarebný vták.
+0.6	Chudé kravy stoja na tráve.	Biele kačice stoja na zemi.
+2.2	Žena ležiaca cez dvoch mužov sediacich na pohovke.	Muž a dve ženy sa usmievali do kamery, keď sedeli na modrej pohovke.
+3.4	žena s veľkým náhrdelníkom.	Mladá žena s čiernym topom a náhrdelníkom.
 1.8	Hnedá krava s rohmi stojaca v poli.	Hnedý kôň stojaci uprostred trávnatého poľa.
-4.4	Na brehu kotvila výletná loď.	A cruise ship docked at shore.
-2.4	Čiernobiela mačka ležiaca pod kríkom.	The black and white cat with yellow eyes lounges in the dirt.
+4.4	Na brehu kotvila výletná loď.	Na breh zakotvila výletná loď.
+2.4	Čiernobiela mačka ležiaca pod kríkom.	Čierna a biela mačka so žltými očami sa zhromažďuje v špine.
 3.6	Hnedá a biela krava stojaca v tráve na okraji cesty.	Hnedo-biela krava stojaca v trávnatej oblasti so stromami za sebou.
-0.8	A small dog looking up at the camera while standing on grass.	A man and women smiling at the camera while standing in a kitchen.
-0.6	A tan calf with a yellow tag on his left ear looking at the camera.	Muž s okuliarmi a dvoma plastovými fľašami v popredí.
-0	Black and white photo of couch with purse at one end.	čiernobiela fotografia kravy pod stromom.
+0.8	Malý pes pozerajúci sa do kamery, keď stál na tráve.	Muž a ženy sa usmievajú do kamery, keď stoja v kuchyni.
+0.6	Opálené lýtko so žltou značkou na ľavom uchu pri pohľade na fotoaparát.	Muž s okuliarmi a dvoma plastovými fľašami v popredí.
+0	Čiernobiela fotografia pohovky s kabelkou na jednom konci.	čiernobiela fotografia kravy pod stromom.
 0.8	Baránok sa pozerá do kamery.	Mačka pri pohľade na fotoaparát.
 4.2	Červený poschodový autobus na preplnenej ulici.	Poschodový autobus na ulici v meste.
-3.6	A jockey riding a horse in a pen.	Džokej jazdí na koni pri cvale.
-2.4	Dvaja muži na lodi plávajúce na vode.	Large green boat floating on water.l.
+3.6	Džokej jazdiaci na koni v koterci.	Džokej jazdí na koni pri cvale.
+2.4	Dvaja muži na lodi plávajúce na vode.	Veľký zelený čln plávajúci na vode.l.
 3.6	Toto je pohľad zozadu na športové auto Chevrolet.	Pohľad zozadu na červený koncepčný automobil Chevrolet.
 3.2	Osoba, ktorá nosí prilbu, jazdí na bicykli v blízkosti bielej konštrukcie.	Osoba, ktorá má na bicykli prilbu, jazdí na bicykli po ceste medzi stromami.
-0.2	Čiernobiela fotografia starej vlakovej stanice.	A black and white photo of a motorcycle laying on the ground.
+0.2	Čiernobiela fotografia starej vlakovej stanice.	Čiernobiela fotografia motocykla položeného na zemi.
 2.4	Na fialovej látke spí sivobiela mourovať mačka.	Čiernobiela mačka spiaca na hnedej plachte.
 0.8	Čierna a biela mačka je vysoko na konároch stromov.	Čiernobiele jahňacie mäso so značkou na pravom uchu.
 4	Žena drží malé dieťa.	Usmievavá žena drží malé dieťa.
 4.6	Skupina koní pasúcich sa na trávnatom poli.	Skupina koní pasúcich sa na poli.
 3.4	Traja muži sedia za stolom, na ktorom sú nápoje.	Traja muži sediaci za stolom s pivom a jedlom.
-0.4	Dvaja ľudia oblečení v bielom stoja na trávnatom poli.	A person is standing underneath an overpass near a highway.
-3.4	Mladá blondínka s prilbou sedí za červeným bicyklom.	A young girl wearing a bike helmet with a bicycle in the background.
+0.4	Dvaja ľudia oblečení v bielom stoja na trávnatom poli.	Osoba stojí pod nadjazdom blízko diaľnice.
+3.4	Mladá blondínka s prilbou sedí za červeným bicyklom.	Mladé dievča na sebe cyklistickú prilbu s bicyklom v pozadí.
 0.6	Oranžová tabby mačka spiaca na pohovke.	Muž sleduje televíziu na úpätí svojej postele.
 3.8	Dva orly posadené na konári.	Dva orly bielohlavé posadené na konári.
 3.8	Pruhovaná mačka ležiaca na vreci s podstielkou pre mačky.	Domáca mačka položená na chrbát steliva pre mačky.
 2	Modrý gauč a oddelené postele v obývacej izbe.	Modrý gauč v izbe so slnečným žiarením.
-2.4	Muž a malé dieťa v obývacej izbe pózuje pre fotoaparát.	A man and woman are posing for the camera.
-3	A home office with three computer monitors and other equipment on a desk.	Izba s niekoľkými počítačovými monitormi.
-3.8	Na snehu stojí päť vtákov.	Several cardinals stand in the snow.
+2.4	Muž a malé dieťa v obývacej izbe pózuje pre fotoaparát.	Muž a žena pózuje pre fotoaparát.
+3	Domáca kancelária s tromi počítačovými monitormi a ďalším vybavením na stole.	Izba s niekoľkými počítačovými monitormi.
+3.8	Na snehu stojí päť vtákov.	Niekoľko kardinálov stojí v snehu.
 2	Vemená dojnice, ktorá stojí na pastve neďaleko veľkej budovy.	Čierna a hnedá krava stojí na zelenej tráve.
 2.6	Čierne vozidlo zaparkované s výhľadom na nízko položené hory.	Čierne auto zaparkované v špine v krajine.
 2.2	Osobný vlak v snehu.	Osobný vlak čakajúci v stanici.
-5	The black bird is sitting on the ground.	Kos sediaci na zemi.
-2	Čiernobiely býk sa pozerá do kamery.	A black and white dog looking at the camera.
+5	Čierny vták sedí na zemi.	Kos sediaci na zemi.
+2	Čiernobiely býk sa pozerá do kamery.	Čiernobiely pes pri pohľade na fotoaparát.
 4.2	Žena pózuje pri stĺpe so znakom U2.	žena stojí pri stĺpe, kde je napísané „u2“.
-3.8	A young girl riding a white and grey horse.	Mladá blondínka v jazdeckom vybavení sedí na šedo-bielom koni.
-0.8	A black and white sheep is walking next to a white sheep.	Malé čiernobiele lýtko so štítkom na uchu.
-0	Obývacia izba s jedálenským stolom v pozadí.	A boy doing a wheelie on a plank with the beach in the background.
-2.2	The dining room table gets some afternoon sun.	Jedáleň s dreveným jedálenským stolom s kamarátmi.
+3.8	Mladé dievča na bielom a sivom koni.	Mladá blondínka v jazdeckom vybavení sedí na šedo-bielom koni.
+0.8	Vedľa bielej ovce kráča čiernobiela ovca.	Malé čiernobiele lýtko so štítkom na uchu.
+0	Obývacia izba s jedálenským stolom v pozadí.	Chlapec robí wheelie na doske s plážou v pozadí.
+2.2	Na jedálenský stôl sa dostane popoludňajšie slnko.	Jedáleň s dreveným jedálenským stolom s kamarátmi.
 3.6	Na chodníku pred grafitmi zaparkovaný červený moped.	Červený skúter sedí na ulici pred budovou.
-3.6	Čajka pláva na vode.	A little bird floating in the water.
-0	The flock of sheep are spread out in the field.	Na podlahe stojí biela mačka.
-4.6	Dva psy a jedna mačka sedia na gauči.	Two dogs and a cat resting on a couch.
-0	A black dog stands next to materials at a construction site.	Ázijské batoľa sedí na kvetinovom hrnci na mramorovom stĺpe.
-4.4	A woman posing in front of an apartment building in the snow.	Žena stojí pred budovou v snehu.
+3.6	Čajka pláva na vode.	Vo vode plávajúce vtáčatko.
+0	Stádo oviec je rozložené na poli.	Na podlahe stojí biela mačka.
+4.6	Dva psy a jedna mačka sedia na gauči.	Dva psy a mačka odpočívajúca na gauči.
+0	Vedľa materiálov na stavbe stojí čierny pes.	Ázijské batoľa sedí na kvetinovom hrnci na mramorovom stĺpe.
+4.4	Žena pózuje pred bytovkou v snehu.	Žena stojí pred budovou v snehu.
 3.4	Jedna ázijská žena a jedna žena v okuliaroch s úsmevom a zdvihnutými palcami hore.	Dve ženy pózujú pred kamerou a dávajú znamenie palec hore.
-3	A black train moves down the tracks.	Väčšinou čierny vlak na trati.
+3	Po koľajach sa pohybuje čierny vlak.	Väčšinou čierny vlak na trati.
 1	Popri ceste sa pasie päť kráv.	Niekoľko oviec sa pasie na poli.
 3.2	Dve horské kozy, ktoré sa pasú pred alpským jazerom.	Dve zvieratá, ktoré sa pasú vedľa hory, a vodná plocha.
 3.2	Čiernobiele kravy za plotom.	Dve čiernobiele kravy za kovovou bránou proti polooblačnej modrej oblohe.
 4	Osobný vlak čakajúci v stanici.	Osobný vlak čakajúci na stanici mestského vlaku.
 3.4	Biele zviera behajúce po snehom pokrytých lesoch.	Cez zasnežené drevo behá biely pes.
-4	Bicykel je zaparkovaný pri obchode.	A bicycle is parked outside a bookstore.
-0	Muž sediaci na tráve a pozerajúci sa k oblohe.	The train is riding on the tracks in the snow.
+4	Bicykel je zaparkovaný pri obchode.	Bicykel je zaparkovaný pred kníhkupectvom.
+0	Muž sediaci na tráve a pozerajúci sa k oblohe.	Vlak jazdí po koľajniciach v snehu.
 4	Čierna televízia s plochou obrazovkou umiestnená na podlahe.	Na podlahe TV s plochou obrazovkou.
 2.4	V obývacej izbe je zaparkovaný strieborný bicykel.	Bicykel v jedálni.
-3.8	Oranžovo-biela mačka položená na deke v čiernom koženom kresle.	A ginger and white cat curled up and asleep on a leather chair.
-3.4	Hnedý pes spočíva hlavou na bielom vankúši.	A tan dog is lying on a couch and has its head on a white pillow.
-4.1	Black train on train tracks.	A train on the train tracks.
-4.1	Black train on train tracks.	Vlak na koľajisku.
-4	Young couple sitting on a black couch.	Mladý pár sediaci na gauči.
+3.8	Oranžovo-biela mačka položená na deke v čiernom koženom kresle.	Zázvor a biela mačka sa skrútili a spali na koženom kresle.
+3.4	Hnedý pes spočíva hlavou na bielom vankúši.	Opálený pes leží na gauči a má hlavu na bielom vankúši.
+4.1	Čierny vlak na koľajiskách.	Vlak na koľajisku.
+4.1	Čierny vlak na koľajiskách.	Vlak na koľajisku.
+4	Mladý pár sediaci na čiernom gauči.	Mladý pár sediaci na gauči.
 2.8	Skupina černochov pred budovou s mopedom.	Skupina ľudí je pred schátranou budovou.
-0	Oranžová tabby mačka spiaca na pohovke.	Man wearing a bib sitting on a green couch.
-3.6	Staršia žena sediaca na červenom gauči so vzorom a rukou okolo mladšej ženy.	Two women sitting on couch posing for camera.
-2.6	Orol bielohlavý je posadený na lane.	Two bald eagles perched on a branch.
+0	Oranžová tabby mačka spiaca na pohovke.	Muž na sebe podbradník sediaci na zelenom gauči.
+3.6	Staršia žena sediaca na červenom gauči so vzorom a rukou okolo mladšej ženy.	Dve ženy sediace na gauči pózuje pre fotoaparát.
+2.6	Orol bielohlavý je posadený na lane.	Dva orly bielohlavé posadené na konári.
 4	Pár pózuje pre obrázok na gauči.	Mladý pár sediaci na gauči.
-0	The men are playing a guitar and having a drink.	There is a young boy with a red and blue jacket on feeding a sheep.
-3.8	Dve mačky sedia spolu na pohovke a pozerajú sa z okna.	Two cats are looking at a window.
-3.75	Červený poschodový autobus.	Red double decker bus with hood up.
-0	A close-up of an animal with a long face standing on grass near a tree.	Detailný záber na ženu s čiernymi topánkami vedľa modrej motorky.
-1.8	A brown and white dog sits on a floral-patterned chair.	Malý oranžovo-biely psík s golierom a zvončekom relaxuje na vankúši s potlačou kvetov.
-3.6	The black and brown cow is looking at the camera.	The black and white bull is looking at the camera.
+0	Muži hrajú na gitare a popíjajú.	Na kŕmení oviec je mladý chlapec s červeno-modrým sakom.
+3.8	Dve mačky sedia spolu na pohovke a pozerajú sa z okna.	Dve mačky sa pozerajú na okno.
+3.75	Červený poschodový autobus.	Červený poschodový autobus s kapucňou hore.
+0	Detailný záber na zviera s dlhou tvárou stojace na tráve blízko stromu.	Detailný záber na ženu s čiernymi topánkami vedľa modrej motorky.
+1.8	Na stoličke s kvetinovým vzorom sedí hnedo-biely pes.	Malý oranžovo-biely psík s golierom a zvončekom relaxuje na vankúši s potlačou kvetov.
+3.6	Čierna a hnedá krava sa pozerá do kamery.	Čiernobiely býk sa pozerá do kamery.
 1.8	Muž jazdiaci na zadnej strane oranžového SUV.	africký muž visiaci na zadnej strane veľmi plnej žltej dodávky.
 4.2	Skupina ľudí sediacich pri stole v reštaurácii.	Skupina ľudí sediacich okolo stola s jedlom.
-2	Two sheep on to of a cliff looking at the camera.	Dve ovce stoja, pozerajú do kamery a čelia opačným smerom.
+2	Dve ovce na útese pri pohľade na fotoaparát.	Dve ovce stoja, pozerajú do kamery a čelia opačným smerom.
 1.6	Čiernobiela fotografia prázdnej vlakovej stanice.	čiernobiela fotografia mačky ležiacej.
-1.2	Rad lokomotív na vlečke v poli.	A dark brown horse standing in a field.
+1.2	Rad lokomotív na vlečke v poli.	Tmavo hnedý kôň stojaci v poli.
 3.6	Na béžovom koberci spálne sedí biely počítač Apple.	Počítač Apple sediaci na zemi.
-4.6	a dog napping under a small table.	A dog sleeping under a table.
+4.6	pes driemajúci pod malým stolíkom.	Pes spiaci pod stolom.
 3.6	Červeno-biely autobus jazdiaci po ceste.	Po rušnej ceste jazdí autobus.
 3.6	Na vode sa plaví čln so štyrmi plachtami.	Plachetnica plávajúca po vode.
-4.6	Red sports car racing down track.	A red sports car driving quickly on a track.
-3	Usmievavá žena drží malé dieťa.	Two smiling women holding a baby.
+4.6	Červené športové auto pretekajúce po ceste.	Červené športové auto jazdiace rýchlo po trati.
+3	Usmievavá žena drží malé dieťa.	Dve usmievavé ženy držiace dieťa.
 0.8	Čierny vták sediaci na betónovej doske.	Malý pes sediaci vedľa bielej steny.
-3.2	A Victory Liner bus is white with red and gold stripes.	Biely zájazdový autobus s červenými, oranžovými a žltými pruhmi.
-4.4	Red double decker bus on side of street.	A red double decker bus on a city street.
+3.2	Autobus Victory Liner je bielej farby s červenými a zlatými pruhmi.	Biely zájazdový autobus s červenými, oranžovými a žltými pruhmi.
+4.4	Červený poschodový autobus na strane ulice.	Červený poschodový autobus na ulici v meste.
 0.4	Skupina riečnych člnov so stromami v pozadí.	Mladé dievča na sebe cyklistickú prilbu s bicyklom v pozadí.
-1.2	Čajka pláva na vode.	Large cruise ship floating on the water.
+1.2	Čajka pláva na vode.	Veľká výletná loď plávajúca na vode.
 3	Motorka zaparkovaná vedľa auta.	Medzi dvoma autami parkoval motocykel BMW.
-1.2	A cat laying on a red cushion looking at the camera.	Opálený pes ležiaci na moggickej posteli a pozerajúci sa do kamery.
+1.2	Mačka ležiaca na červenom vankúši pri pohľade na fotoaparát.	Opálený pes ležiaci na moggickej posteli a pozerajúci sa do kamery.
 4	Šedá mačka pozerajúca sa z okna.	Mačka pozerajúca sa z okna.
-4.2	a black and white photo of a cow under a tree.	Čiernobiela fotografia kravy, ktorá kráča pod stromom v poli.
+4.2	čiernobiela fotografia kravy pod stromom.	Čiernobiela fotografia kravy, ktorá kráča pod stromom v poli.
 2.8	Rastlina v kvetináči na slnku z okna.	Rastlina v kvetináči, ktorá pučí iba pár.
 5	Dva zelené a biele vlaky sediace na koľajiskách.	Na vlakovej trati sedia dva zelené a biele vlaky.
-2.8	Štyria ľudia veslujú na člne neďaleko brehu.	four people are on a boat on green water.
-0	A girl in a red shirt is riding a brown horse.	Opálený a biely pes ležiaci v posteli so žltou pokrývkou.
+2.8	Štyria ľudia veslujú na člne neďaleko brehu.	štyria ľudia sú na lodi na zelenej vode.
+0	Dievča v červenej košeli jazdí na hnedom koni.	Opálený a biely pes ležiaci v posteli so žltou pokrývkou.
 2.4	Dve lietadlá na oblohe.	Lietadlo na oblohe.
 2	Uhoľný vlak idúci po koľajach.	Starý vlak nečinne sedí na koľajisku.
-1.4	Pred práčovňou je malý stôl a stolička.	A room with tan walls and a washer and dryer.
+1.4	Pred práčovňou je malý stôl a stolička.	Izba s trieslovými stenami, práčkou a sušičkou.
 4	Osobný vlak Amtrak čakajúci na stanici.	Osobný vlak čakajúci v stanici.
-1.8	A large jet on the ground at the airport.	A passenger jet flies through the air.
-4	Mačka pri pohľade na fotoaparát.	A grey, black, and white cat looking at the camera.
+1.8	Veľké tryskové lietadlo na zemi na letisku.	Vzduchom letí prúdové lietadlo pre cestujúcich.
+4	Mačka pri pohľade na fotoaparát.	Sivá, čierna a biela mačka pozerajúca sa na fotoaparát.
 0	Titulky svetových správ sa zobrazujú na veľkej obrazovke.	Muž oblečený na závod relaxuje.
-4	Two women posing with a baby.	Dve usmievavé ženy držiace dieťa.
+4	Dve ženy pózujú s dieťaťom.	Dve usmievavé ženy držiace dieťa.
 2	Mladé dievča v prilbe na koni.	Dievča na sebe červenú blúzku na hnedom koni.
-4	Šedá mačka ležiaca na drevenom stole.	A grey cat laying on a dining table.
-1.4	People sitting on the porch.	People sitting on acouch.
+4	Šedá mačka ležiaca na drevenom stole.	Šedá mačka položená na jedálenskom stole.
+1.4	Ľudia sediaci na verande.	Ľudia sediaci na gauči.
 1.6	Dva kone stojace v koterci.	Skupina koní pasúcich sa na poli.
 0	Muž sediaci na záhrade a hrajúci na gitare.	Muž jazdiaci na zadnej strane oranžového SUV.
 3.4	Červený vlak a žltý vlak pokračujú po koľajiskách.	Po trati premávajú dva vlaky.
 1	Dvaja ľudia sedia pri stole v reštaurácii.	Skupina ľudí sediacich okolo stola na verande.
-1.4	Baránok stojí neďaleko dvoch drobných zvierat.	A sheep standing near her children.
-3.4	Otec driemajúci na stoličke s dieťaťom v lone.	Man with pink shirt sleeping on chair with infant.
-4.4	zblízka hlava pštrosa.	A close up of an ostrich face.
-2.2	Osoba, ktorá vonku jazdí na špinavom bicykli.	A person jumping a motorbike in the air.
+1.4	Baránok stojí neďaleko dvoch drobných zvierat.	Ovečka stojaca blízko svojich detí.
+3.4	Otec driemajúci na stoličke s dieťaťom v lone.	Muž s ružovou košeľou spí na stoličke s dieťaťom.
+4.4	zblízka hlava pštrosa.	Zblízka pštrosej tváre.
+2.2	Osoba, ktorá vonku jazdí na špinavom bicykli.	Osoba skákajúca na motorke do vzduchu.
 0.2	Tan krava s ušnými značkami na trávnatom poli.	Mnoho oviec stojacich na zelenom kopci.
 4.2	Zelený a biely vták sediaci na konári stromu.	Vtáčik so zelenou hlavou a bielou hruďou posadený na konári stromu.
 4.2	Plachetnica plávajúca po vode.	Plachetnica plávajúca na modrej vode.
-4.2	Červené a biele lietadlo letiace za slnečného dňa.	Red and white plane flying through the air.
+4.2	Červené a biele lietadlo letiace za slnečného dňa.	Červené a biele lietadlo letiace vzduchom.
 5	Muž v cylindri jazdí na bielom koni.	Muž s cylindrom na bielom koni.
-0.8	A black and white photo of an old train station.	Čiernobiela fotografia mačky sediacej na pohovke.
-2.2	A bicycle in front of some ruins.	Ružový bicykel je pred budovou.
-4.2	a woman with a viking hat on.	Usmievavá žena sediaca na sebe vikingskú čiapku.
+0.8	Čiernobiela fotografia starej vlakovej stanice.	Čiernobiela fotografia mačky sediacej na pohovke.
+2.2	Pred niekoľkými ruinami bicykel.	Ružový bicykel je pred budovou.
+4.2	žena s vikingským klobúkom.	Usmievavá žena sediaca na sebe vikingskú čiapku.
 4.2	Zaparkovaný biely poschodový autobus.	Zaparkovaný je červeno-biely poschodový autobus.
 3.8	Červený poschodový autobus na strane ulice.	Červený poschodový autobus na preplnenej ulici.
-0.2	A woman riding a brown horse.	A woman taking her own photo from above.
-2.8	Pole čiernych oviec.	A black faced sheep.
-4	Dva vtáky sú posadené na kovovom páse.	Two small birds perched on a metal bar.
+0.2	Žena na hnedom koni.	Žena, ktorá si robí vlastnú fotografiu zhora.
+2.8	Pole čiernych oviec.	Ovečka s čiernou tvárou.
+4	Dva vtáky sú posadené na kovovom páse.	Na kovovej tyči sedeli dva malé vtáky.
 3.2	Po rušnej ceste jazdí autobus.	Po ceste jazdí zelený autobus.
 1.6	Stôl s modrým obrusom v kuchyni.	Drevené skrinky v kuchyni.
 4.4	Postarší ázijský pár predstavuje s zajakavým dieťaťom pri jedálenskom stole.	Starší ázijský pár predstavuje s novorodencom pri večeri.
-0	Brown and white ducks walking on green grass.	A red and white plane flying on a sunny day.
-4	A young woman with a bracelet is wearing a bikini top and jeans.	A women wearing a bikini top and jeans.
-4	Hnedý kôň pasúci sa na poli zelenej trávy.	Brown horse standing in middle of grassy field.
-1.4	Hrniec s tekutinou je v strede tanierom pokrytej misky.	A pot of food is placed in the center of a red tablecloth.
+0	Hnedé a biele kačice kráčajúce po zelenej tráve.	Červené a biele lietadlo letiace za slnečného dňa.
+4	Mladá žena s náramkom má na sebe vrchný diel bikín a rifle.	Ženy, ktoré majú na sebe vrchný diel bikín a rifle.
+4	Hnedý kôň pasúci sa na poli zelenej trávy.	Hnedý kôň stojaci uprostred trávnatého poľa.
+1.4	Hrniec s tekutinou je v strede tanierom pokrytej misky.	V strede červeného obrusu je položený hrniec s jedlom.
 0.6	Čiernobiela krava stojaca na trávnatom poli.	Modrá sojka stojaca na trávnatom poli.
-3.2	A yellow and blue airplane is flying in the sky.	Biele lietadlo letí na modrej oblohe.
-0.2	Dvaja muži stojaci v tráve pozerajú na auto.	A woman in a pink top posing with beer.
+3.2	Na oblohe letí žlté a modré lietadlo.	Biele lietadlo letí na modrej oblohe.
+0.2	Dvaja muži stojaci v tráve pozerajú na auto.	Žena v ružovom tope pózuje pri pive.
 0	Ženy sediace v kresle na vianočné držanie tvoria.	Vlak sediaci na koľajisku vo vlakovej lodenici.
 0.8	Štyria ázijskí mladí ľudia sedia v brlohu alebo v obývacej izbe.	Dievča sediace na živom kresle.
-4.6	Train going down the tracks.	Train gliding on tracks.
-0.2	A young woman dressed in black.	Two young kids dressed up sitting down on chairs.
+4.6	Vlak idúci po koľajach.	Vlak kĺzajúci sa po koľajach.
+0.2	Mladá žena oblečená v čiernom.	Dve malé deti oblečené v sede na stoličkách.
 4	Dve indické ženy s dvoma indickými dievčatami blízko vody.	Dve indiánky stoja s dvoma indickými dievčatami na pláži.
 3	Skupina ľudí sediacich pri stole s nápojmi.	štyria ľudia sedia za stolom.
-2.6	A table is set with wine and dishes for two people.	A wooden table is set with candles, wine, and a purple plastic bowl.
-0	A plane flying at a distance.	A woman with a white horse.
-0.2	A group of river barges with trees in the background.	Skupina kráv na poli so žltými štítkami v ušiach.
-3.6	Obývacia izba s jedálenským stolom v pozadí.	A living room with large sofas and a dining table in the background.
-4	Yellow striped cat resting on blue sofa.	Oranžová tabby mačka spiaca na pohovke.
-0	Osobný vlak prichádzajúci do stanice.	A large bird is flying through the air.
+2.6	Stolík s vínom a jedlami pre dve osoby.	Drevený stôl je vybavený sviečkami, vínom a fialovou plastovou miskou.
+0	Lietadlo letiace na diaľku.	Žena s bielym koňom.
+0.2	Skupina riečnych člnov so stromami v pozadí.	Skupina kráv na poli so žltými štítkami v ušiach.
+3.6	Obývacia izba s jedálenským stolom v pozadí.	Obývacia izba s veľkými pohovkami a jedálenským stolom v pozadí.
+4	Žlté pruhované mačka odpočívajúca na modrej pohovke.	Oranžová tabby mačka spiaca na pohovke.
+0	Osobný vlak prichádzajúci do stanice.	Vzduchom letí veľký vták.
 3.4	Dvaja ľudia pádlovaní v červenom kanoe so stromami v pozadí.	Dvaja ľudia polstrovaní v žltej kanoe po rieke so stromami v pozadí.
-0.6	A moped in front of ruins.	Biely autobus zaparkovaný v tráve pred budovou.
-1.4	People ride mopeds in an urban setting.	Ľudia jazdiaci na koňoch v oplotenom areáli.
+0.6	Moped pred ruinami.	Biely autobus zaparkovaný v tráve pred budovou.
+1.4	Ľudia jazdia na mopedoch v mestskom prostredí.	Ľudia jazdiaci na koňoch v oplotenom areáli.
 2.2	Po koľajach sa pohybuje čierny vlak.	Čierny vlak nečinne stojí na koľajisku.
-3.5	Pred obchodom zaparkoval biely džíp.	A white Jeep parked on a street.
-0.4	Dve ženy stojace pred turistickým autobusom.	Two men talking in front of a plane.
-1.2	A person driving a cart pulled by a bicycle.	A man wearing a dust mask riding a three wheeled bicycle.
-2.6	Large silver locomotive engine in a shed.	The silver train is parked in a station.
-0	A man rides a large black motorbike.	Dieťa sedí vo veľkom čiernom koženom kresle.
+3.5	Pred obchodom zaparkoval biely džíp.	Biely Jeep zaparkovaný na ulici.
+0.4	Dve ženy stojace pred turistickým autobusom.	Dvaja muži sa rozprávali pred lietadlom.
+1.2	Osoba riadiaca vozík ťahaný bicyklom.	Muž v maske proti prachu jazdiaci na trojkolesovom bicykli.
+2.6	Veľký strieborný motor lokomotívy v kôlni.	Strieborný vlak je zaparkovaný v stanici.
+0	Muž jazdí na veľkej čiernej motorke.	Dieťa sedí vo veľkom čiernom koženom kresle.
 0.8	Bicykel je zaparkovaný pred kníhkupectvom.	Ľudia stoja mimo kníhkupectva.
-3.8	Lietadlo v strede letu pri západe slnka.	A plane flying near the sunset.
-0.4	Two people sitting on a large motorcycle.	Two eagles sitting on a long branch.
+3.8	Lietadlo v strede letu pri západe slnka.	Lietadlo letiace blízko západu slnka.
+0.4	Dvaja ľudia sediaci na veľkej motorke.	Dvaja orli sediaci na dlhej vetve.
 3.4	Pred nimi parkovali dva červené autobusy so záhradami.	Červené autobusy parkujú pri veľkej bielej budove vedľa formálnej záhrady.
-3.4	Na boku svojej klietky sa drží žltý papagáj.	A yellow and orange bird hold on to the side of a cage.
+3.4	Na boku svojej klietky sa drží žltý papagáj.	Na boku klietky sa drží žltý a oranžový vták.
 3.8	Pes čuchajúci spodnú časť dverí.	Čiernobiely pes čuchajúci k zatvoreným dverám.
-3	Couple sailing in a small sailboat.	Two men sailing in a small sailboat.
-3.6	A silver and blue motorcycle sitting next to a car.	Motorka zaparkovaná vedľa auta.
-5	Red double decker bus.	Červený poschodový autobus.
-0.4	Feet standing on a pretty day with large building in background.	Two police officers standing behind a van with a bus in the background.
-1.6	A small white dog chews on a twig while lying on a wooden deck.	The white dog is laying on the wooden floor underneath the table.
-4.4	Man standing in front of silver train.	Man standing in front of a silver rail car.
+3	Pár plaviaci sa na malej plachetnici.	Dvaja muži sa plavili v malej plachetnici.
+3.6	Strieborná a modrá motorka sediaca vedľa automobilu.	Motorka zaparkovaná vedľa auta.
+5	Červený poschodový autobus.	Červený poschodový autobus.
+0.4	Nohy stojace v pekný deň s veľkou budovou v pozadí.	Dvaja policajti stojaci za dodávkou s autobusom v pozadí.
+1.6	Malý biely pes žuje vetvičku, keď leží na drevenej palube.	Biely pes leží na drevenej podlahe pod stolom.
+4.4	Muž stojaci pred strieborným vlakom.	Muž stojaci pred strieborným vagónom.
 5	Detailný záber na ovcu s vyplazeným jazykom.	Zblízka obraz ovce s visiacim jazykom.
-4.2	A black and white horned cow standing in a field.	a black and white cow standing in the field.
+4.2	Čiernobiela rohatá krava stojaca na poli.	čiernobiela krava stojaca na poli.
 4.2	malé vtáčatko sediace v zime na konári.	Na ľadovom konári sedel malý vtáčik.
-2.8	A yellow bird is eating fruit on a wire grate.	Žltý vták konzumujúci ovocie na kŕmidle pre vtáky.
-4	A man riding a white horse in an arena.	Muž na bielom koni.
+2.8	Žltý vták žerie ovocie na drôtenom rošte.	Žltý vták konzumujúci ovocie na kŕmidle pre vtáky.
+4	Muž jazdiaci na bielom koni v aréne.	Muž na bielom koni.
 4.2	Na tráve stojí hnedá kačica a biela kačica.	Hnedé a biele kačice kráčajúce po zelenej tráve.
-2.4	Čiernobiela mačka a pes na pruhovanom gauči.	A black and white cat standing in front of a window.
-2.2	Vlak sediaci na koľajach blízko poľa.	A train traveling down the tracks.
-0.4	Ženy a malé dieťa sediace pri jedálenskom stole s úsmevom do kamery.	A small cat laying on a wooden beam looking up at the camera.
-0.4	A buddha statue sits on a table with a wooden table runner.	A bird standing on top of a wooden fencepost.
-3.6	Muž na čiernom spoločenskom oblečení a čiernom cylindri sa vezie na bielom výstavnom koňovi.	A man with a top hat riding a white horse.
-0	Two red buses driving in front of a garden.	Vlak ťahajúci do stanice.
-3.8	Cows grazing in a snow covered field.	Päť kráv pasúcich sa na zasneženom poli.
-1.8	A man riding a white horse.	A woman riding a brown horse.
-3.8	Malé hnedé vtáky jedia z krmítka pre vtáky visiace zo stromu.	A small bird perches on the bird feeder hanging from the tree.
-0.6	This a picture of the countryside with a large city in the background.	There are some black cattle in a grassy plain with a large tree in the background.
-3.2	Man with blue shirt standing in front of a fountain.	Muž v modrej košeli a opálených nohaviciach stojí pred sochou muža, ktorá je na dláždenom kamennom dláždenom námestí.
-4	A girl in riding gear sits atop a brown horse.	Dievča v červenej košeli jazdí na hnedom koni.
-0	Sporo odetá žena stojí vedľa auta.	A yellow and orange bird hold on to the side of a cage.
+2.4	Čiernobiela mačka a pes na pruhovanom gauči.	Čierna a biela mačka stojaca pred oknom.
+2.2	Vlak sediaci na koľajach blízko poľa.	Vlak idúci po koľajach.
+0.4	Ženy a malé dieťa sediace pri jedálenskom stole s úsmevom do kamery.	Malá mačka položená na drevenom tráme pozerajúc sa do kamery.
+0.4	Socha Budhu sedí na stole s bežcom dreveného stola.	Vták stojaci na vrchole dreveného plotového stĺpika.
+3.6	Muž na čiernom spoločenskom oblečení a čiernom cylindri sa vezie na bielom výstavnom koňovi.	Muž s cylindrom na bielom koni.
+0	Dva červené autobusy jazdiace pred záhradou.	Vlak ťahajúci do stanice.
+3.8	Kravy pasúce sa na zasneženom poli.	Päť kráv pasúcich sa na zasneženom poli.
+1.8	Muž na bielom koni.	Žena na hnedom koni.
+3.8	Malé hnedé vtáky jedia z krmítka pre vtáky visiace zo stromu.	Na kŕmidle pre vtáky visí na strome malý vtáčik.
+0.6	Toto je obraz vidieka s veľkým mestom v pozadí.	Na trávnatej pláni je nejaký čierny dobytok a v pozadí je veľký strom.
+3.2	Muž s modrou košeľou stojí pred fontánou.	Muž v modrej košeli a opálených nohaviciach stojí pred sochou muža, ktorá je na dláždenom kamennom dláždenom námestí.
+4	Dievča na koni sedí na hnedom koni.	Dievča v červenej košeli jazdí na hnedom koni.
+0	Sporo odetá žena stojí vedľa auta.	Na boku klietky sa drží žltý a oranžový vták.
 3.2	Niekoľko televízorov je na podlahe a umiestnené na sebe.	Tri televízory, na zemi, ďalšie dva na skrinke.
-4.6	Sheep are grazing in a grassy field near a stand of trees.	Sheep are grazing in the field in front of a line of trees.
-4.2	Číra plastová stolička pred knižnicou.	a clear plastic chair in front of book shelves.
-3	Pes má na sebe sivú bundu.	A dog laying in a pet jacket.
-4	Na úbočí stojí ovca.	A large sheep standing on a hill.
-3.8	Čiernobiela krava stojaca na trávnatom poli.	a black and white cow standing in the field.
-4.8	Blue and red plane in mid-air flight.	modré a červené lietadlo počas letu.
-1	Žena v čiernych bikinách a rifliach.	A woman in a black hat is standing by the subway.
-2.2	A girl riding a brown horse.	The jockey is wearing purple and riding a brown horse.
+4.6	Na trávnatom poli neďaleko porastu stromov sa pasú ovce.	Na poli pred radom stromov sa pasú ovce.
+4.2	Číra plastová stolička pred knižnicou.	priehľadná plastová stolička pred policami na knihy.
+3	Pes má na sebe sivú bundu.	Pes ležiaci v saku pre domácich miláčikov.
+4	Na úbočí stojí ovca.	Veľká ovca stojaca na kopci.
+3.8	Čiernobiela krava stojaca na trávnatom poli.	čiernobiela krava stojaca na poli.
+4.8	Modré a červené lietadlo v lete.	modré a červené lietadlo počas letu.
+1	Žena v čiernych bikinách a rifliach.	Pri metre stojí žena v čiernom klobúku.
+2.2	Dievča na hnedom koni.	Džokej má na sebe fialovú farbu a hnedý kôň.
 3.2	Muž stojaci pred žltou korvetou.	Muž stojí vedľa žltého športového auta.
-1.2	Three men posing in a tent.	Three men eating in a kitchen.
+1.2	Traja muži pózuje v stane.	Traja muži jedia v kuchyni.
 0	Muž sediaci na tráve a pozerajúci sa k oblohe.	Muž stojí na chodníku pred koňom.
-2.8	A man poses in front of a large fountain with a statue on top.	Muž s modrou košeľou stojí pred fontánou.
-0	Malý pes chráni svojho majiteľa.	The back of the stop sign is adorned with stickers.
-0.6	Deti hľadajú ovcu.	Child milking a cow outside.
-0.4	A white cat standing on a carpet.	A sheep standing in a forest.
-5	A flat screen TV on the floor.	Na podlahe je TV s plochou obrazovkou.
-2.4	A close-up of a gray cat with green eyes.	A close-up of a cat on a cream sofa.
-0	Two brown horses standing in grassy field.	Two men sailing in a small sailboat.
-1.4	Two sheep stand in a doorway.	Two rams stand on snowy ground.
-4.2	A train is at a train station.	The train sits at the train station.
+2.8	Muž predstavuje pred veľkou fontánou so sochou na vrchu.	Muž s modrou košeľou stojí pred fontánou.
+0	Malý pes chráni svojho majiteľa.	Zadnú stranu stopky zdobia nálepky.
+0.6	Deti hľadajú ovcu.	Dieťa vonku dojiace kravu.
+0.4	Biela mačka stojaca na koberci.	Ovečka stojaca v lese.
+5	Na podlahe TV s plochou obrazovkou.	Na podlahe je TV s plochou obrazovkou.
+2.4	Detail šedej mačky so zelenými očami.	Detailný záber na mačku na krémovej pohovke.
+0	Dva hnedé kone stojace v trávnatom poli.	Dvaja muži sa plavili v malej plachetnici.
+1.4	Vo dverách stoja dve ovce.	Na zasneženej zemi stoja dvaja barani.
+4.2	Vlak sa nachádza na vlakovej stanici.	Vlak sedí na vlakovej stanici.
 4	Izba s niekoľkými počítačovými monitormi.	Miestnosť so štyrmi počítačovými monitormi v rade.
 0.4	Linka mimo kníhkupectva na ulici.	Žltý motocykel je zaparkovaný na ulici.
-0	The train heads down the tracks and along the hedge.	pes na podlahe terasy sa pozrie na mačku na plote.
-1.8	A passenger jet sits on a runway.	A large passenger jet flying close to the ground.
-0.2	malé dievčatko sa smeje do kamery.	A white cow with big ears looking into the camera.
+0	Vlak smeruje dole po koľajach a popri živom plote.	pes na podlahe terasy sa pozrie na mačku na plote.
+1.8	Na dráhe sedí prúdové lietadlo pre cestujúcich.	Veľké osobné lietadlo letiace tesne pri zemi.
+0.2	malé dievčatko sa smeje do kamery.	Biela krava s veľkými ušami hľadiaca do kamery.
 0.4	Stará zelená fľaša sediaca na stole.	Traja muži v oblekoch sedeli za stolom.
-3.4	Three young women standing in a room together.	Tri tmavovlasé mladé ženy v bielych, červených a čiernych svetroch.
-1.2	A black-and-white photo of a loveseat.	Čiernobiela fotografia starej vlakovej stanice.
+3.4	Tri mladé ženy stojace v miestnosti spolu.	Tri tmavovlasé mladé ženy v bielych, červených a čiernych svetroch.
+1.2	Čiernobiela fotografia milostného sedadla.	Čiernobiela fotografia starej vlakovej stanice.
 3.8	zadná strana stopky s mnohými nálepkami.	Zadná strana cedule s nalepenými nálepkami.
 3	Dva biele kone hľadiace cez plot.	Dva kone stojace v koterci.
-3.2	Obývacia izba alebo pracovňa s veľkoplošnou televíziou.	Living room with tan furniture and flat screen television.
-0	The black and white cows pause in front of the gate.	Biele lietadlo letí na oblohe.
-4	A black and white cow standing in a grassy field.	A black and white horned cow standing in a field.
+3.2	Obývacia izba alebo pracovňa s veľkoplošnou televíziou.	Obývacia izba s hnedým nábytkom a TV s plochou obrazovkou.
+0	Čierne a biele kravy sa pozastavia pred bránou.	Biele lietadlo letí na oblohe.
+4	Čiernobiela krava stojaca na trávnatom poli.	Čiernobiela rohatá krava stojaca na poli.
 2.6	Dve ženy sediace na záhradných stoličkách.	Dve ženy sedia v kaviarni.
-5	Dvojposchodový červený autobus jazdiaci po ceste.	A red double decker bus driving down a street.
-4.2	a black and white photo of a cat lying down.	A black and white image of a cat laying on a rug.
-4.2	A man and woman stand, smiling for camera.	Muž a žena pózuje pre fotoaparát.
-3	Oranžová a biela mačka spiaca na koženej stoličke.	A ginger cat sitting on an office chair.
-1.6	A white cat standing on a carpet.	Pekná biela pruhovaná mačka s hlavou visiacou zo stola.
-0.2	Grey and white domestic kitten lying down on a desk.	A man and his bicycle laying down on the green grass.
-3	A white bird with long orange legs standing by a lake.	Veľký biely vták s dlhým oranžovým zobákom stojaci na pobreží.
-0	A woman posing in front of an apartment building in the snow.	White bus parked in grass in front of building.
-4.6	Mladá žena s náramkom má na sebe vrchný diel bikín a rifle.	A woman wearing jeans, a dark bikini top, and a bracelet.
-3.2	A red train driving through a snow covered city.	The train is riding on the tracks in the snow.
-0	A table and chairs are in a room with a picture on the wall and a ceiling fan.	A school bus driving down a road with green trees and grass in the background.
-0	Čierny vták sedí na zemi.	The back of a pig under a tree with a cow in the background.
-3.4	A man sits crossed legged on a bed watching a small TV.	A man sits on a bed very close to a small television.
+5	Dvojposchodový červený autobus jazdiaci po ceste.	Červený poschodový autobus jazdiaci po ulici.
+4.2	čiernobiela fotografia mačky ležiacej.	Čiernobiely obraz mačky položenej na koberci.
+4.2	Muž a žena stoja a usmievajú sa do kamery.	Muž a žena pózuje pre fotoaparát.
+3	Oranžová a biela mačka spiaca na koženej stoličke.	Zázvorová mačka sediaca na kancelárskej stoličke.
+1.6	Biela mačka stojaca na koberci.	Pekná biela pruhovaná mačka s hlavou visiacou zo stola.
+0.2	Šedé a biele domáce mačiatko ležiace na stole.	Muž a jeho bicykel ležiaci na zelenej tráve.
+3	Biely vták s dlhými oranžovými nohami stojaci pri jazere.	Veľký biely vták s dlhým oranžovým zobákom stojaci na pobreží.
+0	Žena pózuje pred bytovkou v snehu.	Biely autobus zaparkovaný v tráve pred budovou.
+4.6	Mladá žena s náramkom má na sebe vrchný diel bikín a rifle.	Žena na sebe rifle, tmavý vrch bikín a náramok.
+3.2	Červený vlak jazdiaci po zasneženom meste.	Vlak jazdí po koľajniciach v snehu.
+0	V izbe je stôl a stoličky, na ktorých je obrázok na stene a stropný ventilátor.	Školský autobus jazdiaci po ceste so zelenými stromami a trávou v pozadí.
+0	Čierny vták sedí na zemi.	Chrbát prasaťa pod stromom s kravou v pozadí.
+3.4	Muž sedí so skríženými nohami na posteli a sleduje malú televíziu.	Muž sedí na posteli veľmi blízko k malej televízii.
 3.2	Na dráhe sedí lietadlo Das Air Cargo.	Osobné lietadlo zaparkované na dráhe.
-4.2	The headlights on a blue car.	Zblízka svetlometov na modrom aute.
-4	A cat sleeps on purple sheet.	Čierna a biela mačka spí na fialovej deke.
-2.4	A passenger train coming into a station.	A passenger train sits in the station.
-1.2	A close-up of a cat on a cream sofa.	Detailný záber na koňa.
+4.2	Svetlomety na modrom aute.	Zblízka svetlometov na modrom aute.
+4	Na fialovom plachte spí mačka.	Čierna a biela mačka spí na fialovej deke.
+2.4	Osobný vlak prichádzajúci do stanice.	V stanici sedí osobný vlak.
+1.2	Detailný záber na mačku na krémovej pohovke.	Detailný záber na koňa.
 3	Traja cyklisti prechádzajúci cez most v meste.	Cyklisti prechádzajú cez most v daždi.
-4.4	Po ulici v Anglicku jazdí červený a biely autobus.	A red and white England bus drives down the street.
+4.4	Po ulici v Anglicku jazdí červený a biely autobus.	Po ulici jazdí červeno-biely anglický autobus.
 0	Lietadlo otočené k fotoaparátu.	Osamelá krava sedí v chlade na dvore.
-3.2	Žena na hnedom koni.	A person dressed in white on a brown horse.
+3.2	Žena na hnedom koni.	Osoba oblečená v bielom na hnedom koni.
 3.8	džokej jazdiaci na koni.	Džokej jazdiaci na koni v koterci.
-3.4	Dva psy splynuli s plyšovými zvieratami.	Two dogs sit on a couch with many stuffed animals.
-4.4	Kuchyňa s drevenými skrinkami a jedálenským stolom.	A kitchen with wooden cabinets and furniture.
+3.4	Dva psy splynuli s plyšovými zvieratami.	Dva psy sedia na gauči s mnohými plyšovými zvieratami.
+4.4	Kuchyňa s drevenými skrinkami a jedálenským stolom.	Kuchyňa s drevenými skrinkami a nábytkom.
 4	Po koľajisku jazdí vlak.	Po ceste na vidieku jazdí vlak.
-3.4	Motocykle sú zaparkované pri stene pokrytej graffiti scénou panorámy mesta.	A motorcycle is parked by a mural of a city in the evening.
+3.4	Motocykle sú zaparkované pri stene pokrytej graffiti scénou panorámy mesta.	Motocykel je večer zaparkovaný pri nástennej maľbe na mesto.
 4.4	Niekto stojí na zasneženej hore a sleduje lietadlo.	Muž stojí na hore a sleduje lietadlo.
-1.8	Vtáky plávajú vo vode.	Birds fly low over water.
-3.2	A bird is flapping its wings in the water.	A large black bird is sitting in the water.
+1.8	Vtáky plávajú vo vode.	Vtáky letia nízko nad vodou.
+3.2	Vo vode máva krídlami vták.	Vo vode sedí veľký čierny vták.
 2	Čierny pes sa pozerá do kamery.	Čiernobiely býk sa pozerá do kamery.
-3.2	A cruise liner docked at a port.	A cruise ship docked at a coast.
-2	A red double decker bus on a crowded street.	Biely autobus čiastočne v snehu na verejnej ulici.
-4.8	A woman pets a dog in a fenced area.	A woman pets a dog in a gated yard.
+3.2	V prístave zakotvila výletná loď.	Na pobreží zakotvila výletná loď.
+2	Červený poschodový autobus na preplnenej ulici.	Biely autobus čiastočne v snehu na verejnej ulici.
+4.8	Žena v ohradenom areáli chová psa.	Žena chová psa na uzavretom dvore.
 2.2	Čiernobiela mačka sa hrá s dekou.	Čierna a biela mačka sa dostane do koša priadze.
 3.2	Muž na horskom bicykli, ktorý ide dolu svahom.	Toto je muž jazdiaci na horskom bicykli po skalách za jasného dňa.
-3.8	Mačka leží na kancelárskej stoličke.	A ginger cat sitting on an office chair.
-2.6	Skupina koní pasúcich sa na poli.	A brown horse grazing in a field of green grass.
+3.8	Mačka leží na kancelárskej stoličke.	Zázvorová mačka sediaca na kancelárskej stoličke.
+2.6	Skupina koní pasúcich sa na poli.	Hnedý kôň pasúci sa na poli zelenej trávy.
 0	Skupina ľudí pri pití.	Rad lokomotív na vlečke v poli.
-0	Two dogs in a fenced kennel look ahead.	Dve ženy pózujú v jedálni s dieťaťom.
-3.4	Tri ovce na poľnej ceste pri pohľade z osobného vozidla.	Three sheep in middle of gravel road.
-1	Na oblohe letí žlté a modré lietadlo.	Nine red and white aircraft flying in formation trailing smoke.
-4	The train sits at the train station.	The blue train is at the station.
+0	Dva psy v oplotenej chovateľskej stanici sa pozerajú dopredu.	Dve ženy pózujú v jedálni s dieťaťom.
+3.4	Tri ovce na poľnej ceste pri pohľade z osobného vozidla.	Tri ovce uprostred štrkovej cesty.
+1	Na oblohe letí žlté a modré lietadlo.	Deväť červených a bielych lietadiel letiacich vo formácii koncového dymu.
+4	Vlak sedí na vlakovej stanici.	Modrý vlak je na stanici.
 0	Vlak sediaci na koľajach blízko poľa.	Dieťa sedí v tráve.
 4.4	Červený poschodový autobus naberajúci cestujúcich.	Červený poschodový autobus naberá v meste ďalších cestujúcich.
-0	Two guys sit on a couch holding beers with a girl lying on their laps.	Dve ženy sledujúce ulicu s bicyklami, aby zistili, kedy môžu prejsť.
-2.8	Two women in the kitchen looking at a object.	Two women in kitchen with one taking a picture.
+0	Dvaja muži sedia na gauči a držia pivá s dievčaťom ležiacim na kolenách.	Dve ženy sledujúce ulicu s bicyklami, aby zistili, kedy môžu prejsť.
+2.8	Dve ženy v kuchyni sa pozerajú na objekt.	Dve ženy v kuchyni a jedna sa fotila.
 2.8	Závodný kôň cválajúci bez jazdca.	Kôň cválajúci počas nosenia čísla 4.
 0.8	Parný stroj a vlak smerujúci ku kamere.	Veľký dravý vták letí smerom k fotoaparátu.
-4.8	A group of horses grazing in a field.	Group of horses grazing in grassy field.
+4.8	Skupina koní pasúcich sa na poli.	Skupina koní pasúcich sa na trávnatom poli.
 4.2	Čiernobiela fotografia sklenenej fľaše Coca Coly.	Toto je čiernobiely obrázok krátkej drepovej fľaše Coca-coly.
 3.2	Na ľadovom konári sedel malý vtáčik.	Na konári sedel žltý vták.
 4	Niekoľko ľudí na motocykloch na námestí.	Ľudia na motorkách v mestskej ulici.
-2.2	Tri ovce na poľnej ceste pri pohľade z osobného vozidla.	Three sheep on a dirt road shot from a car.
-3.2	Chlapec s okuliarmi, písanie na počítači.	A boy looking at a computer screen.
+2.2	Tri ovce na poľnej ceste pri pohľade z osobného vozidla.	Tri ovce na poľnej ceste vystrelené z auta.
+3.2	Chlapec s okuliarmi, písanie na počítači.	Chlapec sa pozerá na obrazovku počítača.
 4.2	Skupina ľudí pózuje s dvoma mužmi oblečenými ako Elvis.	Skupina ľudí stojacich s dvoma ďalšími ľuďmi oblečenými ako Elvis.
-3.2	Červené nákladné auto roztáča pneumatiky, zatiaľ čo čierne opúšťa rám.	Red truck spinning tires and emitting smoke from behind.
+3.2	Červené nákladné auto roztáča pneumatiky, zatiaľ čo čierne opúšťa rám.	Červený kamión točí pneumatiky a zozadu emituje dym.
 2.4	Obývacia izba so stolom, stoličkou a pohovkou pozdĺž veľkej dlane.	Obývacia izba s modrou pohovkou, kempingovou posteľou, drevenou lavicou a komodou.
 3.4	Usmievavá žena drží malé dieťa.	žena sediaca na pohovke a drží dieťa.
 0	Čerpacia stanica Esso so stromami v pozadí.	Dvaja policajti stojaci za dodávkou s autobusom v pozadí.
-4.2	Four blue and yellow planes flying over four boats.	Štyri modré a žlté lietadlá za letu.
-0	A horse standing near a gate with another horse in the background.	Skupina riečnych člnov so stromami v pozadí.
-2.4	Three bottles are on a table.	Stará zelená fľaša sediaca na stole.
+4.2	Štyri modré a žlté lietadlá letiace nad štyrmi člnmi.	Štyri modré a žlté lietadlá za letu.
+0	Kôň stojaci pri bráne a v pozadí ďalší kôň.	Skupina riečnych člnov so stromami v pozadí.
+2.4	Tri fľaše sú na stole.	Stará zelená fľaša sediaca na stole.
 4.4	Dvaja chlapci sedia oproti sebe za stolom a jeden ukazuje na druhého.	Dvaja ľudia sedia oproti sebe za stolom, keď jeden ukazuje na druhého.
 1.4	Parný stroj zíde z vlakovej trate blízko stromov.	Vlak sa nachádza na vlakovej stanici.
-4.2	A train is at a train station.	Vlak zaparkovaný na vlakovej stanici.
+4.2	Vlak sa nachádza na vlakovej stanici.	Vlak zaparkovaný na vlakovej stanici.
 0.8	Vo vode plávajú dvaja bieli psi.	Vtáky plávajú vo vode.
-3.4	Parrot pushing a small shopping cart.	A white bird is steering a shopping cart.
-0.4	žena sediaca na pohovke a drží dieťa.	Bird sitting on a log in a lake.
-4.2	Man in yellow canoe paddling through water.	Muž pádlovaním žltej kanoe smerom k brehu.
-3.6	Dva vtáky letiace smerom k napájaču vody.	Two birds flying near bird feeders.
+3.4	Papagáj tlačí malý nákupný košík.	Biely vták riadi nákupný košík.
+0.4	žena sediaca na pohovke a drží dieťa.	Vták sediaci na guľatine v jazere.
+4.2	Muž v žltom kanoe pádlovanie cez vodu.	Muž pádlovaním žltej kanoe smerom k brehu.
+3.6	Dva vtáky letiace smerom k napájaču vody.	Dva vtáky letiace v blízkosti kŕmidiel.
 1.6	Dve kravy stojace na veľkom poli.	Kôň stojaci v poli.
 3.4	Fľaše na pivo (-LRB- ležiak na harfu) -RRB- umiestnené na podlahe.	Na podlahe rad pivných fliaš.
 2.4	Dve ženy sediace vonku so smiechom.	Dve ženy stojace pred autobusom.
-4	Skupina oviec pasúcich sa na kopci.	A group of sheep are on a hill.
-2	A man stands in front of a train.	Muž stojí pred vyvýšenou sochou.
-1	A steam engine and train moving toward the camera.	Biela ovca na úbočí pri pohľade na fotoaparát.
-4.4	Two women are posing for the camera and giving the thumbs up sign.	Two smiling young women giving the thumbs up sign.
-4.8	A women holds a small baby while sitting on a sofa.	žena sediaca na pohovke a drží dieťa.
-4	Poschodový červený autobus United na ulici v meste.	A doubly decker red bus driving down the road.
-1	Two women sitting on brown couch.	Two women standing outside of a bus.
+4	Skupina oviec pasúcich sa na kopci.	Skupina oviec je na kopci.
+2	Muž stojí pred vlakom.	Muž stojí pred vyvýšenou sochou.
+1	Parný stroj a vlak smerujúci ku kamere.	Biela ovca na úbočí pri pohľade na fotoaparát.
+4.4	Dve ženy pózujú pred kamerou a dávajú znamenie palec hore.	Dve usmievavé mladé ženy dávajúce znamenie palec hore.
+4.8	Žena drží malé dieťa, keď sedela na pohovke.	žena sediaca na pohovke a drží dieťa.
+4	Poschodový červený autobus United na ulici v meste.	Dvojposchodový červený autobus jazdiaci po ceste.
+1	Dve ženy sediace na hnedom gauči.	Dve ženy stojace pred autobusom.
 3.2	Sivá mačka so zelenými očami pozerajúca do kamery.	Sivá, čierna a biela mačka pozerajúca sa na fotoaparát.
 0	Vtáčik sedí na konári.	Ovečka stojí pod stromami.
 3.8	Skupina ľudí sediacich pri stole v reštaurácii.	Dvaja ľudia sedia pri stole v reštaurácii.
 2.4	Čiernobiela krava stojí na tráve proti polojasnej modrej oblohe.	Dve čiernobiele kravy za kovovou bránou proti polooblačnej modrej oblohe.
 1.6	Hnedá a biela krava v poli pozerajúcom sa do kamery.	Čiernobiela mačka pozerá hore do kamery.
 3.2	Chlap na bielom koni.	Muž jazdiaci na bielom koni v aréne.
-4.6	Two dairy cows drinking from a pond.	Two cows are drinking from a pond.
-2.4	There are several sheared sheep in a pen.	Tri biele ovce v ohrade.
-3.2	Black and white cow standing near pile of snow.	a black and white cow standing in the field.
-5	Čierny pes leží v tráve.	A black dog lies on the grass.
-3.4	Home office space with bright green walls and artwork.	An office with multiple desks and green walls.
+4.6	Dve dojnice, ktoré pijú z rybníka.	Dve kravy pijú z rybníka.
+2.4	V ohrade je niekoľko ostrihaných oviec.	Tri biele ovce v ohrade.
+3.2	Čierna a biela krava stojaca neďaleko hromady snehu.	čiernobiela krava stojaca na poli.
+5	Čierny pes leží v tráve.	Na tráve leží čierny pes.
+3.4	Priestor domácej kancelárie so žiarivo zelenými stenami a umeleckými dielami.	Kancelária s niekoľkými pracovnými stolmi a zelenými stenami.
 4.6	Veľká biela výletná loď plávajúca na vode.	Veľká výletná loď plávajúca na vode.
-4.2	Dvaja mladí ľudia sedia za stolom vedľa posuvných sklenených dverí a jedna osoba ukazuje na druhú.	Two people sit facing each other at a table as one points at the other.
-4	Čiernobiela fotografia muža, ktorý šoféroval auto a niekoho s motocyklom.	A black and white photo of a man in a classic car and a man with a classic motorcycle.
-2.2	A man and a woman holding hands walking along the beach.	Po brehu oceánu kráča muž s bradou a čiapkou a chlapec.
-1.2	Ten sheep looking at the camera.	Mačka na chrbte pri pohľade na fotoaparát.
-1.4	A black and white dog looking at the camera.	Malá čiernobiela koza v koterci pozerajúca sa na fotoaparát.
-0	A black table with white fuzzy chair.	A woman with her child.
-2.2	Červený poschodový autobus naberajúci cestujúcich.	A red double decker bus driving down a street.
+4.2	Dvaja mladí ľudia sedia za stolom vedľa posuvných sklenených dverí a jedna osoba ukazuje na druhú.	Dvaja ľudia sedia oproti sebe za stolom, keď jeden ukazuje na druhého.
+4	Čiernobiela fotografia muža, ktorý šoféroval auto a niekoho s motocyklom.	Čiernobiela fotografia muža v klasickom aute a muža s klasickým motocyklom.
+2.2	Muž a žena sa drží za ruky prechádzky po pláži.	Po brehu oceánu kráča muž s bradou a čiapkou a chlapec.
+1.2	Desať oviec sa pozerá do kamery.	Mačka na chrbte pri pohľade na fotoaparát.
+1.4	Čiernobiely pes pri pohľade na fotoaparát.	Malá čiernobiela koza v koterci pozerajúca sa na fotoaparát.
+0	Čierny stôl s bielou fuzzy stoličkou.	Žena so svojím dieťaťom.
+2.2	Červený poschodový autobus naberajúci cestujúcich.	Červený poschodový autobus jazdiaci po ulici.
 3.4	Plachetnica plávajúca po vode.	Plachetnica plávajúca v zamračený deň.
 4.2	Na ruke človeka v rukavici sedí modrý vták.	Na ruke v rukavici človeka je posadený vták.
 3	Traja ľudia sú pri vode so žltými kanoe.	Traja ľudia pripravujúci sa na kanoe.
-3.6	A girl riding on a brown and white horse.	Dievča na hnedom koni.
-1	Väčšinou čierny vlak na trati.	A car parked in front of train tracks.
+3.6	Dievča jazdiace na hnedo-bielom koni.	Dievča na hnedom koni.
+1	Väčšinou čierny vlak na trati.	Auto zaparkované pred koľajiskami.
 0	Mladý chlapec sfarbený červenou a modrou pastelkou.	Mladá blondínka v jazdeckom vybavení sedí na šedo-bielom koni.
 4.2	Dva orly bielohlavé posadené na konári.	Na konári sú posadené dva orly.
 0	Batoh stojaci vedľa vlaku.	Spoločenské stretnutie ľudí v reštaurácii.
-0.8	A group of people in a living room.	Skupina štyroch ľudí, ktorí prešli popri obrovskej hube.
-0	Kačica divá a krotká biela kačka na tráve pri vode.	A small child in a pink dress sits on a table.
+0.8	Skupina ľudí v obývacej izbe.	Skupina štyroch ľudí, ktorí prešli popri obrovskej hube.
+0	Kačica divá a krotká biela kačka na tráve pri vode.	Na stole sedí malé dieťa v ružových šatách.
 0	Mačka sedí medzi dvoma bicyklami pred dverami.	Než kôň stojaci na poli pred plotom.
-0	Dievča s červenou taškou stojace na ulici.	A black dog is staring at a sheep.
+0	Dievča s červenou taškou stojace na ulici.	Čierny pes hľadí na ovcu.
 3.8	Dievča v čiapke na koni.	Dievča na čiernom koni.
-3.4	A horse rider is riding a white horse.	Žena vedúca bieleho koňa.
-0	Muž oblečený v bledom šále s palicou.	A runner is resting in the shade with a bottle of soda.
-3.2	The bird is sitting on the branch.	Na vetvách je posadený červený a hnedý vták.
-4.2	A long train is on train tracks.	Vlak na koľajisku.
-3	Čierny s pálením sa pozerá na čiernu ovcu.	A black dog looking at a brown sheep in a pen.
-2.8	Izba s niekoľkými počítačmi a obrázkami na stene.	A home office with three computer monitors and other equipment on a desk.
+3.4	Jazdec na koni jazdí na bielom koni.	Žena vedúca bieleho koňa.
+0	Muž oblečený v bledom šále s palicou.	Bežec odpočíva v tieni s fľašou sódy.
+3.2	Vtáčik sedí na konári.	Na vetvách je posadený červený a hnedý vták.
+4.2	Dlhý vlak je na koľajisku.	Vlak na koľajisku.
+3	Čierny s pálením sa pozerá na čiernu ovcu.	Čierny pes pri pohľade na hnedú ovcu v koterci.
+2.8	Izba s niekoľkými počítačmi a obrázkami na stene.	Domáca kancelária s tromi počítačovými monitormi a ďalším vybavením na stole.
 0	Veľmi retro obývacia izba s televíziou.	Šedá mačka ležiaca na drevenom stole.
 1	Čiernobiela fotografia kravy, ktorá kráča pod stromom v poli.	Čiernobiely pes pri pohľade na fotoaparát.
-4.2	A silver AreoMexico Jet Liner sitting on the tarmac.	Strieborné lietadlo aeromexico je na dráhe.
-3.4	a man on a dirt bike jumping very high.	Muž na motorke skákajúci s oblohou za sebou.
+4.2	Na asfalte sedí strieborná prúdová linka AreoMexico.	Strieborné lietadlo aeromexico je na dráhe.
+3.4	muž na špinavom bicykli skákal veľmi vysoko.	Muž na motorke skákajúci s oblohou za sebou.
 2.6	Dievča v čiapke na koni.	Dievča na hnedom koni.
-4.2	Two people sailing a small white sail boat.	Pár plaviaci sa na malej plachetnici.
-0.8	A white airplane is parked on the cement.	A blue motorcycle is parked on the sidewalk.
-0	Skupina národov pózuje v kožušinových čiapkach.	A group of cyclists in green and white with spectators looking on.
-0.8	Three cows grazing in a field.	Niekoľko oviec sa pasie na poli.
-2.6	A car is pulling off the side of the road onto the street.	Na kraji cesty pred kopcami stálo strieborné auto.
-4.8	The man is sitting at a messy table and using a laptop.	A man sits looking at a laptop computer on a messy table.
+4.2	Dvaja ľudia, ktorí sa plavia na malej bielej plachetnici.	Pár plaviaci sa na malej plachetnici.
+0.8	Na cemente je zaparkované biele lietadlo.	Na chodníku stojí modrá motorka.
+0	Skupina národov pózuje v kožušinových čiapkach.	Skupina cyklistov v zelenej a bielej farbe s prihliadajúcimi divákmi.
+0.8	Tri kravy pasúce sa na poli.	Niekoľko oviec sa pasie na poli.
+2.6	Z boku cesty na ulicu strháva auto.	Na kraji cesty pred kopcami stálo strieborné auto.
+4.8	Muž sedí za chaotickým stolom a používa notebook.	Muž sedí pri pohľade na prenosný počítač na chaotickom stole.
 1.4	Čierna mačka domáca ležiaca na hnedom stole.	Šedá mačka položená na jedálenskom stole.
 3	Jedálenský stôl so sviečkami, vínom a čajovou kanvicou.	Drevený stôl je vybavený sviečkami, vínom a fialovou plastovou miskou.
-3.2	Four children looking at barn animals.	Children looking a sheep.
-1.8	A black and white cat playing with a wool basket.	A black and white cat lying on a blanket.
-3.2	Two people paddling a red canoe are reflected in the still water.	Two people in a red canoe on a clear lake.
-3.8	A scantily clad woman is standing next to a car.	Sporo odetá žena stojaca vedľa malého červeného vozidla.
+3.2	Štyri deti pozerajú na stodolu.	Deti hľadajú ovcu.
+1.8	Čiernobiela mačka hrajúca sa s košom z vlny.	Čiernobiela mačka ležiaca na deke.
+3.2	V stojatej vode sa odrážajú dvaja ľudia, ktorí brázdia červené kanoe.	Dvaja ľudia v červenom kanoe na priezračnom jazere.
+3.8	Sporo odetá žena stojí vedľa auta.	Sporo odetá žena stojaca vedľa malého červeného vozidla.
 2.2	Červený poschodový autobus naberajúci cestujúcich.	Červený poschodový autobus s kapucňou hore.
-3.8	The man is sitting cross legged wearing a cloak and holding a stick.	Muž sediaci so skríženými nohami, keď mal hnedú látku a držal drevenú palicu.
-0	A buddha statue holding a candle is sitting on a table.	A man fishing on a small boat while on a lake.
+3.8	Muž sedí so skríženými nohami, má plášť a drží palicu.	Muž sediaci so skríženými nohami, keď mal hnedú látku a držal drevenú palicu.
+0	Na stole sedí socha Budhu, ktorá drží sviečku.	Muž loviaci na malom člne, zatiaľ čo na jazere.
 2.6	Dvaja čierno-bieli psi v spodnej časti schodiska.	Na spodku schodiska vedľa iného stojaceho psa leží pes.
 2	Traja ľudia sediaci pri večeri sa usmievajú do kamery.	Dve staršie ženy sedia pri jedálenskom stole s mužom.
 2.8	Viacfarebný vlak na trati.	Väčšinou čierny vlak na trati.
-2.2	A white and red bus traveling on the street.	Červený autobus je na ulici.
+2.2	Biely a červený autobus cestujúci po ulici.	Červený autobus je na ulici.
 3.2	Červené a modré lietadlo letiace s pristávacími prevodovými stupňami dole.	Bojové lietadlo z druhej svetovej vojny so spusteným podvozkom.
-3	Malý čln klesajúci potokom.	a boat moving in a river.
-3	Štyri ženy a dvaja muži sedia za dlhým stolom v reštaurácii.	A group of people sit at a table in an Italian restaurant.
+3	Malý čln klesajúci potokom.	čln pohybujúci sa v rieke.
+3	Štyri ženy a dvaja muži sedia za dlhým stolom v reštaurácii.	Skupina ľudí sedí pri stole v talianskej reštaurácii.
 2.8	Staromódna drevená plachetnica v oceáne.	Pri móle stojí staromódna drevená plachetnica.
 0	Dve kozy stojace na poli pri strome.	Veľký čln ťahajúci malý biely čln.
 0	Muž sediaci so skríženými nohami na tráve, v pozadí je strom.	Zaoceánsky parník blízko pobrežia s domami v pozadí.
@@ -580,7 +580,7 @@
 4.4	hnedý poschodový turistický autobus na ulici s ruským kolesom za sebou.	Poschodový autobus jazdiaci pred ruským kolesom.
 0.6	Čiernobiele kreslo sediace pred tehlovou stenou a okno s bambusovou rastlinou vo váze.	Ovečka s čiernymi hlavami pokrytá hrubou bielou vlnou stojí na pasienku s ostatnými ovcami.
 3.6	Domáca mačka pozerajúca sa z okna.	Biela mačka pozerajúca sa z okna.
-1.8	Two cows graze in a field.	Hnedý kôň na zelenom poli.
+1.8	Dve kravy sa pasú na poli.	Hnedý kôň na zelenom poli.
 3.6	Muž v čiernej uniforme na bielom koni.	Muž v smokingu na bielom koni.
 2.4	Mačka, ktorá spala na autokare, za ktorou bol vankúš.	Mačka leží na deke so zvieracím potlačou.
 4	Dve ženy stoja v obývacej izbe s čiernym psom.	Dve ženy stojace v obývacej izbe s čiernym psom pozerajúcim smerom k fotoaparátu.
@@ -607,98 +607,98 @@
 1.8	Muž na bielom koni.	Žena vedúca bieleho koňa.
 3.8	Pohľad na obývaciu izbu s jedálňou v pozadí.	Obývacia izba s veľkými pohovkami a jedálenským stolom v pozadí.
 0.8	Na koženom gauči ležalo oranžové mačiatko.	Mladý pár sediaci na čiernom gauči.
-2.4	Biela mačka položená na kancelárskej stoličke.	A white cat laying on a sheet.
-0	Malý žltý čln sediaci na tropickej pláži.	A small girl sits on a stone ledge near a white flowering plant.
+2.4	Biela mačka položená na kancelárskej stoličke.	Biela mačka položená na plachte.
+0	Malý žltý čln sediaci na tropickej pláži.	Malé dievča sedí na kamennej rímse blízko bielej kvitnúcej rastliny.
 4	Dve ženy sledujú bielu ovcu vo vnútri drevenej budovy.	Dve ženy, ktoré strihali bielu ovcu v drevenom stánku.
 3	Osoba, ktorá má na bicykli prilbu, hovorí do mobilného telefónu.	Osoba, ktorá nosí prilbu, jazdí na bicykli v blízkosti bielej konštrukcie.
-3.6	Vlak metra vchádza do stanice.	A white train pulling into a station.
-3.8	Bicykel je zaparkovaný pri obchode.	A green bike parked outside a book store.
+3.6	Vlak metra vchádza do stanice.	Biely vlak vťahujúci sa do stanice.
+3.8	Bicykel je zaparkovaný pri obchode.	Zelený bicykel zaparkovaný pred kníhkupectvom.
 0	Dvaja muži stojaci na pláži.	Dve ženy stojace pred turistickým autobusom.
-3	A man with glasses and two plastic bottles in the foreground.	Muž hovoriaci s dvoma fľaškami s vodou sediaci pred ním.
-1.4	Dlhovlasý čierny pes stojaci v trávnatom poli.	A blue jay standing in a grassy field.
+3	Muž s okuliarmi a dvoma plastovými fľašami v popredí.	Muž hovoriaci s dvoma fľaškami s vodou sediaci pred ním.
+1.4	Dlhovlasý čierny pes stojaci v trávnatom poli.	Modrá sojka stojaca na trávnatom poli.
 0.2	Malý stôl so stoličkou pri skrini na bielizeň.	Izba s trieslovými stenami, práčkou a sušičkou.
-4.6	Červený poschodový autobus jazdiaci po uliciach.	Red double decker bus driving down a street.
-3	A goose flapping its wings in a body of water.	A black swan flapping its wings on the water.
+4.6	Červený poschodový autobus jazdiaci po uliciach.	Červený poschodový autobus jazdiaci po ulici.
+3	Hus máva krídlami vo vodnej ploche.	Čierna labuť mávla krídlami o vodu.
 4.2	Šedá mačka položená na hnedom stole.	Šedá mačka ležiaca na drevenom stole.
-4.4	Motorcycle parked next to a car outside.	Motorka zaparkovaná vedľa auta.
+4.4	Motocykel zaparkovaný vedľa auta vonku.	Motorka zaparkovaná vedľa auta.
 4	Detailný záber na hnedého koňa.	Detailný záber na koňa.
 4.4	Chlapec ležiaci na gauči so psom.	Chlapec leží na gauči so šteniatkom.
 5	Čiernobiely obraz mačky položenej na koberci.	Čiernobiely obrázok mačky položenej na koberci.
 3.6	Veľké tryskové lietadlo na zemi na letisku.	V noci na letisku parkovalo veľké lietadlo.
 4	Hromada použitých drevených stavebných materiálov so stoličkou na vrchu.	Hromada drevených zvyškov so stoličkou na vrchu.
-0	Two women are sitting in a cafe.	Dvaja muži chytajú rybu v močiari.
-4	Eight bottles of Harp lager lined up on the floor.	Eight bottles of Harp beer lined up on a wooden floor.
-4	An office with multiple desks and green walls.	Small office space with bright green walls.
-2	A woman leading a white horse.	A man in a tux on a white horse.
-1.4	A small child smiling at the camera.	A cat looking at the camera.
-2.6	A woman riding a brown horse.	Person dressed in blue riding brown horse.
-3.2	photo of a television screen showing a movie.	Nástenný TV s plochou obrazovkou premieta film.
-4.2	A bird perched on a flowerpot.	Bird perched on a flowerpot beside a stucco wall.
-3.4	Biela mačka sediaca vo vnútri umývadla.	Grey and white cat sitting in bathroom sink.
-4.4	Young woman in riding gear on top of horse.	Young girl in riding gear on a horse.
-3.8	Two people are sailing a small boat.	Two women in a sailboat.
-3	A small bird on a tiny branch.	A small bird perched on an icy branch.
-1.6	Two animals sitting on a rock.	Two eagles sitting on a long branch.
-4.2	Two cats sit on the back of a couch looking out the window.	Two cats are sitting on the back of a couch and looking out the window in a sea photo.
-4	A man on a motorcycle performing a wheelie.	Motorcyclist performing a wheelie next to a car.
-1.8	A passenger train waiting at the city train station.	A passenger train with a yellow engine.
-4.4	Two young women shear a sheep.	Two women sheering a sheep.
-2.2	Left side of a silver train engine.	A close-up of a black train engine.
-3.8	The young rider takes a ride on the brown horse.	A young female rider on a brown horse.
-3	Six people are seated at a restaurant table and looking into the camera.	A group of people sitting at a restaurant table.
-3.8	Little white lamb with nose to wood.	A white lamb with its nose against a wooden box.
-2.8	A black train moves down the tracks.	A long train is on train tracks.
-5	A Philips flat-screen TV is shown with its two remote controls.	A Phillips flat screen TV with two remote controls.
-0	A cruise ship is in front of a docking area.	Calico cat sitting on step in front of a door.
-4.6	A young girl riding a white and grey horse.	a little girl is riding a white and grey horse.
-3.2	A black dog stands next to materials at a construction site.	A black dog standing in a room being constructed.
-2.2	Blue couch and twin bed in a living room.	A leather couch and wooden table in a living room.
-3.6	A bird is flapping its wings in the water.	A black swan flapping its wings on the water.
-0.2	A black and white cow standing in hay looks back at the camera.	There is a black and white sheep standing on the grass.
-3.75	A black and white cat lying on a blanket.	A black and white cat laying on a cat bed.
-3.8	Young woman in riding gear on top of horse.	The woman is riding on the brown horse.
-3.4	A plane being readied for take-off.	A small turboprop plane being loaded on the tarmac.
-0	A white leather couch with a purse and throw blanket on it.	A television with a show on.
-4	Four people rowing down a river.	Four people row a canoe in water.
-3.8	A dark brown horse standing in a field.	A brown horse in a green field.
-4.2	A kitchen with wooden cabinets and furniture.	Kitchen with wooden table and cabinets.
-3.4	A white bicycle stands on a floor.	Old style bicycle parked on floor.
-3.2	A bird eating from a bird feeder.	A yellow bird eating fruit on a bird feeder.
-4	Black bird sitting on a concrete slab.	Black bird standing on concrete.
-4.4	Two men talking in front of a plane.	Two men talking in front of a small plane.
-3.2	Dark colored dog standing in grassy field.	A grey dog standing in a grassy field.
-3.8	A young blonde girl wearing a smile and a bicycle helmet.	A young girl wearing a bike helmet with a bicycle in the background.
-3.2	two cats, one brown and one white laying on a bed with a blue blanket.	Two cats, one ginger, the other white laying on a bed.
-0.8	The cat is attacking a corn husk broom.	Grey and white cat sitting in bathroom sink.
-4.6	The train sits at the train station.	A train parked at a train station.
-4.2	A couple holds a baby.	Couple with newborn baby.
-4.25	A small bird eating from the feeder.	Bird eating from a bird feeder.
-4	Close up of a white sheep with a black head.	A close-up of a sheep with a black head.
-3	Two brown horses standing in grassy field.	Brown horse standing in middle of grassy field.
-5	A young boy laying on a sofa with a dog.	A small boy laying on a sofa with a dog.
+0	Dve ženy sedia v kaviarni.	Dvaja muži chytajú rybu v močiari.
+4	Na podlahe bolo umiestnených osem fliaš harfového ležiaka.	Osem fliaš piva Harfa zoradených na drevenej podlahe.
+4	Kancelária s niekoľkými pracovnými stolmi a zelenými stenami.	Malý kancelársky priestor so žiarivo zelenými stenami.
+2	Žena vedúca bieleho koňa.	Muž v smokingu na bielom koni.
+1.4	Malé dieťa sa usmieva do kamery.	Mačka pri pohľade na fotoaparát.
+2.6	Žena na hnedom koni.	Osoba oblečená v modrom koni hnedého koňa.
+3.2	fotografia televíznej obrazovky premietajúcej film.	Nástenný TV s plochou obrazovkou premieta film.
+4.2	Vtáčik sedel na kvetináči.	Vták posadený na kvetináč vedľa štukovej steny.
+3.4	Biela mačka sediaca vo vnútri umývadla.	Sivá a biela mačka sediaca v umývadle v kúpeľni.
+4.4	Mladá žena v jazdeckom vybavení na vrchole koňa.	Mladé dievča v jazdeckom vybavení na koni.
+3.8	Dvaja ľudia sa plavia na malom člne.	Dve ženy na plachetnici.
+3	Malý vtáčik na maličkom konáriku.	Na ľadovom konári sedel malý vtáčik.
+1.6	Dve zvieratá sediace na skale.	Dvaja orli sediaci na dlhej vetve.
+4.2	Dve mačky sedia na zadnej strane gauča a pozerajú sa z okna.	Dve mačky sedia na operadle gauča a pozerajú sa z okna na fotografiu mora.
+4	Muž na motorke vykonávajúci koleso.	Motocyklista vykonávajúci koleso vedľa automobilu.
+1.8	Osobný vlak čakajúci na stanici mestského vlaku.	Osobný vlak so žltým motorom.
+4.4	Dve mladé ženy strihajú ovcu.	Dve ženy, ktoré strihajú ovcu.
+2.2	Ľavá strana strieborného vlakového motora.	Detailný záber na čierny motor vlaku.
+3.8	Mladý jazdec sa povozí na hnedom koni.	Mladá jazdkyňa na hnedom koni.
+3	Šesť ľudí sedí pri stole v reštaurácii a pozerá do kamery.	Skupina ľudí sediacich pri stole v reštaurácii.
+3.8	Malý biely baránok s nosom k drevu.	Biely baránok s nosom proti drevenej krabici.
+2.8	Po koľajach sa pohybuje čierny vlak.	Dlhý vlak je na koľajisku.
+5	Televízor Philips s plochou obrazovkou je zobrazený s dvoma diaľkovými ovládačmi.	Televízor s plochou obrazovkou Phillips s dvoma diaľkovými ovládačmi.
+0	Pred dokovacou oblasťou je výletná loď.	Kaliko, kocúr, miesto, prostredníctvom, schod pred, dvere.
+4.6	Mladé dievča na bielom a sivom koni.	malé dievčatko jazdí na bielom a sivom koni.
+3.2	Vedľa materiálov na stavbe stojí čierny pes.	Čierny pes stojaci v stavanej miestnosti.
+2.2	Modrý gauč a oddelené postele v obývacej izbe.	Kožený gauč a drevený stôl v obývacej izbe.
+3.6	Vo vode máva krídlami vták.	Čierna labuť mávla krídlami o vodu.
+0.2	Čierna a biela krava stojaca v sene sa obzerá späť do kamery.	Na tráve stojí čiernobiela ovca.
+3.75	Čiernobiela mačka ležiaca na deke.	Čierna a biela mačka ležiaca na mačacej posteli.
+3.8	Mladá žena v jazdeckom vybavení na vrchole koňa.	Žena jazdí na hnedom koni.
+3.4	Lietadlo pripravované na vzlet.	Malé turbovrtuľové lietadlo nakladané na asfaltku.
+0	Biely kožený gauč s kabelkou a na ňu hodená deka.	Televízia so spustenou šou.
+4	Štyria ľudia veslovali po rieke.	Štyria ľudia veslujú na kanoe vo vode.
+3.8	Tmavo hnedý kôň stojaci v poli.	Hnedý kôň na zelenom poli.
+4.2	Kuchyňa s drevenými skrinkami a nábytkom.	Kuchyňa s dreveným stolom a skrinkami.
+3.4	Na podlahe stojí biely bicykel.	Starý štýl bicykla zaparkovaného na podlahe.
+3.2	Vták jediaci z kŕmidla pre vtáky.	Žltý vták konzumujúci ovocie na kŕmidle pre vtáky.
+4	Čierny vták sediaci na betónovej doske.	Čierny vták stojaci na betóne.
+4.4	Dvaja muži sa rozprávali pred lietadlom.	Dvaja muži sa rozprávali pred malým lietadlom.
+3.2	Tmavo sfarbený pes stojaci v trávnatom poli.	Sivý pes stojaci na trávnatom poli.
+3.8	Mladá blondínka s úsmevom a cyklistickou prilbou.	Mladé dievča na sebe cyklistickú prilbu s bicyklom v pozadí.
+3.2	dve mačky, jedna hnedá a druhá biela, ktoré ležali na posteli s modrou prikrývkou.	Dve mačky, jedna zázvorová, druhá biela ležala na posteli.
+0.8	Mačka napáda metlu z kukuričných šupiek.	Sivá a biela mačka sediaca v umývadle v kúpeľni.
+4.6	Vlak sedí na vlakovej stanici.	Vlak zaparkovaný na vlakovej stanici.
+4.2	Pár drží dieťa.	Pár s novorodencom.
+4.25	Malý vtáčik jediaci z krmítka.	Jedenie vtákov z kŕmidla pre vtáky.
+4	Zblízka biela ovca s čiernou hlavou.	Detailný záber na ovcu s čiernou hlavou.
+3	Dva hnedé kone stojace v trávnatom poli.	Hnedý kôň stojaci uprostred trávnatého poľa.
+5	Mladý chlapec ležiaci na pohovke so psom.	Malý chlapec ležiaci na pohovke so psom.
 3.2	Na strome je posadený červený vták.	Malý červený a sivý vtáčik usadený na strome.
-0.4	Two buses parked on a street.	Uličkou zaparkovaný žltý skúter.
-1	A black and white dog looking at the camera.	A grey, black, and white cat looking at the camera.
-0	Two animals sitting on a rock.	The brown train is sitting on the railroad tracks.
-4.8	A train is on the railroad tracks.	A train on the train tracks.
-4	Boy lying on couch with small white dog.	A small boy laying on a sofa with a dog.
-3	Large silver locomotive engine in a shed.	A close-up of a silver train engine with a red stripe.
-2.6	A women sitting at a table drinking with a basketball picture in the background.	A woman in a sari drinks something while sitting at a table.
-3	A green steam engine traveling on the railroad tracks.	A black steam train traveling on the railroad tracks.
-4	A small red car on top of a semi truck.	Red sports car on top of white semi truck.
-3.4	The man poses for a photo in front of the train.	A man stands on a platform in front of a silver train.
-3.4	A bicyclist in black on a black and red racing bike.	Cyklista v čiernej a bielej líre uháňajúci okolo divákov.
-3.8	A kitchen sink and countertop with bowls on shelves.	Malá kuchynka s položenými vecami na policiach a na pulte.
-2.2	A woman is laying down on the floor and holding a baby up above her.	Muž leží na podlahe a drží dieťa nad sebou.
+0.4	Na ulici parkovali dva autobusy.	Uličkou zaparkovaný žltý skúter.
+1	Čiernobiely pes pri pohľade na fotoaparát.	Sivá, čierna a biela mačka pozerajúca sa na fotoaparát.
+0	Dve zvieratá sediace na skale.	Hnedý vlak sedí na koľajisku.
+4.8	Na koľajisku je vlak.	Vlak na koľajisku.
+4	Chlapec ležiaci na gauči s malým bielym psom.	Malý chlapec ležiaci na pohovke so psom.
+3	Veľký strieborný motor lokomotívy v kôlni.	Detailný záber na strieborný motor vlaku s červeným pruhom.
+2.6	Ženy sediace pri stole a s obrázkom basketbalu v pozadí.	Žena v sárí niečo vypije, keď sedí za stolom.
+3	Zelený parný stroj jazdiaci po železničných tratiach.	Čierny parný vlak premávajúci po železničných tratiach.
+4	Malé červené auto na vrchu návesu.	Červené športové auto na vrchole bieleho návesu.
+3.4	Muž pózuje pre fotografiu pred vlakom.	Muž stojí na peróne pred strieborným vlakom.
+3.4	Cyklista v čiernom na čierno-červenom závodnom bicykli.	Cyklista v čiernej a bielej líre uháňajúci okolo divákov.
+3.8	Kuchynský drez a doska s miskami na policiach.	Malá kuchynka s položenými vecami na policiach a na pulte.
+2.2	Žena si ľahne na podlahu a drží dieťa nad sebou.	Muž leží na podlahe a drží dieťa nad sebou.
 1	Čiernobiela krava pozerajúca sa cez plot.	Čiernobiely pes pri pohľade na fotoaparát.
 3.2	Televízia v chaotickej miestnosti s niekoľkými knižnicami.	Izba s televízorom, stereom a policou na knihy.
-2.8	A black and white cat sleeping on its side on a purple blanket.	Čierna a biela mačka ležiaca na zemi na slnku.
-3.8	A woman riding a bicycle on a large concrete area.	A women riding a mountain bike on a large concrete area.
+2.8	Čierna a biela mačka spiaca na boku na fialovej deke.	Čierna a biela mačka ležiaca na zemi na slnku.
+3.8	Žena jazdiaca na bicykli na veľkej betónovej ploche.	Ženy, ktoré jazdia na horských bicykloch na veľkej betónovej ploche.
 2.8	Dve kravy stojace na veľkom poli.	Krava sa pasie na poli.
 3.4	Holohlavý muž sa dotkne nosa čierneho koňa na druhej strane plotu.	Holohlavý muž s bradou si pri plote hladí nos čiernobieleho koňa.
-4	A man is standing next to a yellow sports car.	Muž stojí vedľa žltej korvety.
-3.4	A grey house with a red door.	Dom s červenými dverami.
-0.8	Two women in a clothing store.	Dve ženy na plachetnici.
+4	Muž stojí vedľa žltého športového auta.	Muž stojí vedľa žltej korvety.
+3.4	Sivý dom s červenými dverami.	Dom s červenými dverami.
+0.8	Dve ženy v obchode s odevmi.	Dve ženy na plachetnici.
 3.8	Žena s bielym koňom.	A woman leading a white horse.
 3.2	čiernobiela fotografia kráv v ich stánkoch.	A black and white photo of cattle at a trough.
 4	Starší pán pri pohľade na červenú motorku.	A man looking at a red motorcycle.

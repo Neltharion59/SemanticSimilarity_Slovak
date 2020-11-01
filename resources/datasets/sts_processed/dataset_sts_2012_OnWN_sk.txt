@@ -1,243 +1,243 @@
-5.000	render one language in another language	restate (words) from one language into another language.
-3.250	národy zjednotené spoločnými záujmami, históriou alebo inštitúciami	a group of nations having common interests.
+5.000	vykresliť jeden jazyk v inom jazyku	prepočítať (slová) z jedného jazyka do iného jazyka.
+3.250	národy zjednotené spoločnými záujmami, históriou alebo inštitúciami	skupina národov so spoločnými záujmami.
 3.250	prevádzať na absorbovateľné látky (akoby) tepelným alebo chemickým procesom	zmäkčiť alebo sa rozpadnúť chemickým pôsobením, teplom alebo vlhkosťou.
-4.000	venovať sa alebo sa prispôsobiť výlučne zručnostiam, štúdiu alebo práci	devote oneself to a special area of work.
+4.000	venovať sa alebo sa prispôsobiť výlučne zručnostiam, štúdiu alebo práci	venovať sa osobitnej pracovnej oblasti.
 3.250	vyvýšená drevená veranda domu	veranda, ktorá pripomína palubu na lodi.
-4.000	either half of an archery bow	buď z dvoch polovíc luku od rukoväte po špičku.
+4.000	buď polovica luku z luku	buď z dvoch polovíc luku od rukoväte po špičku.
 3.333	odnímateľné zariadenie, ktoré je doplnkom k väčšiemu predmetu	doplnkový diel alebo príslušenstvo.
-4.750	restrict or confine	place limits on (extent or access).
+4.750	obmedziť alebo obmedziť	obmedziť (rozsah alebo prístup).
 0.500	orientovať, byť umiestnený	byť oproti.
-4.750	Bring back to life, return from the dead	cause to become alive again.
+4.750	Vráťte späť k životu, vráťte sa z mŕtvych	pretože znovu ožije.
 3.750	čokoľvek iluzórne, nie konkrétne alebo skutočné	niečo bez konkrétnej látky.
-4.000	meno alebo vlastnosť, ktorá identifikuje produkt alebo typ veci	a name given to a product or service.
+4.000	meno alebo vlastnosť, ktorá identifikuje produkt alebo typ veci	názov pre produkt alebo službu.
 1.500	spracovanie alebo prevádzka niečoho	nastavený sled krokov, súčasť väčšieho počítačového programu.
-2.500	riadok, obal	cover the front or surface of.
-4.250	určiť normu; odhadnúť kapacitu alebo meranie	estimate the value of.
-3.500	an interpretation, an account or reading of an event or situation	a mental representation of the meaning or significance of something.
-4.250	slávnostná spoločenská udalosť, slávnosť	an occasion on which people can assemble for social interaction and entertainment.
-5.000	Vykonajte jemné úpravy, aby ste dosiahli optimálnu prevádzku. upraviť do určitej mierky.	make fine adjustments or divide into marked intervals for optimal measuring.
-3.750	krátka lyrika alebo báseň určená na spievanie	a narrative song with a recurrent refrain.
+2.500	riadok, obal	pokrývajú prednú časť alebo povrch.
+4.250	určiť normu; odhadnúť kapacitu alebo meranie	odhadnúť hodnotu.
+3.500	výklad, vysvetlenie alebo prečítanie udalosti alebo situácie	mentálna reprezentácia významu alebo významu niečoho.
+4.250	slávnostná spoločenská udalosť, slávnosť	príležitosť, pri ktorej sa ľudia môžu zhromaždiť, za účelom sociálnej interakcie a zábavy.
+5.000	Vykonajte jemné úpravy, aby ste dosiahli optimálnu prevádzku. upraviť do určitej mierky.	urobte jemné úpravy alebo rozdeľte do označených intervalov pre optimálne meranie.
+3.750	krátka lyrika alebo báseň určená na spievanie	výpravná pieseň s opakujúcim sa refrénom.
 2.750	efektívne ovládať alebo manipulovať s konkrétnou entitou	zvládnuť efektívne.
 3.500	zamestnať alebo sa zamestnať na pozícii	ustanoviť niekoho na (pozíciu alebo prácu).
-3.500	group of people defined by a specific profession	organizácia účinkujúcich a pridružený personál (najmä divadelný).
-3.500	nábytok na odkladaciu skrinku	office furniture consisting of a container for keeping papers in order.
+3.500	skupina ľudí definovaná konkrétnym povolaním	organizácia účinkujúcich a pridružený personál (najmä divadelný).
+3.500	nábytok na odkladaciu skrinku	kancelársky nábytok pozostávajúci z nádoby na udržiavanie papiera v poriadku.
 4.250	Signál (schválenie alebo záujem) žmurknutím; krátko zavri jedno oko.	signál žmurknutím.
-2.750	capital stock in a corporation	any of the equal portions into which the capital stock of a corporation is divided and ownership of which is evidenced by a stock certificate.
-2.250	dokázať alebo potvrdiť	establish or strengthen as with new evidence or facts.
-3.750	(the content of) a communication.	komunikácia (zvyčajne krátka), ktorá je písomná, hovorená alebo signalizovaná.
-3.000	a partial denture	zubná protéza ukotvená k zubom na oboch stranách chýbajúcich zubov.
+2.750	základné imanie v spoločnosti	ktorákoľvek z rovnakých častí, na ktoré sa delí základné imanie spoločnosti, a ktorých vlastníctvo sa preukazuje akciovým certifikátom.
+2.250	dokázať alebo potvrdiť	ustanoviť alebo posilniť ako pri nových dôkazoch alebo faktoch.
+3.750	(obsah) komunikácie.	komunikácia (zvyčajne krátka), ktorá je písomná, hovorená alebo signalizovaná.
+3.000	čiastočná zubná protéza	zubná protéza ukotvená k zubom na oboch stranách chýbajúcich zubov.
 2.750	presunúť do nižšej polohy, niečo ukončiť	ukončiť združenie s.
-2.500	flow, as of liquids	reduce or cause to be reduced from a solid to a liquid state, usually by heating.
-2.250	seal, insulate or protect	treat the body or any part of it by wrapping it, as with blankets or sheets, and applying compresses to it, or stuffing it to provide cover, containment, or therapy, or to absorb blood.
-2.500	jazva fyzicky; vytvorte na niekom alebo niečom známku	make underscoring marks.
-3.500	Surround completely; close in, as if with a    covering or border.	obklopiť úplne.
+2.500	prietok, ako kvapaliny	znížiť alebo spôsobiť zníženie z tuhého na kvapalné skupenstvo, zvyčajne zahriatím.
+2.250	utesniť, izolovať alebo chrániť	ošetrite telo alebo jeho časť zabalením ako do prikrývok alebo listov a aplikujte na ne obklady alebo výplne, aby ste poskytli krytie, zadržanie alebo liečbu alebo absorbovali krv.
+2.500	jazva fyzicky; vytvorte na niekom alebo niečom známku	robiť značky podčiarknutia.
+3.500	Obklopte úplne; zblízka, akoby s obalom alebo obrubou.	obklopiť úplne.
 1.250	čin alebo udalosť ukončenia procesu, stavu, situácie	koniec slova (prípona alebo skloňovaná koncovka alebo konečná morféma).
-0.000	the price of a good or service	an assertion that someone is guilty of a fault or offence.
-2.000	depict or portray in art, words, or model	vytvoriť obraz alebo podobu.
+0.000	cena tovaru alebo služby	tvrdenie, že niekto je vinný z chyby alebo priestupku.
+2.000	zobrazujú alebo zobrazujú umenie, slová alebo model	vytvoriť obraz alebo podobu.
 0.750	cestovať dovnútra alebo byť tvarovaný ako cikcak	ohnite sa do tvaru kľuky.
 4.250	Otravujte, obťažujte alebo sa vysmievajte, možno hravo.	zosmiešňovať alebo si z toho hravo robiť srandu.
-0.000	(Príčina) nepríjemného zápachu.	be extremely bad in quality or in one's performance.
-4.000	social ranking or position	the relative position or standing of things or especially persons in a society.
-3.250	uvažovať, zvážiť, pozorne pozorovať	consider in detail and subject to an analysis in order to discover essential features or meaning.
+0.000	(Príčina) nepríjemného zápachu.	byť extrémne zlý na kvalite alebo vo svojom výkone.
+4.000	spoločenské poradie alebo postavenie	relatívne postavenie alebo postavenie vecí alebo najmä osôb v spoločnosti.
+3.250	uvažovať, zvážiť, pozorne pozorovať	zvážiť podrobne a podrobiť analýze s cieľom odhaliť základné vlastnosti alebo význam.
 4.333	presvedčiť alebo dosiahnuť prijatie	presvedčiť niekoho, aby niečo prijal.
 5.000	fyzická látka, ktorá tu zostala po procese odstránenia	hmota, ktorá zostáva po odstránení niečoho.
-3.500	any tall, vertical shape	všetko, čo sa približuje tvaru stĺpu alebo veže.
-4.750	physically inflate	become inflated.
-3.000	ťažký rádioaktívny kovový prvok, atómové číslo 92	a heavy toxic silvery-white radioactive metallic element; occurs in many isotopes; used for nuclear fuels and nuclear weapons.
-3.000	Complain about something or say mean things    to someone.	povedz mysli veci.
+3.500	akýkoľvek vysoký, vertikálny tvar	všetko, čo sa približuje tvaru stĺpu alebo veže.
+4.750	fyzicky nafúknuť	nafúknuť sa.
+3.000	ťažký rádioaktívny kovový prvok, atómové číslo 92	ťažký toxický striebristo biely rádioaktívny kovový prvok; vyskytuje sa v mnohých izotopoch; používané na jadrové palivá a jadrové zbrane.
+3.000	Sťažujte sa na niečo alebo niekomu povedzte zlé veci.	povedz mysli veci.
 3.750	starať sa, byť obťažovaný, byť znepokojený	byť urazený alebo obťažovaný; uraziť sa, nechať sa obťažovať.
-2.750	the tallied points of a game, at a given time	číslo, ktoré vyjadruje úspech tímu alebo jednotlivca v hre alebo súťaži.
+2.750	sčítané body hry v danom čase	číslo, ktoré vyjadruje úspech tímu alebo jednotlivca v hre alebo súťaži.
 2.250	upraviť tak, aby blokovala pravdu; zabrániť distribúcii	podlieha politickej, náboženskej alebo morálnej cenzúre.
-2.500	a casual, brief meeting with someone	náhodné alebo neočakávané zbližovanie.
+2.500	neformálne, krátke stretnutie s niekým	náhodné alebo neočakávané zbližovanie.
 4.250	elektrické spojenie medzi vodičom a zemou	spojenie medzi elektrickým zariadením a veľkým vodivým telesom, napríklad zemou (ktoré sa považuje za nulové napätie).
-4.000	čin agenta pri ukončení činnosti alebo udalosti	the act of ending something.
-4.500	významné alebo známe osobnosti (skutočné alebo vymyslené)	a well-known or notable person.
-3.750	a person who manipulate or controls a device or machine	an agent that operates some apparatus or machine.
+4.000	čin agenta pri ukončení činnosti alebo udalosti	akt niečoho ukončiť.
+4.500	významné alebo známe osobnosti (skutočné alebo vymyslené)	známa alebo pozoruhodná osoba.
+3.750	osoba, ktorá manipuluje alebo ovláda zariadenie alebo stroj	agent, ktorý obsluhuje niektoré prístroje alebo stroje.
 3.250	nájsť, určiť miesto	určiť alebo označiť miesto, miesto alebo limity, akoby prístrojom alebo prieskumom.
 4.250	zapojiť sa do plánovania alebo aktivít nezákonnej alebo klamnej povahy	jednajú jednohlasne alebo dohodou a tajne proti klamlivému alebo nezákonnému účelu.
-3.750	be equivalent, have the same effect as something	be tantamount or equivalent to.
+3.750	byť rovnocenné, mať rovnaký účinok ako niečo	sa rovná alebo je rovnocenné s.
 1.000	(spôsobiť) prežiť	spôsobiť pohyb ťahaním.
-1.000	the money	a voluntary gift (as of money or service or ideas) made to some worthwhile cause.
-3.750	a sudden emotional vocalization	hlasné vyjadrenie emócii (najmä keď nie je vyjadrené).
+1.000	peniaze	dobrovoľný dar (v podobe peňazí, služieb alebo nápadov) poskytnutý pre nejakú hodnotnú vec.
+3.750	náhle emočné vokalizovanie	hlasné vyjadrenie emócii (najmä keď nie je vyjadrené).
 4.000	vrátiť sa, obnoviť, oživiť	vrátiť sa do predchádzajúceho stavu.
 2.750	osídlenie ľudí vzdialených od ich domoviny	skupina ľudí, ktorí sa usadia ďaleko od domova, ale udržiavajú styky so svojou domovinou; obyvatelia zostávajú štátnymi príslušníkmi svojho domovského štátu, ale nie sú doslova pod vládnym systémom domovského štátu.
 3.750	(Objav alebo ukážka) vecných dôkazov, ktoré potvrdzujú pravdivosť niečoho.	formálna séria vyhlásení, ktoré ukazujú, že ak je jedna vec pravdivá, nevyhnutne z nej vyplýva niečo iné.
-1.500	enter a realm, become involved with	spôsobiť pohyb; byť v určitej polohe alebo stave.
-3.250	a project or undertaking	seriózna a svedomitá činnosť zameraná na vykonávanie alebo uskutočňovanie niečoho.
-4.000	a standardized system of measurements for heaviness	sústava jednotiek slúžiacich na vyjadrenie váhy niečoho.
-4.500	a concern or affair	nejaká situácia alebo udalosť, o ktorej sa uvažuje.
+1.500	vstúpiť do ríše, zapojiť sa do	spôsobiť pohyb; byť v určitej polohe alebo stave.
+3.250	projekt alebo podnik	seriózna a svedomitá činnosť zameraná na vykonávanie alebo uskutočňovanie niečoho.
+4.000	štandardizovaný systém merania ťažkosti	sústava jednotiek slúžiacich na vyjadrenie váhy niečoho.
+4.500	záležitosť alebo záležitosť	nejaká situácia alebo udalosť, o ktorej sa uvažuje.
 2.000	mať silnú sexuálnu príťažlivosť	cítiť alebo mať túžbu; silno chcieť.
 1.500	náhradný výraz, výrok pre tabuizované slovo	prázdny znak používaný na oddeľovanie po sebe nasledujúcich slov pri písaní alebo tlači.
-4.000	facility for secure storage of things, often money	zariadenie, kde je možné uložiť veci na uskladnenie alebo na uschovanie.
+4.000	zariadenie na bezpečné uloženie vecí, často peňazí	zariadenie, kde je možné uložiť veci na uskladnenie alebo na uschovanie.
 3.750	vydávať alebo spôsobiť vydávanie hluku	vydať určitý zvuk alebo zvuk.
 2.333	nadviazať fyzický kontakt, možno s účinkom fyzickej manipulácie.	byť v krátkom kontakte s.
 2.500	zistiť alebo byť informovaný o nových informáciách, pochopiť alebo si uvedomiť	spoznať alebo spoznať, zvyčajne náhodne.
 4.500	hlava krajiny	výkonný riaditeľ republiky.
-3.000	Touch with the lips.	touch with the lips or press the lips (against someone's mouth or other body part) as an expression of love, greeting, etc..
-2.750	prirodzená fyzická sila smerujúca k niečomu	the force used in pulling.
+3.000	Dotknite sa pier.	dotknite sa pier alebo stlačte pery (na niekoho ústa alebo inú časť tela) ako prejav lásky, pozdravu atď.
+2.750	prirodzená fyzická sila smerujúca k niečomu	sila použitá pri ťahaní.
 3.000	zmena, ktorá je poklesom	postupný pokles; ako uložený náboj alebo prúd.
-3.000	an evaluation, an estimation of worth, a grade	číslo alebo písmeno označujúce kvalitu (najmä výkon študenta).
-1.750	zodpovednosť za riadenie alebo dohľad	an impetuous rush toward someone or something.
-4.000	fail or suffer failure	ako v niektorých podnikoch.
+3.000	hodnotenie, odhad hodnoty, známka	číslo alebo písmeno označujúce kvalitu (najmä výkon študenta).
+1.750	zodpovednosť za riadenie alebo dohľad	impulzívny nápor k niekomu alebo niečomu.
+4.000	zlyhať alebo zlyhať	ako v niektorých podnikoch.
 4.000	hojnosť niečoho	majetok hojnej hojnosti.
 3.750	Autoritatívny text alebo zodpovedajúca citácia.	krátka poznámka rozpoznávajúca zdroj informácií alebo citovanú pasáž.
 0.500	Príklad vizuálneho vnímania.	(často nasleduje „z“) veľkého počtu alebo množstva alebo rozsahu.
-2.500	kolísať, pohybovať sa tam a späť	sway to and fro.
-1.500	the alleviation of distress	zmena k lepšiemu.
+2.500	kolísať, pohybovať sa tam a späť	hojdať sa tam a späť.
+1.500	zmiernenie núdze	zmena k lepšiemu.
 2.800	Slávnosť pri príležitosti vstupu do náboženskej komunity.	sviatosť prijímajúca pokrsteného k plnej účasti v kostole.
 3.400	spoločenské gesto úctivého pozdravu	zdvorilé vyjadrenie (slovom alebo skutkom) úcty alebo rešpektu.
 0.000	presunúť na nové miesto, štát alebo situáciu	spôsobiť (počítač) vykonanie jediného príkazu.
-1.600	Change one for another	dávať a prijímať jeden od druhého.
+1.600	Vymeňte jednu za druhú	dávať a prijímať jeden od druhého.
 4.000	bodka ako interpunkčné znamienko	interpunkčné znamienko (.) umiestnené na konci deklaratívnej vety na označenie bodky alebo za skratkami.
-3.250	something that is craved	something craved, especially an intravenous injection of a narcotic drug.
+3.250	niečo, po čom túži	niečo túžilo, najmä intravenózna injekcia omamnej látky.
 3.500	rýchlo rásť	rýchlo a nekontrolovane.
-3.500	Hovorte vysokým tónom hlasu, ako by to mohlo byť zvieraťom alebo človekom.	make high-pitched sounds.
-2.500	domesticated animals kept for use or profit	zvláštna paleta domestikovaných zvierat v rámci druhu.
+3.500	Hovorte vysokým tónom hlasu, ako by to mohlo byť zvieraťom alebo človekom.	vydávať vysoké zvuky.
+2.500	domestikované zvieratá chované na použitie alebo na zisk	zvláštna paleta domestikovaných zvierat v rámci druhu.
 2.250	disciplína, odbor vedomostí	disciplína, ktorá zaznamenáva a interpretuje minulé udalosti týkajúce sa ľudí.
 3.333	osoba, ktorá je agresívne prenasledovaná, prenasledovaná	osoba, ktorá je cieľom útoku (najmä obete posmechu alebo vykorisťovania) nejakou nepriateľskou osobou alebo vplyvom.
 2.250	personálna nehoda	vojenský personál stratený smrťou alebo zajatím.
-3.250	escape or avoid a situation or responsibility	použite prefíkanosť alebo podvod, aby ste unikli alebo sa im vyhli.
+3.250	uniknúť alebo vyhnúť sa situácii alebo zodpovednosti	použite prefíkanosť alebo podvod, aby ste unikli alebo sa im vyhli.
 4.000	relatívna strata ceny, hodnoty	strata spôsobená vzdaním sa alebo predajom niečoho v nižšej hodnote, ako je jeho hodnota.
 3.750	merateľný alebo kvantitatívny pokles	náhly prudký pokles určitého množstva.
-3.500	Change the key, pitch, tone, or volume of,    likely for aesthetic reasons.	zmeniť kľúč v hudbe.
+3.500	Zmena výšky tónu, tónu alebo hlasitosti, pravdepodobne z estetických dôvodov.	zmeniť kľúč v hudbe.
 5.000	písomná správa o neprijatí	správa odmietajúca prijať niečo, čo sa ponúka.
-0.500	(cause to) stop speaking or bring about silence	pohybujte sa tak, aby bránili otvoru alebo priechodu; zavrieť.
+0.500	(spôsobiť) prestať hovoriť alebo priviesť ticho	pohybujte sa tak, aby bránili otvoru alebo priechodu; zavrieť.
 3.500	zraniť, poškriabať povrch	rozrezať povrch; opotrebovať povrch.
 2.000	Rastlinná štruktúra v hornej časti rastliny.	plodová štruktúra pripomínajúca dáždnik alebo šišku, ktorá tvorí vrchol stopkatej mäsitej huby, ako je huba.
-2.500	písomný zoznam konkrétnych ponúkaných vecí	a list of particulars (as a playbill or bill of fare).
+2.500	písomný zoznam konkrétnych ponúkaných vecí	zoznam podrobností (ako nákladný list alebo cestovný lístok).
 3.500	písomná poznámková značka, diakritika	diakritická značka používaná na označenie stresu alebo umiestnená nad samohláskou na označenie osobitnej výslovnosti.
-3.250	stav viery alebo dôvery v niečo alebo niekoho	the trait of believing in the honesty and reliability of others.
+3.250	stav viery alebo dôvery v niečo alebo niekoho	vlastnosť viery v čestnosť a spoľahlivosť ostatných.
 4.500	pokus alebo úsilie o dosiahnutie cieľa	pokus niečo získať.
-2.750	zvýšenie množstva, rozsahu alebo intenzity	go up or advance.
+2.750	zvýšenie množstva, rozsahu alebo intenzity	ísť hore alebo postúpiť.
 3.250	vyčistiť, dôkladne umyť	očistite tvrdým trením.
 2.000	zlisujte z tvaru alebo na malé kúsky	sa zrania, zlomia alebo zdeformujú tlakom.
-4.000	point or direct object, weapon, or blow at something or someone	namierte alebo nechajte ísť (údery, zbrane alebo predmety, ako napríklad fotografické vybavenie) smerom k.
-0.750	employ or utilize, put into service	give or convey physically.
-2.500	Roztočte, naviňte, oplete alebo sa spolu krútte, možno ako pri vykonávaní čipiek.	do lacework.
-4.250	ozdobná nádoba, často na držanie kvetov	an open jar of glass or porcelain used as an ornament or to hold flowers.
+4.000	bod alebo priamy predmet, zbraň alebo úder na niečo alebo niekoho	namierte alebo nechajte ísť (údery, zbrane alebo predmety, ako napríklad fotografické vybavenie) smerom k.
+0.750	zamestnať alebo využiť, uviesť do prevádzky	dávať alebo fyzicky sprostredkovať.
+2.500	Roztočte, naviňte, oplete alebo sa spolu krútte, možno ako pri vykonávaní čipiek.	robiť čipky.
+4.250	ozdobná nádoba, často na držanie kvetov	otvorená dóza zo skla alebo porcelánu používaná ako ozdoba alebo na držanie kvetov.
 2.000	konzervovať, udržiavať v bezpečí, šetrne používať	zavaríme s cukrom.
 2.250	otvorený motorový čln používaný na prepravu	motorový čln s otvorenou alebo polovičnou palubou.
 2.750	proces vývoja, rastu alebo pokroku	proces zväčšovania sa alebo zväčšovania počtu alebo dôležitosti.
 3.500	Uistite sa.	buďte opatrní alebo si istí, že niečo urobíte; niečo zabezpečiť.
 2.250	dodať alebo vybaviť niečím potrebným alebo hľadaným	dať niečo užitočné alebo potrebné.
 4.000	nástroj s ostrou čepeľou na holenie vlasov	nástroj na hrany používaný pri holení.
-2.000	učiť sa, asimilovať vedomosti	learn by reading books.
+2.000	učiť sa, asimilovať vedomosti	učiť sa čítaním kníh.
 0.750	podpora; vydržať; živiť alebo starať	predĺžiť alebo predĺžiť trvanie alebo priestor.
-4.000	keep away, prevent from happening, or not do something	zdržať sa niečoho.
-3.500	Niečo, čo poskytuje rady.	something that provides direction or advice as to a decision or course of action.
-2.000	The act of copying the actions of someone else.	a representation of a person that is exaggerated for comic effect.
-2.500	fyzická entita	a separate and self-contained entity.
-2.500	znížiť platnosť, dopad alebo účinok	make less severe or harsh.
+4.000	držte sa ďalej, zabráňte tomu, aby sa stalo, alebo niečo neurobte	zdržať sa niečoho.
+3.500	Niečo, čo poskytuje rady.	niečo, čo poskytuje pokyny alebo rady týkajúce sa rozhodnutia alebo postupu.
+2.000	Akt kopírovania činov niekoho iného.	predstavenie osoby, ktoré je prehnané kvôli komickému efektu.
+2.500	fyzická entita	samostatná a samostatná entita.
+2.500	znížiť platnosť, dopad alebo účinok	robiť menej prísnymi alebo drsnými.
 4.000	úsudok alebo názor na niečo	úsudok o kvalitách niečoho alebo niekoho.
-2.750	flog or whip	beat severely with a whip or rod.
-2.250	konať, formu alebo postupovať podľa plánu alebo ideálu	shape or influence; give direction to.
-3.500	Klíčiť, ako v rastline.	produce buds, branches, or germinate.
+2.750	bič alebo bič	silno biť bičom alebo tyčou.
+2.250	konať, formu alebo postupovať podľa plánu alebo ideálu	tvar alebo vplyv; dať smer.
+3.500	Klíčiť, ako v rastline.	plodiť púčiky, konáre alebo klíčiť.
 1.000	sociálna sféra, rozsah činnosti alebo záujmu	konkrétne prostredie alebo oblasť života.
-4.500	a static vertical layout, e.g. text or numbers	vertikálne pole čísel alebo iných informácií.
+4.500	statické vertikálne usporiadanie, napr. text alebo čísla	vertikálne pole čísel alebo iných informácií.
 2.500	rozpoznať, byť familiárny alebo dobre vyznajúci sa v ňom	byť si vedomý alebo si vedomý skutočnosti alebo konkrétnej informácie; mať vedomosti alebo informácie o.
 2.500	portrét niekoho alebo niečoho prostredníctvom slov alebo správania	akákoľvek podoba osoby v akomkoľvek médiu.
-2.750	a device to control the rate of some activity, e.g., chemical or mechanical	any of various controls or devices for regulating or controlling fluid flow, pressure, temperature, etc..
+2.750	zariadenie na riadenie rýchlosti nejakej aktivity, napr. chemickej alebo mechanickej	ktorékoľvek z rôznych ovládacích prvkov alebo zariadení na reguláciu alebo riadenie prietoku kvapaliny, tlaku, teploty atď.
 3.750	Tvoriť estetický alebo koncepčný celok.	spôsobiť jednotný, usporiadaný a esteticky konzistentný celok.
-4.000	ľudské nohy, neformálne použitie	informal terms for the leg.
-3.750	cieľ alebo cieľ	the goal intended to be attained (and which is believed to be attainable).
-1.750	protect from heat, cold, or other detrimental conditions	place or set apart.
+4.000	ľudské nohy, neformálne použitie	neformálne podmienky pre nohu.
+3.750	cieľ alebo cieľ	cieľ, ktorý sa má dosiahnuť (a o ktorom sa predpokladá, že je dosiahnuteľný).
+1.750	Chráňte pred teplom, chladom alebo inými škodlivými podmienkami	umiestniť alebo odložiť.
 0.750	pridelenie alebo percento niečoho	aktíva, ktoré patria alebo sú splatné jednotlivcovi alebo skupine alebo k nim prispel.
-2.750	something that attains victory	udalosť, ktorá splní svoj zamýšľaný účel.
+2.750	niečo, čo dosiahne víťazstvo	udalosť, ktorá splní svoj zamýšľaný účel.
 4.500	zoradiť alebo vytvoriť paralelne uviesť do správnej úpravy	umiestniť v rade alebo usporiadať tak, aby boli rovnobežné alebo rovné.
-3.750	a home furnishing that is a fabric cover	posteľné prádlo pozostávajúce z ľahkého látkového poťahu (afganského alebo prehozu), ktorý je ležérne prehodený cez niečo.
+3.750	bytové zariadenie, ktorým je textilný poťah	posteľné prádlo pozostávajúce z ľahkého látkového poťahu (afganského alebo prehozu), ktorý je ležérne prehodený cez niečo.
 3.500	sieťovaný rám cez okná a dvere	ochranný obal pozostávajúci zo sieťoviny; je možné namontovať do rámu.
 3.750	miera pravdepodobnosti alebo pravdepodobnosti udalosti	miera pravdepodobnosti, že k nejakej udalosti dôjde; číslo vyjadrujúce pomer priaznivých prípadov k celému možnému počtu prípadov.
 4.000	Každý, kto na niečom súdi alebo zistí chybu.	niekto, kto často zistí chybu alebo urobí tvrdé a nespravodlivé rozsudky.
-2.200	the rescue or release of someone, something	recovery or preservation from loss or danger.
-3.200	observe, perceive	pozorujte pozorne alebo venujte zvýšenú pozornosť.
-2.800	limit, keep under control, deter, forbid	prinútiť alebo odradiť hrozbami alebo akoby od nich hroziť.
+2.200	záchrana alebo prepustenie niekoho, niečoho	zotavenie alebo ochrana pred stratou alebo nebezpečenstvom.
+3.200	pozorovať, vnímať	pozorujte pozorne alebo venujte zvýšenú pozornosť.
+2.800	obmedziť, mať pod kontrolou, odradiť, zakázať	prinútiť alebo odradiť hrozbami alebo akoby od nich hroziť.
 2.800	trčať, vyčnievať, vyčnievať	predĺžiť alebo premietnuť do vesmíru.
-4.500	konať ako hostiteľ domény	be the host of or for.
+4.500	konať ako hostiteľ domény	byť hostiteľom alebo pre.
 2.000	ukončiť, zneplatniť proces, ktorý už začal	zneplatniť.
-1.000	enjoy, be fond of or approve	feel about or towards; consider, evaluate, or regard.
-2.750	na sto	pomer vo vzťahu k celku (čo je zvyčajne suma za sto).
-3.750	približný atribút alebo kvalita niečoho	an approximate definition or example.
-4.250	The act of having and controlling property.	the state or fact of being an owner.
-2.250	a physical protuberance, large or small	a natural elevation (especially a rocky one that juts out into the sea).
+1.000	tešiť sa, mať ich rád alebo schvaľovať	cítiť sa alebo smerom k; zvážiť, vyhodnotiť alebo zohľadniť.
+2.750	na stovke	pomer vo vzťahu k celku (čo je zvyčajne suma za sto).
+3.750	približný atribút alebo kvalita niečoho	približná definícia alebo príklad.
+4.250	Akt vlastnenia a kontroly majetku.	stav alebo skutočnosť, že ste vlastníkom.
+2.250	fyzický výbežok, veľký alebo malý	prírodná vyvýšenina (najmä skalnatá, ktorá vyčnieva do mora).
 3.500	odhadnúť alebo vypočítať číselnú hodnotu niečoho	vyhodnotiť alebo odhadnúť povahu, kvalitu, schopnosť, rozsah alebo významnosť.
-0.500	a portion or percentage of a whole	the part played by a person in bringing about a result.
+0.500	časť alebo percento celku	rolu, ktorú hrá osoba pri dosahovaní výsledku.
 3.250	najľahší najpočetnejší prvok, atómové číslo 1	nekovový jednotný prvok, ktorý je zvyčajne bezfarebný a bez zápachu vysoko horľavý dvojatómový plyn; najjednoduchší a najľahší a najhojnejší prvok vo vesmíre.
-0.000	jednotkové náklady na niečo	a single chance or instance.
-2.000	move back and forth	pohybujte sa alebo kývajte vzostupným a klesajúcim alebo vlnovitým vzorom.
-2.250	cyklické časové rozpätie definované kalendárnym systémom	a period of time containing 365 (or 366) days.
-2.250	face an event and survive; endure	face and withstand with courage.
+0.000	jednotkové náklady na niečo	jediná šanca alebo inštancia.
+2.000	pohybovať sa tam a späť	pohybujte sa alebo kývajte vzostupným a klesajúcim alebo vlnovitým vzorom.
+2.250	cyklické časové rozpätie definované kalendárnym systémom	časové obdobie obsahujúce 365 (alebo 366) dní.
+2.250	čeliť udalosti a prežiť; vydržať	čeliť a vydržať s odvahou.
 4.000	(liek) schopnosť organizmu brániť sa proti chorobám.	(liek) stav, v ktorom môže organizmus odolávať chorobám.
 3.000	vyhlásenie, myšlienka vyjadrená v jazyku	krátke vyhlásenie.
-3.500	plniť si povinnosť	do duty or hold offices; serve in a specific function.
-3.250	vojak, ktorý je členom skupiny špeciálnych síl	a member of a military unit trained as shock troops for hit-and-run raids.
-4.000	stať sa pánom, premáhať, dominovať	get on top of; deal with successfully.
-0.500	area of damaged, cut tissue on a living body	a casualty to military personnel resulting from combat.
-1.750	revolve	change directions as if revolving on a pivot.
-4.000	twice the quantity or amount of something	a quantity that is twice as great as another.
-3.250	Give an incentive for action, provoke or    stir up, urge on, or cause to act.	provoke or stir up.
-3.000	Funeral direction	živnosť pohrebného režiséra.
-4.250	to ignite or catch on fire	vznietiť.
-2.750	a large approximate quantity of some attribute or thing	koncentrovaný príklad niečoho.
-3.000	Medicines	látka, ktorá sa používa ako liek alebo narkotikum.
-3.750	a method for solving a problem	úspešná akcia riešenia problému.
-2.000	reach an objective, attain a benchmark or goal	develop in a positive way.
-1.600	take something or someone away from somewhere	choď preč alebo odíď.
-1.000	a stiffener in a garment	(nautical) brace consisting of a heavy rope or wire cable used as a support for a mast or spar.
+3.500	plniť si povinnosť	vykonávať povinnosti alebo zastávať úrady; slúžiť v konkrétnej funkcii.
+3.250	vojak, ktorý je členom skupiny špeciálnych síl	príslušník vojenskej jednotky vycvičený ako šokové jednotky na nájazdy typu hit-and-run.
+4.000	stať sa pánom, premáhať, dominovať	dostať sa na vrchol; úspešne riešiť.
+0.500	oblasť poškodeného, ​​prerezaného tkaniva na živom tele	nehoda vojenského personálu v dôsledku boja.
+1.750	točiť sa	zmeniť smer, akoby sa točilo na čape.
+4.000	dvojnásobok množstva alebo množstva niečoho	množstvo, ktoré je dvakrát väčšie ako iné.
+3.250	Dajte podnet na akciu, provokujte alebo rozvírte, nabádajte alebo prinútte konať.	vyprovokovať alebo rozprúdiť.
+3.000	Pohrebný smer	živnosť pohrebného režiséra.
+4.250	vznietiť alebo sa vznietiť	vznietiť.
+2.750	veľké približné množstvo nejakého atribútu alebo veci	koncentrovaný príklad niečoho.
+3.000	Lieky	látka, ktorá sa používa ako liek alebo narkotikum.
+3.750	metóda riešenia problému	úspešná akcia riešenia problému.
+2.000	dosiahnuť cieľ, dosiahnuť referenčnú hodnotu alebo cieľ	rozvíjať pozitívnym spôsobom.
+1.600	odniesť odniekiaľ niečo alebo niekoho	choď preč alebo odíď.
+1.000	výstuha v odeve	(námorná) výstuha pozostávajúca z ťažkého lana alebo drôteného kábla používaného ako podpora pre stožiar alebo rahno.
 3.800	vybudovaná podzemná chodba	priechod cez niečo alebo pod niečím, zvyčajne pod zemou (najmä ten pre vlaky alebo autá).
-2.250	discern, identify, or know because of a previous experience	be fully aware or cognizant of.
-3.000	move or change one's own position or quality	move very slightly.
-1.750	začleniť alebo uzavrieť jednu vec do druhej	incorporate a food ingredient into a mixture by repeatedly turning it over without stirring or beating.
+2.250	rozoznať, identifikovať alebo vedieť vďaka predchádzajúcej skúsenosti	byť si plne vedomý alebo vedomý.
+3.000	presunúť alebo zmeniť vlastnú pozíciu alebo kvalitu	hýbať sa veľmi mierne.
+1.750	začleniť alebo uzavrieť jednu vec do druhej	vmiešajte prísadu do zmesi tak, že ju opakovane obraciate bez miešania alebo tepovania.
 1.750	sprievodca, pretiahnuť	prechádzať, prechádzať alebo prechádzať.
-3.400	rescue, redeem, deliver from harm or danger	refrain from harming.
-4.000	beat (as if) with a whip or rod	strike as if by whipping.
-4.400	lekársky postup manuálneho otáčania maternice	manual turning of a fetus in the uterus (usually to aid delivery).
+3.400	zachrániť, vykúpiť, oslobodiť od ujmy alebo nebezpečenstva	zdržať sa ublíženia.
+4.000	šľaháme (akoby) bičom alebo tyčou	štrajkujte akoby bičom.
+4.400	lekársky postup manuálneho otáčania maternice	ručné otočenie plodu v maternici (zvyčajne na uľahčenie pôrodu).
 2.600	vytvorte okraj alebo hranicu	uzavrieť alebo akoby do rámu.
-2.250	restart or continue an activity after an interruption or pause	začať alebo začať odznova.
-2.750	capture, ensnare, discover in the act	discover or come upon accidentally, suddenly, or unexpectedly; catch somebody doing something or in a certain state.
-3.250	initiation, founding, introduction of something	akt prvého založenia niečoho; predstavujeme niečo nové.
-2.750	pokrčená alebo ohnutá forma	an angular or rounded shape made by folding.
-4.500	train, tutor or polish social behavior, taste, judgement	učiť alebo zdokonaľovať diskrimináciu na základe vkusu alebo úsudku.
-3.250	a mental activity of construing or interpreting	an interpretation of a text or action.
-4.250	emphasize; draw attention to; underline	nakreslite čiaru alebo čiary pod nimi, na ktoré chcete upriamiť pozornosť.
-2.000	possibility for the future	predpoveď priebehu choroby.
-3.250	vyžadovať alebo potrebovať niečo, čo chýba	have need of.
-2.750	náznak alebo prejav niečoho, často fyzického	an indication of damage.
+2.250	reštartujte alebo pokračujte v aktivite po prerušení alebo pauze	začať alebo začať odznova.
+2.750	zachytiť, chytiť, objaviť pri čine	objaviť alebo náhodne, náhle alebo neočakávane naraziť; niekoho prichytiť, že niečo robí alebo je v určitom stave.
+3.250	iniciácia, založenie, zavedenie niečoho	akt prvého založenia niečoho; predstavujeme niečo nové.
+2.750	pokrčená alebo ohnutá forma	hranatý alebo zaoblený tvar vyrobený skladaním.
+4.500	trénovať, vychovávať alebo leštiť sociálne správanie, vkus, úsudok	učiť alebo zdokonaľovať diskrimináciu na základe vkusu alebo úsudku.
+3.250	duševná činnosť konštruovania alebo tlmočenia	výklad textu alebo konania.
+4.250	zdôrazniť; upozorniť na; zdôrazniť	nakreslite čiaru alebo čiary pod nimi, na ktoré chcete upriamiť pozornosť.
+2.000	možnosť do budúcnosti	predpoveď priebehu choroby.
+3.250	vyžadovať alebo potrebovať niečo, čo chýba	mať potrebu.
+2.750	náznak alebo prejav niečoho, často fyzického	údaj o škode.
 3.750	náhly, krátky záblesk svetla	chvíľkový jas.
 2.250	prísť alebo priviesť späť k životu, zdraviu, existencii alebo použitiu	spôsobiť prebudenie vedomia.
 3.250	Psychický stav smútku.	duševný stav charakterizovaný pesimistickým pocitom nedostatočnosti a skleslým nedostatkom aktivity.
-3.750	zmena polohy alebo umiestnenia	the act of changing the location of something.
+3.750	zmena polohy alebo umiestnenia	akt zmeny polohy niečoho.
 3.750	(spôsobiť) pohyb v priestore, okruhu alebo systéme, usu. návrat do východiskového bodu	pohybovať sa v kruhoch.
-3.750	uviesť do súladu	bring (several things) into consonance or relate harmoniously.
-1.500	submit, send to	spôsobiť pohyb; byť v určitej polohe alebo stave.
-3.750	state of being unified	stav spojenia alebo zjednotenia alebo prepojenia.
+3.750	uviesť do súladu	zosúladiť (niekoľko vecí) alebo harmonicky súvisieť.
+1.500	odoslať, poslať na	spôsobiť pohyb; byť v určitej polohe alebo stave.
+3.750	stav zjednotenia	stav spojenia alebo zjednotenia alebo prepojenia.
 3.000	(Príčina) sa môže líšiť alebo získať iný charakter, pravdepodobne počas vývoja.	stať sa odlišným a získať iný charakter.
-3.500	an objective or goal	cieľ, ktorý sa má dosiahnuť (a o ktorom sa predpokladá, že je dosiahnuteľný).
-3.500	seize and take captive; take or gain possession of something	take possession of by force, as after an invasion.
-3.250	dávať, venovať, sľubovať	give entirely to a specific person, activity, or cause.
-4.000	decide a specific time for an event	urobiť rozvrh; naplánujte čas a miesto konania udalostí.
+3.500	cieľ alebo cieľ	cieľ, ktorý sa má dosiahnuť (a o ktorom sa predpokladá, že je dosiahnuteľný).
+3.500	zmocniť sa a zajať; niečo prevziať alebo získať	zmocniť sa násilím, ako po invázii.
+3.250	dávať, venovať, sľubovať	dať úplne konkrétnej osobe, činnosti alebo veci.
+4.000	rozhodnúť o konkrétnom čase konania udalosti	urobiť rozvrh; naplánujte čas a miesto konania udalostí.
 4.750	vážiť si vec alebo postup viac ako iné	ako lepšie; vyššiu hodnotu.
-3.750	give something for a cause	give to a charity or good cause.
-3.750	furnish with a guideline	vybaviť rubrikami alebo regulovať pomocou rubrík.
-2.500	a social entreaty, as courtship or pleading	petícia alebo odvolanie podané voči osobe s vyšším postavením alebo postavením.
-2.250	zlyhajú na sile alebo zdraví a prestanú fungovať	break down, literally or metaphorically.
+3.750	dať niečo pre vec	dať na charitu alebo na dobrú vec.
+3.750	poskytnúť usmernenie	vybaviť rubrikami alebo regulovať pomocou rubrík.
+2.500	spoločenská prosba ako dvorenie alebo prosba	petícia alebo odvolanie podané voči osobe s vyšším postavením alebo postavením.
+2.250	zlyhajú na sile alebo zdraví a prestanú fungovať	doslova alebo metaforicky rozdeliť.
 3.667	odpovedať ústne alebo písomne ​​na otázku, komentár, list alebo prejav	reagovať slovne.
-3.750	a slight cut in a physical surface	mierny povrchový rez (najmä zárez, ktorý je vyrobený tak, aby sa zhodoval).
-3.250	cause something to be the case	cause to move; cause to be in a certain position or condition.
+3.750	mierny rez na fyzickom povrchu	mierny povrchový rez (najmä zárez, ktorý je vyrobený tak, aby sa zhodoval).
+3.250	spôsobiť, aby to tak bolo	spôsobiť pohyb; byť v určitej polohe alebo stave.
 4.000	stav uväznenia na malom priestore	čin nútenia sa (alebo nútenia) do alebo cez obmedzený priestor.
 4.000	uviesť alebo vysvetliť význam	uveďte definíciu významu slova.
-1.250	cause animals to move	pursue for food or sport (as of wild animals).
-4.500	be against, resist	konať proti alebo v rozpore s.
-4.250	a quantity of money added to a bank account	money deposited in a bank or some similar institution.
-3.250	cause to come into existence; create	bring into being.
+1.250	spôsobiť pohyb zvierat	venovať sa jedlu alebo športu (ako divé zvieratá).
+4.500	byť proti, odolávať	konať proti alebo v rozpore s.
+4.250	množstvo peňazí pripísaných na bankový účet	peniaze uložené v banke alebo v podobnej inštitúcii.
+3.250	spôsobiť vznik; vytvoriť	uskutočniť.
 2.500	Výkon, rutina	krátke divadelné predstavenie, ktoré je súčasťou dlhšieho programu.
 4.250	ľudia sa zhromažďovali v rytmickom pohybe	partia ľudí zhromaždených na tanec.
-3.000	počítačový server	(computer science) a computer that provides client stations with access to files and printers as shared resources to a computer network.
+3.000	počítačový server	(informatika) počítač, ktorý poskytuje klientskym staniciam prístup k súborom a tlačiarňam ako zdieľané prostriedky do počítačovej siete.
 2.250	zakazovať, zakazovať	zakázať verejnú distribúciu (filmu alebo novín).
-3.000	počítačové textové súbory	(computer science) a computer file that contains text (and possibly formatting instructions) using seven-bit ASCII characters.
-2.250	a speech act of acknowledging gratitude for something	uznanie ocenenia.
-3.333	a state of pretending to be someone, something else	vonkajšie zdanie, ktoré skresľuje skutočnú podstatu niečoho.
-2.750	Become widespread as an idea or feeling.	všeobecne známe.
-0.000	connect with; reach a target or goal	perceive with the senses quickly, suddenly, or momentarily.
+3.000	počítačové textové súbory	(informatika) počítačový súbor, ktorý obsahuje text (a prípadne pokyny na formátovanie) pomocou sedembitových znakov ASCII.
+2.250	rečový akt uznania vďačnosti za niečo	uznanie ocenenia.
+3.333	stav vydávania sa za niekoho, niečo iné	vonkajšie zdanie, ktoré skresľuje skutočnú podstatu niečoho.
+2.750	Staňte sa rozšíreným ako nápad alebo pocit.	všeobecne známe.
+0.000	spojiť s; dosiahnuť cieľ alebo cieľ	vnímať zmyslami rýchlo, náhle alebo na chvíľu.
 4.750	príjem vybraný vládou ako daň	vládny príjem z dôvodu zdanenia.
 2.000	byť rozhodujúcim faktorom stavu veci alebo výsledku	tvar alebo vplyv; dať smer.
 3.000	koniec	ukončiť.
@@ -246,459 +246,459 @@
 2.000	usporiadanie	logické alebo zrozumiteľné usporiadanie samostatných prvkov.
 3.750	systém usporiadania	schéma usporiadania.
 3.750	uzavrieť v medziach; pozbaviť slobody	uzavrieť v medziach, obmedziť alebo zabrániť pohybu.
-4.750	to collect, acquire or gather	get or gather together.
-0.500	deliver a formal talk or reprimand at length	prísne alebo nahnevane odsúdiť.
-5.000	pár párených ľudí, napr. ženatý	a pair of people who live together.
-4.750	rot; become unfit for consumption	stanú nevhodnými na konzumáciu alebo použitie.
-3.250	uzamknúť navzájom	become engaged or intermeshed with one another.
+4.750	zbierať, získavať alebo zhromažďovať	zhromaždiť alebo zhromaždiť.
+0.500	predniesť formálny rozhovor alebo napomenutie	prísne alebo nahnevane odsúdiť.
+5.000	pár párených ľudí, napr. ženatý	dvojica ľudí, ktorí spolu žijú.
+4.750	hniloba; nespôsobilé na konzumáciu	stanú nevhodnými na konzumáciu alebo použitie.
+3.250	uzamknúť navzájom	zasnúbiť sa alebo sa navzájom spojiť.
 4.500	skladať sľuby, pripojiť sa alebo povoliť vstúpiť do rehole	skladať sľuby, ako v reholi.
-4.750	činnosť predaja	the general activity of selling.
+4.750	činnosť predaja	všeobecná činnosť predaja.
 4.500	rozdávať, dovoliť mať	dovoliť mať.
-4.750	secondary public school, grades 9-12	verejná stredná škola zvyčajne vrátane ročníkov 9. až 12. ročníka.
+4.750	stredná štátna škola, ročníky 9-12	verejná stredná škola zvyčajne vrátane ročníkov 9. až 12. ročníka.
 3.000	Benjamin Rush, lekár a vodca amerických revolúcií.	lekár a vodca amerických revolúcií; signatár Deklarácie nezávislosti (1745-1813).
 2.500	batožinový priestor automobilu	Britský výraz pre batožinový priestor v automobile.
-4.500	have a monopoly of; control fully	mať alebo využívať monopol na.
-3.750	redukovať na jednoduchšiu molekulárnu zlúčeninu	reduce (petroleum) to a simpler compound by cracking.
-2.500	spôsobiť záujem	attract; cause to be enamored.
-3.500	Zostať emocionálne alebo intelektuálne pripútaný bez nevyhnutného fyzického kontaktu.	to remain emotionally or intellectually attached.
-4.750	The act of transporting goods commerically at rates cheaper than express rates.	transporting goods commercially at rates cheaper than express rates.
+4.500	mať monopol na; plne ovládať	mať alebo využívať monopol na.
+3.750	redukovať na jednoduchšiu molekulárnu zlúčeninu	redukciou (ropou) na jednoduchšiu zmes krakovaním.
+2.500	spôsobiť záujem	prilákať; byť zamilovaný.
+3.500	Zostať emocionálne alebo intelektuálne pripútaný bez nevyhnutného fyzického kontaktu.	zostať citovo alebo intelektuálne pripútaný.
+4.750	Čin komerčnej prepravy tovaru za ceny lacnejšie ako expresné sadzby.	komerčná preprava tovaru za ceny lacnejšie ako expresné sadzby.
 4.500	(Výskyt) ochrany alebo riadenia prírodných zdrojov.	ochrana a starostlivé riadenie životného prostredia a prírodných zdrojov.
-4.000	remove the pod, husk or shell	vypadnúť z tobolky alebo plevy.
+4.000	odstráňte lusk, šupku alebo škrupinu	vypadnúť z tobolky alebo plevy.
 4.000	zdržať sa stravovania alebo určitých jedál	zdržať sa stravovania.
-4.000	cítiť sa horúci alebo bolestivý, akoby horel	feel hot or painful.
-4.750	(cause to) return after being refused	come back after being refused.
-4.250	strata funkcie	loss of ability to function normally.
+4.000	cítiť sa horúci alebo bolestivý, akoby horel	cítiť sa horúci alebo bolestivý.
+4.750	(spôsobiť) návrat po odmietnutí	vrátiť sa po odmietnutí.
+4.250	strata funkcie	strata schopnosti normálne fungovať.
 3.500	správca, ten, kto riadi zdroje	niekto, kto kontroluje zdroje a výdavky.
-3.750	varná doska, kuchynský spotrebič	a kitchen appliance used for cooking food.
-4.500	vypláchnuť si ústa ústnou vodou, kloktať	rinse one's mouth and throat with mouthwash.
-4.000	a quantity that is an approximate calculation	an approximate calculation of quantity or degree or worth.
-4.000	otočiť sa na os; točiť sa	turn on or around an axis or a center.
-5.000	marriage offer	ponuka na sobáš.
+3.750	varná doska, kuchynský spotrebič	kuchynský spotrebič používaný na varenie jedla.
+4.500	vypláchnuť si ústa ústnou vodou, kloktať	vypláchnite si ústa a hrdlo ústnou vodou.
+4.000	veličina, ktorá je približným výpočtom	približný výpočet množstva alebo stupňa alebo hodnoty.
+4.000	otočiť sa na os; točiť sa	zapnúť alebo okolo osi alebo stredu.
+5.000	ponuka na sobáš	ponuka na sobáš.
 3.500	Pokúste sa získať priazeň lichotením alebo prejavom poddanosti alebo strachu.	ukázať poddanie alebo strach.
 4.250	verejné predloženie právneho záznamu	zápis právneho dokumentu do verejného záznamu.
-4.000	Shrivel, wither, or mature imperfectly, as of a flower.	scvrknúť alebo vädnúť alebo nedokonale dozrieť.
+4.000	Kvetne, vädne alebo nedokonale dozrieva ako kvet.	scvrknúť alebo vädnúť alebo nedokonale dozrieť.
 4.250	veriť si, staviť na	mať vieru alebo dôveru v.
-4.250	vzplanutie (telic)	start to burn or burst into flames.
+4.250	vzplanutie (telic)	začať horieť alebo vzplanúť.
 4.500	Kognitívne procesy a schopnosť pamätať.	kognitívne procesy, vďaka ktorým sa pamätá na minulé skúsenosti.
 4.000	mechanizmus, ktorý riadi hladinu vody v časti kanála	uzáver pozostávajúci z časti kanála, ktorý sa dá uzavrieť na kontrolu hladiny vody; používa sa na zdvíhanie alebo spúšťanie plavidiel, ktoré ním prechádzajú.
-5.000	strašná starosť alebo starosť	an onerous or difficult concern.
+5.000	strašná starosť alebo starosť	ťažké alebo ťažké znepokojenie.
 5.000	niekto alebo niečo, čo je agentom plnenia želaných očakávaní	niekto (alebo niečo), na čo sa sústreďujú očakávania.
-3.333	ostrá strana predmetu	a sharp side formed by the intersection of two surfaces of an object.
+3.333	ostrá strana predmetu	ostrá strana tvorená priesečníkom dvoch povrchov objektu.
 2.750	razantný úder lopty	zasiahnutie vodiča golfovým loptičkou z odpaliska.
 3.500	Jemný práškový materiál; zvyšky niečoho zničeného alebo rozbitého.	zvyšky niečoho, čo bolo zničené alebo rozbité.
 2.000	hádzať silou	vysloviť silou; úplne vehementne.
-4.000	Liečte látku nejakým prostriedkom; pridať agenta do.	treat with an agent; add (an agent) to.
+4.000	Liečte látku nejakým prostriedkom; pridať agenta do.	liečiť agentom; pridať (agenta) do.
 3.500	prejsť pažerákom	prechádzať pažerákom ako súčasť stravovania alebo pitia.
-4.750	move freely (usually within a bounded space)	cause to move or operate freely within a bounded space.
-3.500	secrete or form water	vylučujú alebo tvoria vodu ako slzy alebo sliny.
-4.000	stav kontaktu	the state of being connected.
-3.500	variant hudobnej témy, ktorý využíva poznámky so zníženou dobou trvania od pôvodnej témy	the statement of a theme in notes of lesser duration (usually half the length of the original).
+4.750	pohybovať sa voľne (zvyčajne v obmedzenom priestore)	pohybovať sa alebo pracovať voľne v obmedzenom priestore.
+3.500	vylučujú alebo tvoria vodu	vylučujú alebo tvoria vodu ako slzy alebo sliny.
+4.000	stav kontaktu	stav spojenia.
+3.500	variant hudobnej témy, ktorý využíva poznámky so zníženou dobou trvania od pôvodnej témy	vyjadrenie témy v poznámkach s kratším trvaním (zvyčajne v polovici dĺžky originálu).
 3.750	nadchádzajúci čas	čas ešte len príde.
 4.750	právny stav dlženia peňazí	stav dlhu (najmä peňazí).
-4.500	a style and size of typeset	konkrétna veľkosť a štýl typu v rámci typovej rodiny.
+4.500	štýl a veľkosť sadzby	konkrétna veľkosť a štýl typu v rámci typovej rodiny.
 4.000	požadovať, žiadať alebo brať si za svoje	dopyt ako vecná náležitosť alebo majetok; domáhať sa svojho práva alebo titulu.
-3.500	Spôsobiť nedôveru alebo odmietnutie; poškodiť dobré meno spoločnosti.	damage the reputation of.
-3.000	Give equal rights to, as of the right to vote.	dať rovnaké práva; žien a menšín.
-3.000	(cause to) lengthen or expand in time or some abstract realm	predĺžiť v čase; spôsobiť alebo trvať dlhšie.
+3.500	Spôsobiť nedôveru alebo odmietnutie; poškodiť dobré meno spoločnosti.	poškodiť dobré meno spoločnosti.
+3.000	Udeliť rovnaké práva ako volebné právo.	dať rovnaké práva; žien a menšín.
+3.000	(spôsobiť) predĺženie alebo rozšírenie v čase alebo v nejakej abstraktnej sfére	predĺžiť v čase; spôsobiť alebo trvať dlhšie.
 4.750	batoh, zväzok na zadnej strane	zväzok (najmä jeden nesený na zadnej strane).
-4.250	a person who delivers information or goods	osoba, ktorá dopravuje (prenáša alebo prenáša).
-4.250	mať intuitívne porozumenie alebo ocenenie niečoho	an intuitive understanding of something.
-5.000	dodržiavanie morálnych zásad	adhering to moral principles.
+4.250	osoba, ktorá dodáva informácie alebo tovar	osoba, ktorá dopravuje (prenáša alebo prenáša).
+4.250	mať intuitívne porozumenie alebo ocenenie niečoho	intuitívne pochopenie niečoho.
+5.000	dodržiavanie morálnych zásad	dodržiavanie morálnych zásad.
 5.000	mať sex s	mať pohlavný styk s.
-4.750	zúčastniť sa alebo usporiadať banket	partake in a feast or banquet.
-4.750	idolize/show devotion to	prejaviť oddanosť (božstvu).
-5.000	vydať tikajúci zvuk	make a clicking or ticking sound.
-3.250	run or flow slowly	bežať alebo prúdiť pomaly, ako po kvapkách alebo v nestabilnom prúde.
+4.750	zúčastniť sa alebo usporiadať banket	zúčastniť sa na hostine alebo hostine.
+4.750	idolizovať / prejavovať oddanosť	prejaviť oddanosť (božstvu).
+5.000	vydať tikajúci zvuk	vydať zvuk klikania alebo tikania.
+3.250	bežať alebo prúdiť pomaly	bežať alebo prúdiť pomaly, ako po kvapkách alebo v nestabilnom prúde.
 4.500	Napíš počítačový program.	napísať počítačový program.
-5.000	stav spoločenského poriadku v súlade s existujúcim zákonom	a state of order in which events conform to the law.
-4.500	An electronic storage device.	elektronické pamäťové zariadenie.
-4.250	a reference line used to align lettering	svetlá čiara, ktorá sa používa pri písaní písmen na uľahčenie zarovnania písmen.
-3.750	the quality of dedication, fixity of purpose	the trait of sincere and steadfast fixity of purpose.
+5.000	stav spoločenského poriadku v súlade s existujúcim zákonom	stav, v ktorom sú udalosti v súlade so zákonom.
+4.500	Elektronické úložné zariadenie.	elektronické pamäťové zariadenie.
+4.250	referenčný riadok používaný na zarovnanie písma	svetlá čiara, ktorá sa používa pri písaní písmen na uľahčenie zarovnania písmen.
+3.750	kvalita odhodlania, stálosť účelu	znakom úprimnej a nezlomnej stálosti účelu.
 4.000	Krátko sa na niečo pozri.	nenápadne hľadieť.
 3.500	odhodiť, niečoho sa zbaviť	zbaviť sa.
 4.250	znovuzískajte pozíciu alebo sa vráťte späť	získať alebo nájsť späť; obnoviť použitie.
 4.750	koeficient priradený prvkom vo frekvenčnom rozdelení, aby sa určila relatívna dôležitosť každého prvku	(štatistika) koeficient priradený prvkom frekvenčného rozdelenia s cieľom vyjadriť ich relatívny význam.
-4.000	(spôsobiť) sa pohybovať	cause to move round and round.
-3.000	become due	splatné.
+4.000	(spôsobiť) sa pohybovať	spôsobiť pohybovať sa dokola.
+3.000	stať sa splatným	splatné.
 3.500	Poskytnite lekársku starostlivosť pre.	poskytovať veterinárnu starostlivosť pre.
 3.750	prerobiť, urobiť nové	urobiť nový.
 4.500	natrieť, zakryť alebo ošetriť povrch	dať kabát; pokryť povrch; vybaviť povrchom.
-4.000	BASEBALL: strike out a batter	škrtnúť (cesto), (z džbánu).
-3.250	Regain or make up for, as of a financial loss.	znovu získať alebo nahradiť.
+4.000	BASEBALL: vyškrtnite cesto	škrtnúť (cesto), (z džbánu).
+3.250	Získať späť alebo nahradiť, kvôli finančnej strate.	znovu získať alebo nahradiť.
 4.750	duplikát, zhoda	duplikát alebo zhoda.
 4.250	nevýrazné hlasové artikulácie	nevýrazná artikulácia.
-4.000	akt odhodenia niečoho preč	the act of applying force in order to move something away.
-5.000	pohybovať alebo jazdiť razantne, akoby úderom.	drive forcibly as if by a punch.
+4.000	akt odhodenia niečoho preč	čin pôsobenia sily s cieľom niečo pohnúť.
+5.000	pohybovať alebo jazdiť razantne, akoby úderom.	jazdiť nasilu akoby úderom.
 4.750	intenzívne prekvapenie, často nepríjemné	nepríjemné alebo sklamaním prekvapenie.
-4.250	Make less emotionally hostile; win over          mentally or emotionally.	urobte menej nepriateľskými; zvíťaziť.
+4.250	Robte menej emocionálne nepriateľskými; zvíťaziť psychicky alebo emocionálne.	urobte menej nepriateľskými; zvíťaziť.
 4.250	neformálne použitie pre domácu mačku, často mladú	neformálne výrazy odkazujúce na domácu mačku.
-4.750	Akt triedenia jednej veci od ostatných.	sorting one thing from others.
-4.000	čin fyzického pripájania alebo spájania vecí	the act of fastening things together.
-4.000	the people who dwell in a camp	a group of people living together in a camp.
-5.000	An unforseen development.	nepredvídaný vývoj.
-3.000	bring into general popular/common use	uspokojiť obľúbený vkus, aby sa stal populárnym a predstavil širokej verejnosti; všeobecné alebo bežné použitie.
+4.750	Akt triedenia jednej veci od ostatných.	triedenie jednej veci od ostatných.
+4.000	čin fyzického pripájania alebo spájania vecí	akt spoločného spojenia vecí.
+4.000	ľudí, ktorí bývajú v tábore	skupina ľudí žijúcich spolu v tábore.
+5.000	Neočakávaný vývoj.	nepredvídaný vývoj.
+3.000	uviesť do všeobecného populárneho / bežného používania	uspokojiť obľúbený vkus, aby sa stal populárnym a predstavil širokej verejnosti; všeobecné alebo bežné použitie.
 3.250	robiť nečisté; urobiť rádioaktívnym	urobiť nečistým.
-4.750	a long, thin implement, usually made of wood	náradie pozostávajúce z dĺžky dreva.
+4.750	dlhý tenký nástroj, zvyčajne vyrobený z dreva	náradie pozostávajúce z dĺžky dreva.
 4.000	Formálne odmietnuť alebo vzdať sa predtým vierovyznania; odvolať vyhlásenie.	formálne odmietnuť alebo vzdať sa predtým držanej viery, zvyčajne pod tlakom.
 2.250	(Príčina pre) otočiť sa na ľavú stranu.	otočte alebo choďte do prístavu alebo na ľavú stranu lode.
 3.750	Ochuťte ako nevyhnutný sprievod alebo výsledok	uložiť, zahrnúť alebo naznačiť ako potrebný sprievod alebo výsledok.
-4.250	Physically attach to something.	opraviť; pripojiť.
-4.750	assign to a particular task	priradiť ku konkrétnej úlohe.
-3.750	culminating event	byť vrcholnou udalosťou.
+4.250	Fyzicky sa k niečomu pripútať.	opraviť; pripojiť.
+4.750	priradiť ku konkrétnej úlohe	priradiť ku konkrétnej úlohe.
+3.750	vrcholná udalosť	byť vrcholnou udalosťou.
 4.750	akt konštruovania	akt niečoho zostrojiť.
-4.750	primárna súčasť spracovania informácií v počítači, mikroprocesorový čip	(computer science) the part of a computer (a microprocessor chip) that does most of the data processing.
-4.000	consider again, usually with a view to changing	znovu zvážte (návrh zákona), o ktorom sa už hlasovalo, s cieľom zmeniť ho.
+4.750	primárna súčasť spracovania informácií v počítači, mikroprocesorový čip	(informatika) časť počítača (mikroprocesorový čip), ktorá vykonáva väčšinu údajov.
+4.000	znovu zvážte, zvyčajne s ohľadom na zmeny	znovu zvážte (návrh zákona), o ktorom sa už hlasovalo, s cieľom zmeniť ho.
 3.500	zrušiť, obrátiť, zrušiť	zrušiť, zrušiť alebo zvrátiť činnosť alebo jej účinok.
-4.500	definovať; určiť základné vlastnosti	determine the essential quality of.
+4.500	definovať; určiť základné vlastnosti	určiť základnú kvalitu.
 3.250	Prenasledovanie, zabíjanie alebo odchyt zvierat.	prenasledovanie, zabíjanie alebo odchyt divých zvierat považovaných za šport.
 3.500	manipulovať s registrami hudobného nástroja	manipulovať s registrami orgánu.
 3.750	pohybovať sa nepravidelne	pohybovať sa tam a späť alebo z miesta na miesto zvyčajne nepravidelným spôsobom.
 4.000	zákonné priznanie alebo pridelenie práv	akt udelenia práv.
-3.750	jolt of electrical current to the body	a reflex response to the passage of electric current through the body.
+3.750	náraz elektrického prúdu do tela	reflexná reakcia na prechod elektrického prúdu telom.
 4.000	Otehotnieť	otehotnieť; podstúpiť počatie.
-3.750	the bestowing of a franchise, enfranchisment	the act of certifying or bestowing a franchise on.
-3.750	act of distributing	the act of apportioning or distributing something.
-4.500	Stav viac ako spokojnosti alebo sýtosti.	the state of being more than full.
-4.000	conscious subjective emotion or desire	vedomý subjektívny aspekt pocitu alebo emócie.
-3.750	Akt navrhovania niekoho ako kandidáta na niečo.	the condition of having been proposed as a suitable candidate for appointment or election.
+3.750	udelenie franšízy, udelenie franšízy	akt osvedčenia alebo udelenia franšízy.
+3.750	akt distribúcie	akt rozdelenia alebo distribúcie niečoho.
+4.500	Stav viac ako spokojnosti alebo sýtosti.	stav viac ako plný.
+4.000	vedomá subjektívna emócia alebo túžba	vedomý subjektívny aspekt pocitu alebo emócie.
+3.750	Akt navrhovania niekoho ako kandidáta na niečo.	podmienka byť navrhnutý ako vhodný kandidát na vymenovanie alebo zvolenie.
 4.000	loviť sluku	loviť alebo strieľať sluky.
-3.500	hunt for hawks	hunt with hawks.
+3.500	lov na jastrabov	lov s jastrabmi.
 1.750	súvislá vodorovná vrstva tehly	(konštrukcia) vrstva muriva.
 3.750	krátky pokus o nejaké úsilie	obyčajne krátky pokus.
-4.000	propagation of waves back from a surface	jav rozmnožovacej vlny (svetla alebo zvuku) odhodenej späť z povrchu.
-3.500	examine minutely; search diligently	examine minutely.
-3.000	enjoy, be fond of or approve	be fond of.
-5.000	a person under the guardianship or custody of another	osoba, ktorá je pod ochranou alebo vo väzbe iného.
-4.750	Strike or hit sharply, perhaps as in sport.	štrajkujte ostro, ako pri niektorých športoch.
-5.000	Fly in or on a glider plane	fly in or as if in a glider plane.
+4.000	šírenie vĺn späť z povrchu	jav rozmnožovacej vlny (svetla alebo zvuku) odhodenej späť z povrchu.
+3.500	skúmať každú chvíľu; usilovne hľadaj	skúmať každú chvíľu.
+3.000	tešiť sa, mať ich rád alebo schvaľovať	mať rád.
+5.000	osoba v opatrovníctve alebo v opatrovníctve inej osoby	osoba, ktorá je pod ochranou alebo vo väzbe iného.
+4.750	Prudko udrite alebo zasiahnete, možno ako v športe.	štrajkujte ostro, ako pri niektorých športoch.
+5.000	Leťte do alebo na klzáku	priletieť alebo akoby v klzáku.
 4.750	štvrtinu roka	štvrtá časť roka; tri mesiace.
-2.750	make an abstract thing tight or more restrictive	make tight or tighter.
-4.500	poskytnúť (osobe alebo skupine) moc alebo autoritu	provide with power and authority.
+2.750	urobte abstraktnú vec tesnejšou alebo obmedzujúcejšou	urobte tesné alebo tesnejšie.
+4.500	poskytnúť (osobe alebo skupine) moc alebo autoritu	poskytnúť moc a autoritu.
 3.750	Beh vykonávajte mierne rýchlym tempom, čo sa týka cvičenia.	bežať mierne rýchlym tempom.
 4.750	Obálka úplne; vytvoriť kryt.	tvoria nepreniknuteľný kryt.
-4.250	mold for casting, setting concrete	a mold for setting concrete.
-3.500	cause friction; wear away or erode	opotrebovať sa alebo erodovať.
+4.250	forma na liatie, tuhnutie betónu	forma na tuhnutie betónu.
+3.500	spôsobiť trenie; opotrebovať sa alebo erodovať	opotrebovať sa alebo erodovať.
 4.500	Cit pre niečo, po čom sa intenzívne túži.	niečo, po čom sa intenzívne túži.
 4.250	vložte alebo uložte do fľaše	skladujte (kvapaliny alebo plyny) vo fľašiach.
-4.000	Be a sign or indication of; have as a meaning.	be a sign or indication of.
+4.000	Byť znakom alebo označením; mať ako význam.	byť znakom alebo údajom o.
 4.250	akt výberu, výber jedného z mnohých	akt výberu alebo výberu.
-4.250	act of becoming distant, moving away from	akt vzdialenia sa.
-3.750	vziať do manželstva; vykonať svadobný obrad	take in marriage.
-4.500	Skip, leap, or move up and down or sideways          as a manner of motion.	skip, leap, or move up and down or sideways.
+4.250	čin vzdialenosti, vzďaľovania sa od	akt vzdialenia sa.
+3.750	vziať do manželstva; vykonať svadobný obrad	vziať do manželstva.
+4.500	Ako spôsob pohybu môžete preskakovať, skákať alebo sa pohybovať hore a dole alebo do strán.	preskakovať, skákať alebo sa pohybovať hore a dole alebo do strán.
 3.250	vojenské opevnenie, pevnosť	pevnosť.
-3.250	módna elita danej komunity	the fashionable elite.
-4.500	charakteristické volanie zvieraťa	the characteristic utterance of an animal.
-4.500	urobiť alebo stať sa akútnejším alebo intenzívnejším	make more intense, stronger, or more marked.
-4.250	A journey for some purpose.	cesta za nejakým účelom (zvyčajne vrátane návratu).
-4.000	Falošné alebo sfalšované; kontrolu podvodným spôsobom.	manipulate in a fraudulent manner.
-3.250	ovocie uvarené s cukrom, džem	fruit preserved by cooking with sugar.
-4.000	the act of leading or guiding others	činnosť vedenia.
-4.250	povlak používaný ako odpudzovač vlhkosti	a finishing coat applied to exclude moisture.
-4.250	človek, ktorý čistí komíny	someone who cleans soot from chimneys.
-3.500	Shine intensely; emit a steady, even light    from a source.	vyžarujte rovnomerné rovnomerné svetlo bez plameňov.
-3.500	správať sa určitým spôsobom; mať konkrétny účinok alebo výsledok	behave in a certain way.
-4.500	komunikovať so syčaním	express or utter with a hiss.
-3.750	a male bee whose function is to fertilize the queen	stingless male bee in a colony of social bees (especially honeybees) whose sole function is to mate with the queen.
+3.250	módna elita danej komunity	módna elita.
+4.500	charakteristické volanie zvieraťa	charakteristický výrok zvieraťa.
+4.500	urobiť alebo stať sa akútnejším alebo intenzívnejším	urobte intenzívnejšie, silnejšie alebo výraznejšie.
+4.250	Cesta za nejakým účelom.	cesta za nejakým účelom (zvyčajne vrátane návratu).
+4.000	Falošné alebo sfalšované; kontrolu podvodným spôsobom.	manipulovať podvodným spôsobom.
+3.250	ovocie uvarené s cukrom, džem	ovocie konzervované varením s cukrom.
+4.000	čin vedenia alebo vedenia iných	činnosť vedenia.
+4.250	povlak používaný ako odpudzovač vlhkosti	na vylúčenie vlhkosti sa použije vrchný náter.
+4.250	človek, ktorý čistí komíny	niekto, kto čistí sadze z komínov.
+3.500	Intenzívne svietiť; vyžarovať rovnomerné svetlo zo zdroja.	vyžarujte rovnomerné rovnomerné svetlo bez plameňov.
+3.500	správať sa určitým spôsobom; mať konkrétny účinok alebo výsledok	správať sa určitým spôsobom.
+4.500	komunikovať so syčaním	vyjadriť alebo vysloviť so syčaním.
+3.750	mužská včela, ktorej funkciou je oplodniť kráľovnú	neostré samce včely v kolónii spoločenských včiel (najmä včiel medonosných), ktorých jedinou funkciou je párenie sa s kráľovnou.
 3.750	športový zápas, box	zápas v boxe alebo zápase.
 4.500	spôsobiť reprodukciu (rastliny alebo zvieratá)	spôsobiť potomstvo (zvieratá).
-4.750	The feeling of annoyance at being hindered or thwarted.	a feeling of annoyance at being hindered or criticized.
+4.750	Pocit mrzutosti z dôvodu brzdenia alebo prekazenia.	pocit mrzutosti z dôvodu prekážky alebo kritiky.
 4.250	pohybovať sa po kolieskach	pohybujte sa pozdĺž alebo akoby na kolesách alebo na kolesovom vozidle.
-3.750	[zabezpečiť nové alebo iné miesto odpočinku	provide with a new seat.
+3.750	[zabezpečiť nové alebo iné miesto odpočinku	zabezpečiť nové sedadlo.
 4.500	činnosť ťažby rudy alebo iných látok zo zeme	čin ťažby rúd alebo uhlia atď. zo zeme.
 3.500	prerušiť, vstúpiť nepozvaný	vstúpiť nepozvaný.
-4.000	A person or thing equal to another in value or significane.	osoba alebo vec rovnocenná s inou v hodnote alebo miere alebo sile alebo účinku alebo významu atď.
+4.000	Osoba alebo vec rovnocenná inému v hodnote alebo význame.	osoba alebo vec rovnocenná s inou v hodnote alebo miere alebo sile alebo účinku alebo významu atď.
 3.750	príčina alebo zdroj ujmy	príčinou bolesti alebo zranenia alebo straty.
-4.500	urobiť (viac) zrozumiteľným	make clear and (more) comprehensible.
+4.500	urobiť (viac) zrozumiteľným	objasniť a (viac) pochopiť.
 4.500	stav zachovania	akt udržania niečoho.
-4.000	a problem, something wrong	problém.
-4.750	stretch out or over completely	stretch out completely.
-2.500	continue to live, exist, or prosper	continue to live through hardship or adversity.
-3.750	a caress with the lips	the act of caressing with the lips (or an instance thereof).
-3.500	Provide with rails, as by laying.	ležal s koľajnicami.
-4.500	the close approach of one object to another	pohyb jedného objektu vo vzťahu k druhému.
+4.000	problém, niečo nie je v poriadku	problém.
+4.750	natiahnite alebo úplne pretiahnite	natiahnite sa úplne.
+2.500	naďalej žiť, existovať alebo prosperovať	naďalej prežívať ťažkosti alebo ťažkosti.
+3.750	pohladenie perami	akt maznania s perami (alebo jeho príklad).
+3.500	Zabezpečte koľajnice, ako položením.	ležal s koľajnicami.
+4.500	tesný prístup jedného objektu k druhému	pohyb jedného objektu vo vzťahu k druhému.
 4.000	pomocou zahroteného nástroja urobíme otvor	urobte otvor, najmä špicatým elektrickým alebo ručným nástrojom.
-4.000	Opraviť (niečo staré) s novou časťou; vylepšiť.	piece (something old) with a new part.
-4.250	the act of  damaging something, causing breakage	the act of breaking something.
-3.750	úroveň terénu viacpodlažnej budovy	the floor of a building that is at or nearest to the level of the ground around the building.
-2.250	A quantity of something	množstvo peňazí.
-3.000	veľká izba	the large room of a manor or castle.
+4.000	Opraviť (niečo staré) s novou časťou; vylepšiť.	kus (niečo staré) s novou časťou.
+4.250	čin niečoho poškodil a spôsobil rozbitie	akt niečoho rozbiť.
+3.750	úroveň terénu viacpodlažnej budovy	poschodie budovy, ktoré je na alebo najbližšie k úrovni terénu okolo budovy.
+2.250	Kvantita niečoho	množstvo peňazí.
+3.000	veľká izba	veľká miestnosť kaštieľa alebo hradu.
 4.500	vynechať, vynechať, zabrániť vstupu	zabrániť vstupu; drž sa ďalej.
-4.000	Sniff at inquiringly.	sniff or smell inquiringly.
-4.750	provide lodging for	provide housing for.
-4.750	Change the purpose or functioning of a system.	change the inherent purpose or function of something.
-4.667	provide with tools or items for a specific purpose	provide with (something) usually for a specific purpose.
+4.000	Spýtavo popotahuj.	spýtavo čuchať alebo čuchať.
+4.750	poskytnúť ubytovanie pre	zabezpečiť bývanie pre.
+4.750	Zmeňte účel alebo fungovanie systému.	zmeniť inherentný účel alebo funkciu niečoho.
+4.667	poskytnúť nástroje alebo predmety na konkrétny účel	poskytnúť (niečo) zvyčajne na konkrétny účel.
 4.000	získavať body v hre; sčítať (čísla)	získavajte body v hre.
-4.333	travel in front of, be first, precede	cestovať pred; choďte v predstihu pred ostatnými.
-4.667	Remove by rubbing	remove by or as if by rubbing or erasing.
-4.667	tvrdá horná časť ľudského nosa	the hard ridge that forms the upper part of the nose.
+4.333	cestovať pred, byť prvý, predchádzať	cestovať pred; choďte v predstihu pred ostatnými.
+4.667	Odstráňte trením	odstrániť alebo akoby trením alebo vymazaním.
+4.667	tvrdá horná časť ľudského nosa	tvrdý hrebeň, ktorý tvorí hornú časť nosa.
 4.333	urobiť lesk	urobiť (povrch) lesk.
-4.250	zotaviť sa, vrátiť sa do pôvodného stavu	return to a former condition.
-4.000	remove the pod, husk or shell	odstráňte plevy z.
+4.250	zotaviť sa, vrátiť sa do pôvodného stavu	návrat do pôvodného stavu.
+4.000	odstráňte lusk, šupku alebo škrupinu	odstráňte plevy z.
 4.250	urýchliť proces	urýchliť postup; uľahčiť.
-4.750	(cause to) swing and miss the third pitch, striking out	vyraziť švihom a chýbať na ihrisku účtovanom ako tretí.
-3.750	Doslova a vyčísliteľne sa zvyšuje spoločenská hodnosť alebo postavenie.	raise in rank, character, or status.
-3.250	alter by chemical means, to make images.	make visible by means of chemical solutions.
-3.500	vysoko infekčné vírusové ochorenie	an acute febrile highly contagious viral disease.
+4.750	(spôsobiť) švih a vynechať tretie ihrisko, vyraziť	vyraziť švihom a chýbať na ihrisku účtovanom ako tretí.
+3.750	Doslova a vyčísliteľne sa zvyšuje spoločenská hodnosť alebo postavenie.	zvýšiť hodnosť, charakter alebo stav.
+3.250	meniť chemickými prostriedkami, aby ste vytvorili obrázky.	zviditeľniť pomocou chemických roztokov.
+3.500	vysoko infekčné vírusové ochorenie	akútne horúčkovité vysoko nákazlivé vírusové ochorenie.
 4.250	vyrobiť určitú veľkosť alebo roztriediť podľa veľkosti	vyrobiť na veľkosť; priniesť do vhodnej veľkosti.
-4.000	Remove tree stumps from an area.	odstrániť pne zo stromu.
-3.250	pass the tongue over, take up with the tongue	pass the tongue over.
-5.000	a computer-generated visual image	obrázok, ktorý generuje počítač.
-4.000	do better in a competition; win	vyjsť lepšie v súťaži, závode alebo konflikte.
-3.500	aerodynamic force that opposed gravity	the component of the aerodynamic forces acting on an airfoil that opposes gravity.
+4.000	Odstráňte pne z oblasti.	odstrániť pne zo stromu.
+3.250	preniesť jazyk, vziať s jazykom	prejsť jazykom.
+5.000	počítačom generovaný vizuálny obraz	obrázok, ktorý generuje počítač.
+4.000	dosiahnuť lepšie výsledky v súťaži; vyhrať	vyjsť lepšie v súťaži, závode alebo konflikte.
+3.500	aerodynamická sila, ktorá pôsobila proti gravitácii	zložka aerodynamických síl pôsobiacich na profil krídla, ktorý pôsobí proti gravitácii.
 3.000	Náhle začnite, zapaľte	začať náhle.
-4.000	a local announcement made within a public broadcast	(broadcasting) a local announcement inserted into a network program.
+4.000	miestne oznámenie urobené v rámci verejnoprávneho vysielania	(vysielanie) miestne oznámenie vložené do sieťového programu.
 4.000	robiť skutočné alebo konkrétne	niečo, čo je skutočné alebo konkrétne.
-4.000	Zvuky ostré alebo prenikavé, akoby bodavé.	sound sharply or shrilly.
-4.000	the act of officially gaining entrance to somewhere	the act of admitting someone to enter.
+4.000	Zvuky ostré alebo prenikavé, akoby bodavé.	zvuk prudko alebo prenikavo.
+4.000	čin úradného získania vstupu niekam	akt pripustenia niekoho na vstup.
 4.000	tráviť čas vo väzení	tráviť čas vo väzení alebo v pracovnom tábore.
-4.750	hold, contain within	contain or hold; have within.
-4.750	akt ústneho informovania	the act of informing by verbal report.
-4.000	forcefully request	naliehavo a dôrazne požiadať.
-4.500	the quality of dissimilarity	the quality of being unlike or dissimilar.
+4.750	držať, obsahovať vnútri	obsahovať alebo zadržať; mať vo vnútri.
+4.750	akt ústneho informovania	akt informovania ústnou správou.
+4.000	rázne požiadať	naliehavo a dôrazne požiadať.
+4.500	kvalitu nepodobnosti	kvalita podobnosti alebo nepodobnosti.
 4.000	rýchlo hádzať, švihnúť	hádzať rýchlo.
-3.000	move to and fro around a particular point or points, remain near	presunúť sa sem a tam.
-3.750	Put up with something or someone          unpleasant; show deference towards someone or some authority.	zmieriť sa s niečím alebo niekým nepríjemným.
-3.750	the breakup or termination of a social relationship	ukončenie alebo rozpad vzťahu (medzi osobami alebo národmi).
+3.000	pohybovať sa tam a späť okolo konkrétneho bodu alebo bodov, zostať v blízkosti	presunúť sa sem a tam.
+3.750	Zmierte sa s niečím alebo niekým nepríjemným; prejavovať úctu k niekomu alebo k nejakému orgánu.	zmieriť sa s niečím alebo niekým nepríjemným.
+3.750	rozpadu alebo ukončenia spoločenského vzťahu	ukončenie alebo rozpad vzťahu (medzi osobami alebo národmi).
 5.000	zničenie lode	zničiť loď.
-3.500	The human act of making something new.	the act of starting something for the first time; introducing something new.
-4.500	ride (a bicycle or motorcycle)	ride a motorcycle.
-5.000	The principal activity that one does to earn money.	hlavná činnosť vo vašom živote, ktorou sa zaoberáte zarábaním peňazí.
-4.750	maintain or preserve a particular condition, state, or activity	pokračovať v určitom stave, stave alebo činnosti.
-3.750	a spoken or written reply to a question	a statement (either spoken or written) that is made to reply to a question or request or criticism or accusation.
+3.500	Ľudský čin výroby niečoho nového.	akt prvého založenia niečoho; predstavujeme niečo nové.
+4.500	jazda (na bicykli alebo motorke)	jazdiť na motorke.
+5.000	Hlavná činnosť, ktorou sa človek zaoberá zarábaním peňazí.	hlavná činnosť vo vašom živote, ktorou sa zaoberáte zarábaním peňazí.
+4.750	udržiavať alebo zachovávať konkrétny stav, stav alebo činnosť	pokračovať v určitom stave, stave alebo činnosti.
+3.750	hovorená alebo písomná odpoveď na otázku	vyhlásenie (ústne alebo písomné), ktoré sa urobí ako odpoveď na otázku alebo žiadosť alebo kritiku alebo obvinenie.
 5.000	výbor s dozornými právomocami	výbor s dozornými právomocami.
 4.250	časť skladby, textovej alebo hudobnej	krátky úsek hudobnej skladby.
-4.750	a gear for changing the motion of a machine to the opposite direction	prevodové stupne, pomocou ktorých je možné obrátiť pohyb stroja.
-4.500	take a digestion-aiding walk after a meal	choďte na prechádzku kvôli zdraviu alebo na podporu trávenia, ako po jedle.
-3.750	vidlicový tvar alebo tvar	a part of a forked or branching shape.
-4.750	insert or close with a plug	naplňte alebo tesne uzatvorte zátkou alebo akoby.
-4.000	podnietiť nejaký čin neposlušnosti	incite, move, or persuade to some act of lawlessness or insubordination.
-3.500	formally announce the termination of an agreement	oznamujú ukončenie zmlúv.
-4.000	rýchlo biť alebo búšiť	cause to throb or beat rapidly.
-4.000	Make a line or marks on a surface; copy by          following the lines of	make a mark or lines on a surface.
-3.750	recite as a chant, intone	recite with musical intonation; recite as a chant or a psalm.
-4.000	the ability of computers to exchange digital information between them and make use of it	(informatika) schopnosť vymieňať si a využívať informácie (zvyčajne vo veľkej heterogénnej sieti zloženej z niekoľkých lokálnych sietí).
+4.750	prevodové zariadenie na zmenu pohybu stroja do opačného smeru	prevodové stupne, pomocou ktorých je možné obrátiť pohyb stroja.
+4.500	po jedle choďte na prechádzku, ktorá pomáha tráveniu	choďte na prechádzku kvôli zdraviu alebo na podporu trávenia, ako po jedle.
+3.750	vidlicový tvar alebo tvar	časť rozvetveného alebo rozvetveného tvaru.
+4.750	vložte alebo zatvorte zástrčkou	naplňte alebo tesne uzatvorte zátkou alebo akoby.
+4.000	podnietiť nejaký čin neposlušnosti	podnecovať, hýbať sa alebo presviedčať o nejakom čine bezprávia alebo neposlušnosti.
+3.500	formálne oznámiť ukončenie dohody	oznamujú ukončenie zmlúv.
+4.000	rýchlo biť alebo búšiť	spôsobiť rýchle pulzovanie alebo porážku.
+4.000	Na povrchu urobte čiaru alebo značky; skopírujte podľa riadkov z	urobte na povrchu značku alebo čiary.
+3.750	recitovať ako spev, intónne	recitovať s hudobnou intonáciou; recitovať ako spev alebo žalm.
+4.000	schopnosť počítačov vymieňať si medzi nimi digitálne informácie a využívať ich	(informatika) schopnosť vymieňať si a využívať informácie (zvyčajne vo veľkej heterogénnej sieti zloženej z niekoľkých lokálnych sietí).
 4.500	akt pôsobenia sily	akt náhleho pôsobenia sily.
-5.000	the process of becoming less or smaller	proces zmenšovania alebo skracovania.
+5.000	proces zmenšovania alebo zmenšovania	proces zmenšovania alebo skracovania.
 4.250	Veliť; vykonávať autoritu alebo kontrolu nad.	vykonávať autoritatívnu kontrolu alebo moc nad.
-4.250	be a factor or play a role in something	byť alebo hrať súčasť alebo v.
+4.250	byť činiteľom alebo v niečom hrať rolu	byť alebo hrať súčasť alebo v.
 4.500	rozloha zeme	rozšírená plocha pozemku.
-3.500	posuňte náradie kruhovým pohybom, premiešajte	move an implement through.
-3.750	deprive of courage, hope, or optimism	deprive of courage or hope; take away hope from; cause to feel discouraged.
-2.750	the armed forces	a force that is a branch of the armed forces.
-2.750	Furnish with metal spurs.	vybaviť nosníkmi.
-3.250	Z látky odstráňte vodu.	remove water from.
+3.500	posuňte náradie kruhovým pohybom, premiešajte	presunúť stroj cez.
+3.750	pozbaviť odvahy, nádeje alebo optimizmu	pozbavený odvahy alebo nádeje; odniesť nádej; spôsobiť pocit odradenia.
+2.750	ozbrojených síl	sila, ktorá je zložkou ozbrojených síl.
+2.750	Zariaďte kovovými ostrohami.	vybaviť nosníkmi.
+3.250	Z látky odstráňte vodu.	odstráňte vodu z.
 3.250	Zabezpečte koľajnice, ako položením.	zabezpečiť koľajnice.
-4.500	make or be a summary	be a summary of.
-3.750	byť postihnutý plesňou alebo plesňou	affect with smut or mildew, as of a crop such as corn.
-3.000	Hovorte alebo sa správajte milostne; mať sex s.	talk or behave amorously, without serious intentions.
+4.500	urobiť alebo byť zhrnutím	byť súhrnom.
+3.750	byť postihnutý plesňou alebo plesňou	napadnúť plesňou alebo plesňou ako plodinou, ako je kukurica.
+3.000	Hovorte alebo sa správajte milostne; mať sex s.	hovoriť alebo milostne správať bez vážnych úmyslov.
 3.500	Ospravedlňte menšie spoločenské priestupky; prijať výhovorku pre niečo.	prijať výhovorku pre.
-4.750	indicate, be signs or symptoms of	byť signálom alebo príznakom.
-3.500	a verbal or written request for access to something.	a verbal or written request for assistance or employment or admission to a school.
-4.750	have a logical result	mať logický dôsledok.
+4.750	naznačovať, byť príznakmi alebo príznakmi	byť signálom alebo príznakom.
+3.500	ústna alebo písomná žiadosť o prístup k niečomu.	ústna alebo písomná žiadosť o pomoc alebo zamestnanie alebo prijatie do školy.
+4.750	mať logický výsledok	mať logický dôsledok.
 4.750	Cestujte pešo.	kríž pešo.
-4.500	the act of suction	the act of sucking.
-4.250	A band of leather or rope made to identify animals.	a band of leather or rope that is placed around an animal's neck as a harness or to identify it.
+4.500	akt sania	akt sania.
+4.250	Kožený pás alebo povraz vyrobený na identifikáciu zvierat.	pás kože alebo povrazu, ktorý je umiestnený okolo krku zvieraťa ako postroj alebo na jeho identifikáciu.
 4.750	Nasaďte si postroj.	dať postroj.
-4.750	Provide or equip specifically with furniture.	zabezpečiť alebo vybaviť nábytkom.
-4.750	Pohybovať sa (hlava alebo telo) rýchlo nadol alebo preč (od niečoho).	to move (the head or body) quickly downwards or away.
-5.000	dôvodu alebo ustanoviť odpočtom	reason by deduction; establish by deduction.
-3.750	Make pregnant; fertilize and cause to grow.	hnojiť a nechať rásť.
-5.000	find the solution to or understand the          meaning of	nájsť riešenie (problému alebo otázky) alebo pochopiť význam slova.
+4.750	Zabezpečte alebo konkrétne vybavte nábytkom.	zabezpečiť alebo vybaviť nábytkom.
+4.750	Pohybovať sa (hlava alebo telo) rýchlo nadol alebo preč (od niečoho).	pohybovať sa (hlava alebo telo) rýchlo nadol alebo preč.
+5.000	dôvodu alebo ustanoviť odpočtom	dôvod odpočítaním; ustanoviť odpočtom.
+3.750	Otehotnieť; hnojiť a nechať rásť.	hnojiť a nechať rásť.
+5.000	nájsť riešenie alebo pochopiť význam slova	nájsť riešenie (problému alebo otázky) alebo pochopiť význam slova.
 4.750	Pohybujte sa zmätene alebo bezúčelne.	pohybujte sa zmätene.
-4.250	put up with something unpleasant	put up with something or somebody unpleasant.
-5.000	A means or agency by which something is communicated.	a means or agency by which something is expressed or communicated.
+4.250	zmieriť sa s niečím nepríjemným	zmieriť sa s niečím alebo niekým nepríjemným.
+5.000	Prostriedok alebo agentúra, pomocou ktorej sa niečo komunikuje.	prostriedok alebo prostriedok, ktorým sa niečo vyjadruje alebo oznamuje.
 5.000	rozobrať na jednotlivé časti	rozobrať na jednotlivé časti.
-5.000	Krátky divadelný program, ktorý je súčasťou dlhšieho programu.	a short theatrical performance that is part of a longer program.
+5.000	Krátky divadelný program, ktorý je súčasťou dlhšieho programu.	krátke divadelné predstavenie, ktoré je súčasťou dlhšieho programu.
 4.000	vyhláška, vydať rozkaz	vystaviť objednávku.
 5.000	ukončenie a ukončenie stretnutia	ukončenie stretnutia.
 5.000	Ukazovateľ, ktorý človeka všeobecne orientuje.	indikátor, ktorý vás všeobecne orientuje.
-4.000	Zvýšte akustickú hlasitosť.	increase the volume of.
+4.000	Zvýšte akustickú hlasitosť.	zvýšiť objem.
 5.000	otvorené pre príslušníkov všetkých rás a etnických skupín	otvorené (miesto) príslušníkom všetkých rás a etnických skupín.
-5.000	rozdrviť alebo rozdrviť na malé kúsky	reduce to small pieces or particles by pounding or abrading.
-4.000	trafiť muchu (bejzbal)	hit a fly.
-3.750	FISHING-exhaust by allowing to pull on the line	exhaust by allowing to pull on the line.
+5.000	rozdrviť alebo rozdrviť na malé kúsky	rozdrvením alebo obrúsením rozdrobte na malé kúsky alebo častice.
+4.000	trafiť muchu (bejzbal)	trafiť muchu.
+3.750	RYBOLOV - výfuk umožňujúci ťahanie za vlasec	výfuk povolením potiahnutia za vlasec.
 3.750	byť alebo prísť do konfliktu	byť nekompatibilné; byť alebo prísť do konfliktu.
-3.250	Produkujte phonemic kliknutia.	produce a click.
+3.250	Produkujte phonemic kliknutia.	vytvoriť kliknutie.
 5.000	uhol s háčikom a vlascom a pretiahnite cez vodu	uhol s háčikom a čiarou vedenou cez vodu.
-5.000	the front face of a building	tvár alebo predná časť budovy.
-5.000	vyrobiť niečo rozmanitejšie alebo rozmanitejšie	make something more diverse and varied.
-4.000	issue bonds on something	vydávať dlhopisy dňa.
+5.000	predné čelo budovy	tvár alebo predná časť budovy.
+5.000	vyrobiť niečo rozmanitejšie alebo rozmanitejšie	vyrobiť niečo rozmanitejšie a rozmanitejšie.
+4.000	vydať na niečo dlhopisy	vydávať dlhopisy dňa.
 5.000	dámska spodná bielizeň bez rukávov	ženská spodná bielizeň bez rukávov.
-3.500	Move oneself very fast.	pohybovať sa veľmi rýchlo.
-4.000	Oppose or approach, as in hostility or competition	oponovať, ako v nepriateľstve alebo v súťaži.
+3.500	Pohybujte sa veľmi rýchlo.	pohybovať sa veľmi rýchlo.
+4.000	Odpor alebo prístup, ako v nepriateľstve alebo konkurencii	oponovať, ako v nepriateľstve alebo v súťaži.
 3.750	urobiť zložitejšou alebo zložitejšou	urobiť zložitejšou, zložitejšou alebo bohatšou.
 4.250	spôsobiť / ukázať ako neplatný	ukázať ako neplatné.
-4.500	vytvoriť novú entitu spojením komponentov alebo členov	create by putting components or members together.
-4.750	the activity of providing supplies	the activity of supplying or providing something.
-5.000	make or become brighter or lighter	urobte svetlejší alebo svetlejší.
+4.500	vytvoriť novú entitu spojením komponentov alebo členov	vytvoriť spojením komponentov alebo členov.
+4.750	činnosť zabezpečovania dodávok	činnosť dodania alebo poskytnutia niečoho.
+5.000	urobiť alebo stať sa svetlejším alebo ľahším	urobte svetlejší alebo svetlejší.
 5.000	herci v predstavení	herci v predstavení.
 5.000	vziať niekoho dušu do neba	vziať niekomu dušu do neba.
-5.000	Discipline in personal or social activities.	disciplína v osobných a spoločenských činnostiach.
-4.750	a person eating a meal, often in a restaurant	a person eating a meal (especially in a restaurant).
-4.250	Náhly (emocionálny) výbuch.	a sudden outburst.
+5.000	Disciplína v osobných alebo spoločenských činnostiach.	disciplína v osobných a spoločenských činnostiach.
+4.750	človek, ktorý jedáva jedlo, často v reštaurácii	človek, ktorý jedáva jedlo (najmä v reštaurácii).
+4.250	Náhly (emocionálny) výbuch.	náhly výbuch.
 4.000	robiť alebo sa stať ťažším	robiť ťažké alebo ťažšie.
-5.000	the introductory portion of a story	úvodná časť príbehu.
+5.000	úvodná časť príbehu	úvodná časť príbehu.
 3.750	pracovný materiál s nástrojom	práca s nástrojom.
 4.500	urobiť alebo sa stať menej prísnym alebo prísnym	urobiť menej prísnymi alebo prísnymi.
 4.750	podporu položením na alebo proti niečomu pevnému	podoprieť umiestnením proti niečomu pevnému alebo tuhému.
 5.000	Rozdeľte sa, prestaňte alebo prerušte vzťah s (niečím).	časť; ukončiť alebo prerušiť spoluprácu s.
 5.000	mať finančné prostriedky na získanie, kúpu alebo niečo urobiť	mať finančné prostriedky na to, aby si niečo urobil alebo niečo kúpil.
-4.250	Zoznam kandidátov nominovaných politickou stranou, ktorá sa bude uchádzať o voľby.	a list of candidates nominated by a political party to run for election to public offices.
-5.000	povedzte, uveďte alebo vykonajte znova	to say, state, or perform again.
-5.000	umožniť priechod vzduchu	allow the passage of air through.
+4.250	Zoznam kandidátov nominovaných politickou stranou, ktorá sa bude uchádzať o voľby.	zoznam kandidátov nominovaných politickou stranou, ktorá sa bude uchádzať o voľby do verejných funkcií.
+5.000	povedzte, uveďte alebo vykonajte znova	povedať, uviesť alebo znova vystúpiť.
+5.000	umožniť priechod vzduchu	umožniť priechod vzduchu.
 5.000	spojiť; zlúčiť s niečím, čo už existuje	zjednotiť sa alebo spojiť sa s niečím, čo už existuje.
 5.000	používať zdroje alebo materiály	vyčerpať (zdroje alebo materiály).
 5.000	robiť alebo sa stať ťažším	stať sa tvrdým alebo ťažším.
-5.000	(Príčina) musí byť pevne pripevnená alebo uzavretá.	cause to be firmly attached.
+5.000	(Príčina) musí byť pevne pripevnená alebo uzavretá.	byť pevne pripevnený.
 5.000	rozšíriť alebo rozšíriť	rozšíriť alebo rozšíriť alebo rozšíriť.
-4.750	Neobmedzená sloboda niečo použiť.	unrestricted freedom to use.
-4.750	laying claim, the act of taking possession of, or power over, something.	akt zmocnenia sa alebo moci nad niečím.
+4.750	Neobmedzená sloboda niečo použiť.	neobmedzená sloboda použitia.
+4.750	nárok, akt prevzatia alebo moci nad niečím.	akt zmocnenia sa alebo moci nad niečím.
 4.750	dať štruktúru	dať štruktúru.
 5.000	označiť jazvami	značka jazvou.
 5.000	(Baseball) Označte základného bežca, aby ho dostal von.	označte základného bežca, aby ste ho dostali von.
 4.400	Odrážajte sa ako horúčava, svetlo alebo nárazové vlny ;.	sa môžu odrážať ako teplo, zvuk alebo svetlo alebo nárazové vlny.
 4.800	konkurent s najväčšou pravdepodobnosťou vyhrá	konkurent si myslel, že vyhrá.
-4.600	predĺžiť alebo predĺžiť	become long or longer.
+4.600	predĺžiť alebo predĺžiť	predĺžiť alebo predĺžiť.
 4.600	byť na základni na konci zmeny	byť na základni na konci zmeny, hráča.
-3.500	Buď z dvoch kategórií (mužská alebo ženská), do ktorých je rozdelená väčšina organizmov, alebo kľúčové vlastnosti, ktoré tieto kategórie odlišujú.	either of the two categories (male or female) into which most organisms are divided.
-3.500	(science) The atomic weight of an element that has the same combining capacity as a given weight of another element.	atómová hmotnosť prvku, ktorý má rovnakú kombinačnú kapacitu ako daná hmotnosť iného prvku; norma je 8 pre kyslík.
-4.750	provide with a toggle	provide with a toggle or toggles.
-4.250	(spôsobiť) pohybovať sa tam a späť alebo zo strany na stranu	cause to move back and forth.
+3.500	Buď z dvoch kategórií (mužská alebo ženská), do ktorých je rozdelená väčšina organizmov, alebo kľúčové vlastnosti, ktoré tieto kategórie odlišujú.	buď z dvoch kategórií (mužská alebo ženská), do ktorých je rozdelená väčšina organizmov.
+3.500	(veda) Atómová hmotnosť prvku, ktorý má rovnakú kombinačnú kapacitu ako daná hmotnosť iného prvku.	atómová hmotnosť prvku, ktorý má rovnakú kombinačnú kapacitu ako daná hmotnosť iného prvku; norma je 8 pre kyslík.
+4.750	zabezpečiť prepínač	vybaviť prepínačom alebo prepínačmi.
+4.250	(spôsobiť) pohybovať sa tam a späť alebo zo strany na stranu	spôsobiť pohyb tam a späť.
 3.750	zmerajte hĺbku vodnej plochy	zmerajte hĺbku (vodná plocha) znejúcou čiarou.
 5.000	vydať hlasný zvuk ako zviera	vydať hlasný zvuk zvieraťa.
-5.000	The act of coming to rest after a voyage.	akt pristátia po plavbe.
-5.000	spojiť alebo spojiť (dva) predmety, nápady alebo ľudí	bring two objects, ideas, or people together.
-4.500	Make reference to something.	make reference to.
-4.250	Behave violently, as if in a state of great    anger; break or tear violently.	správajte sa násilne, akoby ste boli v obrovskom hneve.
+5.000	Akt spočívajúci v odpočinku po plavbe.	akt pristátia po plavbe.
+5.000	spojiť alebo spojiť (dva) predmety, nápady alebo ľudí	spojiť dva objekty, nápady alebo ľudí.
+4.500	Uveďte odkaz na niečo.	odkazovať na.
+4.250	Správajte sa násilne, akoby ste boli vo veľkej zlosti; násilne zlomiť alebo roztrhnúť.	správajte sa násilne, akoby ste boli v obrovskom hneve.
 4.750	Vytvorte špirálu alebo sa pohybujte v špirále.	pohybujte sa špirálovým alebo cikcakovým kurzom.
 4.250	pocit averzie, nechuti, antipatie	pocit averzie alebo antipatie.
 4.000	Uvoľňovanie (plyn alebo energia) v dôsledku chemickej reakcie alebo fyzikálneho rozkladu (možno v metaforickom zmysle)	uvoľňovanie (plyn alebo energia) v dôsledku chemickej reakcie alebo fyzikálneho rozkladu.
 4.000	prekonaný úžasom; flabbergast	prekonaný úžasom.
-3.750	správať sa povýšenecky	behave in a patronizing and condescending manner.
-4.000	take into one's family or group	vziať do svojej rodiny.
-5.000	(Contract bridge) the highest bid becomes the contract setting in the number of tricks that the bidder must make.	(contract bridge) sa najvyššia ponuka stane zmluvou stanovujúcou počet trikov, ktoré musí uchádzač vykonať.
+3.750	správať sa povýšenecky	správať sa povýšenecky a blahosklonne.
+4.000	vziať do svojej rodiny alebo skupiny	vziať do svojej rodiny.
+5.000	(Prepojenie kontraktu) sa najvyššia ponuka stane nastavením zmluvy v počte trikov, ktoré musí uchádzač vykonať.	(contract bridge) sa najvyššia ponuka stane zmluvou stanovujúcou počet trikov, ktoré musí uchádzač vykonať.
 5.000	ísť na kampaň alebo do vojny	ísť do kampane; ísť do vojny.
-4.250	react, or respond to a call, command, or stimulus	reagovať na podnet alebo príkaz.
+4.250	reagovať alebo reagovať na volanie, príkaz alebo podnet	reagovať na podnet alebo príkaz.
 5.000	(Doslova) zvuk s rezonanciou.	zvuk s rezonanciou.
 4.750	poranenie kože spôsobené žiarením, teplom alebo chemikáliami	úraz spôsobený pôsobením tepla, chemikálií alebo žiarenia.
 4.250	vytvoriť príčinnú alebo logickú súvislosť; zoskupiť	vytvoriť logické alebo príčinné súvislosti.
 5.000	Naneste kondicionér, aby bol hladký a lesklý.	naneste kondicionér, aby bol hladký a lesklý.
-5.000	exercise or have power of memory	cvičiť alebo mať silu pamäti.
+5.000	cvičiť alebo mať pamäť	cvičiť alebo mať silu pamäti.
 4.750	Pocit alebo stav extrémneho hnevu.	stav extrémneho hnevu.
-5.000	Vráskavý, pokrčený alebo pokrčený.	become wrinkled or crumpled or creased.
-5.000	Priznať sa k testovaniu / dôkazu	admit to testing or proof.
+5.000	Vráskavý, pokrčený alebo pokrčený.	byť pokrčené, pokrčené alebo pokrčené.
+5.000	Priznať sa k testovaniu / dôkazu	pripustiť k testovaniu alebo dokazovaniu.
 5.000	účtovné obdobie 12 mesiacov	akékoľvek účtovné obdobie 12 mesiacov.
 4.333	chváliť vlastnosti za účelom predaja alebo propagácie	vyrobiť zástrčku; chváliť vlastnosti alebo za účelom predaja alebo propagácie.
 3.750	relatívna tmavosť farby	relatívna tmavosť alebo ľahkosť farby.
 4.250	Silne štrajkujte, najmä päsťou alebo náradím.	silno udrieť, najmä päsťou alebo netopierom.
-4.750	Buďte vnímaví alebo ochotní k akcii alebo viere.	make receptive or willing towards an action or attitude or belief.
-5.000	znova otvor, znovu otvor	open again or anew.
-4.000	Koncepčná formulácia; spôsob vymýšľania niečoho.	a way of conceiving something.
+4.750	Buďte vnímaví alebo ochotní k akcii alebo viere.	byť vnímavý alebo ochotný k akcii, postoju alebo viere.
+5.000	znova otvor, znovu otvor	otvorte znovu alebo znovu.
+4.000	Koncepčná formulácia; spôsob vymýšľania niečoho.	spôsob vymýšľania niečoho.
 5.000	pred opracovaním kov rozpáliť	Pred opracovaním kov zahrejte.
 4.500	cítiť silnú potrebu jesť	cítiť potrebu jesť.
-3.667	byť v priamom fyzickom kontakte s	be in direct physical contact with; make contact.
-3.667	Give suck to; receive suck.	dať sať.
+3.667	byť v priamom fyzickom kontakte s	byť v priamom fyzickom kontakte s; nadviazať kontakt.
+3.667	Dať nasávať; prijať sať.	dať sať.
 4.333	poťah na posteľ	dekoratívny poťah na posteľ.
-5.000	grip, penetrate or tear off with or as if with the teeth or jaws	zvierať, odrezávať alebo trhať so zubami alebo čeľusťami alebo akoby s nimi.
-4.500	play a stringed instrument with a bow	play on a string instrument with a bow.
-4.000	Pochybnosť alebo dojem, že niečo nemusí byť tak.	an impression that something might be the case.
-4.750	Úspešný hod alebo pokus o bod po dorážke.	a successful free throw or try for point after a touchdown.
+5.000	uchopte, vniknite alebo odtrhnite zubami alebo čeľusťami alebo akoby od nich odtrhnite	zvierať, odrezávať alebo trhať so zubami alebo čeľusťami alebo akoby s nimi.
+4.500	hrať na strunovom nástroji s lukom	hrať na strunovom nástroji s lukom.
+4.000	Pochybnosť alebo dojem, že niečo nemusí byť tak.	dojem, že by niečo mohlo byť tak.
+4.750	Úspešný hod alebo pokus o bod po dorážke.	úspešný trestný hod alebo skúsiť bod po dorážke.
 4.500	Vyjadrujte počuteľne; úplné zvuky (nie nevyhnutne slová); naznačiť.	vyjadrovať počuteľne; úplné zvuky (nie nevyhnutne slová).
-5.000	hold back in uncertainty or unwillingness	pozastaviť alebo zadržať v neistote alebo neochote.
-5.000	porcia nápoja	a single serving of a beverage.
-4.500	Give an incentive or reason for action.	give an incentive for action.
+5.000	brzdiť v neistote alebo neochote	pozastaviť alebo zadržať v neistote alebo neochote.
+5.000	porcia nápoja	jednorazová dávka nápoja.
+4.500	Uveďte stimul alebo dôvod na akciu.	dať podnet na konanie.
 5.000	predvčerom	deň bezprostredne pred dneškom.
 4.333	vziať alebo zajať silou alebo autoritou	vziať alebo zajať silou.
 5.000	(Medicína) Naneste sádrový odliatok na.	naniesť sadrový odliatok na.
-5.000	interfere with someone else's activity	zasahovať do činnosti niekoho iného.
-5.000	Assign a new time for an event	prideliť nový čas a miesto udalosti.
-4.750	Value measured by what must be given or done to obtain something.	value measured by what must be given or done or undergone to obtain something.
-4.500	touch or hold with the hands	touch, lift, or hold with the hands.
-5.000	zoškrabte alebo rozotrite, aby ste zmiernili svrbenie	scrape or rub as if to relieve itching.
-4.750	podrobne vysvetliť	narrate or give a detailed account of.
-5.000	Any activity that acquires a person's attention.	akákoľvek činnosť, ktorá zaujíma pozornosť človeka.
+5.000	zasahovať do činnosti niekoho iného	zasahovať do činnosti niekoho iného.
+5.000	Priraďte udalosti nový čas	prideliť nový čas a miesto udalosti.
+4.750	Hodnota meraná tým, čo sa musí dať alebo urobiť, aby sa niečo získalo.	hodnota meraná tým, čo sa musí dať, urobiť alebo podstúpiť, aby sa niečo získalo.
+4.500	dotknite sa alebo sa držte rukami	sa dotknite, zdvihnite alebo držte rukami.
+5.000	zoškrabte alebo rozotrite, aby ste zmiernili svrbenie	zoškrabte alebo rozotrite, akoby ste chceli zmierniť svrbenie.
+4.750	podrobne vysvetliť	rozprávať alebo podrobne vysvetliť.
+5.000	Akákoľvek činnosť, ktorá si získa pozornosť človeka.	akákoľvek činnosť, ktorá zaujíma pozornosť človeka.
 5.000	spôsobiť prebudenie alebo bdelosť	spôsobiť prebudenie alebo vedomie.
-4.500	provide a feast or banquet	provide a feast or banquet for.
-5.000	Akt brániaci niečím plánom alebo úsiliu.	an act of hindering someone's plans or efforts.
-4.250	Blázon alebo hoax (niekto).	fool or hoax.
+4.500	zabezpečiť hostinu alebo hostinu	zabezpečiť hostinu alebo hostinu.
+5.000	Akt brániaci niečím plánom alebo úsiliu.	čin brániaci niečím plánom alebo úsiliu.
+4.250	Blázon alebo hoax (niekto).	blázon alebo hoax.
 4.750	zvýšenie stávok alebo stávky v hre o faktor 2	zvýšenie stávok v kartovej hre o faktor 2.
-4.500	(Obdobie) kontroly nad krajinou vojenskými silami cudzej moci.	the control of a country by military forces of a foreign power.
-5.000	(computer science) the occurence of an incorrect result produced by a computer.	(informatika) výskyt nesprávneho výsledku vyprodukovaného počítačom.
+4.500	(Obdobie) kontroly nad krajinou vojenskými silami cudzej moci.	kontrola krajiny vojenskými silami cudzej moci.
+5.000	(informatika) výskyt nesprávneho výsledku vyprodukovaného počítačom.	(informatika) výskyt nesprávneho výsledku vyprodukovaného počítačom.
 4.000	rozdávať potešenie, uspokojenie alebo šťastie; byť rád	potešiť alebo potešiť.
-5.000	mäkké polstrovanie pod sedlom	a soft pad placed under a saddle.
+5.000	mäkké polstrovanie pod sedlom	mäkká podložka umiestnená pod sedlom.
 5.000	povýšiť alebo idealizovať v narážke na Kristovu premenu	povýšiť alebo idealizovať v narážke na Kristovu premenu.
-4.750	inability of the heart to pump blood to sustain life functions	inability of the heart to pump enough blood to sustain normal bodily functions.
-4.000	cause to vibrate in a different pattern	vibrovať v určitom vzore.
-4.500	warn or call to a sense of preparedness	warn or arouse to a sense of danger or call to a state of preparedness.
-4.500	Adapt oneself to new or different conditions.	adapt or conform oneself to new or different conditions.
-4.500	move faster, or cause to move faster	spôsobiť rýchlejší pohyb.
-5.000	Supply food ready to eat, as for parties          and banquets.	dodávať jedlo pripravené na konzumáciu; na večierky a bankety.
-4.000	express protest or dissent, raise an objection	express or raise an objection or protest or criticism or express dissent.
-4.250	vyčistiť hlien z krku	clear mucus or food from one's throat.
+4.750	neschopnosť srdca pumpovať krv na udržanie životných funkcií	neschopnosť srdca pumpovať dostatok krvi na udržanie normálnych telesných funkcií.
+4.000	vibrovať v inom vzore	vibrovať v určitom vzore.
+4.500	varovať alebo vyzývať k pocitu pripravenosti	varovať alebo vzbudzovať pocit nebezpečenstva alebo vyvolať stav pripravenosti.
+4.500	Prispôsobiť sa novým alebo iným podmienkam.	prispôsobiť sa alebo prispôsobiť sa novým alebo odlišným podmienkam.
+4.500	pohybovať rýchlejšie alebo spôsobiť rýchlejší pohyb	spôsobiť rýchlejší pohyb.
+5.000	Dodávajte jedlo pripravené na konzumáciu, ako je to pre večierky a bankety.	dodávať jedlo pripravené na konzumáciu; na večierky a bankety.
+4.000	vyjadriť protest alebo nesúhlas, vzniesť námietku	vyjadriť alebo vzniesť námietku alebo protest, kritiku alebo nesúhlas.
+4.250	vyčistiť hlien z krku	vyčistiť hlien alebo jedlo z hrdla.
 5.000	prejsť do stavu alebo stavu	prejsť do určeného stavu alebo stavu.
-3.750	add embellishments (to medieval manuscripts)	pridať ozdoby a obrazy (stredoveké rukopisy).
-4.750	make or become thick	make thick or thicker.
-4.750	move or execute very quickly or hastily	run or move very quickly or hastily.
-4.000	hurt, feel physical pain	cítiť fyzickú bolesť.
+3.750	pridať ozdoby (k stredovekým rukopisom)	pridať ozdoby a obrazy (stredoveké rukopisy).
+4.750	urobiť alebo zhustnúť	urobte hrubý alebo hrubší.
+4.750	pohybovať sa alebo popravovať veľmi rýchlo alebo unáhlene	bežať alebo sa pohybovať veľmi rýchlo alebo unáhlene.
+4.000	ublížiť, cítiť fyzickú bolesť	cítiť fyzickú bolesť.
 4.250	povedzte alebo šírte fámy; povedať	povedzte alebo šírte fámy.
-4.250	throw with force or recklessness; cast away	throw with force or recklessness.
-4.500	return to in thought or speech	návrat v myšlienkach alebo reči k niečomu.
-4.250	Try to cure by special care    or treatment, of an illness or injury; treat carefully.	pokúste sa vyliečiť chorobu alebo úraz špeciálnou starostlivosťou o ošetrenie.
-4.250	a sweeping cut with a sharp instrument	a strong sweeping cut made with a sharp instrument.
+4.250	hádzať silou alebo nerozvážnosťou; odhodiť	hádzať silou alebo nerozvážnosťou.
+4.500	návrat k myšlienke alebo reči	návrat v myšlienkach alebo reči k niečomu.
+4.250	Pokúste sa vyliečiť chorobu alebo úraz osobitnou starostlivosťou alebo liečbou; zaobchádzajte opatrne.	pokúste sa vyliečiť chorobu alebo úraz špeciálnou starostlivosťou o ošetrenie.
+4.250	zametací rez ostrým nástrojom	silný zametací rez vykonaný ostrým nástrojom.
 4.500	Akákoľvek adresa, na ktorej sa zdržuje viac ako dočasne.	akákoľvek adresa, na ktorej bývate viac ako dočasne.
 4.750	BOTANY - zvyčajne podzemný orgán rastliny, ktorému chýbajú púčiky alebo listy alebo uzliny a ktorý absorbuje vodu a minerálne soli; zvyčajne to ukotví rastlinu k zemi.	(botanika) obvykle podzemný orgán, ktorému chýbajú puky alebo listy alebo uzliny; absorbuje vodu a minerálne soli; zvyčajne to ukotví rastlinu k zemi.
 3.750	Reprodukcia alebo vytvorenie presnej kópie; robiť, robiť alebo opäť vystupovať.	reprodukovať alebo vytvoriť presnú kópiu.
-4.500	pretiahnite (vlákno) cez alebo do, na alebo akoby na strunu	thread on or as if on a string.
-4.500	Engrave by means of dots.	gravírujte pomocou bodiek a rýchlych pohybov.
-4.750	mať silnú túžbu niečo robiť	have a strong desire or urge to do something.
+4.500	pretiahnite (vlákno) cez alebo do, na alebo akoby na strunu	niť na alebo akoby na šnúrke.
+4.500	Gravírujte pomocou bodiek.	gravírujte pomocou bodiek a rýchlych pohybov.
+4.750	mať silnú túžbu niečo robiť	mať silnú túžbu alebo nutkanie niečo robiť.
 4.500	byť relevantné alebo relevantné	relevantné alebo relevantné alebo uplatniteľné.
 4.000	naznačte pohŕdanie hlučným a energickým dýchaním správ	pohŕdanie naznačte hlučným a razantným dýchaním nosom.
-5.000	become aware of through the senses	to become aware of through the senses.
-4.500	byť v strehu alebo energický	cause to be alert and energetic.
-4.500	Remove by erasing or crossing out, as if by    drawing a line through.	odstrániť vymazaním alebo vyčiarknutím alebo akoby nakreslením čiary.
-5.000	cook slowly for a long time in liquid	cook slowly and for a long time in liquid.
-3.750	the temperature at which a liquid boils, bubbles	teplota, pri ktorej kvapalina vrie na úrovni mora.
-3.750	Make a map of; show or establish the    features or details of; explore or survey for the purposes of making a    map.	vytvoriť mapu; ukázať alebo ustanoviť vlastnosti podrobností o.
+5.000	uvedomiť si prostredníctvom zmyslov	uvedomiť si prostredníctvom zmyslov.
+4.500	byť v strehu alebo energický	byť ostražití a energickí.
+4.500	Odstráňte vymazaním alebo prečiarknutím, akoby nakreslením čiary.	odstrániť vymazaním alebo vyčiarknutím alebo akoby nakreslením čiary.
+5.000	pomaly povaríme dlho v tekutine	pomaly a dlho varíme v tekutine.
+3.750	teplota, pri ktorej tekutina vrie, bublá	teplota, pri ktorej kvapalina vrie na úrovni mora.
+3.750	Vytvorte mapu; ukázať alebo ustanoviť vlastnosti alebo podrobnosti; preskúmať alebo vykonať prieskum na účely vytvorenia mapy.	vytvoriť mapu; ukázať alebo ustanoviť vlastnosti podrobností o.
 5.000	Sociálna sila, ktorá spája jedného s postupmi požadovanými touto silou.	sociálna sila, ktorá vás spája s postupmi požadovanými touto silou.
-4.250	Vyhýbajte sa plneniu, odpovedaniu alebo vystupovaniu alebo sa im vyhýbajte.	avoid or try to avoid fulfilling, answering, or performing (duties, questions, or issues).
+4.250	Vyhýbajte sa plneniu, odpovedaniu alebo vystupovaniu alebo sa im vyhýbajte.	vyhýbajte sa alebo sa snažte vyhýbať plneniu, odpovedaniu alebo plneniu (povinností, otázok alebo problémov).
 4.750	Veďte niekoho nesprávnym smerom (fyzicky); dať nesprávne priestorové pokyny.	viesť niekoho zlým smerom alebo dať niekomu nesprávny smer.
 4.250	udržiavať, uplatňovať alebo nárokovať	udržiavať alebo tvrdiť.
 4.500	Zlepšite obnovením do predchádzajúceho alebo lepšieho stavu.	obnoviť do predchádzajúceho alebo lepšieho stavu.
-4.750	make accessible to some action, influence, or condition	vystaviť alebo sprístupniť nejaké konanie alebo vplyv.
-4.000	Approach a limit as the number of terms          increases without limit; specifically a mathematical term.	approach a limit as the number of terms increases without limit.
+4.750	sprístupniť nejakú činnosť, vplyv alebo podmienku	vystaviť alebo sprístupniť nejaké konanie alebo vplyv.
+4.000	Približujte sa k limitu, pretože počet výrazov sa zvyšuje bez obmedzenia; konkrétne matematický výraz.	priblížiť sa k limitu, pretože počet výrazov sa zvyšuje bez obmedzenia.
 5.000	Šitie, ktoré tvorí okraj topánky alebo topánky.	prešitie, ktoré tvorí okraj topánky alebo topánky.
 4.750	pod kontrolu federálnej vlády	pod kontrolu a autoritu federálnej vlády.
-5.000	Ručná stimulácia oblasti genitálií pre sexuálne potešenie.	manual stimulation of the genital area for sexual pleasure.
+5.000	Ručná stimulácia oblasti genitálií pre sexuálne potešenie.	manuálna stimulácia oblasti genitálií pre sexuálne potešenie.
 4.250	vybaviť poistkou	vybaviť poistkou; vybaviť poistkou.
-4.750	koniec americkej revolúcie	the successful ending of the American Revolution.
-5.000	(mathematics) The smallest whole number or a numeral representing this number.	the smallest whole number or a numeral representing this number.
+4.750	koniec americkej revolúcie	úspešné ukončenie americkej revolúcie.
+5.000	(matematika) Najmenšie celé číslo alebo číslica predstavujúca toto číslo.	najmenšie celé číslo alebo číslica predstavujúca toto číslo.
 4.500	stimulujúce alebo náročné faktory situácie	náročná alebo podnetná situácia.
-4.500	A physical portion of all or part of a natural object that is collected and preserved as an example of its class or total.	all or part of a natural object that is collected and preserved as an example of its class.
-5.000	Amplify an electron current by causing part          of the power on the output circuit to act upon the input circuit.	amplify (an electron current) by causing part of the power in the output circuit to act upon the input circuit.
+4.500	Fyzická časť celého prírodného objektu alebo jeho časti, ktorá sa zhromaždí a uchová ako príklad svojej triedy alebo súčtu.	celý prírodný objekt alebo jeho časť, ktorý je zhromaždený a uchovaný ako príklad jeho triedy.
+5.000	Zosilnite elektrónový prúd tak, že spôsobíte, že časť výkonu vo výstupnom obvode bude pôsobiť na vstupný obvod.	zosilniť (elektrónový prúd) tak, že spôsobí, že časť výkonu vo výstupnom obvode bude pôsobiť na vstupný obvod.
 3.250	Človek vysloví slová nahlas a rázne.	vyslovujte slová nahlas a rázne.
-5.000	oppose with equal weight or force	kontrast s rovnakou hmotnosťou alebo silou.
-5.000	(Príčina) udrieť do vzduchu za letu.	strike the air in flight.
-5.000	Preserve in a tin or jar.	preserve in a can or tin.
-5.000	a chain of atoms in a molecule forming a closed loop	(chemistry) a chain of atoms in a molecule that forms a closed loop.
-5.000	make the surface level or smooth	urobte povrch rovný alebo hladký.
-4.750	Impress or affect deeply (emotionally).	impress or affect deeply.
-4.750	Supply with a constant flow of some liquid,          for the purpose of cooling, cleansing, or disinfecting.	dodávka s neustálym prietokom alebo postriekaním nejakej kvapaliny na účely chladenia, čistenia alebo dezinfekcie.
-4.750	apply a thin coating of paint/metal	apply a thin coating of paint, metal, etc., to.
-4.250	disregard, fail to attend to	fail to attend to.
-4.000	make a short, sharp sound	make a sharp sound.
-4.750	connect or fasten into a chain by linking	spojiť alebo usporiadať do reťaze prepojením.
-4.500	poraziť dôkladne v súťaži alebo boji	beat thoroughly and conclusively in a competition or fight.
+5.000	oponovať rovnakou váhou alebo silou	kontrast s rovnakou hmotnosťou alebo silou.
+5.000	(Príčina) udrieť do vzduchu za letu.	udrieť do vzduchu za letu.
+5.000	Konzervujte v plechovke alebo zaváracom pohári.	zavárať v plechovke alebo plechovke.
+5.000	reťazec atómov v molekule tvoriaci uzavretú slučku	(chémia) reťazec atómov v molekule, ktorá tvorí uzavretú slučku.
+5.000	urobte povrch rovný alebo hladký	urobte povrch rovný alebo hladký.
+4.750	Zapôsobte alebo pôsobte hlboko (emocionálne).	pôsobiť alebo pôsobiť hlboko.
+4.750	Prívod neustáleho množstva kvapaliny na účely chladenia, čistenia alebo dezinfekcie.	dodávka s neustálym prietokom alebo postriekaním nejakej kvapaliny na účely chladenia, čistenia alebo dezinfekcie.
+4.750	naneste tenkú vrstvu farby / kovu	naneste tenkú vrstvu farby, kovu atď. na.
+4.250	ignorovať, nezúčastniť sa	nezúčastniť sa.
+4.000	vydať krátky, ostrý zvuk	vydať ostrý zvuk.
+4.750	spojiť alebo pripevniť do reťaze spojením	spojiť alebo usporiadať do reťaze prepojením.
+4.500	poraziť dôkladne v súťaži alebo boji	poraziť dôkladne a presvedčivo v súťaži alebo boji.
 5.000	Prezrite si knihu alebo iný písomný materiál (pre informáciu).	prezrieť si knihu alebo iný písomný materiál.
-5.000	stav bytia aktívny	the state of being active.
+5.000	stav bytia aktívny	stav bytia aktívny.
 5.000	(teológia) čin vyslobodenia z hriechu alebo záchrany pred zlom.	(teológia) čin vyslobodenia z hriechu alebo záchrany pred zlom.
-4.250	vyhlásiť alebo urobiť nevhodným alebo nevhodným	make unfit or unsuitable.
-4.000	Cook on a hot surface using fat; cook in oil.	cook on a hot surface using fat.
-4.500	Improve by pruning or polishing	vylepšiť alebo zdokonaliť prerezávaním alebo leštením.
-4.500	An area that is central within some larger region.	oblasť, ktorá je približne v strede nejakého väčšieho regiónu.
-5.000	start suddenly, as if from fright	start suddenly, as from fright.
-3.750	Buďte väčší čo do počtu, množstva, moci, postavenia alebo dôležitosti bez toho, aby ste osobne mali zvrchovanú moc.	be larger in number, quantity, power, status or importance.
-5.000	Venujte sa úplne konkrétnej osobe, činnosti alebo veci.	give entirely to a specific person, activity, or cause.
-4.500	the finger next to the thumb, forefinger	prst vedľa palca.
+4.250	vyhlásiť alebo urobiť nevhodným alebo nevhodným	urobiť nevhodnými alebo nevhodnými.
+4.000	Varte na horúcom povrchu s tukom; uvaríme na oleji.	varíme na horúcom povrchu s tukom.
+4.500	Zlepšite prerezávaním alebo leštením	vylepšiť alebo zdokonaliť prerezávaním alebo leštením.
+4.500	Oblasť, ktorá je centrálna v rámci nejakého väčšieho regiónu.	oblasť, ktorá je približne v strede nejakého väčšieho regiónu.
+5.000	začnite náhle, akoby od strachu	začať náhle, ako od strachu.
+3.750	Buďte väčší čo do počtu, množstva, moci, postavenia alebo dôležitosti bez toho, aby ste osobne mali zvrchovanú moc.	byť väčšie čo do počtu, množstva, výkonu, stavu alebo dôležitosti.
+5.000	Venujte sa úplne konkrétnej osobe, činnosti alebo veci.	dať úplne konkrétnej osobe, činnosti alebo veci.
+4.500	prst vedľa palca, ukazovák	prst vedľa palca.
 4.750	put up with something or someone (unpleasant)	put up with something or somebody unpleasant.
 5.000	úloha alebo funkcia vedúceho vládneho orgánu	the role of the head of a government department.
 4.250	consider again, usually with a view to changing	znovu zvážte; dať novú úvahu; obvykle s ohľadom na zmeny.
