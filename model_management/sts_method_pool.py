@@ -18,10 +18,9 @@ sts_method_pool = {}
 
 name = "hamming"
 args = {
-    "normalization_strategy": ["longer", "shorter"]
+    "normalization_strategy": ["longer", "shorter", "both"]
 }
 
 for arg_variation in list(all_arg_variations(args, {})):
     sts_method = STSMethod(name, hamming, arg_variation)
     sts_method_pool[sts_method.name] = sts_method
-

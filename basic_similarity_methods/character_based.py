@@ -13,4 +13,6 @@ def hamming(word1, word2, args):
         value = round(matching_count/len(word1), 2)
     elif args["normalization_strategy"] == "shorter":
         value = round(matching_count/len(word2), 2)
+    elif args["normalization_strategy"] == "both":
+        value = round( 2 * matching_count/(len(word1) + len(word2)), 2)
     return value
