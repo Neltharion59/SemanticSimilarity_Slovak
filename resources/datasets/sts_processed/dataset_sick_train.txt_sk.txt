@@ -3,7 +3,7 @@
 4.7	Mladí chlapci sa hrajú vonku a muž sa usmieva neďaleko	Deti sa s úsmevom hrajú vonku pri mužovi
 3.4	Deti sa s úsmevom hrajú vonku pri mužovi	Na dvore sa hrá skupina detí a v pozadí stojí starý muž
 3.7	Mladí chlapci sa hrajú vonku a muž sa usmieva neďaleko	Na dvore sa hrá skupina detí a v pozadí stojí starý muž
-4	Two dogs are fighting	Dva psy zápasia a objímajú sa
+4	Dva psy sa bijú	Dva psy zápasia a objímajú sa
 3.5	Hnedý pes útočí na iného zvieraťa pred mužom v nohaviciach	Dva psy sa bijú
 3.2	Hnedý pes útočí na iného zvieraťa pred mužom v nohaviciach	Dva psy zápasia a objímajú sa
 2.8	Na bicykli nikto nejazdí na jednom kolese	Človek v čiernom saku robí triky na motorke
@@ -19,7 +19,7 @@
 3.7	Dve ženy zápasia v zápase kickboxu	Dvaja ľudia kickboxujú a diváci sa nepozerajú
 4.4	Traja chlapci skáču v listoch	Tri deti skáču v listoch
 3.8	Tri deti sedia v listoch	Tri deti skáču v listoch
-3.5	Deti v červených košeliach sa hrajú v lístí	Three kids are sitting in the leaves
+3.5	Deti v červených košeliach sa hrajú v lístí	V listoch sedia tri deti
 4	Deti v červených košeliach sa hrajú v lístí	Tri deti skáču v listoch
 2.9	Na ležiacich deťoch snežia dvaja anjeli	Dve deti ležia v snehu a vyrábajú snehových anjelov
 4.1	Dve deti ležia v snehu a kreslia anjelov	Dvaja ľudia v snehových oblekoch ležia v snehu a vyrábajú snehových anjelov
@@ -29,7 +29,7 @@
 3.2	Ľudia oblečení v kostýmoch sa zhromažďujú v lese a pozerajú rovnakým smerom	Ľudia, ktorí nosia kostýmy, sa rozchádzajú v lese a pozerajú sa rôznymi smermi
 3.635	Ľudia si prezerajú kostýmy zhromaždené v blízkosti lesa	Ľudia oblečení v kostýmoch sa zhromažďujú v lese a pozerajú rovnakým smerom
 2.4	Dievčatko sa pozerá na ženu v kroji	Ľudia, ktorí nosia kostýmy, sa rozchádzajú v lese a pozerajú sa rôznymi smermi
-2.6	Dievčatko sa pozerá na ženu v kroji	People are looking at some costumes gathered in the vicinity of the forest
+2.6	Dievčatko sa pozerá na ženu v kroji	Ľudia si prezerajú kostýmy zhromaždené v blízkosti lesa
 2.2	Mladé dievča sa pozerá na ženu v kroji	Ľudia oblečení v kostýmoch sa zhromažďujú v lese a pozerajú rovnakým smerom
 3	Ľudia oblečení v kostýmoch sa zhromažďujú v lese a pozerajú rovnakým smerom	Dievčatko sa pozerá na muža v kroji
 2	Ľudia oblečení v kostýmoch sa zhromažďujú v lese a pozerajú rovnakým smerom	Malé dievčatko v kostýme vyzerá ako žena
@@ -41,11 +41,11 @@
 1.4	Mužov svetrík je v prázdnom bazéne	Osamelý motorkár skáče do vzduchu
 1.5	Osamelý motorkár skáče do vzduchu	Muž skáče do prázdneho bazéna
 4.8	Štyri deti robia backbends v parku	Štyri deti robia backbends v parku
-3.8	Four children are doing backbends in the gym	Štyri deti robia backbends v parku
+3.8	Štyri deti robia v telocvični zákruty	Štyri deti robia backbends v parku
 4.1	Štyri dievčatá robia backbends a hrajú sa na záhrade	Štyri dievčatá robia backbends a hrajú sa vonku
 4.3	Muž, ktorý hrá, beží s loptou v rukách	Hráč beží s loptou
 2.1	Futbal hrajú dve skupiny ľudí	Hráč beží s loptou
-3	Dva tímy súťažia v bejzbalovom zápase	A player is running with the ball
+3	Dva tímy súťažia v bejzbalovom zápase	Hráč beží s loptou
 2.6	Hráč beží s loptou	Dva tímy súťažia vo futbalovom zápase
 3.2	Pred dreveničkou každého dieťaťa je päť drevených stojanov	Pred drevenou chatou stojí päť detí
 3.7	Päť detí stojí pri sebe a jedno dieťa má zbraň	Päť detí stojí blízko pri sebe a žiadne z nich nemá zbraň
@@ -53,11 +53,11 @@
 2.7	V drevenej chatrči stojí päť detí	Päť detí stojí pri sebe a jedno dieťa má zbraň
 2.3	Pred dreveničkou každého dieťaťa je päť drevených stojanov	Päť detí stojí pri sebe a jedno dieťa má zbraň
 4.4	V poli sedí starý muž	Muž sedí v poli
-2.6	Muž sedí v poli	A man is running in a field
+2.6	Muž sedí v poli	Muž beží v poli
 4.1	Osoba má klobúk a sedí na tráve	Osoba sedí v poli a má čiapku
-3.4	A person is sitting and wearing a grass hat	Osoba má klobúk a sedí na tráve
+3.4	Osoba sedí a má na tráve klobúk	Osoba má klobúk a sedí na tráve
 3.3	Osoba sedí a má na tráve klobúk	Muž sedí v poli
-3.8	Muž sedí v poli	A person is wearing a hat and is sitting on the grass
+3.8	Muž sedí v poli	Osoba má klobúk a sedí na tráve
 4.9	Na prúde jazdí skupina priateľov v splave	Skupina priateľov sa vezie na prúde na rafte
 3.7	Skupina priateľov sa vezie na prúde na rafte	Skupina nejazdí na prúde na rafte
 3.2	Na prúde jazdí skupina priateľov v splave	Táto skupina ľudí cvičí v oblasti vodnej bezpečnosti a ochrany nosenia
@@ -70,11 +70,11 @@
 3.9	Rodina sleduje malého chlapca, ktorý bije bejzbal	Rodina sleduje malého chlapca, ktorému chýba bejzbal
 3.015	Dieťa udrie bejzbal	Rodina sleduje malého chlapca, ktorému chýba bejzbal
 2.7	Dieťaťu chýba bejzbal	Rodina sleduje malého chlapca, ktorý bije bejzbal
-3.3	A purple crowd of people is eating on various red lit restaurant tables	Rôzni ľudia jedia pri červených stoloch v preplnenej reštaurácii s fialovými svetlami
-2.9	Veľká reštaurácia Ázijcov sa stravuje v reštaurácii	Various customers are eating in a crowded restaurant with purple lights
+3.3	Fialový dav ľudí sa naje na rôznych červeno osvetlených reštauračných stoloch	Rôzni ľudia jedia pri červených stoloch v preplnenej reštaurácii s fialovými svetlami
+2.9	Veľká reštaurácia Ázijcov sa stravuje v reštaurácii	V preplnenej reštaurácii s fialovými svetlami sa stravujú rôzni zákazníci
 3.1	Fialový dav ľudí sa naje na rôznych červeno osvetlených reštauračných stoloch	Veľká reštaurácia Ázijcov sa stravuje v reštaurácii
 3.2	Rôzni ľudia jedia pri červených stoloch v preplnenej reštaurácii s fialovými svetlami	Malá skupina ľudí čaká na jedlo v reštaurácii
-3.8	A motorcycle rider is standing up on the seat of a white motorcycle	No motorcycle rider is standing up on the seat of a motorcycle
+3.8	Jazdec na motocykli stojí na sedadle bieleho motocykla	Žiaden jazdec na motocykli nestojí na sedadle motocykla
 3.7	Nikto nie je na motorke a nestojí na sedadle	Niekto je na čiernobielom motocykli a stojí na sedadle
 4.6	Motorkár nebezpečne jazdí na motorke po ceste	Motocyklista jazdí na motorke po ceste
 3.7	Po ceste nie je žiadny motocyklista, ktorý by jazdil na motorke	Motocyklista jazdí na motorke po ceste
@@ -103,7 +103,7 @@
 2.9	Muž je na skale vysoko nad niektorými stromami a stojí v podivnej polohe	Turista je na vrchole hory a radostne tancuje
 2.4	Na vrchole hory netancuje žiadny turista	Muž je na skale vysoko nad niektorými stromami a stojí v podivnej polohe
 4.8	Hnedý kôň je pri rodeu veľmi blízko červeného suda	Hnedý kôň je blízko červeného suda pri rodeu
-3.6	The brown horse is near a red barrel at the rodeo	Hnedý kôň je ďaleko od červeného suda pri rodeu
+3.6	Hnedý kôň je blízko červeného suda pri rodeu	Hnedý kôň je ďaleko od červeného suda pri rodeu
 3.2	Cowgirl jazdí na hnedom koni a kľučkuje v hlave	Hnedý kôň je blízko červeného suda pri rodeu
 3.8	Cowgirl jazdí na koni a zahýba hlaveň	Hnedý kôň je blízko červeného suda pri rodeu
 4.1	V studenej vode stojí chlapec	Vo vode stojí chlapec
@@ -115,7 +115,7 @@
 3.8	Muž hrá na pódiu na gitare	Holohlavý človek hrá na gitare
 3.4	Na pódiu nie je nikto, kto by hral na gitare	Človek má blond a svetlé vlasy a hrá na gitare
 4	Niekoľko detí si sadá a má zdvihnuté kolená	Niekoľko detí leží a zdvíha kolená
-4.4	Na zemi sedia dve mladé dievčatá	Two girls are sitting on the ground
+4.4	Na zemi sedia dve mladé dievčatá	Na zemi sedia dve dievčatá
 2.8	Na zemi ležia dve dievčatá	Niekoľko detí si sadá a má zdvihnuté kolená
 2.9	Nahá dáma kráča pred davom v laku na telo	Pred davom nechodí žiadna dáma v laku na telo
 3.1	Nahá dáma kráča pred davom v laku na telo	Pred dámou kráča nahý dav v laku karosérie
@@ -255,7 +255,7 @@
 3.7	Mladá dáma so svetlohnedými vlasmi má červený náhrdelník, mikinu a náušnice a usmieva sa	Nie je žiadna slečna so svetlohnedými vlasmi, ktorá má červený náhrdelník, mikinu a náušnice a usmieva sa
 3.3	Mladá dáma so svetlohnedými vlasmi má červený náhrdelník, mikinu a náušnice a usmieva sa	Červená mikina, na ktorej je usmievavá dáma, je vhodná na nosenie so svetlohnedými vlasmi, náušnicami a náhrdelníkom
 3.1	Dáma v mladom veku so svetlohnedými vlasmi má červený náhrdelník, mikinu a náušnice a usmieva sa	Dospievajúce dievča má na sebe červené korálky
-2.4	A young lady with light brown hair is wearing a red necklace, a sweatshirt and earrings and is smiling	Dospievajúce dievča má na sebe červené korálky
+2.4	Mladá dáma so svetlohnedými vlasmi má červený náhrdelník, mikinu a náušnice a usmieva sa	Dospievajúce dievča má na sebe červené korálky
 2.3	Dievčaťu sa páči červená a na perách nemá tínedžerov	Mladá dáma so svetlohnedými vlasmi má červený náhrdelník, mikinu a náušnice a usmieva sa
 3.4	Bojazlivý malý chlapec je na lezeckej stene	Strašný malý chlapec je na zemi
 2.2	Chlapec lezie po stene umelo postavenej na lezenie a je pripevnený k lanu	Horolezecký chlapec zachráni strašnú mačku spoza steny
@@ -280,13 +280,13 @@
 4.7	Malé dieťa lezie na horolezeckú stenu, ktorá je v interiéri	Mladé dieťa lezie na horolezeckú stenu, ktorá je vnútri
 3.2	Malé dieťa lezie na horolezeckú stenu, ktorá je v interiéri	Dieťa je v interiéri a sleduje program o mladých lezcoch na skalnej stene.
 3.4	Dieťa je v interiéri a sleduje program o mladých lezcoch na skalnej stene.	Mladý chlapec lezie po stene zo skaly
-4.3	Jeden mladý chlapec lezie na stenu zo skaly	A young child is climbing a rock climbing wall which is indoors
+4.3	Jeden mladý chlapec lezie na stenu zo skaly	Malé dieťa lezie na horolezeckú stenu, ktorá je v interiéri
 2.9	Mladý horolezec robí pre chlapcov skalnú stenu	Malé dieťa lezie na horolezeckú stenu, ktorá je v interiéri
 3.8	Cyklista predvádza vo vzduchu trik	Cyklista nevykonáva vo vzduchu žiadny trik
 2.9	Jeden muž robí vo vzduchu trik na bicykli	Cyklista nevykonáva vo vzduchu žiadny trik
 3	Jeden muž robí vo vzduchu trik na bicykli	Vzduch podvádza výkonného cyklistu
 4.9	Na ulici na seba zízajú čierny a biely pes	Na ulici na seba zízajú pes, ktorý je čierny, a ďalší, ktorý je biely
-3.1	A dog, which is black, and a white one are staring at each other in the street	Jeden biely pes hľadí na čiernu ulicu
+3.1	Na ulici na seba zízajú čierny a biely pes	Jeden biely pes hľadí na čiernu ulicu
 4.6	Cez ulicu sa na seba zlostne pozerajú dva psy rôznych plemien	Cez ulicu sa na seba pozerajú dva psy rôznych plemien
 3.9	Cez ulicu sa na seba pozerajú dva psy rôznych plemien	Cez ulicu sa na seba nepozerajú psy rôznych plemien
 4.1	Na ulici na seba zízajú pes, ktorý je čierny, a ďalší, ktorý je biely	Cez ulicu sa na seba pozerajú dva psy rôznych plemien
@@ -297,9 +297,9 @@
 3.2	Pes vedľa stromu, ktorý je pravdepodobne borovica, hryzie vedro	Na záhrade nie je pes, ktorý by bol chlpatý a čierny a v ústach mal kôš.
 3.4	Pes na záhrade má v ústach čiernu kožušinu v košíku.	Pes vedľa stromu, ktorý je pravdepodobne borovica, hryzie vedro
 2.8	Pes, ktorý je chlpatý a čierny, je na záhrade a má v ústach kôš	Pes vedľa stromu, ktorý je pravdepodobne borovica, zhadzuje vedro
-4.7	Dve veľké osoby sedia na lavičke v parku a medzi sebou majú fľašu sódy	Two large persons are sitting on a park bench and they have a bottle of soda between them
+4.7	Dve veľké osoby sedia na lavičke v parku a medzi sebou majú fľašu sódy	Dve veľké osoby sedia na lavičke v parku a medzi sebou majú fľašu sódy
 4.1	Dve veľké osoby sedia na lavičke v parku a medzi sebou majú fľašu sódy	Dve veľké osoby stoja blízko lavičky v parku a medzi nimi nič nie je
-3.7	Two large park benches have a person sitting and a bottle of soda between them	Dve veľké osoby sedia na lavičke v parku a medzi sebou majú fľašu sódy
+3.7	Dve veľké lavičky v parku majú sediacu osobu a medzi nimi fľašu sódy	Dve veľké osoby sedia na lavičke v parku a medzi sebou majú fľašu sódy
 3.3	Muž a žena pohodlne sedia na lavičke	Dve veľké osoby sedia na lavičke v parku a medzi sebou majú fľašu sódy
 3.7	Muž sa rúti o vedenie	Muž vedie závod
 3.1	Vonku beží pár mužov v súťaži	Jeden muž vedie preteky
@@ -310,7 +310,7 @@
 4.9	Muž s zafarbeným fialovým klobúkom obsluhuje kameru, ktorá natáča videá	Muž vo fialovom klobúku obsluhuje kameru, ktorá natáča videá
 3.4	Muž vo fialovom klobúku neprevádzkuje kameru, ktorá natáča videá	Muž vo fialovom klobúku obsluhuje kameru, ktorá natáča videá
 3.4	Muž s zafarbeným fialovým klobúkom obsluhuje kameru, ktorá natáča videá	Muž s kamerou študuje predmet
-3.2	A man with a camera is studying the subject	Muž vo fialovom klobúku neprevádzkuje kameru, ktorá natáča videá
+3.2	Muž s kamerou študuje predmet	Muž vo fialovom klobúku neprevádzkuje kameru, ktorá natáča videá
 3.6	Muž vo fialovom klobúku obsluhuje kameru, ktorá natáča videá	Tento predmet študuje muž s fotoaparátom
 3.2	Muž vo fialovom klobúku obsluhuje kameru, ktorá natáča videá	Nie je žiadny muž s kamerou, ktorý by študoval túto tému
 2.8	Predmetom štúdia je kameraman	Muž vo fialovom klobúku obsluhuje kameru, ktorá natáča videá
@@ -324,7 +324,7 @@
 2.6	Po uličke kráča manželský pár	Po svadbe odchádza nevesta od ženícha
 3.4	Po uličke kráča manželský pár	Po svadbe odchádzajú nevesta a ženích
 4.8	Prezentáciu sleduje učebňa študentov	Prezentácie sa zúčastňuje učebňa študentov
-3.4	Prezentácie sa zúčastňuje učebňa študentov	A classroom is full of students
+3.4	Prezentácie sa zúčastňuje učebňa študentov	Učebňa je plná študentov
 3	Prezentáciu sleduje učebňa študentov	Učebňa je prázdna
 3.2	Chlapec na kopci pokrytý snehom má na sebe červené sako a čierny klobúk a šmýka sa po kolenách	Chlapec na spodku kopca pokrytý snehom je nahý a sedí na kolenách
 3.5	Chlapec na kopci pokrytý snehom má na sebe červené sako a čierny klobúk a šmýka sa po kolenách	Chlapec na červeno-čiernej šmykľavke má na sebe bundu a čiapku a má kolená pokryté snehom
@@ -336,26 +336,26 @@
 4.4	Žena, ktorá je stará, je blízko psa, ktorý má bielu srsť	Žena, ktorá je stará, je blízko bieleho psa
 2.4	Žena, ktorá je stará, má ďaleko od bieleho psa	Na pni sedí žena a pes
 3.5	Muž zalieva trávu a vzrušene sa hrá so psom	Pes sa vzrušene hrá s vodou v tráve
-4.5	The dog is biting some droplets of water	Pes cvaká po kvapkách vody
+4.5	Pes hryzie nejaké kvapôčky vody	Pes cvaká po kvapkách vody
 4	Pes cvaká po kvapkách vody	Pes nezacvakáva po kvapkách vody
 2.9	Pes sa vzrušene hrá s vodou v tráve	Lusknutím je zobrazená voda padajúca po kvapkách na psa
 3.5	Pes cvaká po kvapkách vody	V tráve niet psa, ktorý by sa vzrušene hral s vodou
 2.4	Muž zalieva trávu a vzrušene sa hrá so psom	Pes cvaká po kvapkách vody
 4.2	Pes cvaká po kvapkách vody	Pes sa vzrušene hrá s vodou v tráve
 4.4	Dvaja ľudia sú na snehu a majú oblečené oblečenie, ktoré poskytuje maskovanie	Niektorí ľudia sú na snehu a majú na sebe oblečenie, ktoré poskytuje maskovanie
-3.3	Nikto nie je na snehu oblečený v oblečení, ktoré poskytuje maskovanie	Two people are in the snow, wearing clothes that provide camouflage
-2.7	Some people are in the snow, wearing clothes that provide camouflage	Dvaja ľudia sa venujú dvom psom so zlatými kabátmi v snehu
+3.3	Nikto nie je na snehu oblečený v oblečení, ktoré poskytuje maskovanie	Dvaja ľudia sú na snehu a majú oblečené oblečenie, ktoré poskytuje maskovanie
+2.7	Niektorí ľudia sú na snehu a majú na sebe oblečenie, ktoré poskytuje maskovanie	Dvaja ľudia sa venujú dvom psom so zlatými kabátmi v snehu
 3.2	Dvaja ľudia sú na snehu a majú oblečené oblečenie, ktoré poskytuje maskovanie	Dvaja muži sa venujú dvom psom so zlatými kabátmi v snehu
 2.7	Dvaja ľudia sú na snehu a majú oblečené oblečenie, ktoré poskytuje maskovanie	Dvaja ľudia sa venujú dvom psom so zlatými kabátmi v snehu
 2.2	Nie je dievča, ktoré by malo oblečené tričko a malo otvorené ústa	Dievča z Ázie pred murovaným oknom vyzerá prekvapene
 2.4	Dievča z Ázie pred oknom z tehál vyzerá prekvapene	Dievča má na sebe tričko a má otvorené ústa.
-2.1	Dievča z Ázie pred murovaným oknom nevyzerá prekvapene	A girl is wearing a t-shirt and has her mouth open.
+2.1	Dievča z Ázie pred murovaným oknom nevyzerá prekvapene	Dievča má na sebe tričko a má otvorené ústa.
 3.6	Osoba na bicykli stojí stabilne pred niektorými horami	Horský výstroj je stabilne umiestnený pred stojacim bikerom
-2.3	Pred horami stabilne nestojí žiadna osoba na bicykli	A group of people is equipped with protective gear
+2.3	Pred horami stabilne nestojí žiadna osoba na bicykli	Skupina ľudí je vybavená ochranným výstrojom
 2	Skupina ľudí je vybavená výstrojom používaným na ochranu	Osoba na bicykli stojí stabilne pred niektorými horami
 2	Skupina ľudí je vybavená nechráneným výstrojom	Osoba na bicykli stojí stabilne pred niektorými horami
 4.6	Malé dieťa hrá futbal a neškodne padá do trávy	Malé dieťa hrá futbal a padá do trávy
-4.1	Nie je malé dieťa, ktoré hrá futbal a padá do trávy	The little kid is playing football and falling into the grass
+4.1	Nie je malé dieťa, ktoré hrá futbal a padá do trávy	Malé dieťa hrá futbal a padá do trávy
 3.5	Futbal je medzi nohami chlapca, ktorý leží na tráve	Malé dieťa hrá futbal a padá do trávy
 3.7	Futbal je medzi nohami chlapca, ktorý leží na tráve	Malé dieťa hrá futbal a padá do trávy
 3.9	Muž s výstrojom používaným na lezenie visí z bielej zvislej skaly.	Muž s výstrojom používaným na lezenie je pod vertikálnou bielou skalou
@@ -392,12 +392,12 @@
 2.8	Ľudia sú ďaleko od pláže plnej piesku pri oceáne a trpia slnečným dňom	Na brehu je kopa ľudí
 3.8	Ľudia sú na pláži plnej piesku pri oceáne a užívajú si slnečný deň	Na brehu je kopa ľudí
 4.4	Muž robí koleso s motorkou v poli, ktoré je väčšinou neúrodné	Muž robí koleso s motocyklom na zemi, ktorá je väčšinou neplodná
-3.5	The man is doing a wheelie with a motorcycle on ground which is mostly barren	Muž je na zemi, ktorá je väčšinou neplodná, a natáča koleso s motorkou.
+3.5	Muž robí koleso s motocyklom na zemi, ktorá je väčšinou neplodná	Muž je na zemi, ktorá je väčšinou neplodná, a natáča koleso s motorkou.
 3.5	Muž v modrej kombinéze odvážne predvádza na motorke koliesko	Muž zosadá z motocykla na zem, ktorá je väčšinou neplodná
 4.1	Muž v modrej kombinéze odvážne predvádza na motorke koliesko	Muž robí koleso s motocyklom na zemi, ktorá je väčšinou neplodná
 3.4	Muž v modrej kombinéze zlyháva vo výkone dvojkolesia na motorke	Muž robí koleso s motocyklom na zemi, ktorá je väčšinou neplodná
 3.6	Muž robí koleso s motocyklom na zemi, ktorá je väčšinou neplodná	Odvážny umelec robí na motocykli koleso nad mužom v modrej kombinéze
-3	Dvaja ľudia sa hádajú v blízkosti davu	Two people are kissing near a crowd
+3	Dvaja ľudia sa hádajú v blízkosti davu	Dvaja ľudia sa bozkávajú v blízkosti davu
 4	Dvaja ľudia sa vášnivo bozkávajú v blízkosti davu	Ženu bozkáva muž
 4.1	Dvaja ľudia sa bozkávajú v blízkosti davu	Dámu bozkáva muž
 4	Dvaja ľudia sa bozkávajú v blízkosti davu	Ženu bozkáva muž
@@ -414,7 +414,7 @@
 3.9	Dve batoľatá jedia na skutočne malom vozni plnom corndogov	Dve batoľatá jedia corndogov vo vagóne, ktorý je naozaj malý
 4.9	Dve malé deti jedia corndogs	Dve malé deti jedia corndogs
 4.5	Dve batoľatá jedia corndogov vo vagóne, ktorý je naozaj malý	Dve malé deti jedia corndogs
-4.3	Niektorých corndogov jedia dve batoľatá, ktoré sú vo vagóne, ktorý je naozaj malý	Two young kids are eating corndogs
+4.3	Niektorých corndogov jedia dve batoľatá, ktoré sú vo vagóne, ktorý je naozaj malý	Dve malé deti jedia corndogs
 1.6	Dve batoľatá spia vo vagóne, ktorý je naozaj malý	Dve malé deti jedia corndogs
 4.3	Dve batoľatá jedia corndogov vo vagóne, ktorý je naozaj malý	Dve malé deti jedia corndogs
 5	Muž v košeli zafarbenej na fialovo sa pozerá na muža v čiernej košeli, ktorý robí smiešnu tvár	Muž v košeli zafarbenej na fialovo sa pozerá na muža v čiernej košeli, ktorý robí tvár, ktorá vyzerá smiešne
@@ -1471,14 +1471,14 @@
 2.9	Niekto píše	Niekto odkladá klávesnicu
 2.7	Nikto nepíše	Niekto píše na klávesnici
 4.9	Žena lúpe zemiaky	Zemiak šúpu žena
-3.3	Žena lúpe zemiaky	A woman is putting away a potato
+3.3	Žena lúpe zemiaky	Žena odkladá zemiak
 5	Zemiak šúpu žena	Žena lúpe zemiaky
 3.4	Žena lúpe zemiaky	Neexistuje žena, ktorá by lúpala zemiak
 4.5	Niekto čistí zviera	Niekto čistí zviera
-3.4	Niekto čistí zviera	Someone is dirtying an animal
+3.4	Niekto čistí zviera	Niekto špiní zviera
 3.4	Žena čistí krevety	Niekto čistí zviera
 2	Niekto špiní zviera	Žena čistí krevety
-3.9	Žena čistí krevety	Someone is cleaning an animal
+3.9	Žena čistí krevety	Niekto čistí zviera
 2.6	Neexistuje žena, ktorá by krevety čistila	Niekto čistí zviera
 4.2	Žena čistí krevety	Niekto čistí zviera
 3.4	Na vodnom skútri nejazdí žena	Žena jazdí na vodnom skútri
@@ -1714,10 +1714,10 @@
 3.6	Muž vstáva z močiara	Osoba vychádza z vody
 2.9	Muž ide do vody	Muž vstáva z močiara
 4	Muž nebezpečne tancuje na strope miestnosti	Muž tancuje dolu hlavou na strop
-2.4	A man is dancing upside-down on the ceiling	Muž leží na zemi na voľnobehu
+2.4	Muž tancuje dolu hlavou na strop	Muž leží na zemi na voľnobehu
 4.3	Muž tancuje dolu hlavou na strop	Muž tancuje na strope miestnosti
 4.6	Muž tancuje	Samec tancuje
-4.4	There is no man dancing	Muž tancuje
+4.4	Žiadny muž netancuje	Muž tancuje
 4.8	Muž vášnivo spieva	Muž spieva
 2.9	Žiadny muž netancuje	Muž spieva
 3.2	Muž tancuje	Muž spieva
@@ -1760,7 +1760,7 @@
 4.4	Dievča sa prebúdza	Dieťa sa prebúdza
 4.4	Dievča sa prebúdza	Dieťa sa prebúdza
 3.3	Paradajku krája žena	Žena lúpe zemiaky
-2.4	Žena lúpe zemiaky	There is no woman slicing a tomato
+2.4	Žena lúpe zemiaky	Neexistuje žena, ktorá by krájala paradajku
 3.3	Žena krája paradajku	Žena šúpa zemiak
 4.1	Chlapec šikovne hrá na klavíri	Chlapec hrá na klavíri
 4.9	Muž spieva a hrá na gitare	Človek spieva a hrá na gitare
@@ -1964,7 +1964,7 @@
 3.8	Dvaja ľudia v preteku obracajú pneumatiky traktora	Dve ženy súťažia v pretočení pneumatík
 3.6	Nie je žiadny muž, čo potľapká aligátora po ústach	Muž potľapká aligátora po ústach
 4.9	Človek púšťa nakrájanú zeleninu do hrnca na sporáku	Nakrájanú zeleninu hodí človek do hrnca na sporáku
-3.9	The men are not talking	Muži hovoria
+3.9	Muži nerozprávajú	Muži hovoria
 1.9	Niektoré ženy sa rozprávajú	Muži vedú rozhovor
 3.4	Muži nerozprávajú	Niektoré ženy sa rozprávajú
 1	Neexistuje žena, ktorá by si dala rúž	Muž hrá na gitare
@@ -2327,7 +2327,7 @@
 5	Niektoré lepkavé lepky vytiahne žena z misky	Žena vyťahuje z misky lepkavé lepidlo
 3.3	Žena nedáva cestoviny do misky	Žena dáva cestoviny do misky
 2.8	Žena dáva do misky lepkavé lepky	Žena dáva cestoviny do misky
-4.5	The men are playing soccer	Muži sa hrajú s loptou
+4.5	Muži hrajú futbal	Muži sa hrajú s loptou
 1.5	Muži nehrávajú futbal	Muž jazdí na motorke
 1.1	Muži hrajú futbal	Muž jazdí na motorke
 4.6	Pes sa rozhliada	Zviera sa rozhliada
@@ -2340,10 +2340,10 @@
 3.2	Okolo sa prechádzal tiger	Tigrie mláďa vydáva zvuk
 3.1	Reví tigrie mláďa	Okolo ide tiger
 2.9	Okolo ide tiger	Tigrie mláďa vydáva zvuk
-3.5	Žena vypráža mäso	A woman is not frying meat
+3.5	Žena vypráža mäso	Žena nepraží mäso
 4.4	Žena dáva jedlo do hrnca s horúcou vodou	Žena varí jedlo v hrnci s horúcou vodou
 3.165	Žena vypráža mäso	Žena dáva jedlo do hrnca so studenou vodou
-3.4	Žena nepraží mäso	A woman is placing food in a pot of hot water
+3.4	Žena nepraží mäso	Žena dáva jedlo do hrnca s horúcou vodou
 4.7	Na trúbku hrá muž	Muž hrá na trúbke
 3.1	Žena hrá na trúbke	Muž hrá na trúbke
 4.2	Niekto sa hrá s ropuchou	Niekto sa hrá so žabou
@@ -2360,31 +2360,31 @@
 2.8	Niekto skladá kúsok papiera	Nikto neskladá kúsok papiera
 2.8	Nikto neskladá kúsok papiera	Osoba skladá kúsok papiera
 4.1	Mladý chlapec používa posunkovú reč	Mladé dievča používa posunkovú reč
-4.7	Posunkovú reč používa mladé dievča	A girl is communicating with sign language
+4.7	Posunkovú reč používa mladé dievča	Dievča komunikuje posunkovou rečou
 3.3	Dievča komunikuje posunkovou rečou	Mladý chlapec používa posunkovú reč
 4.5	Zajko sa hrá s plyšovým zajačikom	Zajačik sa hrá s plyšovým zajačikom
-4.4	Králik sa hrá s hračkou králikom	A rabbit is playing with a stuffed bunny
+4.4	Králik sa hrá s hračkou králikom	Zajko sa hrá s plyšovým zajačikom
 4.5	Muž skáče na poli v poli	Muž vonku skáče cez švihadlo
 3.935	Žena nekrája uhorku	Žena krája uhorku
-1	A man is jumping rope outside	Žena nekrája uhorku
-1.3	Žena krája uhorku	A woman is jumping rope outside
+1	Vonku skáče muž	Žena nekrája uhorku
+1.3	Žena krája uhorku	Žena skáče lano von
 3.9	Muž nekrája zemiak	Muž krája zemiak
 4.6	Muž je nakrájaný na zemiak	Muž krája zemiaky
 4.7	Muž krája zemiak	Zemiaky krája muž
-4.9	A wind instrument is being played by a girl	Dievča hrá na dychovom nástroji
+4.9	Na dychovku hrá dievča	Dievča hrá na dychovom nástroji
 4.3	Dievča hrá na flaute	Na dychovku hrá dievča
-3.1	Dievča hrá na flaute	A boy is playing a wind instrument
+3.1	Dievča hrá na flaute	Chlapec hrá na dychovom nástroji
 4.4	Dievča hrá na flaute	Dievča hrá na dychovom nástroji
 4.8	Osoba hrá na klávesnici	Osoba hrá na klávesnici
 4	Osoba hrá na klávesnici	Osoba nehrá na klávesnici
 3	Niekto hrá na klavíri	Niekto nehrá na klavíri
 3.8	Niekto hrá na klavíri	Osoba hrá na klávesnici
-3	Someone is playing piano	Osoba nehrá na klávesnici
+3	Niekto hrá na klavíri	Osoba nehrá na klávesnici
 4.8	Muž skáče do bazéna	Muž sa potápa do bazéna
 4.4	Muž skáče do bazéna	Muž sa potápa do bazéna
 3.5	Žena sa potápa do bazéna	Muž sa potápa do bazéna
-4.4	Muž korení párky	The man is seasoning the meat
-3	Muž pridáva do vody do misky korenie	The man is seasoning the meat
+4.4	Muž korení párky	Muž korení mäso
+3	Muž pridáva do vody do misky korenie	Muž korení mäso
 3	Muž klobásy nekorení	Muž pridáva do vody do misky korenie
 3.7	Muž do vody pridáva korenie	Muž korení párky
 4.9	Muž hrá na flaute	Muž hrá na flaute
@@ -2401,8 +2401,8 @@
 5	Pani lúpe zemiaky	Žena lúpe zemiaky
 1.3	Muž hrá na flaute	Muž jazdí na skútri
 1.1	Muž jazdí na skútri	Nie je nikto, kto by hral na flaute
-4.3	A man is playing the guitar	Muž hrá na nástroj
-1	Muž hrá na gitare	An octopus is being sliced by a woman
+4.3	Muž hrá na gitare	Muž hrá na nástroj
+1	Muž hrá na gitare	Chobotnicu krája žena
 1	Žena nekrája chobotnicu	Muž hrá na gitare
 1	Žena krája chobotnicu	Muž hrá na nástroj
 1	Nie je nikto, kto by hral na gitare	Žena krája chobotnicu
@@ -2414,9 +2414,9 @@
 3.7	Muž hrá na bicie	Muž hrá na gitare
 3.4	Muž vyberá nejaké jedlo z krabice	Muž dáva nejaké jedlo do škatule
 3.3	Muž nedáva kurča do nádoby	Muž dáva kurča do kontajnera
-3.7	Muž nedáva kurča do nádoby	A man is putting some food in a box
+3.7	Muž nedáva kurča do nádoby	Muž dáva nejaké jedlo do škatule
 2.5	Muž vyberá nejaké jedlo z krabice	Muž dáva kurča do kontajnera
-4.315	Muž dáva kurča do kontajnera	A man is putting some food in a box
+4.315	Muž dáva kurča do kontajnera	Muž dáva nejaké jedlo do škatule
 4.9	Vajcia rozbije žena do misy	Žena láme vajcia do misy
 4.9	Žena kladie špajle na stojan	Špízy umiestňuje na stojan žena
 1.4	Žena láme vajcia do misy	Neexistuje žena, ktorá by umiestňovala špajle na stojan
@@ -2425,7 +2425,7 @@
 2.4	Žena láme vajcia do misy	Žena kladie špajle na stojan
 2.7	Dieťa nehrá na gitare	Dieťa hrá na gitare
 3.2	Malý chlapec spieva a hrá na gitare	Malý chlapec nespieva a nehrá na gitare
-3.5	The little boy is singing and playing the guitar	Na gitaru hrá dieťa
+3.5	Malý chlapec spieva a hrá na gitare	Na gitaru hrá dieťa
 3.6	Dieťa nehrá na gitare	Malý chlapec spieva a hrá na gitare
 4.3	Žena lúpe zemiaky	Žena lúpe jedlo
 4.5	Neexistuje žena, ktorá by lúpala zemiak	Žena lúpe zemiaky
@@ -2444,10 +2444,10 @@
 5	Žena vypráža ryby	Rybu vypráža žena
 3.3	Žena vypráža ryby	Žena nefrituje rybu
 3.6	Žena varí ryby	Žena nefrituje rybu
-4.8	Žena hrá na flaute	The flute is being played by a woman
+4.8	Žena hrá na flaute	Na flaute hrá žena
 3.7	Žena hrá na flaute	Muž hrá na flaute
 3.3	Muž hrá na flaute	Na flaute hrá žena
-4.9	A man is playing a flute	Muž hrá na flaute
+4.9	Muž hrá na flaute	Muž hrá na flaute
 2.2	Muž hrá na nástroj	Žena hrá na flaute
 3.8	Žena hrá na flaute	Muž nehrá na flaute
 4.6	Chlapec kosí trávnik	Chlapík kosí trávnik
@@ -2463,7 +2463,7 @@
 1.1	Osoba drží skunka	Človek si na panvici nevypráža mäso
 4.5	Dáma rozbije vajíčko do misy	Pani láme vajíčko do misky
 3.6	Žena láme vajcia do misy	Muž láme vajcia do misy
-2.9	The lady is taking an egg out of a bowl	Muž láme vajcia do misy
+2.9	Dáma vyberá vajíčko z misy	Muž láme vajcia do misy
 5	Muž krája paradajky	Muž krája paradajky
 4.8	Brokolicu krája žena	Žena krája brokolicu
 2.9	Žena nekrajuje brokolicu	Žena krája brokolicu
@@ -3176,14 +3176,14 @@
 4	Dve dievčatá sa nehrajú vo vnútri prepojovacieho domu	Dve dievčatá sa hrajú vo vnútri prepojovacieho domu
 3.7	Dieťa vo svetlých odevoch stojí s rukami natiahnutými smerom von	Dieťa vo svetlých odevoch leží so založenými rukami
 1.3	Dve dievčatá sa hrajú vo vnútri prepojovacieho domu	Dieťa v svetlom odeve stojí s rukami natiahnutými smerom von
-1.4	A child in light colored clothing is lying with his arms crossed	Dve dievčatá sa hrajú v jumperovom dome
+1.4	Dieťa vo svetlých odevoch leží so založenými rukami	Dve dievčatá sa hrajú v jumperovom dome
 1.9	Dieťa vo svetlých odevoch stojí s rukami natiahnutými smerom von	Dve dievčatá sa šťastne hrajú v jumperovom dome
 1.5	Dve dievčatá sa hrajú v jumperovom dome	Dieťa vo svetlých odevoch stojí s rukami natiahnutými smerom von
 5	Chlapec a dievča sa hrajú na vonkajšej telocvični	Chlapec a dievča sa hrajú na vonkajšej telocvični
 4.9	Niektoré deti sa hrajú na detskom ihrisku	Niektoré deti sa hrajú na detskom ihrisku
 5	Motokrosový jazdec má na sebe modré a čierne nohavice	Motokrosový jazdec nosí modré a čierne nohavice
 3.3	Motokrosový jazdec má na sebe modré a čierne nohavice	Motorkár s modrou bundou, čiernymi nohavicami a bielou prilbou jazdí neuvážene po špine a ľudia ju sledujú
-3.4	A biker with a blue jacket, black pants and a white helmet is driving on dirt and people are watching	Motokrosový jazdec má na sebe modré a čierne nohavice
+3.4	Motorkár s modrou bundou, čiernymi nohavicami a bielou prilbou jazdí po špine a ľudia sa dívajú	Motokrosový jazdec má na sebe modré a čierne nohavice
 4	Žena v ružových rukaviciach a hnedej bunde sa usmieva na snehu	Mladá ázijská žena s ružovými rukavicami stojí v snehu
 3.2	Muž pije pomarančový džús a chodí	Muž rozlieva pomarančový džús a stojí na mieste
 3.7	Muž pije pomarančový džús a kráča za slnečného dňa	Nie je žiadny človek, ktorý pije pomarančový džús a kráča za slnečného dňa
@@ -3335,7 +3335,7 @@
 4.9	Pes prenasleduje loptu na tráve	Na tráve prenasleduje loptu pes
 3.7	Pes prenasleduje loptu na tráve	Pes stráca loptu na tráve
 4.7	Pes prenasleduje loptu v tráve	Na tráve prenasleduje loptu pes
-4.1	Pes prenasleduje loptu v tráve	A dog is losing a ball on the grass
+4.1	Pes prenasleduje loptu v tráve	Pes stráca loptu na tráve
 4.7	Za loptou v tráve beží pes	Pes prenasleduje loptu na tráve
 3.6	V tráve je prenasledovaný pes s loptou	Pes prenasleduje loptu na tráve
 4.9	Pes prenasleduje loptu na tráve	Pes prenasleduje loptu v tráve
@@ -3344,7 +3344,7 @@
 3.9	Červený pes skáče a chytá tenisovú loptičku do úst	Opálený pes vyskočí a chytí tenisovú loptičku
 3.4	Muž sedí vo vlaku a opiera si ruku o tvár	Muž stojí vo vlaku a leží si rukou na kolenách
 3.2	Muž sedí vo vlaku a opiera si ruku o tvár	Chlpatý muž sedí vo vlaku
-2.1	A man is sitting on a train and resting his hand against his face	Fúzatý muž nesedí vo vlaku
+2.1	Muž sedí vo vlaku a opiera si ruku o tvár	Fúzatý muž nesedí vo vlaku
 3.8	Muž sedí vo vlaku a opiera si ruku o tvár	Fúzatý muž sedí vo vlaku
 2.9	Šou pre malé dieťa sa v parku chystá na vzrušujúcu hojdačku	Malé dieťa prejavuje vzrušenie na hojdačke v parku
 3.1	Dievčatko sa nehúpa a žena nestojí za ňou	Dievčatko sa hojdá a žena stojí za ňou
@@ -3746,7 +3746,7 @@
 2.7	Deti sú oblečené v kostýmoch a hrajú hru	Mladý chlapec s pomaľovanou tvárou stojí vedľa niektorých ďalších detí
 2.9	Mladé dievča s pomaľovanou tvárou stojí vedľa niektorých ďalších detí	Deti nie sú oblečené v kostýmoch a hrajú hru
 4.7	Psy závodia na dráhe	Psy bežia na dráhe
-3	Psy závodia na dráhe	There is no dog racing on a track
+3	Psy závodia na dráhe	Na dráhe sa nekonajú žiadne psie dostihy
 2.2	Kôň nie je závodný	Psy závodia na dráhe
 2.7	Dostih je kôň	Na dráhe sa nekonajú žiadne psie dostihy
 4.8	Dvaja motorkári bmx skákajú pred vodou po rampách	Dvaja motorkári bmx skákajú pred vodnou plochou po rampách
@@ -3789,12 +3789,12 @@
 4.9	Čierny pes skáče z doku do vody	Z doku skáče do vody čierny pes
 4.4	Malé dievčatko sa usmieva a uteká z domu	Malé dievčatko sa usmieva a beží vonku
 3.7	Malé dievčatko sa usmieva a uteká z domu	Dievča v bielych šatách beží
-2.6	A little girl is smiling and running outside	A bride in a white dress is running
-4.9	Lyžiar v čiernom chytá trochu vzduchu	A skier dressed in black is catching a tiny bit of air
+2.6	Malé dievčatko sa usmieva a beží vonku	Beží nevesta v bielych šatách
+4.9	Lyžiar v čiernom chytá trochu vzduchu	Lyžiar oblečený v čiernom chytá trochu vzduchu
 4	Lyžiar v bielom chytá trochu vzduchu	Lyžiar v čiernom chytá trochu vzduchu
 4.1	Muž lyžuje z zasneženej hory	Muž lyžuje dole zo zasneženého kopca
-3.7	Lyžiar oblečený v čiernom chytá trochu vzduchu	A man is skiing down a snowy hill
-3.8	Muž lyžuje dole zo zasneženého kopca	A skier in white is catching a tiny bit of air
+3.7	Lyžiar oblečený v čiernom chytá trochu vzduchu	Muž lyžuje dole zo zasneženého kopca
+3.8	Muž lyžuje dole zo zasneženého kopca	Lyžiar v bielom chytá trochu vzduchu
 3.9	Dieťa sa hrá na šmykľavke a posúva sa do trávy	Dieťa sa nehrá na šmykľavke a posúva sa do trávy
 4.9	Dieťa špliecha v bazéne pre deti a ďalšie deti sa hrajú v pozadí	Dieťa špliecha v bazéne pre deti a ďalšie deti sa hrajú v pozadí
 2.6	Dieťa sa hrá na šmykľavke a posúva sa do trávy	Dieťa špliecha v bazéne pre deti a ďalšie deti sa hrajú v pozadí
@@ -3805,7 +3805,7 @@
 3.2	Motorkár na bicykli sa opiera do ostrej zákruty	Na bicykli naklonenom do ostrej zákruty nie je motocyklista
 4.9	Muž na motorke sa otáča za rohom	Muž na motorke ide za roh
 4.5	Motorkár na bicykli sa opiera do ostrej zákruty	Muž na motorke sa otáča za rohom
-4	Motorkár na bicykli sa opiera do ostrej zákruty	A woman on a motorcycle is going around a corner
+4	Motorkár na bicykli sa opiera do ostrej zákruty	Žena na motorke ide za roh
 4.2	Motorkár na bicykli sa opiera do ostrej zákruty	Muž na motorke ide za roh
 3.9	Muž na motorke ide za roh	Na bicykli naklonenom do ostrej zákruty nie je motocyklista
 4	Muž na motorke ide za roh	Motorkár na bicykli sa opiera do ostrej zákruty
@@ -3873,7 +3873,7 @@
 2.3	Arabský muž nemá na sebe biely klobúk	Muž s bielym klobúkom a hnedou košeľou stojí za ženou v červenom a pozerá sa doľava
 2.4	Muž s bielym klobúkom a hnedou košeľou stojí za ženou v červenom a pozerá sa doľava	Arabský muž má biely klobúk
 4.1	Malé deti sa hrajú vo vodnej fontáne pred množstvom ľudí	Malé deti sa hrajú vo vodnej fontáne pred niekoľkými ľuďmi
-4.3	Children are playing in a fountain that is spraying water from the ground	Deti sa hrajú v prízemných fontánach
+4.3	Deti sa hrajú vo fontáne, ktorá strieka vodu zo zeme	Deti sa hrajú v prízemných fontánach
 3.35	Deti sa hrajú vo fontáne, ktorá strieka vodu zo zeme	Zvieratá sa hrajú vo fontánkach, ktoré striekajú vodu zo zeme
 2.9	Malé deti sa hrajú vo vodnej fontáne pred množstvom ľudí	Zvieratá sa hrajú vo fontánkach, ktoré striekajú vodu zo zeme
 3.7	Malí chlapci sa hrajú vo vodnej fontáne pred množstvom ľudí	Deti sa hrajú vo fontáne, ktorá strieka vodu zo zeme
@@ -4302,7 +4302,7 @@
 4.2	V snehu beží hnedý pes	Po snehu beží pes
 3.4	Starší muž sedí na lavičke	Mladý muž sedí na lavičke
 3.5	Staršia žena sedí na lavičke a má na sebe sivú bundu a čierne nohavice	Starší muž sedí na lavičke a má na sebe sivú bundu a čierne nohavice
-2.8	Starší muž sedí na lavičke	The woman is sitting on a bench and is wearing a gray jacket and black pants
+2.8	Starší muž sedí na lavičke	Žena sedí na lavičke a má oblečené sivé sako a čierne nohavice
 4	Staršia žena sedí na lavičke a má na sebe sivú bundu a čierne nohavice	Na lavičke sedí starý človek
 3	Staršia žena sedí na lavičke a má na sebe sivú bundu a čierne nohavice	Starší muž sedí na lavičke
 4	Pes vyzdvihuje palicu z veľmi čistej vody	Pes vyzdvihuje palicu z veľmi špinavej vody
@@ -4310,7 +4310,7 @@
 4	Malý čiernobiely pes nesie palicu a pláva	Veľký čiernobiely pes nesie palicu a pláva
 3.8	Pes vyzdvihuje palicu z veľmi čistej vody	Malý čiernobiely pes hryzie palicu a pláva
 3.4	Pes vyzdvihuje palicu z veľmi čistej vody	Veľký čiernobiely pes nesie palicu a pláva
-3.9	A dog is fetching a piece of wood out of very clear water	Malý čiernobiely pes nesie palicu a pláva
+3.9	Pes vynáša kus dreva z veľmi čistej vody	Malý čiernobiely pes nesie palicu a pláva
 3.4	Pes vyzdvihuje palicu z veľmi čistej vody	Malý čiernobiely pes nesie palicu a pláva
 2.4	Dievčatko maľuje kombinézu na modro	Dáma drží štetec vedľa umelcovho stojana
 3.5	Dievčatko v modrej kombinéze maľuje	Žena drží štetec vedľa umelcovho stojana
@@ -4318,18 +4318,18 @@
 3.1	Dáma drží štetec vedľa umelcovho stojana	Dievčatko v modrej kombinéze maľuje
 3.6	Po ceste posypanej pieskom beží žltý pes	Zlatý retriever beží
 4	Po piesočnej ceste beží žltý pes	Zlatý retriever beží
-3	A yellow dog is running down a sandy path	Zlatý retriever nebeží
+3	Po piesočnej ceste beží žltý pes	Zlatý retriever nebeží
 4.9	Čiernobiely pes skáče o loptu	Čiernobiely pes skáče o loptu
 3.2	Neexistuje čiernobiely pes, ktorý skáče o loptu	Čiernobiely pes skáče o loptu
 4.2	Na jednej nohe nestojí žiadny pes a čaká na futbalovú loptu	Na jednej nohe stojí pes a čaká na futbalovú loptu
 3	Na jednej nohe nestojí žiadny pes a čaká na futbalovú loptu	Čiernobiely pes skáče o loptu
-3.8	Na jednej nohe stojí pes a čaká na futbalovú loptu	The black and white dog is jumping for the ball
+3.8	Na jednej nohe stojí pes a čaká na futbalovú loptu	Čiernobiely pes skáče o loptu
 4.9	Ľudia sa na pláži vezú na dvoch ťavách	Ľudia jazdia na dvoch ťavách po piesku
 3.7	Na pláži sa nikto nevozí na ťavách	Ľudia sa na pláži vezú na dvoch ťavách
 3.9	Ľudia jazdia na dvoch ťavách po piesku	Dvaja ľudia sedia na ťave a v popredí je ďalšia ťava
 4.6	Bosý muž v pyžame sa pozerá smerom k hviezdam a kráča po tenisovom kurte	Bosý muž v pyžame sa pozerá smerom k nebu a kráča po tenisovom kurte
 3.4	Bosý muž v pyžame sa pozerá smerom k nebu a stojí na tenisovom kurte	Muž má na sebe modrú košeľu a chodí bosý po tenisovom kurte
-4.7	Muž stojí v jazere neďaleko vodopádu	The man is standing in a body of water near a waterfall
+4.7	Muž stojí v jazere neďaleko vodopádu	Muž stojí na vodnej ploche neďaleko vodopádu
 4	Muž pláva vo vodnej ploche neďaleko vodopádu	Muž stojí na vodnej ploche neďaleko vodopádu
 3.6	Žena stojí vo vode na úpätí vodopádu	Muž stojí vo vode na úpätí vodopádu
 4.3	Muž stojí vo vode na úpätí vodopádu	Muž stojí na vodnej ploche neďaleko vodopádu
@@ -4348,55 +4348,55 @@
 3.5	Po piesku beží pes a naháňa loptu	Hnedo-biely pes chytá v špinavom poli špinavú tenisovú loptičku
 4.9	Muž bez košele sprevádza koňa, ktorý ťahá koč po spevnenej ceste	Muž bez košele sprevádza koňa, ktorý po ceste ťahá koč
 4.3	Muž bez košele sprevádza koňa, ktorý ťahá koč po špinavej ceste	Muž bez košele vedie koňa, ktorý ťahá koč
-4.6	A shirtless man is escorting a horse that is pulling a carriage along a paved road	Muž bez košele vedie koč, ktorý ťahá kôň
-3.1	A shirtless man is escorting a horse that is pulling a carriage along a paved road	A shirtless woman is leading a horse that is pulling a carriage
-4.4	A shirtless man is escorting a horse that is pulling a carriage along a paved road	A shirtless man is leading a horse that is pulling a carriage
-3.3	A little girl and a woman wearing a yellow shirt are getting splashed by a city fountain	The young girl is playing on the edge of a fountain and an older woman is watching her
-2.4	A young girl is playing on the edge of a fountain and an older woman is not watching her	A little girl and a woman wearing a yellow shirt are getting splashed by a city fountain
-4.3	A woman in an orange shirt and clown makeup is standing in a park and others are looking on	A girl in an orange shirt and clown makeup is standing in a park and others are looking on
-4.9	The girl is wearing an orange shirt and a striped tie	A girl is wearing an orange shirt and a striped tie
-3	A woman in an orange shirt and clown makeup is standing in a park and others are looking on	A girl is wearing an orange shirt and a striped tie
-4.4	A man is performing a jump on a bicycle	A cyclist is performing a jump on a bicycle
-4.8	A bicyclist is performing a trick over a heavily graphitized wall	A bicyclist is performing a trick over wall full of graffiti
-3.8	A cyclist is performing a jump on a bicycle	A bicyclist is performing a trick over wall full of graffiti
-4.4	A bicyclist is performing a trick over a clean wall	A cyclist is performing a jump on a bicycle
-3.4	There is no cyclist performing a jump on a bicycle	A bicyclist is performing a trick over a heavily graphitized wall
-3.585	A bicyclist is performing a trick over a heavily graphitized wall	A cyclist is performing a jump on a bicycle
-3.5	A woman is showing a small cat to an infant	A woman is showing a small dog to an infant
-4.8	A woman is crouching down next to a dog and is smiling at a young girl sitting on the sidewalk	A woman is crouching down next to a dog and is smiling at a little girl sitting on the sidewalk
-4.2	A woman is crouching down next to a dog and is smiling at a little girl sitting on the sidewalk	A man is crouching down next to a dog and is smiling at a little girl sitting on the sidewalk
-3.2	A woman is showing a small dog to an infant	A woman is crouching down next to a dog and is smiling at a young girl sitting on the sidewalk
-2.5	A man is crouching down next to a dog and is smiling at a little girl sitting on the sidewalk	A woman is showing a small dog to an infant
-3.4	A woman is showing a puppy to an infant	A woman is crouching down next to a dog and is smiling at a little girl sitting on the sidewalk
-2.8	A woman is crouching down next to a dog and is smiling at a little girl sitting on the sidewalk	A woman is showing a small cat to an infant
-3.4	A woman is showing a small dog to an infant	A woman is crouching down next to a dog and is smiling at a little girl sitting on the sidewalk
-4	A black and white dog is carrying a small stick on the green grass	A black and white dog is carrying a huge stick on the green grass
-4.1	A black and white dog is carrying a big stick on the green grass	A black and white dog with a large branch is running in the field
-3.5	A black and white dog is carrying a small stick on the green grass	A black and white dog with a large branch is running in the field
-3.7	A boy wearing a striped shirt is running barefoot on the sandy hill	A girl wearing a striped shirt is running barefoot on the sandy hill
-4	A boy is running through the grass	A boy is running through the sand
-3.6	Po piesočnatom kopci beží bosý chlapec v pruhovanej košeli	A boy is running on the beach
-3.3	A boy is running through the grass	Po piesočnatom kopci beží bosý chlapec v pruhovanej košeli
+4.6	Muž bez košele sprevádza koňa, ktorý ťahá koč po spevnenej ceste	Muž bez košele vedie koč, ktorý ťahá kôň
+3.1	Muž bez košele sprevádza koňa, ktorý ťahá koč po spevnenej ceste	Žena bez košele vedie koňa, ktorý ťahá koč
+4.4	Muž bez košele sprevádza koňa, ktorý ťahá koč po spevnenej ceste	Muž bez košele vedie koňa, ktorý ťahá koč
+3.3	Malé dievča a žena v žltej košeli sú postriekané mestskou fontánou	Mladé dievča sa hrá na okraji fontány a staršia žena ju sleduje
+2.4	Mladé dievča sa hrá na okraji fontány a staršia žena ju nesleduje	Malé dievča a žena v žltej košeli sú postriekané mestskou fontánou
+4.3	Žena v oranžovej košeli a klaunskom makeupe stojí v parku a ďalšie sa prizerajú	Dievča v oranžovej košeli a klaunskom makeupe stojí v parku a ďalšie sa prizerajú
+4.9	Dievčatko má na sebe oranžovú košeľu a pruhovanú kravatu	Dievča má na sebe oranžovú košeľu a pruhovanú kravatu
+3	Žena v oranžovej košeli a klaunskom makeupe stojí v parku a ďalšie sa prizerajú	Dievča má na sebe oranžovú košeľu a pruhovanú kravatu
+4.4	Muž vykonáva skok na bicykli	Cyklista predvádza zoskok na bicykli
+4.8	Cyklista predvádza trik cez silne grafitizovanú stenu	Cyklista predvádza trik cez stenu plnú grafitov
+3.8	Cyklista predvádza zoskok na bicykli	Cyklista predvádza trik cez stenu plnú grafitov
+4.4	Bicyklista predvádza trik cez čistú stenu	Cyklista predvádza zoskok na bicykli
+3.4	Neexistuje žiadny cyklista, ktorý vykonáva skok na bicykli	Cyklista predvádza trik cez silne grafitizovanú stenu
+3.585	Cyklista predvádza trik cez silne grafitizovanú stenu	Cyklista predvádza zoskok na bicykli
+3.5	Žena ukazuje malú mačku malému dieťaťu	Žena predvádza malému psovi kojenca
+4.8	Žena sa krčí vedľa psa a usmieva sa na mladé dievča sediace na chodníku	Žena sa krčí vedľa psa a usmieva sa na malé dievčatko sediace na chodníku
+4.2	Žena sa krčí vedľa psa a usmieva sa na malé dievčatko sediace na chodníku	Muž sa krčí vedľa psa a usmieva sa na malé dievčatko sediace na chodníku
+3.2	Žena predvádza malému psovi kojenca	Žena sa krčí vedľa psa a usmieva sa na mladé dievča sediace na chodníku
+2.5	Muž sa krčí vedľa psa a usmieva sa na malé dievčatko sediace na chodníku	Žena predvádza malému psovi kojenca
+3.4	Žena ukazuje šteniatko dojčaťu	Žena sa krčí vedľa psa a usmieva sa na malé dievčatko sediace na chodníku
+2.8	Žena sa krčí vedľa psa a usmieva sa na malé dievčatko sediace na chodníku	Žena ukazuje malú mačku malému dieťaťu
+3.4	Žena predvádza malému psovi kojenca	Žena sa krčí vedľa psa a usmieva sa na malé dievčatko sediace na chodníku
+4	Čiernobiely pes nesie na zelenej tráve malú palicu	Čiernobiely pes nesie na zelenej tráve obrovskú palicu
+4.1	Čiernobiely pes nesie na zelenej tráve veľkú palicu	V teréne beží čiernobiely pes s veľkou vetvou
+3.5	Čiernobiely pes nesie na zelenej tráve malú palicu	V teréne beží čiernobiely pes s veľkou vetvou
+3.7	Po piesočnatom kopci beží bosý chlapec v pruhovanej košeli	Po piesočnatom kopci pobehuje bosé dievča v pruhovanej košeli
+4	Cez trávu beží chlapec	Medzi pieskom beží chlapec
+3.6	Po piesočnatom kopci beží bosý chlapec v pruhovanej košeli	Na pláži beží chlapec
+3.3	Cez trávu beží chlapec	Po piesočnatom kopci beží bosý chlapec v pruhovanej košeli
 3.7	Dieťa v pruhovanej košeli beží naboso na piesočnatom kopci	Medzi pieskom beží chlapec
-3.2	A boy is running through the sand	A girl wearing a striped shirt is running barefoot on the sandy hill
-4.3	Pretekár sa opiera o závodný motocykel	A man is leaning on a racing motorcycle
-3.8	The motorcycle racer is riding a red and black bike	Žiadny motocyklový pretekár nejazdí na červeno-čiernom bicykli
-2.3	Motocyklový pretekár jazdí na červeno-čiernom bicykli	A woman is leaning on a racing motorcycle
-2.7	Motocyklový pretekár jazdí na červeno-čiernom bicykli	A man is leaning on a racing motorcycle
-3.6	Žena strieľa na terč	A man is shooting at target practice
+3.2	Medzi pieskom beží chlapec	Po piesočnatom kopci pobehuje bosé dievča v pruhovanej košeli
+4.3	Pretekár sa opiera o závodný motocykel	Muž sa opiera o závodný motocykel
+3.8	Motocyklový pretekár jazdí na červeno-čiernom bicykli	Žiadny motocyklový pretekár nejazdí na červeno-čiernom bicykli
+2.3	Motocyklový pretekár jazdí na červeno-čiernom bicykli	Žena sa opiera o závodný motocykel
+2.7	Motocyklový pretekár jazdí na červeno-čiernom bicykli	Muž sa opiera o závodný motocykel
+3.6	Žena strieľa na terč	Muž strieľa na terč
 4.3	Žena má na sebe chrániče sluchu a na vnútornej strelnici strieľa z pištole	Žena strieľa na terč
 4.1	Žena má na sebe chrániče sluchu a strieľa z vnútornej strelnice zbraň	Žena strieľa na terč
-4.2	Malý chlapec vyplazuje jazyk pred kamerou a ďalší chlapec sa prizerá	A little boy is sticking his tongue out for the camera and another boy is not looking
+4.2	Malý chlapec vyplazuje jazyk pred kamerou a ďalší chlapec sa prizerá	Malý chlapec vyplazuje jazyk pred kamerou a ďalší chlapec sa nedíva
 3.9	Dvaja mladí chlapci pozerajú do kamery a jeden vyplazuje jazyk	Malý chlapec vyplazuje jazyk pred kamerou a ďalší chlapec sa nedíva
 3.2	Dve mladé dievčatá pozerajú do kamery a jedno vyplazuje jazyk	Malý chlapec vyplazuje jazyk pred kamerou a ďalší chlapec sa prizerá
-3.9	A little boy is sticking his tongue out for the camera and another boy is looking on	Dvaja mladí chlapci pozerajú do kamery a jeden vyplazuje jazyk
-4.7	A dog is running on concrete and is holding a blue ball	Pes beží po betóne a drží loptu
-4.2	Pes stojí na betóne a drží modrú loptu	A dog is running on concrete and is holding a blue ball
+3.9	Malý chlapec vyplazuje jazyk pred kamerou a ďalší chlapec sa prizerá	Dvaja mladí chlapci pozerajú do kamery a jeden vyplazuje jazyk
+4.7	Pes beží po betóne a drží modrú loptu	Pes beží po betóne a drží loptu
+4.2	Pes stojí na betóne a drží modrú loptu	Pes beží po betóne a drží modrú loptu
 3.6	Malý pes sa prechádza vonku a v ústach nesie farebnú hračku	Pes beží po betóne a drží modrú loptu
-3.6	Pes beží po betóne a drží modrú loptu	The large dog is walking outside and is carrying a colorful toy in its mouth
-1.7	A little girl and a woman wearing a yellow shirt are getting splashed by a city fountain	Žena hrá na trúbke
-1	A boy is walking across a bridge	A person is stirring vegetables in a bowl
-1	There is no blond child holding a yellow bottle	Someone is playing the guitar
+3.6	Pes beží po betóne a drží modrú loptu	Veľký pes sa prechádza vonku a v ústach nesie farebnú hračku
+1.7	Malé dievča a žena v žltej košeli sú postriekané mestskou fontánou	Žena hrá na trúbke
+1	Chlapec ide cez most	Človek mieša zeleninu v miske
+1	Nie je tam žiadne blonďavé dieťa, ktoré drží žltú fľašu	Niekto hrá na gitare
 1.2	Muž lezie po lane	Nie je žiadny muž, ktorý by vo vztýčenej ruke držal masku
 1.1	Reví tigrie mláďa	Vonku sa hrajú dva psy
 1	Žena vyberá z hrnca s vodou dve vajcia	Muž hrá na trúbke

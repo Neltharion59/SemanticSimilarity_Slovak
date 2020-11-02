@@ -1900,95 +1900,95 @@
 2.80	Angličtina funguje všade, kde ľudia kupujú a predávajú veci, a v pohostinnosti a turistike.	Cestoval som po Maharashtre (vrátane Bombaja) a Andhra Pradesh a nemal som problém vystačiť si iba s angličtinou.
 2.60	Myslím si, že dvojité ciele majú veľa spoločného s účelom antagonistu.	Myslím si, že to bude závisieť od toho, aké budú dôvody.
 3.40	Na slovnom spojení „jednoduchá vzorová služba“ sa nestalo nič zlé.	Minimálnou zmenou potrebnou na to, aby sa predišlo rušivému aliterácii, je iba nazývanie „jednoduchá vzorová služba“.
-1.60	Spustil som si vlastný nástroj, pretože sa mi nepáčili yWriter a Storybook.	I've tried many of the things mentioned above, but they never really worked for me.
-4.00	Yes, this is OK, as it allows you to emphasise certain things, that you want the readers to notice.	Som presvedčený, že je to úplne prijateľné, a preto je dobré zdôrazniť váš názor.
-1.80	Some writers will tell you that writing fan fiction is lazy, uncreative, a fruitless endeavor, and a waste of time.	Generally, the acceptability of fan fiction depends on the original story.
+1.60	Spustil som si vlastný nástroj, pretože sa mi nepáčili yWriter a Storybook.	Vyskúšal som už veľa vecí spomenutých vyššie, ale nikdy na mňa skutočne nefungovali.
+4.00	Áno, je to v poriadku, pretože vám umožňuje zdôrazniť určité veci, ktoré chcete, aby si čitatelia všimli.	Som presvedčený, že je to úplne prijateľné, a preto je dobré zdôrazniť váš názor.
+1.80	Niektorí autori vám povedia, že písanie beletrie pre fanúšikov je lenivé, netvorivé, zbytočné úsilie a strata času.	Prijateľnosť fikcie fanúšikov všeobecne závisí od pôvodného príbehu.
 1.80	Prvá osoba má poľutovaniahodné vedľajšie účinky, keď je vyrozprávaná extrémnym spôsobom.	S príbehom v prvej osobe máte v úmysle čitateľa oveľa viac upútať k hlavnej postave.
-1.80	Ak vás váš dej už nezaujíma, nechajte ho ísť.	Distinguish between losing interest in the project and merely losing interest in its current state.
+1.80	Ak vás váš dej už nezaujíma, nechajte ho ísť.	Rozlišujte medzi stratou záujmu o projekt a stratou záujmu o jeho súčasný stav.
 1.80	Je to (takmer) gramaticky správne, ale vôbec mi to nepríde „prirodzené“.	Áno, pripadá mi to ako prirodzená angličtina (rodený hovorca angličtiny).
 1.80	Pokiaľ ide o beletriu, mám len málo dôkazov o tom, že blogy sú publikované ako tlačené alebo elektronické knihy.	Ak chcete odpovedať na vašu otázku, áno, myslím si, že blogovanie vašej fikcie poškodí vaše pokusy o tradičné zverejnenie neskôr.
-0.20	K dispozícii je veľa dobrých softvérových balíkov na písanie textu, kníh a dokonca aj kurzov.	While you are checking out courses and deciding, start a swipe file.
-0.20	I'm inclined to say no, in that any answer will depend entirely on the genre that you're writing in.	To, čo u mňa v minulosti fungovalo, je sústrediť sa len na rozprávanie príbehu.
+0.20	K dispozícii je veľa dobrých softvérových balíkov na písanie textu, kníh a dokonca aj kurzov.	Zatiaľ čo sa pozeráte na kurzy a rozhodujete sa, začnite posúvať súbor.
+0.20	Som naklonený odmietnuť, pretože každá odpoveď bude úplne závisieť od žánru, do ktorého píšete.	To, čo u mňa v minulosti fungovalo, je sústrediť sa len na rozprávanie príbehu.
 0.20	Vaša spisovateľská kariéra sa skončí, až keď prestanete písať.	Ako už povedali iní, ak je písanie skutočne niečo, čo chcete robiť, môžete si na to nájsť čas.
 0.20	Myslím si, že je to úplne otázka osobných preferencií.	Snažím sa písať primárne za počítačom, kvôli kontrole revízií.
 0.20	Aký je váš účel pri písaní o cudzej krajine alebo mieste?	Prvým krokom je zadržať nutkanie písať.
-0.20	„In“ znie, akoby to chvíľu trvalo - kapitola alebo dve.	I think of things happening in sections of books, not at (which implies a location) sections of books.
-0.20	You might not get the publicity you're looking for from these kinds of sites.	Goodreads.com to robí - ešte lepšie je, že môžete získať pozornosť od toľkých jednotlivcov, koľko rozdávate kópie.
+0.20	„In“ znie, akoby to chvíľu trvalo - kapitola alebo dve.	Myslím na to, že veci sa dejú v častiach kníh, nie v častiach kníh (z čoho vyplýva umiestnenie).
+0.20	Možno nebudete mať z týchto druhov webov publicitu, ktorú hľadáte.	Goodreads.com to robí - ešte lepšie je, že môžete získať pozornosť od toľkých jednotlivcov, koľko rozdávate kópie.
 0.20	Vojna Božieho vlastného Davida Webera má v sebe niekoľko zdĺhavých cestovateľských scén, ktoré mu celkom dobre idú.	Jedna vec, ktorá by sa mala použiť ako dochucovadlo v rozprávkach Odyssey, je predstava falošného cieľa.
 0.00	Pred pokusom o riešenie musíte definovať problém.	Kedykoľvek začnem čítať stále tie isté riadky, začnem skĺzavať.
-1.40	I wrote a novel a couple years ago and I have two pieces of advice for the beginning steps.	Na tomto webe je nespočetné množstvo otázok, ktoré sa už touto otázkou zaoberajú, a konsenzus je vždy rovnaký.
-1.40	In its broadest sense, I would define purple prose as excessive and imprecise description.	„Fialová próza“ je prepracovaná metafora, melodramatické a klišéové výrazy a karikatúrne akcie.
+1.40	Pred pár rokmi som napísal román a na úvodné kroky mám dve rady.	Na tomto webe je nespočetné množstvo otázok, ktoré sa už touto otázkou zaoberajú, a konsenzus je vždy rovnaký.
+1.40	V najširšom zmysle slova by som fialovú prózu definoval ako prehnaný a nepresný popis.	„Fialová próza“ je prepracovaná metafora, melodramatické a klišéové výrazy a karikatúrne akcie.
 1.40	Musíte len vypnúť vnútorného kritika a začať písať.	Myslím, že to závisí od toho, ako vás prázdna stránka ohromuje.
 1.40	Ak chcete možnosť Windows, spoločnosti HP a Dell majú vynikajúce tablety.	Vlastním 64 GB Transformer Prime a mám ho rád!
 1.40	Vaše obavy sú platné; čitateľ by z toho mohol byť frustrovaný.	Neverím, že nepoznanie mena postavy by bolo mätúce, pokiaľ to tak neurobíte.
-0.00	I write in a similar vein, and sometimes face the same problem.	„svet je dosť bohatý na udalosti“ -> Súvisia tieto udalosti navzájom?
-0.00	I personally love spiral notebooks when I'm out and about.	As FoxCutter has said elsewhere, for many of us Moleskine is hard to beat.
+0.00	Píšem podobným spôsobom a niekedy čelím rovnakému problému.	„svet je dosť bohatý na udalosti“ -> Súvisia tieto udalosti navzájom?
+0.00	Ja osobne milujem špirálové zošity, keď som vonku.	Ako už FoxCutter uviedol inde, pre mnohých z nás je Moleskine ťažké poraziť.
 0.00	Mali by ste zvážiť dve veci: čo robí človeka sympatickým a prečo by ste s niekým sympatizovali.	Existuje množstvo filmov, ktoré obsahujú zločincov, ktorí sú buď protagonistom, alebo sa im nejakým spôsobom podobá.
-0.00	Under US law, a direct parody is considered "fair use".	Jednou z ťažkostí, ktorým čelíte, je vydávanie sa.
+0.00	Podľa právnych predpisov USA sa priama paródia považuje za „čestné použitie“.	Jednou z ťažkostí, ktorým čelíte, je vydávanie sa.
 0.00	Nie, nemusíte absolvovať hodiny alebo získať titul vo svojej oblasti.	Urobil som dosť technického písania pre informačné systémy zdravotnej starostlivosti.
-1.20	Zdá sa, že ste zabudli na jednu z mýtov, sú to mimoriadne rozšírené príbehy.	I noticed you said "movie critics" enjoy mythological references in a film, but do audiences?
-3.60	Verím, že to závisí od toho, či sa snažíte byť prítulný alebo profesionálny.	Using third person offers the benefit, that the profile can be used by other persons referring to you.
+1.20	Zdá sa, že ste zabudli na jednu z mýtov, sú to mimoriadne rozšírené príbehy.	Všimol som si, že ste povedali, že „filmovým kritikom“ sa vo filme páčia mytologické odkazy, ale diváci?
+3.60	Verím, že to závisí od toho, či sa snažíte byť prítulný alebo profesionálny.	Používanie tretej osoby ponúka výhodu v tom, že profil môžu používať ďalšie osoby, ktoré sa vás týkajú.
 3.60	To, o čom hovoríte, nie je „hlas“, ale zmena scény.	Dôrazne odporúčam prečítať si súvisiace články / fóra v jednej z mnohých spoločenstiev hier pre hranie rolí.
-3.60	Práve sme sa tomu venovali nedávno a vynikajúcou navrhovanou odpoveďou boli guillemets.	guillemets, as suggested by Lauren Ipsum, is a good option.
+3.60	Práve sme sa tomu venovali nedávno a vynikajúcou navrhovanou odpoveďou boli guillemets.	guillemets, ako navrhuje Lauren Ipsum, je dobrá voľba.
 3.00	Vyskúšajte experiment: vezmite jeden aspekt viery tejto osoby a choďte do smiešnych emocionálnych detailov.	Priamo priznám, že je neskoro, a preto si nebudem prečítať všetky tu uvedené dôkladné otázky a odpovede.
-3.00	The opening words of an essay should immediately enmesh the reader in your wiles.	Keď vyjadrujem svoje myšlienky online (a musím robiť zátvorky), milujem zátvorky.
+3.00	Úvodné slová eseje by mali čitateľa okamžite zahltiť.	Keď vyjadrujem svoje myšlienky online (a musím robiť zátvorky), milujem zátvorky.
 3.00	Nastavte si svoj svet ako verziu Matrixu.	Podľa celého vášho scenára máte, myslím, tri možnosti.
 3.00	Kontaktujte miestnu skupinu používateľov technológie, o ktorej ste písali.	Mám tendenciu vyhľadávať technické knihy prostredníctvom odporúčaní k Hacker News.
-3.00	My advice would be to write your second novel, and then maybe even a third, before doing anything else.	V posledných niekoľkých mesiacoch od zverejnenia tejto otázky elektronické knihy prekonali celkový objem predaja kníh v pevnej väzbe.
+3.00	Moja rada by bola, aby ste napísali svoj druhý román a potom možno aj tretí, skôr ako urobíte čokoľvek iné.	V posledných niekoľkých mesiacoch od zverejnenia tejto otázky elektronické knihy prekonali celkový objem predaja kníh v pevnej väzbe.
 3.00	Ak taký nájdete, Z88 môže byť dobrou voľbou.	Môžete ísť na malý prenosný počítač Mac a vyskúšať ho pomocou AppleCare.
 3.00	Dajte mu svoj vlastný príbeh, aby nekradol scény v cudzom.	Existuje veľa vecí, ktoré môžete urobiť, aby bola postava dôležitá pre dej.
 3.00	Prečo by ste niečo pridali, ak to vaša zápletka nepotrebuje?	Nečítala som váš príbeh, takže netuším, či je to nudné alebo nie.
 3.00	Otázka veci a všetko to, ale ja mám radšej obyčajný text bez formátovania.	Na dlhšie kúsky, najmä na tie s obrázkami, tabuľkami, obsahom alebo internými odkazmi alebo citáciami.
-3.00	Môžete miešať znaky existujúcich mien druhov.	Reading up on the effects of various Pyschoactive drugs might help.
+3.00	Môžete miešať znaky existujúcich mien druhov.	Môže pomôcť čítanie o účinkoch rôznych psychoaktívnych liekov.
 3.00	Rád by som poznamenal, že používatelia, ktorí vyjadrili preferenciu, išli s prvou verziou.	Nemám problém s názorom vševediaceho rozprávača, ale druhý príklad vyzerá trochu trhane.
-3.00	Myslím si, že to do veľkej miery závisí od toho, o akej „detskej knihe“ hovoríme.	Actually, this is the only situation where run-on sentences should be used (and work better than short sentences).
-3.00	Darebáci, ktorých absolútne neznášam, sú sebeckí a samoúčelní, ale sú tiež zbabelci.	A villain you want to take down is, at his/her core, someone who does not care about the suffering of others.
-1.20	You need to have another good look at the structure of the novel.	Navrhoval by som požiadať niekoho iného, ​​aby si ho prečítal a zistil, či tu nie sú nejaké časti, ktoré ste objasnili.
+3.00	Myslím si, že to do veľkej miery závisí od toho, o akej „detskej knihe“ hovoríme.	Toto je v skutočnosti jediná situácia, keď by sa mali použiť súbežné vety (a fungovať lepšie ako krátke vety).
+3.00	Darebáci, ktorých absolútne neznášam, sú sebeckí a samoúčelní, ale sú tiež zbabelci.	Zloduch, ktorého chcete zložiť, je v jeho jadre niekto, kto sa nestará o utrpenie ostatných.
+1.20	Musíte sa ešte dobre pozrieť na štruktúru románu.	Navrhoval by som požiadať niekoho iného, ​​aby si ho prečítal a zistil, či tu nie sú nejaké časti, ktoré ste objasnili.
 1.20	Je zrejmé, že ste si vedomí plagiátorstva a zdá sa, že ho považujete za niečo, čo nie je správne.	Mojou skúsenosťou bol nedostatok kontextu a tajomstvo, ktoré ma najrýchlejšie upúta pozornosť.
-1.20	Opakujúce sa použitie toho istého slovesa v odseku považujem za nepríjemné.	Markdown is almost certainly the way to go for simple formatting.
-1.20	Snažil som sa písať v XML a latexe, ale ani jeden sa nezdá byť veľmi prúdom lemovaný pre beletriu.	As mentioned above, I ended up developing my own tools and markup language to suit my needs.
+1.20	Opakujúce sa použitie toho istého slovesa v odseku považujem za nepríjemné.	Markdown je takmer s istotou cestou jednoduchého formátovania.
+1.20	Snažil som sa písať v XML a latexe, ale ani jeden sa nezdá byť veľmi prúdom lemovaný pre beletriu.	Ako už bolo spomenuté vyššie, nakoniec som vyvinul svoje vlastné nástroje a značkovací jazyk, ktoré vyhovovali mojim potrebám.
 1.20	Knihu môžete napísať ľubovoľným spôsobom, ktorý vám vyhovuje, pokiaľ vám to vyhovuje.	Sekvencia, ktorá je iba písomná (niekedy sa musíte vrátiť a skontrolovať), je možnosť, ktorú nemá autor.
 1.80	Na túto otázku je mimoriadne ťažké odpovedať, pretože odpoveď v skutočnosti nikto nepozná.	Sú niektorí ľudia prirodzene nadaní písomne, čo znamená, že všetci ostatní sú odsúdení na priemernosť?
 1.80	Je to berľa, ak ju neurobíte dostatočne pevnou na to, aby stála sama.	Poznám veľa ľudí, ktorí začali písať fanfikcie, a potom z toho spravili základ profesionálnej kariéry.
-1.80	Sometimes, parentheses can be vital to your essay (except when they're not).	Robusto už hovoril o tom, ako sú uvedené v zátvorkách konkrétne úlohy.
+1.80	Niekedy môžu byť pre vašu esej nevyhnutné zátvorky (pokiaľ nie sú).	Robusto už hovoril o tom, ako sú uvedené v zátvorkách konkrétne úlohy.
 1.80	V posledných niekoľkých mesiacoch od zverejnenia tejto otázky elektronické knihy prekonali celkový objem predaja kníh v pevnej väzbe.	Najskôr si vyhľadajte niekoľkých blízkych priateľov, najlepšie rôznych ľudí, aby si ich prečítali a poskytli vám spätnú väzbu.
 1.80	Áno, nudné dialógové okno by malo byť úplne odstránené (alebo transformované na zaujímavé dialógové okno).	Súhlasím s Laureninou odpoveďou: V každom príbehu potrebujete vrcholy a pády.
 0.80	dobrý príbeh / román / kniha by nemal mať „náhle“, aby od čitateľa dostal prekvapenie.	Myslím si, že je to jedna z tých oblastí, kde pravidlo „šou nehovor“ naozaj svieti.
-0.80	Copyright laws tend to be similar everywhere, because most countries adhere to the Berne Convention.	Uverejňujem oznámenie o autorských právach na veci, ktoré publikujem / blogujem na internete.
+0.80	Zákony o autorských právach bývajú všade podobné, pretože väčšina krajín dodržiava Bernský dohovor.	Uverejňujem oznámenie o autorských právach na veci, ktoré publikujem / blogujem na internete.
 0.80	Používam OneNote a myslím si, že je to najlepší počítačový program, aký sa kedy stal.	Veľmi sa mi páči myšlienka malého zošita a odporučil by som ho.
-0.80	Nemyslím si, že „v skutočnosti“ je obzvlášť príležitostný, a súhlasím s Dale Emeryovou, že ostatné slová majú iný význam.	The intention of the reviewer seems to be to avoid words that may reflect personal opinion.
-0.80	I would say it's perfectly possible to have an ensemble cast.	Nedávny víťaz Pulitzerovej ceny Návšteva skupiny Goon je ďalším príkladom takejto knihy.
+0.80	Nemyslím si, že „v skutočnosti“ je obzvlášť príležitostný, a súhlasím s Dale Emeryovou, že ostatné slová majú iný význam.	Zdá sa, že zámerom recenzenta je vyhnúť sa slovám, ktoré môžu odrážať osobný názor.
+0.80	Povedal by som, že je úplne možné mať herecké obsadenie.	Nedávny víťaz Pulitzerovej ceny Návšteva skupiny Goon je ďalším príkladom takejto knihy.
 0.80	Idem na brainstorming, mapujem rôzne scény na stránke a snažím sa ich spojiť.	Najredukčnejší pohľad na dej je: Rovnováha> Vyrušenie> Rovnováha.
 0.80	Okrem kontroly gramatiky v programe MS Word ma vlastne ani nič nenapadá.	Ak chcete použiť vydavateľa dotácií, použil by som len zdravý rozum.
 0.80	Nie je to tablet, ale zdá sa, že mini notebook spĺňa vaše požiadavky na veľkosť a výdrž batérie.	IPad je celkom dobrý, ale navrhol by som si zaobstarať aj USB klávesnicu.
-0.80	Napíš to tak, akoby si sa im ospravedlňoval.	I think the best way to remind someone is "I think my e-mail missed your attention".
-0.80	NaNoWriMo Desaťtisíce šialencov, ktorí sa spoločne rozhodli napísať celý nový román za 30 dní.	First, limit the number of people you solicit for feedback.
-0.80	Don't explain in detail how complicated it is, nor how to understand it.	Take a look at the work of Robert J. Sawyer and Terry Goodkind.
-0.80	Suggestion - stick to publically acessible facts, and express them as factual only in terms of the characters in your story.	I've been using Scrivener, which is available as a free beta for NaNoWriMo participants.
-0.80	Odpoveď na vašu otázku je: Závisí to od toho, ako spisovateľ pracuje.	At first, I thought this is a bit of a tricky question.
+0.80	Napíš to tak, akoby si sa im ospravedlňoval.	Myslím si, že najlepším spôsobom, ako niekomu pripomenúť, je „Myslím si, že mi váš e-mail nešiel do pozornosti“.
+0.80	NaNoWriMo Desaťtisíce šialencov, ktorí sa spoločne rozhodli napísať celý nový román za 30 dní.	Najskôr obmedzte počet ľudí, ktorých žiadate o spätnú väzbu.
+0.80	Nevysvetľujte podrobne, aké je to komplikované, ani ako tomu rozumieť.	Zoznámte sa s prácou Roberta J. Sawyera a Terryho Goodkinda.
+0.80	Návrh - držte sa verejne prístupných faktov a vyjadrite ich ako vecné iba v súvislosti s postavami vo vašom príbehu.	Používal som Scrivener, ktorý je k dispozícii ako bezplatná beta verzia pre účastníkov NaNoWriMo.
+0.80	Odpoveď na vašu otázku je: Závisí to od toho, ako spisovateľ pracuje.	Spočiatku som si myslel, že je to trochu zložitá otázka.
 1.20	O postupe je dobrá esej od Malindy Lo.	Prvá vec, ktorú musíte urobiť, je nájsť neutrálnu beta čítačku.
 1.20	Dobrý úvodný riadok zaujme čitateľa a nadchne ho k prečítaniu ďalšieho riadku.	Mojou skúsenosťou bol nedostatok kontextu a tajomstvo, ktoré ma najrýchlejšie upúta pozornosť.
-1.20	Fictionpress je populárna webová stránka, ktorá umožňuje komukoľvek nahrávať príbehy, čítať ich a komentovať.	I noticed you said "movie critics" enjoy mythological references in a film, but do audiences?
+1.20	Fictionpress je populárna webová stránka, ktorá umožňuje komukoľvek nahrávať príbehy, čítať ich a komentovať.	Všimol som si, že ste povedali, že „filmovým kritikom“ sa vo filme páčia mytologické odkazy, ale diváci?
 1.20	Myslím si, že vaším problémom je prokrastinácia, pretože revízia nie je žiadna zábava (imho).	Semená vašej odpovede ste dostali do svojej úpravy.
-1.20	Fastest and easiest to make the first couple bucks: Sell to your family and friends, get them to recommend them.	Svoju knihu môžete sami vydať ako elektronickú knihu pomocou Amazon Kindle Direct Publishing a nestojí to ani cent.
+1.20	Najrýchlejšie a najjednoduchšie zarobiť prvých pár peňazí: Predajte svojej rodine a priateľom, prinútte ich odporučiť ich.	Svoju knihu môžete sami vydať ako elektronickú knihu pomocou Amazon Kindle Direct Publishing a nestojí to ani cent.
 1.20	Je to niečo podobné, ako keď sa pýtate, aký dlhý má byť povrázok.	Najlepším spôsobom, ako napísať akýkoľvek román (alebo príbeh), je napísať ho, akoby bol samostatný.
 1.20	Súhlasím s Laureninou odpoveďou: V každom príbehu potrebujete vrcholy a pády.	Je to dosť dobre čitateľné (okrem niekoľkých gramatických chýb v dialógoch, ktoré môžu byť zámerné) - nie nudné.
 1.20	Ak sú „100k“ a „50k“ počet slov (a v tomto kontexte by som to určite čakal), je to „novela“ (pre ~ 50 000 slov) až „románová dĺžka“ (100 000 slov).	Štandardným počiatočným trhom pre poviedku je literárny časopis.
-1.20	Webster's New World Rhyming Dictionary: Clement Wood's Updated This is the rhyming dictionary I turn to first.	http://www.rhymezone.com/ Stačí napísať slovo a potom zvoliť jednu z nasledujúcich možností.
-0.00	Včera v noci som pomáhal môjmu jedenásťročnému synovi s projektom a všimol som si, že ho rozdeľuje na dve polovice.	In short, this is a disagreement based on technological generations.
+1.20	Websterov nový svetový rýmovaný slovník: Aktualizovaný Clementa Wooda Toto je rýmovaný slovník, ku ktorému sa obraciam ako prvý.	http://www.rhymezone.com/ Stačí napísať slovo a potom zvoliť jednu z nasledujúcich možností.
+0.00	Včera v noci som pomáhal môjmu jedenásťročnému synovi s projektom a všimol som si, že ho rozdeľuje na dve polovice.	Stručne povedané, ide o nezhodu založenú na technologických generáciách.
 0.00	Umenie je posadnutosť a zdá sa, že to, ako dobre (alebo zle) sa s ním narába, umelcov fascinuje.	Jeden Wrtierov počiatok Eudory Weltyovej utvára spolu úplne milým spôsobom príbeh jej spisovateľskej cesty.
 0.00	David Gerrold sa vždy vyhýbal číslovaniu kapitol; iba zalomí sekciu a píše ďalej.	Austerlitz od W. G. Sebalda pozostáva z niekoľkých odsekov, z ktorých každá má asi 50 strán.
-0.00	Since this is deemed on topic, I'll give my recommendation as a proper answer.	Pracoval som na projekte, kde sme pre skupinu umelcov napísali grafické používateľské rozhranie na podvracanie.
+0.00	Pretože sa jedná o tému, uvediem svoje odporúčanie ako správnu odpoveď.	Pracoval som na projekte, kde sme pre skupinu umelcov napísali grafické používateľské rozhranie na podvracanie.
 0.00	Používam Subversion a Git ako akýsi frontend pre Subversion.	Ak niečo píšem v obyčajnom formáte, napríklad LaTeX alebo HTML, všeobecne použijem kontrolu verzie.
 0.00	Sedenie pri táboráku, kde sa diskutuje o najdôležitejších udalostiach dňa, je dobrým mechanizmom pre rozvoj postavy počas cestovania.	Vojna Božieho vlastného Davida Webera má v sebe niekoľko zdĺhavých cestovateľských scén, ktoré mu celkom dobre idú.
-0.00	Prečo by sa mal váš popis scény vyskytnúť v okamihu, napríklad na fotografii?	Describe first whatever will pull the reader into the scene.
+0.00	Prečo by sa mal váš popis scény vyskytnúť v okamihu, napríklad na fotografii?	Najprv opíšte, čo vtiahne čitateľa do deja.
 0.00	Majte na pamäti, že môžete ľahko nadávať bez nadávok.	Myslím si, že komentáre Stephena Kinga sú v tomto ohľade užitočné.
 3.20	Veľa svojich obrysových / pred-písacích prác som robil v Workflowy.	Nedostatok bodov na doplnenie odpovede Lauren Ipsum, ale veľmi sa mi páči Scrivener.
-3.20	Nie som právnik, môj príspevok pochádza z mojich skúseností z práce vo vydavateľskom svete.	While an answer has already been selected, I wanted to add some further points.
+3.20	Nie som právnik, môj príspevok pochádza z mojich skúseností z práce vo vydavateľskom svete.	Aj keď už bola vybratá odpoveď, chcel by som pridať niekoľko ďalších bodov.
 3.20	Považoval som premýšľanie o Scene / Sequel za užitočné pri učení sa vyhýbania sa nezmyselným scénam, a to tak pri ich revízii, ako aj počas načrtávania.	Keď píšem dobre, nemyslím zámerne na MRU.
-3.20	What happens in your story seems, from your description, to be action/thriller.	Just because a setting is made up doesn't mean it's fantasy.
+3.20	To, čo sa vo vašom príbehu stane, sa z vášho popisu javí ako akčné / thrillerové.	To, že je nejaké prostredie vymyslené, ešte neznamená, že je to fantázia.
 3.20	Táto otázka volá po odkaze na Sacred Cows of Publishing Killing.	Edit: Wikipedia vie, ako to vysvetliť lepšie ako ja.
-3.20	Aplikácia štruktúry na prózu nie je koniec koncov iba dobrou praxou v písaní a neobmedzuje sa iba na blogy.	It depends on what your blog is trying to achieve.
-3.20	V dnešnej dobe googlovania je lenivé hľadať zdroj citácie.	I agree with Kate Sherwood, you should be able to attribute most quotes these days by simple fact checking.
+3.20	Aplikácia štruktúry na prózu nie je koniec koncov iba dobrou praxou v písaní a neobmedzuje sa iba na blogy.	Závisí to od toho, čo sa snaží váš blog dosiahnuť.
+3.20	V dnešnej dobe googlovania je lenivé hľadať zdroj citácie.	Súhlasím s Kate Sherwoodovou, v dnešnej dobe by ste mali byť schopní pripísať väčšinu citácií jednoduchou kontrolou faktov.
 0.20	Pri písaní sa cítite čudne, ale pri čítaní si to nevšimnete.	Tu je technika, ktorá môže pomôcť: Identifikujte každú inštanciu, ktorú videl, počul alebo si myslel.
 0.20	Veľa svojich obrysových / pred-písacích prác som robil v Workflowy.	Môžem Scrivenerovi znova udierať?

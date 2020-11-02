@@ -1449,51 +1449,51 @@
 0.40	skupina hrajúcich sa psov	Skupina závodiacich psov.
 0.40	Hráč rugby v tmavom oblečení nosí svetlú rugbyovú loptu s natiahnutou rukou.	Hnedý pes špliecha do vody, zatiaľ čo má v ústach loptu.
 2.40	Pes, ktorý beží na brehu vedľa dvoch husí vo vode	Čierny pes pobehujúci po piesočnatom pobreží vodnej plochy, zatiaľ čo neďaleko plávajú dve kačice.
-2.40	A small dog runs through a grassy field.	Dva psy sa zviazali cez trávu.
-2.40	A golden colored dog jumps around in the grass while holding a stick in its mouth.	A black dog is running through the grass carrying something red in its mouth.
+2.40	Cez trávnaté pole prebehne malý pes.	Dva psy sa zviazali cez trávu.
+2.40	V tráve poskakuje pes zlatej farby a v ústach drží palicu.	Po tráve behá čierny pes, ktorý má v ústach niečo červené.
 1.20	Lapač detí natiahol svoj MIT a chytil loptu.	Lapač chlapcov v prilbe a natiahol ruku v rukavici, aby chytil.
 1.20	Vo vzduchu skáče chlapec, ktorý má oblečené rifle a šiltovku.	Chlapec, ktorý má na sebe bejzbalovú čiapku, skáče do vzduchu neďaleko niekoľkých krokov.
-1.20	Two beige dogs are playing in the snow.	Tri psy sú v snehu.
+1.20	V snehu sa hrajú dva béžové psy.	Tri psy sú v snehu.
 1.20	Dvaja ľudia idú cez vodu.	Dve dievčatá kráčajú popri strome pred murovanou budovou.
-0.80	A girl jumps rope in a parking lot.	Malé dievčatko plávajúce v bazéne.
+0.80	Dievča skáče na lane na parkovisku.	Malé dievčatko plávajúce v bazéne.
 0.80	Dievča beží na púštnej ceste.	Mladé dievča hovorí cez mobilný telefón.
-1.60	Cez suchú trávu prebehnú dva hnedé a čierne psy.	A brown dog runs through the grass.
-1.60	a group of skiers going up a mountain	Štyria lyžiari leziaci po snehu zaviaty horu.
+1.60	Cez suchú trávu prebehnú dva hnedé a čierne psy.	Trávou behá hnedý pes.
+1.60	skupina lyžiarov idúcich na horu	Štyria lyžiari leziaci po snehu zaviaty horu.
 1.60	Hnedý pes ležiaci na modrej plachte.	Hnedý pes ležiaci na modrom obale.
 1.60	Biely pes sa hrá s loptou na pláži.	Čiernobiely pes sa hrá s opáleným psom.
 4.00	Pes stojaci blízko snehu pri pohľade na vodu.	Opálený pes stojaci na snehu hľadiaci do lesa.
-4.00	A dog splashing in the water.	A dog splashes in the murky water.
+4.00	Pes špliechajúci do vody.	V kalnej vode sa špliecha pes.
 5.00	čierny, hnedý a biely pes bežiaci spolu s bielym frisbee v ústach.	Čiernobiely pes nesie po tráve biele frisbee.
-5.00	A young girl rides on a horse through a trail.	A little girl is riding a horse in the woods.
-5.00	Muž vedie modrú loď okolo pestrofarebných domov.	a man driving a blue boat passes by some colorful houses.
+5.00	Mladé dievča jazdí na koni cez stopu.	Dievčatko jazdí na koni v lese.
+5.00	Muž vedie modrú loď okolo pestrofarebných domov.	muž jazdiaci na modrej lodi prechádza okolo niektorých farebných domov.
 1.00	Po chodníku veľkého mesta kráča skupina ľudí.	Skupina ľudí jazdí v zadnej časti nákladného vozidla.
 1.00	Medzi listami prechádza pes s veľkou palicou v ústach.	Lesom behá pes, ktorý má niečo v ústach.
-1.00	A white and brown dog is laying down on a red jacket with a rodent standing on it.	Hnedý pes leží na chrbte v tráve a v ústach drží loptu.
+1.00	Bielo-hnedý pes leží na červenom saku a na ňom stojí hlodavec.	Hnedý pes leží na chrbte v tráve a v ústach drží loptu.
 1.00	Pes je vo vzduchu nad trávou.	Pes leží na posteli s modrou plachtou.
 3.80	Po ulici kráča žena v čiernych šatách s červenými doplnkami.	Žena v čiernych šatách kráčajúca po ulici.
-0.00	Young boy plays ball on the beach.	Na pláži sa hrá pes.
+0.00	Mladý chlapec hrá loptu na pláži.	Na pláži sa hrá pes.
 0.00	Cez vodu behá čierny pes.	Muž vo futbalovej uniforme behá s futbalom počas hry.
-2.00	Girl stands in subway waiting on something.	A girl stands in a dimly lit area.
-4.80	Two dogs approach each other in the grass.	Two dogs face off of each other on the grass.
-0.60	Muž sedí s malým dievčatkom v parku.	The man is playing with the shaggy little dog.
-4.40	Veľký opálený pes beží so zeleným predmetom v ústach	The tan dog is carrying a green squeak toy in its mouth.
-0.00	White and brown dog with mouth open running on grass.	Cez zelenú trávu beží biely pes so škvrnami hnedej a čiernej na oku.
-0.00	A man juggles at the beach.	Muž v plavkách žongluje na pláži
+2.00	Dievča stojí v metre a na niečo čaká.	Na slabo osvetlenom mieste stojí dievča.
+4.80	V tráve sa k sebe priblížia dva psy.	Na tráve proti sebe stoja dva psy.
+0.60	Muž sedí s malým dievčatkom v parku.	Muž sa hrá s chlpatým psíkom.
+4.40	Veľký opálený pes beží so zeleným predmetom v ústach	Opálený pes nesie v ústach zelenú vŕzgajúcu hračku.
+0.00	Biely a hnedý pes s otvorenými ústami bežiaci na tráve.	Cez zelenú trávu beží biely pes so škvrnami hnedej a čiernej na oku.
+0.00	Muž žongluje na pláži.	Muž v plavkách žongluje na pláži
 0.00	Skupina ľudí na člnoch uháňajúcich k pobrežiu.	Učebňa študentov sledujúcich prezentáciu.
-0.60	Osoba jazdí na skateboarde vo vzduchu nad rampou.	A biker is riding along a track element located with a wooded area.
-0.00	A child pushes another child on a swing.	Chlapec tlačí dievča na hojdačke vonku.
-0.00	A boy skateboards down the metal handrail at night.	Po piesku beží hnedý pes, ktorý drží palicu.
+0.60	Osoba jazdí na skateboarde vo vzduchu nad rampou.	Motorkár jazdí po prvku dráhy, ktorý je zalesnený.
+0.00	Dieťa tlačí ďalšie dieťa na hojdačke.	Chlapec tlačí dievča na hojdačke vonku.
+0.00	Chlapec v noci skateboardoval po kovovom zábradlí.	Po piesku beží hnedý pes, ktorý drží palicu.
 0.00	Dav sa zhromaždil v uliciach a mával pestrofarebnými vlajkami.	na ulici sa zhromaždil dav ľudí mávajúcich írskymi vlajkami.
 0.00	Človek sa pretláča cez otvor v skalnej stene.	Po otvorenej bielej zalesnenej oblasti beží stredne veľký hnedý pes.
 2.00	Muž na zelenom bicykli vykonaním triku na jednom kolese.	Muž robí trik na svojom zelenom bicykli.
-2.00	Dog running towards camera with a ball in its mouth.	Čiernobiely pes pláva s hnedým predmetom v ústach.
+2.00	Pes beží smerom k fotoaparátu s guľou v ústach.	Čiernobiely pes pláva s hnedým predmetom v ústach.
 4.20	Mladé dievča pobehujúce na pláži.	Dievčatko beží na na brehu pláže.
 1.60	Hráč bejzbalu hodí loptu.	Basketbalista drží loptu.
 3.00	Biely pes vbehne do jazera.	Biely pes skočí do bazéna.
 3.00	Dva psy sa hrajú na úlovok v poli.	Na dvore sa prenasledujú dva psy.
 3.00	Muž sa hojdá na lane nad vodou.	Muž v hnedých plavkách sa hojdá na lane na jazere.
 1.00	Žena, ktorá nosí veľké slnečné okuliare, drží noviny v oboch rukách.	Tučná žena so slabo modrým vrchom fúka mydlovú bublinu.
-5.00	A man doing a trick on a skateboard.	Muž vo vzduchu na skateboarde.
-5.00	A young girl in swim goggles does the backstroke in a pool.	A girl does the backstroke in the pool.
+5.00	Muž robí trik na skateboarde.	Muž vo vzduchu na skateboarde.
+5.00	Mladé dievča v plaveckých okuliaroch robí znak v bazéne.	Dievčatko robí znak v bazéne.
 5.00	Jeleň preskočí plot.	Jeleň skáče cez plot.
-1.00	Mladé dievča oblečené v kostýme myšky Minnie a staršia žena kráčajúca po chodníku.	a man wearing a white suit holding a newspaper walking through the streets.
+1.00	Mladé dievča oblečené v kostýme myšky Minnie a staršia žena kráčajúca po chodníku.	muž v bielom obleku, držiaci noviny, kráčajúci ulicami.

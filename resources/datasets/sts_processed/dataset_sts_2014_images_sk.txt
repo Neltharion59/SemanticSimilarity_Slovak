@@ -699,48 +699,48 @@
 4	Muž stojí vedľa žltého športového auta.	Muž stojí vedľa žltej korvety.
 3.4	Sivý dom s červenými dverami.	Dom s červenými dverami.
 0.8	Dve ženy v obchode s odevmi.	Dve ženy na plachetnici.
-3.8	Žena s bielym koňom.	A woman leading a white horse.
-3.2	čiernobiela fotografia kráv v ich stánkoch.	A black and white photo of cattle at a trough.
-4	Starší pán pri pohľade na červenú motorku.	A man looking at a red motorcycle.
-0	Depressed woman sitting on couch.	Staršia žena drží novonarodené dieťa.
-4.2	Double decker bus with the London Eye ferris wheel in background.	a brown double decker tour bus on a street with a ferris wheel behind it.
-0.6	A yellow and black bird eats from a bird feeder.	A flock of birds flying over a body of water.
-1.6	Čierne a biele kravy pasúce sa v ohrade.	Two black and white cows drinking out of a pond.
-0	Malé maskované lietadlo zaparkované v tráve.	A small dog wearing a pink shirt tied to a railing.
-3.8	A man stands in front of a train.	Muž stojí na peróne pred strieborným vlakom.
+3.8	Žena s bielym koňom.	Žena vedúca bieleho koňa.
+3.2	čiernobiela fotografia kráv v ich stánkoch.	Čiernobiela fotografia dobytka pri žľabe.
+4	Starší pán pri pohľade na červenú motorku.	Muž pri pohľade na červený motocykel.
+0	Depresívna žena sediaca na gauči.	Staršia žena drží novonarodené dieťa.
+4.2	Poschodový autobus s ruským kolesom London Eye v pozadí.	hnedý poschodový turistický autobus na ulici s ruským kolesom za sebou.
+0.6	Žltý a čierny vták žerie z kŕmidla pre vtáky.	Kŕdeľ vtákov lietajúcich nad vodnou plochou.
+1.6	Čierne a biele kravy pasúce sa v ohrade.	Dve čiernobiele kravy, ktoré pijú z rybníka.
+0	Malé maskované lietadlo zaparkované v tráve.	Malý pes v ružovej košeli priviazanej o zábradlie.
+3.8	Muž stojí pred vlakom.	Muž stojí na peróne pred strieborným vlakom.
 4.6	Malé lietadlo zaparkované na letisku so zamračenou oblohou nad hlavou.	Malé biele lietadlo zaparkované na letisku v zamračený deň.
 3.4	V blízkosti malého lietadla je na vode čln.	Loď je vo vode a malé lietadlo je v lavici obžalovaných.
-0.6	Muž jazdiaci na bielom koni v aréne.	A domestic animal stands in a pen.
-4.2	A Macintosh computer sitting on the floor.	počítač na zemi.
+0.6	Muž jazdiaci na bielom koni v aréne.	Domáce zviera stojí v koterci.
+4.2	Počítač Macintosh sediaci na zemi.	počítač na zemi.
 0	Staršia žena sa zvezie na zadnej časti bicykla.	Člny sú na vode umiestnenej pred horou.
 0.4	Čierna a biela mačka sedí na hnedej stoličke a vzhliada.	Pes sediaci na žltej stoličke vedľa zelenej skládky.
-2.8	sheep standing in afield.	Vedľa ovce na poli stojí veľký pes.
-3.4	Skupina starších ľudí sediacich okolo stola.	A group of elderly people pose around a dining table.
-3.4	Čiernobiela fotografia sedačky lásky.	Black and white photo of couch with purse at one end.
+2.8	ovce stojace v cudzine.	Vedľa ovce na poli stojí veľký pes.
+3.4	Skupina starších ľudí sediacich okolo stola.	Skupina starších ľudí pózuje okolo jedálenského stola.
+3.4	Čiernobiela fotografia sedačky lásky.	Čiernobiela fotografia pohovky s kabelkou na jednom konci.
 2.8	Tri ženy s hnedými vlasmi sa usmievajú.	Tri ženy v indických šatách sa v preplnenej miestnosti usmievali.
 1.6	Čiernobiela fotografia prázdnej vlakovej stanice.	Čiernobiela fotografia mačky sediacej na pohovke.
-4.8	The brown and white cows are eating in the trough.	Hnedé a biele kravy jedia z koryta.
-0	Two dogs in a fenced kennel look ahead.	Two girls on a guy posing on the bow a boat.
+4.8	V žľabe jedia hnedé a biele kravy.	Hnedé a biele kravy jedia z koryta.
+0	Dva psy v oplotenej chovateľskej stanici sa pozerajú dopredu.	Dve dievčatá na chlapovi, ktorý pózuje na prove na lodi.
 1	Čierny vták stojaci na betóne.	Modrý vták stojaci na zelenej tráve.
 0.6	Čiernobiela krava pozerajúca sa cez plot.	Čierna a biela mačka ležiaca na zemi na slnku.
 1.8	Niekoľko ľudí na motocykloch na námestí.	Ľudia jazdia na mopedoch v mestskom prostredí.
 1.8	Detailný záber na ovcu v tráve.	Detailný záber na baránka s označeným uchom, stojaceho na tráve.
-2	Domáca mačka položená na chrbát steliva pre mačky.	Tan domestic cat under black tarp.
+2	Domáca mačka položená na chrbát steliva pre mačky.	Opálená mačka domáca pod čiernou plachtou.
 4	Dav ľudí, ktorí prešli okolo obrovskej huby.	Skupina štyroch ľudí, ktorí prešli popri obrovskej hube.
 3.2	Dve zelené vtáky letia smerom k drevenému telefónnemu stĺpu.	Dva zelené vtáky letiace nad telefónnymi drôtmi.
 3	Osoba sediaca na motorke, zatiaľ čo muž stojí pri nej.	Muž stojí na motocykli na prázdnom parkovisku vedľa muža s prilbou.
-2.6	Three cows grazing in a field.	Dve kravy sa pasú na poli.
-3	A young woman with outstretched arms stands in front of a "Going Places" bus.	Dievčatko stojí pred otvorenými dverami autobusu.
+2.6	Tri kravy pasúce sa na poli.	Dve kravy sa pasú na poli.
+3	Mladá žena s vystretými rukami stojí pred autobusom „Going places“.	Dievčatko stojí pred otvorenými dverami autobusu.
 3	Ovečka vedľa cesty a jazera.	Ovečka je na okraji cesty s jazerom a horou v pozadí.
-0.8	Čiernobiela krava stojaca v trávnatom poli.	A black and white photo of a man standing next to a bus.
+0.8	Čiernobiela krava stojaca v trávnatom poli.	Čiernobiela fotografia muža stojaceho pri autobuse.
 4.4	Na ruke v rukavici sedel modrý vták.	Na ruke v rukavici človeka je posadený vták.
 4.2	Skupina ľudí, ktorí sa najedia vonku.	Skupina ľudí jesť pri stole vonku.
-4	A baby holds a ketchup packet.	Dieťa na vysokej stoličke drží balíček s kečupom.
-4.2	Detailný pohľad na hlavu koňa.	A close-up of a brown horse's head.
-4.2	Two cats sitting together on the sofa looking out the window.	Dve mačky sedia na zadnej strane gauča a pozerajú sa z okna.
+4	Dieťa drží balíček s kečupom.	Dieťa na vysokej stoličke drží balíček s kečupom.
+4.2	Detailný pohľad na hlavu koňa.	Detail hlavy hnedého koňa.
+4.2	Dve mačky sedia spolu na pohovke a pozerajú sa z okna.	Dve mačky sedia na zadnej strane gauča a pozerajú sa z okna.
 5	Vlak sa nachádza na vlakovej stanici.	vlak v stanici.
 3.6	Tmavo hnedý kôň stojaci v poli.	Kôň stojaci v poli.
-0	Muž sediaci na lavičke pri pohľade na psa na vodítku sediaci na chodníku.	A women holds a small baby while sitting on a sofa.
+0	Muž sediaci na lavičke pri pohľade na psa na vodítku sediaci na chodníku.	Žena drží malé dieťa, keď sedela na pohovke.
 0.8	Malá mačka položená na drevenom tráme pozerajúc sa do kamery.	Malý pes má na sebe sveter a pozerá sa do kamery.
 2.5	Čierny vták sedí na zemi.	Vtáčik sedí na konári.
 3	Skupina ľudí sedí pri stole v talianskej reštaurácii.	Podávala sa skupina šiestich ľudí, ktorí sedeli pri stole so šalátom.

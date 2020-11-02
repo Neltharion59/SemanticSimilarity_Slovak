@@ -699,52 +699,52 @@
 3.750	Buďte väčší čo do počtu, množstva, moci, postavenia alebo dôležitosti bez toho, aby ste osobne mali zvrchovanú moc.	byť väčšie čo do počtu, množstva, výkonu, stavu alebo dôležitosti.
 5.000	Venujte sa úplne konkrétnej osobe, činnosti alebo veci.	dať úplne konkrétnej osobe, činnosti alebo veci.
 4.500	prst vedľa palca, ukazovák	prst vedľa palca.
-4.750	put up with something or someone (unpleasant)	put up with something or somebody unpleasant.
-5.000	úloha alebo funkcia vedúceho vládneho orgánu	the role of the head of a government department.
-4.250	consider again, usually with a view to changing	znovu zvážte; dať novú úvahu; obvykle s ohľadom na zmeny.
-4.250	drive at an excessive or illegal velocity	cestovať nadmernou alebo nezákonnou rýchlosťou.
-5.000	an air force military unit, smaller than a squadron	an air force unit smaller than a squadron.
-4.500	the act of giving someone a job, hiring someone	čin dať niekomu prácu.
-3.500	akt otravovania niekoho alebo niečoho	the act of troubling or annoying someone.
-4.000	Droop, sink, or settle from or as if from          pressure or loss of tautness; become less intense.	ovisnúť, klesnúť alebo sa usadiť z tlaku alebo straty napätia
+4.750	zmieriť sa s niečím alebo niekým (nepríjemné)	zmieriť sa s niečím alebo niekým nepríjemným.
+5.000	úloha alebo funkcia vedúceho vládneho orgánu	rola vedúceho vládneho oddelenia.
+4.250	znovu zvážte, zvyčajne s ohľadom na zmeny	znovu zvážte; dať novú úvahu; obvykle s ohľadom na zmeny.
+4.250	jazdite nadmernou alebo nezákonnou rýchlosťou	cestovať nadmernou alebo nezákonnou rýchlosťou.
+5.000	vojenská jednotka vzdušných síl, menšia ako letka	jednotka letectva menšia ako letka.
+4.500	čin dať niekomu prácu, niekoho zamestnať	čin dať niekomu prácu.
+3.500	akt otravovania niekoho alebo niečoho	čin znepokojovania alebo otravovania niekoho.
+4.000	Znížte sa, ponorte sa alebo sa usaďte z tlaku alebo straty napnutia; menej intenzívne.	ovisnúť, klesnúť alebo sa usadiť z tlaku alebo straty napätia
 5.000	Citovať ako orgán; uchýliť sa (ako v argumente).	uviesť ako orgán; uchýliť sa k.
 4.500	Prideliť alebo venovať; vyčleniť alebo oddeliť na konkrétny účel alebo použitie.	vyčleniť alebo oddeliť na konkrétny účel alebo použitie.
-5.000	výroba komponentov (improvizačným spôsobom)	make out of components (often in an improvising manner).
+5.000	výroba komponentov (improvizačným spôsobom)	zložiť zo zložiek (často improvizujúcim spôsobom).
 4.250	skúšať, učiť sa opakovaním	učiť sa opakovaním.
-5.000	Intend something to move toward a certain goal	zamýšľať (niečo) smerovať k určitému cieľu.
-4.600	register formally as a participant	register formally as a participant or member.
-5.000	píš akoby s tlačou, nie kurzívou	write as if with print; not cursive.
-4.400	shoot down birds	shoot down, of birds.
-5.000	menovať do administratívnych funkcií	appoint to a clerical posts.
-4.750	(Chemistry) Undergo sequestration by          forming a stable compound with an ion.	undergo sequestration by forming a stable compound with an ion.
-5.000	Vybavte ho otvorom, ktorý umožňuje cirkuláciu vzduchu alebo únik plynov.	furnish with an opening to allow air to circulate or gas to escape.
-5.000	Stand with arms or forelegs raised, as of menacing.	stand with arms or forelegs raised, as if menacing.
-5.000	accounting period of 12 months	akékoľvek účtovné obdobie 12 mesiacov.
+5.000	Majte v úmysle niečo smerovať k určitému cieľu	zamýšľať (niečo) smerovať k určitému cieľu.
+4.600	zaregistrujte sa formálne ako účastník	zaregistrujte sa formálne ako účastník alebo člen.
+5.000	píš akoby s tlačou, nie kurzívou	píš akoby s potlačou; nie kurzívou.
+4.400	zostreliť vtáky	zostreliť, vtákov.
+5.000	menovať do administratívnych funkcií	menovať do duchovných funkcií.
+4.750	(Chémia) Podstúpte sekvestráciu vytvorením stabilnej zlúčeniny s iónom.	podstúpiť sekvestráciu vytvorením stabilnej zlúčeniny s iónom.
+5.000	Vybavte ho otvorom, ktorý umožňuje cirkuláciu vzduchu alebo únik plynov.	vybavte otvorom, ktorý umožní cirkuláciu vzduchu alebo únik plynu.
+5.000	Postavte sa so zdvihnutými rukami alebo prednými končatinami, ktoré sú hrozivé.	stojte so zdvihnutými rukami alebo prednými končatinami, akoby boli hrozivé.
+5.000	účtovné obdobie 12 mesiacov	akékoľvek účtovné obdobie 12 mesiacov.
 4.250	Premeniť genetickú informáciu vo vlákne DNA na vlákno RNA.	prevádzať genetickú informáciu v (reťazec DNA) na reťazec RNA, najmä mediálnu RNA.
-4.750	give a thrashing to, beat	dať výprask; silno biť.
-5.000	Immerse or be immersed in a boiling liquid,  for purposes of cooking or processing.	immerse or be immersed in a boiling liquid, often for cooking purposes.
+4.750	dať výprask, biť	dať výprask; silno biť.
+5.000	Ponorte alebo ponorte do vriacej kvapaliny na účely varenia alebo spracovania.	ponorte alebo ponorte do vriacej kvapaliny, často na varenie.
 5.000	Zásobovanie vodou pre plodiny, ako sú kanály, priekopy alebo potoky.	zásobovanie vodou, ako sú kanály, priekopy alebo potoky.
-4.250	Časové obdobie, počas ktorého je lízingová zmluva v platnosti.	the period of time during which a contract conveying property to a person is in effect.
-4.250	Chráňte alebo spevnite vrecami s pieskom.	protect or strengthen with sandbags; stop up.
-5.000	cestovanie; urobiť prehliadku miesta	make a tour of a certain place.
-4.750	the political head of city government	the head of a city government.
+4.250	Časové obdobie, počas ktorého je lízingová zmluva v platnosti.	časové obdobie, počas ktorého je účinná zmluva o prevode majetku na osobu.
+4.250	Chráňte alebo spevnite vrecami s pieskom.	chrániť alebo spevniť vrecami s pieskom; prestaň.
+5.000	cestovanie; urobiť prehliadku miesta	urobiť prehliadku určitého miesta.
+4.750	politický šéf vlády mesta	vedúci mestskej správy.
 3.250	preniesť jazyk, vziať s jazykom	zaberaj jazykom.
-5.000	Mesto na rieke Temža v Berkshire v južnom Anglicku	a city on the River Thames in Berkshire in southern England.
-4.750	graf alebo mapa zobrazujúca rozmery, pohyby alebo pokrok v niečom	a chart or map showing the movements or progress of an object.
-4.750	Odneste si životne dôležitú alebo podstatnú súčasť niečoho.	take away a vital or essential part of.
-4.250	Nedokonalosť; nedostatočná alebo nedostatočná kvalita.	the quality of being inadequate or falling short of perfection.
+5.000	Mesto na rieke Temža v Berkshire v južnom Anglicku	mesto na rieke Temža v Berkshire v južnom Anglicku.
+4.750	graf alebo mapa zobrazujúca rozmery, pohyby alebo pokrok v niečom	mapa alebo mapa znázorňujúca pohyby alebo postup objektu.
+4.750	Odneste si životne dôležitú alebo podstatnú súčasť niečoho.	odniesť životne dôležitú alebo podstatnú súčasť.
+4.250	Nedokonalosť; nedostatočná alebo nedostatočná kvalita.	kvalita nedostatočnej alebo nedostatočnej dokonalosti.
 4.750	Pohladkajte alebo stlačte, najmä pod bradou.	potľapkajte alebo stlačte láskavo alebo hravo, najmä pod bradou.
 4.750	vymyslieť niečo vymyslené alebo nepravdivé	vymyslieť niečo umelé alebo nepravdivé.
-4.250	akt prehltnutia tekutiny	the act of swallowing.
-4.500	have unlawful sex with a prostitute	have unlawful sex with a whore.
-4.000	Reverse the winding or twisting of;  separate the tangles of.	reverse the winding or twisting of.
+4.250	akt prehltnutia tekutiny	akt prehltnutia.
+4.500	mať nezákonný sex s prostitútkou	mať nezákonný sex s kurvou.
+4.000	Otočte navíjanie alebo krútenie; oddeľte spleť.	zvrátiť navíjanie alebo krútenie.
 4.500	Odplata alebo kompenzácia (niekto), pokiaľ ide o stratu alebo obetu.	uhradiť alebo nahradiť (niekomu) škodu.
-3.250	sharpen a razor with a strap	sharpen with a strap.
+3.250	naostrite žiletku remienkom	nabrúsiť remienkom.
 4.500	dlhší telegrafický signál Morseovej abecedy	dlhší z dvoch telegrafických signálov použitých v morzeovke.
 4.250	Časť tela medzi krkom a nadlaktím alebo niektorá z jeho častí.	časť tela medzi krkom a nadlaktím.
-4.500	Dážď, krupobitie alebo silné sneženie a veľmi veterno, často hromy a blesky; silno fúkať.	rain, hail, or snow hard and be very windy, often with thunder or lightning.
-4.250	fill with high spirits	naplňte vysokou náladou; naplňte optimizmom.
-3.500	The release of pressure built up during a stop consonant.	konečné vynútené uvoľnenie tlaku vytvorené počas okluzívnej fázy zastavovacej spoluhlásky.
-4.500	(spôsobujú) pokles kvapiek	let or cause to fall in drops.
+4.500	Dážď, krupobitie alebo silné sneženie a veľmi veterno, často hromy a blesky; silno fúkať.	dážď, krupobitie alebo silné sneženie a veľmi veterno, často s hromami alebo bleskami.
+4.250	naplňte dobrou náladou	naplňte vysokou náladou; naplňte optimizmom.
+3.500	Uvoľnenie tlaku vytvoreného počas zastavovacej spoluhlásky.	konečné vynútené uvoľnenie tlaku vytvorené počas okluzívnej fázy zastavovacej spoluhlásky.
+4.500	(spôsobujú) pokles kvapiek	nechajte alebo nechajte padať po kvapkách.
 5.000	Status šampióna.	status šampióna.
-3.750	Výhody čerpajte z; využiť.	draw advantages from.
+3.750	Výhody čerpajte z; využiť.	čerpať výhody z.

@@ -345,7 +345,7 @@
 3.8	Nechápem, ako bude zakázaná sloboda slova.	Vaša sloboda prejavu nebude viac zakázaná ako dnes.
 3.2	Je potrebné si položiť otázku.	Je to otázka, na ktorú si treba zodpovedať.
 2.8	Máte v úmysle vážiť si život veľmi ťažko.	Mám v úmysle veľmi si vážiť ľudský život.
-1.8	Zamorenie.	Komáre prispievajú.
+1.8	Únava.	Komáre prispievajú.
 4.6	nechcem prezidenta, ktorý by sa „staral“.	nechcem prezidenta súcitného.
 2.4	máš niečo, aby to bolo menej príťažlivé alebo nie?	Máte niečo, čím by to bolo príťažlivejšie?
 3.4	Trilióntykrát som nikdy nepovedal, že rehabilitácia nefunguje.	V bode, ktorý citujete, by malo byť napísané „Nikdy som nepovedal, že rehabilitácia nikdy nemôže fungovať.“
@@ -399,52 +399,52 @@
 2.8	Ford, žiaľ, prijal peniaze daňových poplatníkov.	Ford neprijal peniaze daňových poplatníkov, aby zachránil spoločnosť.
 1	Moslimovia by povedali to isté o Koráne.	Hinduisti by povedali to isté o Bhagavadgíte.
 3.8	Tvoj zmätok zo mňa nerobí klamára.	Potom z teba môj zmätok tiež nerobí klamára.
-1.6	When Christians are extreme its just simply religion.	When Muslims are extreme it's terrorism.
-1.2	Some believe the 'right' is most important.	Some believe not slaughtering the unborn is most important.
-1.6	Evolution is not an opinion, not a belief.	Atómová teória nie je názor, ani viera.
-2.8	Nie som ten, kto sa domáha práva rozhodovať o tele inej ženy.	You want others to decide over a woman body.
-0.8	Kde je na svete Ron Paul?	Where in the world is the MEDIA??
-2.4	you have no remains of a missile at the pentagon.	nemáte žiadne zvyšky A- v päťuholníku.
-3.4	V bode, ktorý citujete, by malo byť napísané „Nikdy som nepovedal, že rehabilitácia nikdy nemôže fungovať.“	For the trillionth time, I've never said rehabilitation doesn't work.
-1.53333333333333	miliárd. Všetci na svete na súčasnej úrovni prosperity Mexika.	Everyone in the world at the current "prosperity" level of Northwest Africa.
-3.8	my hair is pretty thing tho :/ Quote: Ditto.	moje vlasy sú pekné: / woops!
-1.2	Nezastavilo by to vtipné manželstvá.	And I don't fight for marriage.
-1.6	Zdá sa, že si myslíte, že chudobní ľudia nie sú zodpovední za svoje činy.	People are responsible for their actions.
+1.6	Keď sú kresťania extrémni, je to jednoducho náboženstvo.	Keď sú moslimovia extrémni, ide o terorizmus.
+1.2	Niektorí veria, že najdôležitejšie je „správne“.	Niektorí veria, že nie je najdôležitejšie zabiť nenarodených.
+1.6	Evolúcia nie je názor, nie viera.	Atómová teória nie je názor, ani viera.
+2.8	Nie som ten, kto sa domáha práva rozhodovať o tele inej ženy.	Chcete, aby o ženskom tele rozhodovali iní.
+0.8	Kde je na svete Ron Paul?	Kde na svete sú MÉDIÁ?
+2.4	v päťuholníku nemáte žiadne zvyšky rakety.	nemáte žiadne zvyšky A- v päťuholníku.
+3.4	V bode, ktorý citujete, by malo byť napísané „Nikdy som nepovedal, že rehabilitácia nikdy nemôže fungovať.“	Trilióntykrát som nikdy nepovedal, že rehabilitácia nefunguje.
+1.53333333333333	miliárd. Všetci na svete na súčasnej úrovni prosperity Mexika.	Všetci na svete na súčasnej úrovni „prosperity“ severozápadnej Afriky.
+3.8	moje vlasy sú pekné: / Citát: Ditto.	moje vlasy sú pekné: / woops!
+1.2	Nezastavilo by to vtipné manželstvá.	A nebojujem za manželstvo.
+1.6	Zdá sa, že si myslíte, že chudobní ľudia nie sú zodpovední za svoje činy.	Ľudia sú zodpovední za svoje činy.
 2.4	Prečo sa táto transakcia uskutočnila.	Prebehla transakcia?
-0	It's about the baggage attached.	It's not the same thing.
-3.6	We are all vessels filled with many wonders.	Put a Little Love in your Heart We are all vessels filled with many wonders.
-2.46666666666667	the problem isn't who has money.	the problem is who doesn't have money.
+0	Reč je o pripojenej batožine.	Nie je to to isté.
+3.6	Všetci sme nádoby naplnené mnohými zázrakmi.	Vlož trochu lásky do svojho srdca Všetci sme nádoby naplnené mnohými zázrakmi.
+2.46666666666667	problém nie je v tom, kto má peniaze.	problém je v tom, kto nemá peniaze.
 1.6	Čo si myslíte, že sa sova nezúčastnila?	Nehovorí sa, že sa nezúčastnil.
-1.8	lol Looking forward to seeing your built-in's!	Tešte sa, až sa dočkáte!
-1.2	Originally Posted by jacko!	Originally Posted by IZZY!
-4.8	Ďakujem Candy za založenie vlákna.	Candy - Thanks for starting us off today.
+1.8	lol Teším sa, až uvidíme vaše vstavané moduly!	Tešte sa, až sa dočkáte!
+1.2	Pôvodne Poslal jacko!	Pôvodne poslal IZZY!
+4.8	Ďakujem Candy za založenie vlákna.	Candy - Ďakujeme, že si nás dnes naštartoval.
 1	Ibaže to nebolo.	Ibaže oni nemohli.
-2.2	Ak vám dlžím doláre, mám problém.	If I owe you a trillion dollars, you have a problem.
+2.2	Ak vám dlžím doláre, mám problém.	Ak vám dlžím bilión dolárov, máte problém.
 4.8	Ak nie sú poskytnuté dôkazy podporujúce pozíciu; potom by to malo byť zamietnuté.	Ak je pozícia neoveriteľná; potom by to malo byť zamietnuté.
-1.4	Všetci ostatní na súčasnej úrovni prosperity Mexika.	Everyone in the world at the current "prosperity" level of Northwest Africa.
+1.4	Všetci ostatní na súčasnej úrovni prosperity Mexika.	Všetci na svete na súčasnej úrovni „prosperity“ severozápadnej Afriky.
 1.8	Bush dostane nulový kredit za rozpočet, ktorý je pod ním.	A Obama dostane nulový kredit za rozpočet, ktorý riadi.
-0.8	LOL Nemusíte absolvovať test na vedenie vozidla v USA?	Is there a test to own a firearm in the US?
-3.2	We both thought the movie was good and we didn't find it confusing in any way.	Považoval som to za dobré a nepripadalo mi to mätúce.
+0.8	LOL Nemusíte absolvovať test na vedenie vozidla v USA?	Existuje test na vlastníctvo strelnej zbrane v USA?
+3.2	Obaja sme si mysleli, že film je dobrý, a nepripadalo nám to nijako mätúce.	Považoval som to za dobré a nepripadalo mi to mätúce.
 5	Ak Boh neexistuje, môže sa niečo morálne mýliť?	Znovu sa pýtam, či Boh neexistuje, môže byť niečo morálne zlé?
-3.6	Zákon je ústavný, ak nie je v rozpore s ústavou.	To be unconsititutional means to violate the constitution.
+3.6	Zákon je ústavný, ak nie je v rozpore s ústavou.	Byť nekonsitucionálny znamená porušiť ústavu.
 1.2	Pôvodne Poslal moslimské dievča ooops prepáč!	Pôvodne poslal moslimské dievča, nie je to úplná nemožnosť.
-1.4	This is not your country.	Toto je naša krajina.
+1.4	Toto nie je vaša krajina.	Toto je naša krajina.
 1	Pôvodne Poslal zaf Predpokladám, že voda v strede urobí rozdiel.	Pôvodne Poslal zaf z dlhodobého hľadiska, áno.
-4.2	Cone hodil hru.	Addie Joss Cone threw an  game.
-4.8	Upravené LashL: Upravené tak, aby správne maskovali vulgarizmy.	Edited by LashL: Edited to properly mask profanity in quoted post.
-1.6	Porote sa nehovorí o anulovaní poroty.	The quote you provide has nothing to do with jury nullification.
+4.2	Cone hodil hru.	Addie Joss Cone hodil hru.
+4.8	Upravené LashL: Upravené tak, aby správne maskovali vulgarizmy.	Upravené LashL: Upravené tak, aby správne maskovali vulgarizmy v citovanom príspevku.
+1.6	Porote sa nehovorí o anulovaní poroty.	Cenová ponuka, ktorú uvediete, nemá nič spoločné s anulovaním poroty.
 1	beží obeť dole Máte nejaký dôkaz?	paranoid Máte nejaký dôkaz?
-4.2	you don't use the search button much, do you?	you don't use the search button AT ALL, do you?
-3.6	Nemyslím si, že Paul má strelu.	Paul doesn't have a shot.
-3.2	Čas sezóny od zombie Všetci sme nádoby naplnené mnohými zázrakmi.	Joy to the World We are all vessels filled with many wonders.
-4.57142857142857	Všímate si nezmysly, ktoré hovoríte?	And to be fair, do you notice the nonsensical things you are saying?
-1	What if they messed up a study?	Čo keby mali osobnú zaujatosť?
+4.2	tlačidlo vyhľadávania príliš nepoužívate, však?	nepoužívate VŠETKO tlačidlo hľadania, však?
+3.6	Nemyslím si, že Paul má strelu.	Paul nemá strelu.
+3.2	Čas sezóny od zombie Všetci sme nádoby naplnené mnohými zázrakmi.	Radosť svetu Všetci sme nádoby naplnené mnohými zázrakmi.
+4.57142857142857	Všímate si nezmysly, ktoré hovoríte?	A aby som bol spravodlivý, všímate si nezmysly, ktoré hovoríte?
+1	Čo keby pokazili štúdiu?	Čo keby mali osobnú zaujatosť?
 1.2	Konkrétne baptista.	Konkrétne gnostický.
 0.8	A veľká časť východného pobrežia.	A časti západného pobrežia.
-1.4	Why are you talking about women within the Hebrew tribes?	Hovorili sme o ženách, pretože vojnová štedro nie?
+1.4	Prečo hovoríte o ženách v hebrejských kmeňoch?	Hovorili sme o ženách, pretože vojnová štedro nie?
 2.6	Včera večer zaútočili japonské sily na Hongkong.	Včera večer zaútočili japonské sily na Filipínske ostrovy.
-3.6	. What is your definition of "life force"?	Aká je vaša definícia „duše“?
+3.6	. Aká je vaša definícia „životnej sily“?	Aká je vaša definícia „duše“?
 2.6	To nie je priama zodpovednosť voči voličom.	Áno, ale SÚ zodpovední voči svojim voličom.
 4	Ideológia bola postavená na násilnej expanzii, takže áno - NÁSILNÁ expanzia.	Ideológia bola postavená na násilnej expanzii a rasovej nadradenosti.
-4.6	Mohla to byť klystír?	@ossobuco, Could this have been an enema?
-0.4	my final word: ignoring has the effect of normalizing.	využitie výhody má za následok zosilnenie.
+4.6	Mohla to byť klystír?	@ossobuco, mohlo to byť klystír?
+0.4	moje posledné slovo: ignorovanie má za následok normalizáciu.	využitie výhody má za následok zosilnenie.

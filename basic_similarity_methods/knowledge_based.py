@@ -17,4 +17,5 @@ def wu_palmer(word1, word2, wordnet='slk'):
 
     return syn1.wup_similarity(syn1, syn2)
 
+
 print(wu_palmer("pes", "pekný"))

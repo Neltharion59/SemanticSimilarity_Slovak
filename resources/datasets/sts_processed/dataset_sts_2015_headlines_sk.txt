@@ -41,7 +41,7 @@
 4.00	Egyptská polícia strieľala na demonštrantov v Káhire slzný plyn	Polícia na protestujúcich v Káhire strieľa slzný plyn
 3.20	ElBaradei sa stane egyptským premiérom	Liberál ElBaradei označil za predsedu vlády Egypt, islamisti faulujú
 1.40	Vodcovia EDL boli zatknutí počas pochodu do Woolwichu	Vodcovia EDL boli zatknutí na ceste do Woolwichu
-1.40	Najvyšší súd Andhra Pradesh, asámski telugskí aktéri Mohan Babu, Brahmanandam, sa vracajú Padma Shri	H Adavishesh Actors Mohan Babu, Return with Brahmanandam Padma Shri
+1.40	Najvyšší súd Andhra Pradesh, asámski telugskí aktéri Mohan Babu, Brahmanandam, sa vracajú Padma Shri	Herci Ha Adavishesh Mohan Babu, návrat s Brahmanandam Padma Shri
 1.40	Muž, ktorý sa podpálil na National Mall, zomrel	Muž, ktorý sa podpálil v National Mall v DC, zomrel
 1.40	Filipíny sú druhým senátorom za korupciu	Filipíny sa zotavujú po silnom tajfúne
 1.40	'Fast &amp; Furious' star Paul Walker dies in car crash at 40	Hollywoodska hviezda Paul Walker zomrela pri autonehode
@@ -1449,52 +1449,52 @@
 4.20	Britská autorka ocenená Nobelovou cenou Doris Lessing zomiera	Autorka nositeľka Nobelovej ceny Doris Lessingová zomiera
 4.80	Abeho návšteva svätyne vyvoláva široké odsúdenie, kritiku	Vojnová svätyňa japonského premiéra Šinzó Abeho susedov hnevá
 4.80	01:12 Po zápase škótskeho rugby zomrel fanúšik	Po zápase Škótsko - Anglicko zomrel fanúšik ragby
-4.80	Gap sa pripája k bezpečnostnej dohode v Bangladéši	Global brands commit to Bangladesh safety after collapse
-4.80	Izraelská vláda povoľuje nové dohody pred rokovaniami	Israel Approves New Settlement Homes Ahead of Peace Talks
-1.40	Akciové indexy v Šen-čene sa v pondelok uzatvárajú vyššie	Shenzhen stock indices close higher -- July 23
-1.40	World Cup live: France 0-0 Germany	World Cup live: Germany 0-0 Ghana
-4.80	Egyptian security forces kill 30 protesters: Brotherhood	Egyptské bezpečnostné sily zatkli syna vodcov Bratstva
-4.80	Tokyo to host 2020 Games	Tokyo wins race to host 2020 Olympic Games
+4.80	Gap sa pripája k bezpečnostnej dohode v Bangladéši	Globálne značky sa zaväzujú k bangladéšskej bezpečnosti po kolapse
+4.80	Izraelská vláda povoľuje nové dohody pred rokovaniami	Izrael schvaľuje nové domy na urovnanie pred mierovými rokovaniami
+1.40	Akciové indexy v Šen-čene sa v pondelok uzatvárajú vyššie	Akciové indexy v Šen-čene sa zatvárajú vyššie - 23. júla
+1.40	Majstrovstvá sveta v priamom prenose: Francúzsko 0: 0 Nemecko	Majstrovstvá sveta v priamom prenose: Nemecko 0: 0 Ghana
+4.80	Egyptské bezpečnostné sily zabili 30 demonštrantov: Bratstvo	Egyptské bezpečnostné sily zatkli syna vodcov Bratstva
+4.80	V Tokiu sa budú konať hry 2020	Tokio vyhráva závod o usporiadanie olympijských hier 2020
 1.60	Hasiči, ktorí nezodpovedajú za boj s požiarom v Arizone	Hasiči zahynuli v Arizone
-1.60	Pakistanský šéf Talibanu zabitý pri štrajku bezpilotných lietadiel USA	Funeral for Pakistan Taliban chief 'set to take place'
-3.60	Putin signs Crimea annexe treaty	09:32 Putin signs off Crimea annexation
-1.80	FAA pokračuje v zákaze amerických letov do Tel Avivu	FAA lifts ban on U.S. flights to Tel Aviv
-4.40	Modi vyjadruje podporu ľuďom, ktorí zahynuli v tlačovej štvrti v Bombaji	Indian media reports: 18 killed in Mumbai stampede
+1.60	Pakistanský šéf Talibanu zabitý pri štrajku bezpilotných lietadiel USA	Pohreb pre pakistanský šéf Talibanu sa „uskutoční“
+3.60	Putin podpisuje zmluvu o Kryme	09:32 Putin podpisuje anexiu Krymu
+1.80	FAA pokračuje v zákaze amerických letov do Tel Avivu	FAA zrušila zákaz amerických letov do Tel Avivu
+4.40	Modi vyjadruje podporu ľuďom, ktorí zahynuli v tlačovej štvrti v Bombaji	Správy indických médií: 18 ľudí zabitých v bombovej tlačovej kampani
 4.40	Mandela zostáva v kritickom, ale stabilnom stave: Zuma	Mandela v „kritickom, ale stabilnom“ stave
-4.40	Francúzsko varuje pred extrémistami profitujúcimi z egyptského násilia	France fears extremists will benefit from Egypt violence
-3.20	Líder Brazílie prerušuje ticho o protestoch	Brazil leader breaks silence about protests
-3.20	Death toll rises in Dhaka building collapse	Two die in Mumbai building collapse
-3.20	China demands answers from US over spying claims	Čína požaduje od USA vysvetlenie týkajúce sa špionážnej správy spoločnosti Huawei
-3.20	Chinese envoy rebuts Vietnamese, Philippine accusations over South China Sea	Čínska vláda Xi povedala, že Vietnam chce mier v Juhočínskom mori
-2.80	Thai opposition party to boycott general election	Thailand's opposition Democrat Party announces boycott of February general election
-2.80	Štyria ďalší ľudia boli zatknutí pre najväčší austrálsky syndikát pre dovoz tabaku	Police target illegal tobacco syndicate
-0.00	9 Killed in Attack on Indian Consulate in Afghanistan	12 killed in attack on Indian consulate in Afghan city
-0.00	Yemen: Fighting in north kills over 120	Janet Yellen: Five things you might not know
-0.40	Obama sa snaží zaplniť palubu Fedu a klepnutím na Fischera sa stane č. 2	Obama voices willingness to talk with GOP on budget
+4.40	Francúzsko varuje pred extrémistami profitujúcimi z egyptského násilia	Francúzsko sa obáva, že z egyptského násilia budú mať úžitok extrémisti
+3.20	Líder Brazílie prerušuje ticho o protestoch	Brazílsky vodca prestáva mlčať o protestoch
+3.20	Počet obetí stúpa pri zrútení budovy v Dháke	Dvaja zomreli v zrútení budovy v Bombaji
+3.20	Čína požaduje od USA odpovede na špionážne tvrdenia	Čína požaduje od USA vysvetlenie týkajúce sa špionážnej správy spoločnosti Huawei
+3.20	Čínsky vyslanec vyvracia vietnamské a filipínske obvinenia týkajúce sa Juhočínskeho mora	Čínska vláda Xi povedala, že Vietnam chce mier v Juhočínskom mori
+2.80	Thajská opozičná strana bojkotuje všeobecné voľby	Thajská opozičná demokratická strana oznamuje bojkot februárových všeobecných volieb
+2.80	Štyria ďalší ľudia boli zatknutí pre najväčší austrálsky syndikát pre dovoz tabaku	Polícia sa zameriava na nelegálny syndikát tabaku
+0.00	9 Zabitý pri útoku na indický konzulát v Afganistane	12 zabitých pri útoku na indický konzulát v afganskom meste
+0.00	Jemen: Boje na severe zabijú viac ako 120 ľudí	Janet Yellen: Päť vecí, ktoré by ste možno nevedeli
+0.40	Obama sa snaží zaplniť palubu Fedu a klepnutím na Fischera sa stane č. 2	Obama vyjadruje ochotu rokovať s GOP o rozpočte
 4.80	USA - Rusko dosiahli dohodu o Sýrii	USA - Rusko dosiahli dohodu o sýrskych zbraniach
-4.80	Pakistanský Mušarraf obvinil z vraždy Bhuttovej	Pakistan's Musharraf Charged In Bhutto Death
-1.60	Iran's president condemns use of chemical weapons in Syria	Probe alleged use of chemical weapons in Syria
-0.40	A society fraying at the edges	Old TV alignments crack at the edges
-5.00	UN Invites Iran to Syrian Peace Conference	UN: Iran Invited to Attend Syrian Peace Conference
-0.00	Italy bus crash death toll rises	Starbucks clears college degree path for workers
-4.20	UN retracts Iran invitation to Syria talks	UN chief withdraws invitation for Iran to join Syria peace talks
-4.20	Soccer Ref Punched by Player Dies	Police: Utah soccer referee punched by player dies
-0.40	Angela Merkel headed for narrow win in German elections	Malawi's new president sworn in after disputed elections
-5.00	British teenager killed in fall from Magaluf hotel	British teenager killed in Magaluf hotel fall
-1.20	Iran FM confers with Iraqi acting president	Rúhání sa stáva novým iránskym prezidentom
-1.20	Izrael pokračuje v zadržiavaní 37 Palestínčanov	Israel criticizes Palestinian stance on settlers
-1.20	Rebels kill 21 civilians in Syria Alawite village	Bomb kills 18 civilians in Afghanistan
-5.00	World sends emergency relief to battered Philippines	Typhoon Haiyan: world sends relief to battered Philippines
-1.20	Newspapers Review: Abbas‚Äô Speech focus of Dailies	Newspapers Review: Nakba Day Events Focus of Dailies
-1.20	Izrael: Sýria musí byť zbavená chemických zbraní	Syria agrees to surrender chemical weapons
-1.20	Palestinian hunger striker, Israel reach deal	Palestinian activist detained in Israeli raid
-4.80	Malaysian cop killed, another kidnapped in Sabah	Massive hunt for gunmen after cop killed, another kidnapped during Sabah shootout
-4.80	Final death toll in Mumbai building collapse is 60	Death toll hits 72 in Mumbai building collapse
-4.80	Crimea parliament votes to join Russia	Krymský parlament formálne žiada o vstup do Ruska
-4.80	Assad says Syria will comply with UN arms resolution	Sýrsky Asad sa zaväzuje, že bude plniť rezolúciu OSN
+4.80	Pakistanský Mušarraf obvinil z vraždy Bhuttovej	Pakistanský Mušaraf obvinený z Bhuttovej smrti
+1.60	Iránsky prezident odsudzuje použitie chemických zbraní v Sýrii	Sonda údajného použitia chemických zbraní v Sýrii
+0.40	Spoločnosť šmýkajúca sa na okraji	Staré zarovnanie TV praskne na okrajoch
+5.00	OSN pozýva Irán na mierovú konferenciu v Sýrii	OSN: Irán je pozvaný zúčastniť sa na sýrskej mierovej konferencii
+0.00	Počet obetí autobusovej nehody v Taliansku stúpa	Starbucks uvoľňuje pracovníkom cestu na vysokoškolské štúdium
+4.20	OSN sťahuje pozvanie Iránu na rokovania o Sýrii	Šéf OSN sťahuje pozvanie Iránu na účasť na mierových rokovaniach v Sýrii
+4.20	Futbalové rozhodovanie udierané hráčmi zomiera	Polícia: Utahský futbalový rozhodca, ktorého hráč udrel päsťou, zomiera
+0.40	Angela Merkelová sa usilovala o tesné víťazstvo v nemeckých voľbách	Nový prezident Malawi zložil prísahu po sporných voľbách
+5.00	Britský tínedžer zabitý pri páde z hotela Magaluf	Britský tínedžer zabitý v hoteli Magaluf padol
+1.20	Iran FM sa zveruje s irackým úradujúcim prezidentom	Rúhání sa stáva novým iránskym prezidentom
+1.20	Izrael pokračuje v zadržiavaní 37 Palestínčanov	Izrael kritizuje palestínsky postoj k osadníkom
+1.20	Rebeli zabili v sýrskej dedine Alawite 21 civilistov	Bomba zabila v Afganistane 18 civilistov
+5.00	Svet vysiela núdzovú pomoc na zbité Filipíny	Tajfún Haiyan: svet pošle úľavu týraným Filipínam
+1.20	Newspapers Review: Abbas‚Äô Speech focus of Dailies	Recenzia novín: Dni Nakba Zameranie denníkov
+1.20	Izrael: Sýria musí byť zbavená chemických zbraní	Sýria súhlasí s odovzdaním chemických zbraní
+1.20	Palestínsky štrajkujúci hlad, Izrael dosiahol dohodu	Palestínsky aktivista zadržaný v izraelskom útoku
+4.80	Malajzijský policajt zabitý, ďalší unesený v Sabahu	Masívny hon na ozbrojencov po zabití policajta, ďalší unesený počas prestrelky v Sabahu
+4.80	Konečný počet obetí kolapsu budov v Bombaji je 60	Počet mŕtvych dosiahol 72 pri zrútení budovy v Bombaji
+4.80	Krymský parlament hlasuje za pripojenie sa k Rusku	Krymský parlament formálne žiada o vstup do Ruska
+4.80	Assad tvrdí, že Sýria bude dodržiavať rezolúciu OSN o zbraniach	Sýrsky Asad sa zaväzuje, že bude plniť rezolúciu OSN
 4.60	Krymský parlament formálne žiada o vstup do Ruska	Krymský parlament hlasuje za pripojenie sa k Rusku
-4.60	Morsi Supporters Urged to Abandon Sit-ins	Morsi supporters protest in Egypt
-4.60	South Korean President Sorry For Ferry Response	S. Korean president 'sorry' for ferry disaster
-0.00	'Rapid inspection' of flood defences	„Rýchla inšpekcia“ protipovodňovej ochrany Británie
-0.00	Food price hikes raise concerns in Iran	American Chris Horner wins Tour of Spain
-2.00	Obama made last-minute decision on Syria approval	Obama mulls limited military action in Syria
+4.60	Podporovatelia Morsi sú vyzvaní, aby opustili sit-ins	Priaznivci Morsi protestujú v Egypte
+4.60	Juhokórejský prezident Prepáčte za odpoveď na trajekt	S. Kórejský prezident „prepáč“ za katastrofu na trajekte
+0.00	„Rýchla inšpekcia“ protipovodňových zábran	„Rýchla inšpekcia“ protipovodňovej ochrany Británie
+0.00	Zvyšovanie cien potravín vyvoláva v Iráne obavy	Američan Chris Horner vyhral turné po Španielsku
+2.00	Obama prijal rozhodnutie na poslednú chvíľu o schválení Sýrie	Obama uvažuje o obmedzených vojenských akciách v Sýrii

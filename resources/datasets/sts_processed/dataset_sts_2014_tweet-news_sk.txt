@@ -1,4 +1,4 @@
-0.6	Globálne online vzdelávanie je kľúčom k demokratizácii prístupu k učeniu a prekonaniu spoločenských neduhov, ako je chudoba -	Op-Ed Columnist: Revolution Hits the Universities
+0.6	Globálne online vzdelávanie je kľúčom k demokratizácii prístupu k učeniu a prekonaniu spoločenských neduhov, ako je chudoba -	Op-Ed stĺpikár: Revolúcia hity univerzity
 2.4	Hollywood akceptuje čínsku cenzúru (budú filmy ešte lepšie?)	V hollywoodskych filmoch pre Čínu byrokrati chcú povedať
 3.8	#Bloomberg: Útočné zbrane zakazujú tvrdý predaj Pub. nepriatelia 1 a 2 podľa menšieho starostu: Big Gulps a #guns. #ocra	Bloomberg: Zákaz útočných zbraní je tvrdý predaj
 4.2	Bomba v automobile explodovala pred spravodajskou agentúrou #Afghan; počet obetí nejasný.	Silná automobilová bomba exploduje pred afganskou spravodajskou agentúrou
@@ -45,7 +45,7 @@
 4.4	Predaj systému Microsoft Windows 8 je v poriadku, nie vynikajúci CNNMoney	Predaj systému Microsoft Windows 8 je veľký - len nie dosť veľký
 3.4	Internetový aktivista # AaronSwartz, tvorca #RSS, je mŕtvy vo veku 26 rokov - samovražda. Bol tlak prebiehajúcich súdnych procesov príliš veľký?	Aaron Swartz, internetový aktivista, zomiera v 26 rokoch
 4	Pravda o reklame ... Zlá reklama skutočne existuje. #pr #media	Možno existuje aj taká vec ako zlá reklama
-3.6	#Revolúcia zasahuje #University #distance #education #sustainability	Op-Ed Columnist: Revolution Hits the Universities
+3.6	#Revolúcia zasahuje #University #distance #education #sustainability	Op-Ed stĺpikár: Revolúcia hity univerzity
 3.8	VICKI HUDDLESTON: Prečo musíme pomáhať #Uložiť #Mali	Prispievateľ Op-Ed: Prečo musíme pomôcť zachrániť Mali
 4.4	Toto je čudný článok. „Ray Kurzweil hovorí, že budeme žiť večne“	Diskusia: Ray Kurzweil hovorí, že ideme žiť navždy
 1	Daannngg! ?: Lance Armstrong hovorí Oprahovi, že nemohol vyhrať 7 titulov Tour de France bez dopingu?	Armstrong zbavený olympijskej medaily
@@ -147,7 +147,7 @@
 3.6	Je úžasné, že si môžete zahrať násilné strelecké hry a nikto nehovorí nič iné, iba NRA čerpá teplo z novej streleckej hry na cieľ	NRA naberá teplo na streľbu
 4	Oplatí sa vidieť. "Nastavený na celý život" dokumentujúci pád generácie. #work #unemployment #babyboomer	Naša generácia:? Nastavená na celý život? Dokumenty Kríza medzi baby boomu
 4	Oprava Dreamliner: „Nie je to ľahké“ - to je veľký neporiadok, ktorý nie je ľahký.	787 Dreamliner fix: „Nie je to ľahké“
-4	Editorial NYT: What We Don’t Know Is Killing Us #research #guns #violence	Úvodník: Čo nevieme, zabíja nás
+4	Redakčný NYT: What We Don’t Know Is Killing Us #research #guns #violence	Úvodník: Čo nevieme, zabíja nás
 0	Myslíš si to? Oni si to nemyslia!	Prezidentka Hillary Clintonová? Ak to chce ona
 0.4	Nedeľná rutina pulzujúceho víťaza básnika Tracy K. Smitha:	Poézia, bábky a ihriská
 2.8	Pozícia „vyradená“. Hmm. Čítal som „vyhladený“. Times Executive odchádza	Times Communications Executive odchádza
@@ -344,7 +344,7 @@
 3.4	Senátor Feinstein oznamuje návrh zákona na obmedzenie poloautomatických zbraní:	Senátor predstavil návrh zákona o obmedzení poloautomatických zbraní
 4.8	NYTimes: Víťazstvo pre Anthonyho a pre Knicks	Vyhrajte pre Anthonyho a pre Knicks
 0	Mexická burza zbraní a tabliet ...	Video zobrazuje trosky ohnivej helikoptéry
-3.4	Od: Cond? Nast Writer Deals Stir Dispute #CondeNast	Kond. Nast Contracts Cut Author? S Share in Film Deals
+3.4	Od: Cond? Nast Writer Deals Stir Dispute #CondeNast	Kond. Nast Uzavretie zmlúv Autor? S Podiel na filmových dohodách
 2.8	Požiare ohrozujú časti Austrálie -	Fotografie: Požiare v celej Austrálii
 3.8	Dobré ráno čítajte! :) Poznámka k obrúsku: „Toto jedlo je na nás“ -	Poznámka k obrúsku: „Toto jedlo je na nás“
 4.8	Cvičenie môže zvýšiť účinnosť chrípkovej injekcie #flushot # cvičenie # zdravie	Cvičenie môže zvýšiť potenciu chrípky
@@ -678,7 +678,7 @@
 2	MT Design je teraz dôležitým konkurentom technológie	Rušenia: Rušenia: Dizajn posúva technológiu vpred
 3.8	uhhhh 10 dôvodov, prečo nemôžeme dostať dosť Gosling yummie	Prečo nemôžeme mať dosť Goslinga (Duh!)
 4.6	Zraniteľnosť jazyka Java v dôsledku neúplnej opravy (od)	Kritická zraniteľnosť Java v dôsledku neúplnej staršej opravy
-2.2	NYTimes: GREAT OBIT on Dear Abby.	Pauline Phillips, Flinty Adviser to Millions as Dear Abby, Zomrela vo veku 94 rokov
+2.2	NYTimes: SKVELÝ OBIT na drahej Abby.	Pauline Phillips, Flinty Adviser to Millions as Dear Abby, Zomrela vo veku 94 rokov
 2.8	Roboty, vďaka ktorým sú USA konkurencieschopnejšie vo výrobe:	Tvorcovia robotov šíria globálne evanjelium o automatizácii
 4	Problém s barmským pythonom na Floride vedie k súťaži o zabíjanie hadov. - ...	Florida rieši problém s pytónom pri love
 4.4	Stránka na sledovanie vrážd sa rozširuje na #Chicago Milujte ju. Skvelý hovor a gratulujeme	Blog mediálneho dekodéra: Stránky sledujúce vraždenie sa rozširujú do Chicaga
@@ -700,7 +700,7 @@
 5	Pozri tiež: NYTimes: V Quebecu, oslava na lyžiach	V Quebecu zimná slávnosť na lyžiach
 1.2	Život začína počatím, pokiaľ nejde o cas.	Právnici katolíckej nemocnice tvrdia, že plod nie je osoba
 3.4	To by bol KĽDR veľmi, veľmi zlý nápad. Severná Kórea hrozí Južnej Kórei sankciami OSN:	Severná Kórea zmenila svoj pohľad na Južnú Kóreu
-3.4	In N.A.A.C.P., Industry Gets Ally Against Soda Ban  hmmmmmmmm . . . .	Na súde N.A.A.C.P. Pridáva hlas proti Bloombergovmu zákazu sódy
+3.4	V spoločnosti N.A.A.C.P. sa priemysel stáva spojencom proti spoločnosti Soda Ban hmmmmmmmm. . . .	Na súde N.A.A.C.P. Pridáva hlas proti Bloombergovmu zákazu sódy
 4.2	Asi sakra čas !!! Guvernér New Yorku podpísal prvý zákon o kontrole zbraní od roku Newtown -	New York schváli prvý účet za kontrolu zbrane od streľby v Newtowne
 5	Nezamestnanosť v # Španielsku opäť stúpa, bez úľavy v dohľade ...	Španielska nezamestnanosť stúpa znova, bez úľavy v očiach
 0.6	Timothy Cook, generálny riaditeľ spoločnosti Apple, uviedol, že ponuka produktov bola „preplnená“. „Cítime sa skvele z toho, čo máme na sklade?	Zisky spoločnosti Apple sú ploché a pokles zásob
@@ -710,41 +710,41 @@
 4.4	NYTimes: #LindaRissPugach, ktorého život bol vytrhnutý z titulkov, zomiera v 75 rokoch #crazylove	Linda Riss Pugach, 1937-2013: Linda Riss Pugach, ktorej život bol vytrhnutý z titulkov, zomiera v 75 rokoch
 1	3D verzia? Top Gun? bol odmietnutý # čínskymi cenzormi. Riadok „náboženstvo je tma“ aj v „Life of Pi“ gt X	V hollywoodskych filmoch pre Čínu byrokrati chcú povedať
 1.6	. Kobe práve ušetril asi 100 miliónov dolárov	Kobe Bryant a manželka odvolávajú rozvod
-3.6	Výkonný riaditeľ NY Times Communications Bob Christie odchádza. Jeden z mála dobrých hovorcov v priemysle.	Times Communications Executive Is Leaving
+3.6	Výkonný riaditeľ NY Times Communications Bob Christie odchádza. Jeden z mála dobrých hovorcov v priemysle.	Times Communications Executive odchádza
 3.8	RIP Nemám slov :( Najmenej 245 zabitých pri požiari nočného klubu v Brazílii -	Stovky zabitých pri požiari nočného klubu v Brazílii
-4.4	Property Values: What You Get for ... $1.6 Million	Property Values: Real Estate for $1.6 Million
-0	#Twolves fans should read this piece on KG by  in the NYTimes	Buď s Ním, alebo proti Nemu
-2.6	India is a shockingly bad place to be a woman - how can it be so backwards??	Nové zameranie na znásilnenie v Indii ukazuje iba povrch ženských nebezpečenstiev
+4.4	Hodnoty nehnuteľností: Za čo získate ... 1,6 milióna dolárov	Hodnoty nehnuteľností: Nehnuteľnosti za 1,6 milióna dolárov
+0	# Fanúšikovia #Twolves by si mali tento kúsok prečítať na stránkach KG by v NYTimes	Buď s Ním, alebo proti Nemu
+2.6	India je šokujúco zlé miesto pre ženu - ako to môže byť také zaostalé ??	Nové zameranie na znásilnenie v Indii ukazuje iba povrch ženských nebezpečenstiev
 1	Buďte opatrní, čo jete - najmä v reštauráciách !!!	9 kalorických bômb v reštauráciách
 4.8	# Britský predseda vlády obhajuje rozhodnutie požiadať o hlasovanie o #EuropeanUnion	Predseda vlády Spojeného kráľovstva obhajuje rozhodnutie vyhľadať E.U. Hlasujte
-4	Where in the world is Àfrica? Selection of the Boeing 787's Battery Maker Raises Questions	Zdravý rozum: Výber výrobcu batérií Boeing 787 vyvoláva otázky
+4	Kde je na svete Afrika? Výber výrobcu batérií Boeingu 787 vyvoláva otázky	Zdravý rozum: Výber výrobcu batérií Boeing 787 vyvoláva otázky
 2	ženy „zaujali svoje pracovné miesta s takým pokojným pokojom, aký si krajina sotva všimla“.	Op-Ed publicista: Vojenské ženy a frontové línie
 3.8	Justícia Thomas za 7 rokov nepovedala na Najvyššom súde ani slovo. Prelomil mlčanie. Povedal „No, neurobil“	Sudca Thomas pred súdom prelomil svoje mlčanie
-3.8	Kids can't trust anyone!! ": 50 arrested in Florida child sex sting - including several teachers: "	Učitelia medzi 50 zatknutými pre sex s deťmi
+3.8	Deti nemôžu nikomu dôverovať !! „: 50 osôb zatknutých na Floride, sex s deťmi - vrátane niekoľkých učiteľov:“	Učitelia medzi 50 zatknutými pre sex s deťmi
 3.4	Pentagón zrušil zákaz boja	Pentagón končí zákaz žien v boji
 3.6	USA a ďalšie krajiny uzemnili Boeing Dreamliners kvôli riziku požiaru (CNN)	USA, ďalšie národy uzemňujú Dreamlinery
 1.25	Normálne nesúhlasím s bývalým premiérom Johnom Howardom - ale je na mieste ohľadom kontroly zbraní v USA	Prispievateľ Op-Ed: Australia Banned Assault Weapons. Amerika tiež môže.
-3.2	Potrebujete pečiatku predsedu Maa alebo Lady Godivy na svojom koni? Atramentová podložka v dedine W. ich má. #NabeJoint	Neighborhood Joint | West Village: 10,000 Rubber Stamps at Ink Pad in the West Village
-4.2	HE Arts Beat Producer Says James Brown Biopic Is Finally a Go: The producers says he's gotten the rights from th...	ArtsBeat: Životopisný film Jamesa Browna sa konečne dostane dopredu
+3.2	Potrebujete pečiatku predsedu Maa alebo Lady Godivy na svojom koni? Atramentová podložka v dedine W. ich má. #NabeJoint	Susedský spoločný West Village: 10 000 pečiatok v atramentovej doske vo West Village
+4.2	Producent HE Arts Beat hovorí, že James Brown Biopic je konečne na svete: Producenti tvrdia, že získal práva od ...	ArtsBeat: Životopisný film Jamesa Browna sa konečne dostane dopredu
 3.6	To je zaujímavé - NYTimes: Rodičia? Finančná podpora nemusí pomôcť vysokoškolským známkam	Rodičia? Finančná podpora spojená s vysokoškolskými známkami
 4.2	Ishikawa a Wiratchant boli pozvaní na Augustu	Ryo Ishikawa a Thaworn Wiratchant dostávajú pozvánky na majstrov
 2	Skvelý nápad „: Malo by sa stať, že kapitálové zisky budú postupom času regresívne, na základe toho, ako dlho investovaný kapitál #StartupAct“	Žijeme dilemu kapitalistu?
-1.2	Pentagon breaking news, this going to be a big debate.	Pentagón otvorí bojové pracovné miesta pre ženy
+1.2	Aktuálne správy z Pentagónu, bude to veľká debata.	Pentagón otvorí bojové pracovné miesta pre ženy
 3.8	Omo dey go tey: Stanovisko: Nigérijčania stále čakajú na svoju „africkú jar“ Sowore -	Nigéria čaká na „africkú jar“
 4.6	Nie v mojej strave, ale jedáci hamburgerov by si mali byť vedomí * Konské mäso nájdené v hamburgeroch v Británii a Írsku -	Konské mäso nájdené v hamburgeroch v Británii a Írsku
 4.8	Online internet Aaron Swartz spáchal samovraždu, tvrdí príbuzný	Online aktivista Aaron Swartz spácha samovraždu
 4.2	Dostali ste chrípku? Vďaka cvičeniu bude ešte lepšie fungovať. od	Cvičenie môže zvýšiť potenciu chrípky
 1	Pre #Armstrong ide o prebudovanie toku výnosov rovnako ako vždy. #doprah	Pre Armstronga Vyznanie bez vysvetlenia
-3.4	Poruchy: Dôležitá je technológia Design Rivals: pekné ponuky!	Disruptions: Disruptions: Design Is Driving Technology Forward
-4	Predtým, ako bol Dear Sugar, bol tu Deary Abby: Pauline Phillips, Flinty Adviser to Millions, zomrela v 94 rokoch	Pauline Phillips, Flinty Adviser to Millions as Dear Abby, Dies at 94
+3.4	Poruchy: Dôležitá je technológia Design Rivals: pekné ponuky!	Rušenia: Rušenia: Dizajn posúva technológiu vpred
+4	Predtým, ako bol Dear Sugar, bol tu Deary Abby: Pauline Phillips, Flinty Adviser to Millions, zomrela v 94 rokoch	Pauline Phillips, Flinty Adviser to Millions as Dear Abby, Zomrela vo veku 94 rokov
 4.6	„Francúzsko zvyšuje bezpečnosť na lokalitách v #Nigeri a doma.“ #Urán #Mali	Francúzsko zvyšuje bezpečnosť na lokalitách uránu v Nigeri
 2.4	V procese pred nezákonným používaním častí morského jednorožca: #dailywhale	2 Súvisí s pašovaním kina Narwhal, vinný
 1.4	Severná Kórea vzdoruje sankciám OSN	Rada bezpečnosti OSN obviňuje Severnú Kóreu, rozširuje sankcie
-5	Training Tips From Star Athletes  #motivation #fitness	Osobné maximum: Výcvik poznatkov od hviezdnych športovcov
-2.75	Zaujímavý článok! Je to (zriedka) šéfka	Op-Ed Columnist: She?s (Rarely) the Boss
-3.25	Christensen: Prežívame dilemu kapitalistu	Are we living the capitalist's dilemma?
-0.8	the ginger in me loves that world's #1 bachelor is part of the #gingerfamily	Prince Harry most eligible bachelor
-4.2	: - \ HMV sa dostal do konkurzu ekvivalentného ...	DealBook: British Retailer HMV Enters Equivalent of Bankruptcy
-3	Really people??? ?: Readers sue Lance Armstrong for book refund after doping admission ?	Čitatelia žiadajú Armstronga o vrátenie kníh
+5	Tipy na tréning od hviezdnych športovcov #motivácia #fitness	Osobné maximum: Výcvik poznatkov od hviezdnych športovcov
+2.75	Zaujímavý článok! Je to (zriedka) šéfka	Publicista v Op-Ed: Je (zriedka) šéfom
+3.25	Christensen: Prežívame dilemu kapitalistu	Žijeme dilemu kapitalistu?
+0.8	zázvor vo mne miluje, že bakalársky titul na svete číslo 1 je súčasťou rodiny #gingerfamily	Princ Harry, najuznávanejší bakalár
+4.2	: - \ HMV sa dostal do konkurzu ekvivalentného ...	DealBook: Britský maloobchodný predajca HMV vstupuje do konkurzu
+3	Ozaj ľudia ??? ?: Čitatelia po prijatí dopingu žiadajú Lancea Armstronga o vrátenie kníh?	Čitatelia žiadajú Armstronga o vrátenie kníh
 3.8	Britka odsúdená na smrť vo veci drogovej závislosti na Bali	Britská babička odsúdená na trest smrti za pašovanie kokaínu na Bali
-4	DAILY REVIEW: Selected Letters of William Styron  #Review	? Vybrané listy Williama Styrona?
+4	DENNÁ RECENZIA: Vybrané listy Williama Styrona #Review	? Vybrané listy Williama Styrona?

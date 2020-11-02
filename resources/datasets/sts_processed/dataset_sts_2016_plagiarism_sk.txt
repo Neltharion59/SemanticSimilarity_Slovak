@@ -653,7 +653,7 @@
 4	Potom bude každej webovej stránke priradené poradie 0-10 podľa jej relevantnosti pre hľadanie.	Odkaz na stránku sa považuje za hlasovanie o podpore.
 4	Rovnako ako rozdeľuj a panuj, dynamické programovanie rieši problémy kombináciou riešení čiastkových problémov.	Dynamické programovanie rieši problémy kombináciou riešení čiastkových problémov.
 4	Ak sa v dokumente vyskytne výraz, bude jeho hodnota vo vektore nenulová.	Nakoniec sa poradie, v ktorom sa výrazy objavia v dokumente, stratí v znázornení vektorového priestoru.
-4	Its first application was in the SMART Information Retrieval System.	Prvýkrát sa použil v systéme SMART Information Retrieval System.
+4	Jeho prvá aplikácia bola v systéme SMART Information Retrieval System.	Prvýkrát sa použil v systéme SMART Information Retrieval System.
 4	Väčšina z týchto jazykov poskytuje kľúčové slovo „extend“, ktoré sa používa na podtriedu iného.	Namiesto toho sa vytvorí nový objekt, ktorý zdedí vlastnosti objektov, ktoré už existujú.
 4	Ak sa v dokumente vyskytne výraz, hodnota vektora je nenulová.	Dokument je znázornený ako vektor.
 4	Podtriedy údajne rozširujú alebo špecializujú svoje nadtriedy.	Podtriedy údajne „rozširujú“ nadtriedy.
@@ -666,7 +666,7 @@
 3	• P (B | A) je podmienená pravdepodobnosť B daného A.	P (B) je predchádzajúca alebo okrajová pravdepodobnosť B a pôsobí ako normalizačná konštanta.
 3	Vo vektorovom modeli priestoru sú dokumenty, z ktorých sa majú získať informácie, predstavované ako vektory.	Ak sa v dokumente vyskytne výraz, bude jeho hodnota vo vektore nenulová.
 3	V teórii pravdepodobnosti sa Bayesova veta týka podmienených a okrajových pravdepodobností dvoch náhodných udalostí.	Ako oficiálna veta je Bayesova veta platná vo všetkých univerzálnych interpretáciách pravdepodobnosti.
-3	Jednou z najznámejších schém je váženie tf-idf (pojem frekvencia inverzných frekvencií dokumentu).	One of the best known methods is called tf-idf weighting.
+3	Jednou z najznámejších schém je váženie tf-idf (pojem frekvencia inverzných frekvencií dokumentu).	Jedna z najznámejších metód sa nazýva váženie tf-idf.
 3	Typickým príkladom môže byť dokončený harmonogram podujatí na výstave.	Napríklad dokončený harmonogram udalostí na výstave sa niekedy nazýva program.
 3	Tento všeobecný trojkrokový proces možno použiť na vyriešenie problému: 1.	Matematici používajú toto slovo na opísanie súboru pravidiel, ktorými sa môže každý pri riešení problému riadiť.
 3	Rozdielna aplikácia má priamy vplyv na to, čo znamená definícia pojmu.	Definícia pojmu sa líši v závislosti od aplikácie.
@@ -701,27 +701,27 @@
 3	váženie tf-idf je jednou z najznámejších schém.	Jednou z najslávnejších schém je váženie tf-idf.
 3	Spravidla sa používa na výpočet zadných pravdepodobností daných pozorovaní.	Používa sa hlavne na výpočet pravdepodobnosti výsledku jednej udalosti za predpokladu, že sa stala predchádzajúca udalosť.
 3	Model vektorového priestoru má nasledujúce obmedzenia: 1.	V modeli vektorového priestoru je dokument reprezentovaný ako vektor.
-3	This can be useful when the number of times a word appears is not considered important.	It does not take into account any information about B and therefore is considered “prior”.
+3	To môže byť užitočné, keď sa počet zobrazení slova nepovažuje za dôležitý.	Nezohľadňuje žiadne informácie o B, a preto sa považuje za „predchádzajúcu“.
 3	Typickými pojmami sú kľúčové slová, jednotlivé slová alebo dlhšie frázy.	Rovnaké pravidlo teda platí pre kľúčové slová a skutočne dlhšie frázy.
 3	S každým samostatným výrazom zodpovedajúcim odlišným rozmerom.	Každá dimenzia zodpovedá samostatnému výrazu.
-3	Dokument je znázornený ako vektor a každej dimenzii zodpovedá samostatný výraz.	A document is represented as a vector, with each dimension corresponding to a separate term.
+3	Dokument je znázornený ako vektor a každej dimenzii zodpovedá samostatný výraz.	Dokument je reprezentovaný ako vektor, pričom každá dimenzia zodpovedá samostatnému výrazu.
 3	Jednou z najznámejších schém je váženie tf-idf, ktoré navrhli Salton, Wong a Yang.	váženie tf-idf je jednou z najznámejších schém.
 1	Dedenie je jedným zo základných konceptov objektovo orientovaného programovania.	Objektovo orientované programovanie je štýl programovania, ktorý podporuje zapuzdrenie, dedenie a polymorfizmus.
 1	V modeli vektorového priestoru je dokument reprezentovaný ako vektor.	Pojem, ktorý sa v dokumente vyskytuje, má hodnotu vo vektore nenulovú.
 1	Dokument je znázornený ako vektor.	Dokument môže byť vyjadrený ako vektor.
-1	Dedia tiež atribúty a metódy svojej nadtriedy.	For example private attributes and methods cannot be inherited.
+1	Dedia tiež atribúty a metódy svojej nadtriedy.	Napríklad nemožno dediť súkromné ​​atribúty a metódy.
 1	Je „priorný“ v tom zmysle, že neberie do úvahy žiadne informácie o B.	Nezohľadňuje žiadne informácie o B, takže je „pred“.
-1	In the vector space model a document is represented as a vector.	The vector space model are the documents which are represented as “bags of words”.
+1	V modeli vektorového priestoru je dokument reprezentovaný ako vektor.	Vektorovým priestorovým modelom sú dokumenty, ktoré sú reprezentované ako „vrecká so slovami“.
 3	Často sa používa na výpočet zadných pravdepodobností daných pozorovaní.	Spravidla sa používa na výpočet zadnej pravdepodobnosti daných pozorovaní.
 3	dedičstvo v objektovo orientovanom programovaní je miesto, kde sa vytvára nová trieda pomocou tried, ktoré už boli definované.	V objektovo orientovanom programovaní je dedičstvo tiež závislé od modifikátorov úrovne prístupu.
-3	Model vektorového priestoru má niekoľko nevýhod.	LIMITATION: There is some limitation of vector space model.
+3	Model vektorového priestoru má niekoľko nevýhod.	OBMEDZENIE: Model vektorového priestoru má určité obmedzenia.
 3	Ak sa v dokumente vyskytne výraz, jeho hodnota je nenulová.	Ak sa v dokumente vyskytne výraz, hodnota vektora je nenulová.
 3	Model vektorového priestoru má nasledujúce obmedzenia: 1.	OBMEDZENIE: Existuje vektorové obmedzenie modelu vektorového priestoru.
 3	Vektor sa potom vytvorí z frekvencie každého slova (dimenzie).	Pre každý dokument spočítajte počet výskytov každého slova.
 3	Dokument má znázornenie ako vektor.	Pojem, ktorý sa v dokumente vyskytuje, má hodnotu vo vektore nenulovú.
 3	Rovnaké pravidlo teda platí pre kľúčové slová a skutočne dlhšie frázy.	Normálnym pojmom je zvyčajne jedno slovo, kľúčové slová alebo dlhšie frázy.
 3	Zámerom bolo umožniť opätovné použitie existujúceho kódu s minimálnymi alebo žiadnymi zmenami.	Má pomôcť opätovne použiť existujúci kód s malými alebo žiadnymi úpravami.
-3	Every dimension relates to a different term.	Každá dimenzia zodpovedá samostatnému výrazu.
+3	Každá dimenzia sa týka iného pojmu.	Každá dimenzia zodpovedá samostatnému výrazu.
 3	Má pomôcť opätovne použiť existujúci kód s malými alebo žiadnymi úpravami.	Myšlienkou dedenia je opätovné použitie existujúceho kódu s malými alebo vôbec žiadnymi úpravami.
 4	PageRank je rekurzívny algoritmus používaný spoločnosťou Google na určenie, ktoré webové stránky sú dôležitejšie ako iné.	Aktuálny algoritmus Google PageRank je oveľa zložitejší, ale dodržiava rovnaké základné princípy.
 4	Jedna z najznámejších metód sa nazýva váženie tf-idf.	Jednou z najslávnejších schém je váženie tf-idf.
@@ -740,7 +740,7 @@
 4	Pojmy sú v podstate slová alebo ľubovoľná indexovacia jednotka, ktorá sa používa na identifikáciu obsahu textu.	Kľúčom v dynamickom programovaní je však určenie štruktúry optimálnych riešení.
 4	Ak sa v dokumente vyskytne výraz, hodnota vektora je nenulová.	Ak výraz v dokumente existuje, jeho hodnota vo vektore sa nerovná nule.
 4	Ak sa v dokumente vyskytne výraz, hodnota vektora je nenulová.	Dokument má znázornenie ako vektor.
-4	Every dimension is precisely related to a separate term.	Každá dimenzia zodpovedá samostatnému výrazu.
+4	Každá dimenzia presne súvisí so samostatným pojmom.	Každá dimenzia zodpovedá samostatnému výrazu.
 0	Každá dimenzia sa týka iného pojmu.	Dokument je reprezentovaný ako vektor, pričom každá dimenzia zodpovedá samostatnému výrazu.
 0	Druhou metódou je prístup zhora nadol, čo je metóda kombinujúca zapamätanie a rekurziu.	Najjednoduchší spôsob, ako sa na dedičstvo pozerať, je vzťah „… je akýsi“.
 0	Je to podobné ako rozdelenie a dobytie, ale je diferencované, pretože jeho podproblémy nie sú nezávislé.	Objekt však nemožno hodiť do triedy, ktorá s ním nie je príbuzná.
@@ -760,10 +760,10 @@
 1	Koncept dedenia bol vynájdený v roku 1967 pre spoločnosť Simula.	Koncept dedičstva bol pre Simulu formulovaný v roku 1967.
 1	Dedia tiež atribúty a metódy svojej nadtriedy.	V Jave sú všetky atribúty a metódy implicitne virtuálne.
 1	Model vektorového priestoru je jednou z týchto metód a je to algebraický model.	Vo vektorovom modeli priestoru sú dokumenty, z ktorých sa majú získať informácie, predstavované ako vektory.
-5	In vector space model, the documents from which the information is to be retrieved are represented as vectors.	Model vektorového priestoru má nasledujúce obmedzenia: 1.
+5	Vo vektorovom modeli priestoru sú dokumenty, z ktorých sa majú získať informácie, predstavované ako vektory.	Model vektorového priestoru má nasledujúce obmedzenia: 1.
 5	Každý dokument je vektor, kde každé slovo je dimenzia.	Dokument je znázornený ako vektor.
 5	Ak výraz v dokumente existuje, jeho hodnota vo vektore sa nerovná nule.	Ak sa v dokumente vyskytne výraz, jeho hodnota je nenulová.
-5	With little or no modification, it is intended to help reuse existing code.	Peropos dedenia v objektovo orientovanom programovaní je minimalizovať opätovné použitie existujúceho kódu bez úprav.
+5	S malou alebo žiadnou úpravou má pomôcť pri opätovnom použití existujúceho kódu.	Peropos dedenia v objektovo orientovanom programovaní je minimalizovať opätovné použitie existujúceho kódu bez úprav.
 5	Model vektorového priestoru má nasledujúce obmedzenia: 1.	Model vektorového priestoru má určité obmedzenia: 1.
 0	P (B) je predchádzajúca alebo hraničná pravdepodobnosť B a slúži na normalizáciu pravdepodobnosti.	* P (B | A) je podmienená pravdepodobnosť B daného A.
 0	Myšlienkou dedenia je opätovné použitie existujúceho kódu s malými alebo vôbec žiadnymi úpravami.	Má pomôcť opätovne použiť existujúci kód s malými alebo žiadnymi úpravami.
@@ -778,7 +778,7 @@
 5	Keď jedna trieda dedí od inej triedy, podtrieda má k dispozícii všetky verejné premenné a metódy.	Potom by ste mohli mať rozšírenú hierarchiu, kde trieda hromadného transportu rozširuje triedu transportu.
 5	Ak sa v dokumente objaví výraz, jeho hodnota vo vektore je nenulová.	V modeli vektorového priestoru je dokument reprezentovaný ako vektor.
 5	Poradie, v ktorom sa výrazy objavujú v dokumente, sa v reprezentácii vektorového priestoru stratí.	Ak sa v dokumente vyskytne výraz, bude jeho hodnota vo vektore nenulová.
-5	Each document is a vector where each word is a dimension.	Dokument je reprezentovaný ako vektor a každá dimenzia zodpovedá samostatnému výrazu.
+5	Každý dokument je vektor, kde každé slovo je dimenzia.	Dokument je reprezentovaný ako vektor a každá dimenzia zodpovedá samostatnému výrazu.
 5	Jeho prvé použitie bolo v systéme SMART Information Retrieval System.	Používa sa pri získavaní informácií a prvýkrát sa použil v systéme SMART Information Retrieval System.
 5	Nakoniec sa poradie, v ktorom sa výrazy objavia v dokumente, stratí v znázornení vektorového priestoru.	V modeli vektorového priestoru je dokument reprezentovaný ako vektor.
 5	Typickými pojmami sú kľúčové slová, jednotlivé slová alebo dlhšie frázy.	Pojmy sú zvyčajne jednoduché slová, kľúčové slová alebo niekedy aj dlhšie frázy.
@@ -789,8 +789,8 @@
 3	PageRank je rekurzívny algoritmus používaný spoločnosťou Google na určenie, ktoré webové stránky sú dôležitejšie ako iné.	Pretože PageRank je najdôležitejší algoritmus používaný v Google engine.
 3	Potom bude každej webovej stránke priradené poradie 0-10 podľa jej relevantnosti pre hľadanie.	Pridanie do tejto poslednej sekcie pre všetky ďalšie stránky, na ktoré odkazuje pôvodná stránka.
 3	Hodnotenie PageRank závisí od hodnotenia PageRank a počtu všetkých stránok, ktoré na neho odkazujú.	konkrétnej stránky zhruba vychádza z množstva prichádzajúcich odkazov a PageRank?
-4	Z vypočítaných hodnôt zostrojte optimálne riešenie.	Use these optimal solutions to construct an optimal solution for the original problem.
-3	P (A | B) je podmienená pravdepodobnosť A, uvedená B.	* P(B|A) is the conditional probability of B given A.
+4	Z vypočítaných hodnôt zostrojte optimálne riešenie.	Pomocou týchto optimálnych riešení vytvorte optimálne riešenie pôvodného problému.
+3	P (A | B) je podmienená pravdepodobnosť A, uvedená B.	* P (B | A) je podmienená pravdepodobnosť B daného A.
 3	Keď je dokument reprezentovaný ako vektor, každá dimenzia zodpovedá samostatnému výrazu.	Každá dimenzia sa týka iného pojmu.
 3	Počet jedinečných slov v slovníku označuje dimenzionálnosť, ak sa pre výrazy používajú slová.	V tomto klasickom modeli sú výrazom špecifické váhy vo vektoroch dokumentov produkty miestnych a globálnych parametrov.
 3	Na výrazy sa používajú jednotlivé slová, kľúčové slová a príležitostne dlhšie frázy.	Počet jedinečných slov v slovníku označuje dimenzionálnosť, ak sa pre výrazy používajú slová.
@@ -806,7 +806,7 @@
 4	Ak sa v dokumente objaví výraz, hodnota výrazov vo vektore je nenulová.	Dokument je znázornený ako vektor.
 4	Každá dimenzia presne súvisí so samostatným pojmom.	Dokument je reprezentovaný ako vektor, pričom každá dimenzia zodpovedá samostatnému výrazu.
 0	Charakterizujte štruktúru optimálneho riešenia.	Vytvorte optimálne riešenie týchto vypočítaných hodnôt
-0	Ak sa v dokumente vyskytne výraz, jeho hodnota je nenulová.	If a term exists in a document, its value in the vector is not equal to zero.
+0	Ak sa v dokumente vyskytne výraz, jeho hodnota je nenulová.	Ak výraz v dokumente existuje, jeho hodnota vo vektore sa nerovná nule.
 0	Rozdielna aplikácia má priamy vplyv na to, čo znamená definícia pojmu.	Definícia pojmu závisí od aplikácie.
 0	Reprezentácia vektorového priestoru vedie k strate poradia, v ktorom sú pojmy v dokumente.	Ak sa v dokumente objaví výraz, jeho hodnota vo vektore je nenulová.
 0	Posledným bodom by bolo zostavenie optimálneho riešenia z vypočítaných hodnôt.	Pomocou týchto optimálnych riešení vytvorte optimálne riešenie pôvodného problému.
@@ -1142,7 +1142,7 @@
 3	Všeobecne sa dynamické programovanie používa na optimalizačné problémy, kde je potrebné najefektívnejšie riešenie.	Dynamické programovanie je veľmi silná matematická technika, ktorá sa často používa pri programovaní, na riešenie problémov s optimalizáciou.
 3	Väčšina z týchto jazykov poskytuje kľúčové slovo „extend“, ktoré sa používa na podtriedu iného.	Dedenie je užitočné v situáciách, keď niekoľko tried zdieľa spoločné znaky, ako sú napríklad potrebné funkcie alebo premenné údajov.
 3	Obmedzenia modelu vektorového priestoru sú tým pádom.	Model vektorového priestoru má však obmedzenia.
-3	Bayes’ theorem is also often known as Bayes’ law.	Bayesova veta je užitočná pri hodnotení výsledku drogových testov.
+3	Bayesova veta je tiež často známa ako Bayesov zákon.	Bayesova veta je užitočná pri hodnotení výsledku drogových testov.
 3	Možným použitím modelu vektorového priestoru je vyhľadávanie a filtrovanie informácií.	OBMEDZENIE: Existuje vektorové obmedzenie modelu vektorového priestoru.
 3	Pojem, ktorý sa v dokumente vyskytuje, má hodnotu vo vektore nenulovú.	Poradie, v ktorom sa výrazy objavujú v dokumente, sa v reprezentácii vektorového priestoru stratí.
 3	Peropos dedenia v objektovo orientovanom programovaní je minimalizovať opätovné použitie existujúceho kódu bez úprav.	Objektovo orientované programovanie je štýl programovania, ktorý podporuje zapuzdrenie, dedenie a polymorfizmus.
@@ -1150,8 +1150,8 @@
 3	Napríklad dokončený harmonogram udalostí na výstave sa niekedy nazýva program.	Napríklad dokončený harmonogram udalostí na výstave sa niekedy nazýva program.
 3	Keďže vyhľadáva všetky možnosti, je tiež veľmi presný.	Nezohľadňuje žiadne informácie o B, takže je „pred“.
 3	Napríklad dokončený harmonogram udalostí na výstave sa niekedy nazýva program.	Napríklad harmonogram udalostí na výstave sa niekedy nazýva program.
-3	This meant that the sum of all pages was the total number of pages on the web.	A variation of the PageRank method bases the importance of a webpage on how many visits the page gets.
-3	The idea of inheritance in OOP refers to the formation of new classes with the already existing classes.	Myšlienkou dedenia je opätovné použitie existujúceho kódu s malými alebo vôbec žiadnymi úpravami.
+3	To znamená, že súčet všetkých stránok predstavoval celkový počet stránok na webe.	Variácia metódy PageRank zakladá dôležitosť webovej stránky na tom, koľko návštev stránka navštívi.
+3	Myšlienka dedenia v OOP odkazuje na formovanie nových tried s už existujúcimi triedami.	Myšlienkou dedenia je opätovné použitie existujúceho kódu s malými alebo vôbec žiadnymi úpravami.
 3	Keď je dokument reprezentovaný ako vektor, každá dimenzia zodpovedá samostatnému výrazu.	Dokument má znázornenie ako vektor.
 0	Poradie, v ktorom sa výrazy objavujú v dokumente, sa v reprezentácii vektorového priestoru stratí.	Ak sa v dokumente objaví výraz, jeho hodnota vo vektore je nenulová.
 0	Vo vektorovom modeli priestoru sú dokumenty, z ktorých sa majú získať informácie, predstavované ako vektory.	Vektorovým priestorovým modelom sú dokumenty, ktoré sú reprezentované ako „vrecká so slovami“.
@@ -1217,26 +1217,26 @@
 5	Druhou metódou je použitie odkazov.	Definícia pojmu závisí od použitia.
 5	To znamená, že dedičstvo sa používa, keď majú typy spoločné faktory a tieto by sa zaradili do nadtriedy.	Je „predchádzajúci“ v tom zmysle, že nezohľadňuje žiadne informácie o B.
 5	To znamená, že súčet všetkých stránok predstavoval celkový počet stránok na webe.	konkrétnej stránky zhruba vychádza z množstva prichádzajúcich odkazov a PageRank?
-5	Dynamické programovanie skracuje výpočtový čas riešením podproblémov spôsobom zdola nahor.	Dynamic Programming is a method of solving problems that exhibit the properties of overlapping subproblems and optimal substructure.
+5	Dynamické programovanie skracuje výpočtový čas riešením podproblémov spôsobom zdola nahor.	Dynamické programovanie je metóda riešenia problémov, ktoré vykazujú vlastnosti prekrývajúcich sa podproblémov a optimálnej podštruktúry.
 5	Jednou z najpopulárnejších schém je váženie tf-idf.	Jednou z najznámejších schém je váženie tf-idf (pojem frekvencia inverzných frekvencií dokumentu).
 5	Všeobecne sa dynamické programovanie používa na optimalizačné problémy, kde je potrebné najefektívnejšie riešenie.	Kľúčom v dynamickom programovaní je však určenie štruktúry optimálnych riešení.
 2	Dynamické programovanie rieši problémy kombináciou riešení čiastkových problémov.	Dynamické programovanie skracuje výpočtový čas riešením podproblémov spôsobom zdola nahor.
-2	Používa sa pri filtrovaní informácií, vyhľadávaní informácií, indexovaní a hodnotení dôležitosti.	A possible use for a vector space model is for retrieval and filtering of information.
+2	Používa sa pri filtrovaní informácií, vyhľadávaní informácií, indexovaní a hodnotení dôležitosti.	Možným použitím modelu vektorového priestoru je vyhľadávanie a filtrovanie informácií.
 0	Túto metódu je možné zneužiť, keď ľudia zámerne odkazujú na webové stránky, aby zvýšili PageRank stránky.	Tlmiaci faktor sa používa na potlačenie náhodných surferov, ktorí sa nudia a potom prejdú na iné stránky.
 0	Ak sa v dokumente vyskytne výraz, jeho hodnota je nenulová.	Frekvencia výrazu: Tento vzorec počíta, koľkokrát sa výraz v dokumente vyskytuje.
 0	Ak sa výraz v dokumente nevyskytuje, hodnota vo vektore je nula.	Reprezentácia vektorového priestoru vedie k strate poradia, v ktorom sú pojmy v dokumente.
 0	Ak sa výraz v dokumente nevyskytuje, hodnota vo vektore je nula.	Poradie, v ktorom sa výrazy objavujú v dokumente, sa v reprezentácii vektorového priestoru stratí.
-0	Algebraický model reprezentujúci textové dokumenty a objekty ako vektory identifikátorov sa nazýva model vektorového priestoru.	In the vector space model a document is represented as a vector.
+0	Algebraický model reprezentujúci textové dokumenty a objekty ako vektory identifikátorov sa nazýva model vektorového priestoru.	V modeli vektorového priestoru je dokument reprezentovaný ako vektor.
 0	Model vektorového priestoru má nasledujúce obmedzenia: 1.	Model vektorového priestoru má niekoľko nevýhod.
 0	Ak sa výraz v dokumente nevyskytuje, hodnota vo vektore je nula.	Ak sa v dokumente vyskytne výraz, hodnota vektora je nenulová.
-0	The second method is the use of links.	Jedným z najdôležitejších použití page rank je jeho význam pre reklamu.
-0	The easiest way to look at inheritance is as an “…is a kind of” relationship.	Poskytuje tiež spôsob, ako zovšeobecniť vzťah medzi triedami „je“.
+0	Druhou metódou je použitie odkazov.	Jedným z najdôležitejších použití page rank je jeho význam pre reklamu.
+0	Najjednoduchší spôsob, ako sa na dedičstvo pozerať, je vzťah „… je akýsi“.	Poskytuje tiež spôsob, ako zovšeobecniť vzťah medzi triedami „je“.
 0	Väčšina z týchto jazykov poskytuje kľúčové slovo „extend“, ktoré sa používa na podtriedu iného.	Objekt však nemožno hodiť do triedy, ktorá s ním nie je príbuzná.
 0	Dedičnosť je základný pojem v objektovo orientovanom programovaní.	Dedenie je jedným zo základných konceptov objektovo orientovaného programovania.
-0	Z vypočítaných hodnôt zostrojte optimálne riešenie.	Construct an optimal solution, using the computed optimal subproblems, for the original problem.
+0	Z vypočítaných hodnôt zostrojte optimálne riešenie.	Vytvorte optimálne riešenie pre pôvodný problém pomocou vypočítaných optimálnych podproblémov.
 0	Dedenie v objektovo orientovanom programovaní je spôsob, ako formovať nové triedy pomocou tried, ktoré už boli definované.	Dedičnosť je metóda formovania nových tried pomocou preddefinovaných tried.
 0	Má pomôcť opätovne použiť existujúci kód s malými alebo žiadnymi úpravami.	Peropos dedenia v objektovo orientovanom programovaní je minimalizovať opätovné použitie existujúceho kódu bez úprav.
-0	Poradie, v ktorom sa výrazy objavujú v dokumente, sa v reprezentácii vektorového priestoru stratí.	If a term occurs in the document, its value is non-zero.
+0	Poradie, v ktorom sa výrazy objavujú v dokumente, sa v reprezentácii vektorového priestoru stratí.	Ak sa v dokumente vyskytne výraz, jeho hodnota je nenulová.
 0	Dokument má znázornenie ako vektor.	Každý dokument je vektor, kde každé slovo je dimenzia.
 0	To znamená, že dedičstvo sa používa, keď majú typy spoločné faktory a tieto by sa zaradili do nadtriedy.	Je „priorný“ v tom zmysle, že neberie do úvahy žiadne informácie o B.
 0	Vektorovým priestorovým modelom sú dokumenty, ktoré sú reprezentované ako „vrecká so slovami“.	Model vektorového priestoru má však obmedzenia.

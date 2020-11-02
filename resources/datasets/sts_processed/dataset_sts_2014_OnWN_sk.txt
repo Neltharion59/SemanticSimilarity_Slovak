@@ -649,76 +649,76 @@
 0	akt zachovania alebo ochrany niečoho	akt niečoho ukončiť.
 4.8	Oblasť, ktorá je centrálna v rámci nejakého väčšieho regiónu.	oblasť, ktorá je približne v strede nejakého väčšieho regiónu.
 0	znížiť cenu niečoho	miera nejakej opakujúcej sa udalosti.
-0	An instance or action of being incorrect.	the status or fact of being elected.
-0	the state of being in working order	the state of being actual or real.
-1.3	the state of being retained	the state of being connected.
-1.2	the action of placing or situating an object	a formation of people or things one beside another.
-0.4	the act of conscripting soldiers for an army	the act of competing as for profit or a prize.
-0.4	the act of forecasting or predicting something	the act of stopping something.
-0.8	the state of being employed	the state of being excluded.
-0	have in mind as a plan or purpose	wipe with a sponge, so as to clean or moisten.
-0	the act of protesting, dissenting	the act of hitting vigorously.
-5	class of students taught together	a body of students who are taught together.
-4.85	Advance; contribute to the progress or growth of.	contribute to the progress or growth of.
-0	Put in motion or move to act; make active or more active.	something serving as a cover or protection.
-0	the act of cutting off length, snipping off	the act of making or enacting laws.
-0	the act of moving, turning something	the act of climbing something.
-4.91666666666667	(cause to) separate or move in different directions	to cause to separate and go in different directions.
-0.2	cover with a primer base	move with a thrashing motion.
-0.6	the state of having options, alternatives	the act of coming to land after a voyage.
-0.8	the act of preserving or protecting something	the act of perceiving the odor of something.
-4	behave or move in a certain manner	behave in a certain manner.
-0	the essence or gist of something	the disadvantage that results from losing something.
-4.4	prepare for/put to action or use	make ready for action or use.
-2.2	cause to be immersed in	cause to be interested or curious.
-4.4	a type of military aircraft	jednotka vojenských lietadiel.
-2.6	pass into by penetrating or permeating	the act of breaking something.
-0	hraničná oblasť alebo okraj niečoho	a concentrated example of something.
-4.4	the activity of examining or assessing something	the act of designating or identifying something.
-0.6	The act of beginning something new.	the act of ending something.
-0	kvalita zvýšeného svetla na plochách objektu	the date on which an obligation must be repaid.
-0	unite; merge with something already in existence	put up with something or somebody unpleasant.
-0.4	akt pohybu, niečoho otočenia	the act of removing or getting rid of something.
+0	Prípad alebo nesprávna činnosť.	status alebo skutočnosť, že sú volení.
+0	stav bytia v prevádzkyschopnom stave	stav bytia skutočný alebo skutočný.
+1.3	stav zachovania	stav spojenia.
+1.2	činnosť umiestnenia alebo umiestnenia objektu	formácia ľudí alebo vecí vedľa seba.
+0.4	akt brannej služby vojakov pre armádu	čin súťaženia o zisk alebo cenu.
+0.4	akt predpovedania alebo predpovedania niečoho	akt zastavenia niečoho.
+0.8	stav zamestnania	stav vylúčenia.
+0	mať na pamäti ako plán alebo účel	utrite špongiou, aby ste vyčistili alebo navlhčili.
+0	akt protestu, nesúhlasu	akt prudkého zasiahnutia.
+5	trieda študentov učila spolu	skupina študentov, ktorí sa učia spoločne.
+4.85	Vopred; prispievať k pokroku alebo rastu.	prispievať k pokroku alebo rastu.
+0	Dať do pohybu alebo pohnúť konať; urobiť aktívnym alebo aktívnejším.	niečo slúžiace ako krytie alebo ochrana.
+0	akt skrátenia dĺžky, odrezania	akt tvorby alebo uzákonenia zákonov.
+0	akt pohybu, niečoho otočenia	akt niečoho lezenia.
+4.91666666666667	(spôsobiť) oddelenie alebo pohyb v rôznych smeroch	spôsobiť rozchod a ísť rôznymi smermi.
+0.2	zakryte základnou farbou	pohybovať sa mlátiacim pohybom.
+0.6	stav možností, alternatív	akt pristátia po plavbe.
+0.8	akt zachovania alebo ochrany niečoho	akt vnímania pachu niečoho.
+4	správať alebo sa pohybovať určitým spôsobom	správať sa určitým spôsobom.
+0	podstata alebo podstata niečoho	nevýhoda, ktorá vyplýva zo straty niečoho.
+4.4	pripraviť / uviesť do činnosti alebo použiť	pripravte sa na akciu alebo použitie.
+2.2	spôsobiť ponorenie do	spôsobiť záujem alebo zvedavosť.
+4.4	druh vojenského lietadla	jednotka vojenských lietadiel.
+2.6	preniknúť dovnútra preniknutím alebo prestupom	akt niečoho rozbiť.
+0	hraničná oblasť alebo okraj niečoho	koncentrovaný príklad niečoho.
+4.4	činnosť skúmania alebo posudzovania niečoho	akt označenia alebo identifikácie niečoho.
+0.6	Akt začiatku niečoho nového.	akt niečoho ukončiť.
+0	kvalita zvýšeného svetla na plochách objektu	deň, keď musí byť záväzok splatený.
+0	spojiť; zlúčiť s niečím, čo už existuje	zmieriť sa s niečím alebo niekým nepríjemným.
+0.4	akt pohybu, niečoho otočenia	čin odstránenia alebo zbavenia sa niečoho.
 1	stav zachovania	stav podozrenia.
-0	the act of governing, administrating	the rate of moving (especially walking or running).
-0.4	the quality of being useful for something	akt niečoho si vymyslíš.
-0	the act of choosing or selecting	akt niečoho vychovať.
-5	be in direct physical contact with	be in direct physical contact with; make contact.
-0	the place within which an authority has power	akt pridania jednej veci k druhej.
+0	akt riadenia, správy	rýchlosť pohybu (najmä chôdza alebo beh).
+0.4	kvalita užitočnosti pre niečo	akt niečoho si vymyslíš.
+0	akt výberu alebo výberu	akt niečoho vychovať.
+5	byť v priamom fyzickom kontakte s	byť v priamom fyzickom kontakte s; nadviazať kontakt.
+0	miesto, v ktorom má orgán moc	akt pridania jednej veci k druhej.
 2.6	najdôležitejšia súčasť niečoho	najvyšší možný stupeň niečoho.
-2.8	mark or cover with or as if with dots	cover with or as if with a cloak.
-0.4	the act of putting something to use.	the act of starting something.
-0	Vomit, either in a controlled or uncontrolled fashion.	niečo skopírované alebo odvodené od originálu.
+2.8	označte alebo zakryte bodkami alebo akoby bodkami	zakryť alebo akoby plášťom.
+0.4	akt uvedenia niečoho do užívania.	akt niečoho začať.
+0	Zvracanie, kontrolovane alebo nekontrolovane.	niečo skopírované alebo odvodené od originálu.
 0	akt prípravy niečoho.	všeobecný vonkajší vzhľad niečoho.
 2	akt obhajovania alebo propagácie niečoho	akt niečoho vychovať.
 4.91666666666667	(spôsobiť) oddelenie alebo pohyb v rôznych smeroch	spôsobiť rozchod a ísť rôznymi smermi.
 0	akt niečoho použiť.	cesta nasledovaná objektom pohybujúcim sa vesmírom.
-0	a spatial terminus or farthest boundary of something	vzťah, ktorý dáva základ niečomu.
+0	priestorový koniec alebo najvzdialenejšia hranica niečoho	vzťah, ktorý dáva základ niečomu.
 0.8	čin nahradenia jednej veci druhou	čin kontaktu jednej veci s druhou.
 0.6	akt zachovania alebo ochrany niečoho	akt zmenšovania alebo zmenšovania niečoho.
-0.4	the act of concealing or disguising	the state of being excluded.
-0	the act of applying paint to a surface	akt hodenia mincou.
+0.4	skutok zatajovania alebo maskovania	stav vylúčenia.
+0	akt nanášania farby na povrch	akt hodenia mincou.
 4.2	správať alebo sa pohybovať určitým spôsobom	správať sa určitým spôsobom.
 4.66666666666667	Zdrobnite alebo rozdrvte na malé kúsky.	rozdrvením alebo obrúsením rozdrobte na malé kúsky alebo častice.
 0	skutok zatajovania alebo maskovania	čin oslobodenia mesta alebo mesta, ktoré bolo obkľúčené.
 0	Nanášajte na krém, ako na tvár alebo telo.	nosiť, ako na chrbte.
-1	supporter, advocate of something or someone	the visual appearance of something or someone.
+1	podporovateľ, zástanca niečoho alebo niekoho	vizuálny vzhľad niečoho alebo niekoho.
 4.85	Vopred; prispievať k pokroku alebo rastu.	prispievať k pokroku alebo rastu.
 0	Noste alebo ukážte, ako na niečom alebo v časti odevu.	dôsledkom niekoho úsilia alebo konkrétnych okolností.
 2.6	presunúť sa do určitej polohy a zostať v nej	sústrediť sa na konkrétne miesto alebo miesto.
 4.2	(spôsobiť) pohybovať sa tam a späť alebo zo strany na stranu	pohybujte sa tam a späť alebo do strán.
-4	Predajte niečo podvodom alebo od neho niečo získajte.	sell something to or obtain something from by energetic and especially underhanded activity.
-0	state of being unclothed, naked	akt niečoho lezenia.
-0	hluk niečoho klepajúceho o povrch	the event of something burning (often destructive).
-0.2	the act of forecasting or predicting something	the act of retaining something.
-4.4	Supply with water for crops, as with channels, ditches, or streams.	zásobovanie vodou, ako sú kanály, priekopy alebo potoky.
+4	Predajte niečo podvodom alebo od neho niečo získajte.	predať niečo alebo z čoho niečo získať energickou a hlavne tajnou činnosťou.
+0	stav, keď ste neoblečení, nahí	akt niečoho lezenia.
+0	hluk niečoho klepajúceho o povrch	udalosť niečoho horiaceho (často deštruktívneho).
+0.2	akt predpovedania alebo predpovedania niečoho	akt udržania niečoho.
+4.4	Zásobovanie vodou pre plodiny, ako sú kanály, priekopy alebo potoky.	zásobovanie vodou, ako sú kanály, priekopy alebo potoky.
 0.8	vytrhnutie alebo zachytenie voľne sa pohybujúceho objektu	hľadanie alebo nákup tovaru alebo služieb.
 0	(Príčina) sa stane široko distribuovanou.	stať sa alebo spôsobiť prekážku.
 1.26666666666667	Ľudský čin výroby niečoho nového.	rečový akt niečoho evidentného.
-4	vysledovať formu alebo obrys	show the form or outline of.
+4	vysledovať formu alebo obrys	ukázať formu alebo obrys.
 0	Vydlabajte vo forme brázdy alebo drážky.	prechádzajte s alebo akoby s hrabľami.
 0	Akt spätného odkúpenia niečoho, čo sa predtým predalo.	akt vysvetlenia; urobiť niečo jasné alebo zrozumiteľné.
-1.2	činnosť skúmania alebo posudzovania niečoho	the act of forming or establishing something.
+1.2	činnosť skúmania alebo posudzovania niečoho	akt formovania alebo založenia niečoho.
 4.4	Sťažovať sa; rozprávať v slzách.	rozprávať v slzách.
 0	existujú určitým spôsobom, režimom alebo štýlom	posledný alebo najnižší v poradí alebo sérii.
 0.4	čin ublíženia alebo ublíženia niekomu	akt výberu alebo výberu.
@@ -745,6 +745,6 @@
 0.6	činnosť vydávania sa za niekoho alebo niečo iné	akt oslobodenia niekoho alebo niečoho.
 4.4	Zásobovanie vodou pre plodiny, ako sú kanály, priekopy alebo potoky.	zásobovanie vodou, ako sú kanály, priekopy alebo potoky.
 0.2	akt kombinovania, miešania, integrácie	(teológia) Boží akt uvedenia vesmíru do existencie.
-1	činnosť vydávania sa za niekoho alebo niečo iné	the act of damaging something or someone.
+1	činnosť vydávania sa za niekoho alebo niečo iné	čin niečoho alebo niekoho poškodiť.
 3.7	čin ublíženia alebo ublíženia niekomu	čin niečoho alebo niekoho poškodiť.
 4.26666666666667	zmieriť sa s niečím nepríjemným	zmieriť sa s niečím alebo niekým nepríjemným.

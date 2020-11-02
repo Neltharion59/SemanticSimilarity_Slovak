@@ -702,49 +702,49 @@
 2.2	Najmenej 66 zabitý pri bombových výbuchoch v Iraku	Najmenej 47 zabitých pri výbuchoch Baquba
 1	Rusko ničí viac ako 75% svojich zásob chemických zbraní	Británia vidí dôkazy, že Assad mohol použiť chemické zbrane
 0.6	Počet obetí zemetrasenia v Iráne stúpa	Počet obetí rukojemníkov v Alžírsku stúpa
-0.8	Suarez set for Cup comeback	Francúzska súprava pre pozemný boj v Mali
-0.6	Maldivský tím v Indii sleduje voľby	Testimony in trial of former FM Liberman begins
-3.2	Počet obetí stúpa na 6, keď Storm Xaver bije severnú Európu	Storm death toll rises as wind, rain batters north. Europe
-3.6	Pakistan releases top Afghan Taliban prisoner	Pakistan prepustil sedem afganských bojovníkov Talibanu
-4.2	Gunmen kidnap airline pilots in Lebanon	Ozbrojenci uniesli 2 pilotov spoločnosti Turkish Airlines v Libanone
-2.2	Mixed reactions to NZ same-sex marriage	New Zealand legalizes same-sex marriage
-3.8	Televízny meteorológ Fred Talbot bol zatknutý pre sexuálne nároky	Weatherman Fred Talbot Held Over 'Sex Abuse'
-3	U.S. drone strike kills 5 in Pakistan	Pakistan drone strike kills up to six
-3	Building collapses in India; 25 feared trapped	India building collapse kills 14; dozens trapped
-0	China detains city workers after fruit seller dies	Napthine takes the reins after Baillieu's leadership crumbles
-1.2	Somálsky Šebáb sa hlási k zodpovednosti za útok na obchodné centrum Nairobi	Syrian rebels claim responsibility for killings in Lebanon
-4	Syrian troops push into strategic rebelheld town	Syrian army pushes assault on rebel-held town
-2.8	Israel agrees to release Palestinian prisoners	Israel releases 26 more Palestinian prisoners
-3.6	Dozens die as clashes erupt at Morsi rally in Cairo	More than 70 dead in clashes at Morsi rallies in Egypt
-4.8	Thai opposition protesters begin Bangkok shutdown	Thajskí demonštranti spustili „odstavenie“ Bangkoku
-3.8	Spanish train crash driver to be questioned	Spanish train driver Garzon to be questioned by judge
-4	France Hails Breakthrough after U.S.-Russia Deal on Syria Weapons	Francúzsko víta dohodu medzi USA a Ruskom o Sýrii
-4	ISAF soldier killed in Afghan 'insider attack'	British soldier shot dead in Afghan ‘insider attack’
-3.4	About 60 Crushed to Death in Ivory Coast Stampede	61 dead in Ivory Coast stampede
-2.8	Hľadanie zlyhania vrtuľníka v Glasgowe končí	Glasgow Helicopter Crash: At Least Six Dead
-1.2	Traja mŕtvi v maratónskej bombe v USA	Taliban denies involvement in Boston marathon bombing
-5	Swiss tourist gang-raped in India	Švajčiarsky turistický gang znásilnený v Indii
-2.8	India Braces for Massive Cyclone	India vydáva červené upozornenie na cyklón Phailin
-0.2	US Senator McCain meets opposition leaders in Ukraine	SFG meeting reviews situation in Mali
-3.4	Discipline against student gunman thought to have sparked Colorado shooting	Kľúčom k motívu bola disciplína proti študentovi
-1.2	Many killed in Japan road tunnel collapse	Mnoho z nich zahynulo pri sýrskom leteckom útoku
+0.8	Suarez sa pripravuje na návrat do pohára	Francúzska súprava pre pozemný boj v Mali
+0.6	Maldivský tím v Indii sleduje voľby	Začína sa svedectvo pred súdom bývalého FM Libermana
+3.2	Počet obetí stúpa na 6, keď Storm Xaver bije severnú Európu	Počet búrok stúpa ako vietor, dážď bije na sever. Európe
+3.6	Pakistan prepustil najvyššieho väzňa afganského Talibanu	Pakistan prepustil sedem afganských bojovníkov Talibanu
+4.2	Ozbrojenci unášajú pilotov leteckých spoločností v Libanone	Ozbrojenci uniesli 2 pilotov spoločnosti Turkish Airlines v Libanone
+2.2	Zmiešané reakcie na manželstvá osôb rovnakého pohlavia NZ	Nový Zéland legalizuje manželstvá osôb rovnakého pohlavia
+3.8	Televízny meteorológ Fred Talbot bol zatknutý pre sexuálne nároky	Meteorológ Fred Talbot sa zdržal sexuálneho zneužívania
+3	U.S. drone strike kills 5 in Pakistan	Pakistanský bezpilotný útok zabil až šesť
+3	Zrútenie budovy v Indii; 25 obávaných uväznených	Kolaps budov v Indii zabil 14; desiatky uväznených
+0	Čína zadržiava pracovníkov mesta po tom, čo zomrel predajca ovocia	Po rozpade Baillieuovho vedenia uberá na uzde Napthine
+1.2	Somálsky Šebáb sa hlási k zodpovednosti za útok na obchodné centrum Nairobi	Sýrski povstalci sa hlásia k zodpovednosti za vraždy v Libanone
+4	Sýrske jednotky sa tlačili do strategického mesta povstalcov	Sýrska armáda tlačí na mesto ovládané povstalcami
+2.8	Izrael súhlasí s prepustením palestínskych väzňov	Izrael prepustil ďalších 26 palestínskych väzňov
+3.6	Desiatky ľudí zomierajú pri zrážkach na rally Morsi v Káhire	Viac ako 70 mŕtvych zahynulo pri stretoch na zhromaždeniach Morsi v Egypte
+4.8	Demonštranti thajskej opozície začínajú s vypínaním Bangkoku	Thajskí demonštranti spustili „odstavenie“ Bangkoku
+3.8	Španielsky rušňovodič bude vypočutý	Španielsky rušňovodič Garzon bude vypočutý sudcom
+4	Francúzsko víta prielom po americko-ruskom obchode so sýrskymi zbraňami	Francúzsko víta dohodu medzi USA a Ruskom o Sýrii
+4	Vojak ISAF zabitý pri afganskom „vnútornom útoku“	Britský vojak zastrelený pri afganskom „útoku zasvätených osôb“
+3.4	Asi 60 bolo rozdrvených v Stampede na pobreží Slonoviny	V tlačenici na Pobreží Slonoviny zomrelo 61 osôb
+2.8	Hľadanie zlyhania vrtuľníka v Glasgowe končí	Havária helikoptéry v Glasgowe: Najmenej šesť mŕtvych
+1.2	Traja mŕtvi v maratónskej bombe v USA	Taliban popiera účasť na bombovom maratóne v Bostone
+5	Švajčiarsky turistický gang znásilnený v Indii	Švajčiarsky turistický gang znásilnený v Indii
+2.8	India rovnátka pre mohutný cyklón	India vydáva červené upozornenie na cyklón Phailin
+0.2	Americký senátor McCain sa stretáva s vodcami opozície na Ukrajine	Zasadnutie SFG hodnotí situáciu v Mali
+3.4	Zdá sa, že disciplína proti študentskému strelcovi vyvolala streľbu v Colorade	Kľúčom k motívu bola disciplína proti študentovi
+1.2	Mnoho z nich zahynulo v Japonsku pri zrútení cestného tunela	Mnoho z nich zahynulo pri sýrskom leteckom útoku
 3.8	Žiadny plán na zatvorenie benzínových čerpadiel v noci Moily	Vláda Indie odmieta návrh na zatvorenie benzínových čerpadiel v noci
-3.8	Clinton to testify this month on Benghazi attack	Clinton sa vracia do práce a plánuje svedčiť o útoku Bengházího
-0.6	V Kyjeve protestujú desaťtisíce Ukrajincov	Tens of thousands line up to cast votes in Bhutan
-3.6	Karzai to visit Pakistan for Taliban peace talks	Afghan president extends visit to Pakistan for Taliban talks
-4	Thieves snatch English Channel swimmer's custom-made wheelchair	Thieves steal Channel swimmer's wheelchair
-4.6	Three die after car crash at Tian'anmen	Three Killed In Crash At Tiananmen Square
-2.2	Akcie Singapuru sa v piatok otvárajú nižšie	Singapore shares open higher on Thursday
+3.8	Clintonovej, aby tento mesiac svedčil o útoku Benghází	Clinton sa vracia do práce a plánuje svedčiť o útoku Bengházího
+0.6	V Kyjeve protestujú desaťtisíce Ukrajincov	Desiatky tisíc ľudí hlasujú v Bhutáne
+3.6	Karzáího na návštevu Pakistanu kvôli mierovým rozhovorom s Talibanom	Afganský prezident predĺžil návštevu Pakistanu na rokovaniach s Talibanom
+4	Zlodeji chytia na mieru vyrobený plavecký kanál pre Lamanšský prieliv	Zlodeji ukradli plavecký vozík Channel
+4.6	Traja zomreli po autonehode v Tian'anmen	Troch zabili pri havárii na námestí Nebeského pokoja
+2.2	Akcie Singapuru sa v piatok otvárajú nižšie	Akcie Singapuru sa otvárajú vo štvrtok vyššie
 2.6	Obama sa zaväzuje, že znovu nastolí ekonomiku	Obama tlačil na Kongres, aby začal konať v oblasti ekonomiky
-4.2	Kurdish rebels to withdraw from Turkey in March: report	Kurdish rebels to withdraw from Turkey
-2.4	Two Earthquakes Hit Northwest China, 11 Dead	Twin quakes kill 89 in China
-3.2	'Whitey' Bulger given two consecutive life terms	Whitey Bulger gets life for racketeering, killings
-5	Kenské sily spôsobili zrútenie obchodného centra	Official says Kenyan forces caused mall collapse
-3.4	Japan revises GDP growth to annual 1.1 pct in Q3	Japan’s GDP growth downgraded to annual 1.1%
-1.4	Pak missions in UAE gear up for elections	Islamistické strany v Egypte sa spojili pre voľby
-3	Počet obetí bangladéšskej katastrofy je 500	Bangladesh building collapse: death toll climbs to 580
-3.8	Algeria hostage crisis ends; death toll unclear	Algeria hostage crisis ends in bloodbath
-2.8	Egypt ministry again urges end to pro-Morsi protests	Egypt: Child killed in Cairo clashes after pro-Morsi protest
-3.2	South Africa's Mandela taken to hospital	South Africa: Mandela remains in hospital
-3	China yuan strengthens to 6.2689 against USD	China yuan strengthens to new high against USD
-2.2	Police question man in deadly LA boardwalk crash	Police arrest suspect in deadly LA driving attack
+4.2	Kurdskí povstalci sa stiahnu z Turecka v marci: správa	Kurdskí povstalci sa stiahli z Turecka
+2.4	Dve zemetrasenia zasiahli severozápadnú Čínu, 11 mŕtvych	Dvojité otrasy zabili v Číne 89 osôb
+3.2	„Whitey“ Bulger dostal dve po sebe nasledujúce životné obdobia	Whitey Bulger dostane život za vydieranie, zabíjanie
+5	Kenské sily spôsobili zrútenie obchodného centra	Úradník tvrdí, že kenské sily spôsobili zrútenie obchodného centra
+3.4	Japonsko v treťom štvrťroku reviduje rast HDP na 1,1% ročne	Rast japonského HDP sa znížil na ročných 1,1%
+1.4	Misie Pak v SAE sa pripravujú na voľby	Islamistické strany v Egypte sa spojili pre voľby
+3	Počet obetí bangladéšskej katastrofy je 500	Kolaps budov v Bangladéši: počet obetí sa vyšplhá na 580
+3.8	Kríza rukojemníkov v Alžírsku sa končí; počet obetí nejasný	Kríza rukojemníkov v Alžírsku sa končí krviprelievaním
+2.8	Egyptské ministerstvo opätovne žiada, aby sa skončili protesty podporujúce Morsi	Egypt: Dieťa zabité v Káhire sa zrazilo po proteste proti Morsimu
+3.2	Juhoafrickú Mandelu previezli do nemocnice	Južná Afrika: Mandela zostáva v nemocnici
+3	Čínsky jüan posilňuje na 6,2689 voči USD	Čínsky jüan posilňuje na nové maximum voči USD
+2.2	Polícia vypočúva muža pri smrteľnej nehode na promenáde v LA	Polícia zatkla podozrivého zo smrtiaceho vodičského útoku v LA

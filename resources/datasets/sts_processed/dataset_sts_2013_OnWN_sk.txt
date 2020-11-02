@@ -449,94 +449,94 @@
 4	Pohybujte sa, akoby ste nedokázali ovládať svoj smer alebo smer pohybu.	choďte, akoby ste nedokázali ovládať svoje pohyby.
 3.8	dohoda o správe majetku v mene príjemcu	niečo (ako majetok) v držbe jednej strany (správcu) v prospech inej (oprávnenej osoby).
 4	vhodné na konkrétny účel	poskytnúť (niečo) zvyčajne na konkrétny účel.
-0.6	the act of lifting something	the act of winding or twisting.
-1.6	cause to move, cause to be moved	cause to lean to the side.
-1.8	an indication of something, evidence	náznak nejakej skrytej aktivity.
-0.6	The state of being absent.	the state of being suspected.
-4	(spôsobiť) sa rozpadnú alebo prestanú fungovať	stop functioning or cohering as a unit.
-0	the selection of a lottery winner	the last section of a communication.
-2	being in a protected state or condition	byť v nejakom určenom stave alebo stave.
-4.2	akt úteku, úteku	the act of escaping physically.
-4	build, make by combining materials or parts	make by combining materials and parts.
-0.6	Create a coating for something.	give a performance (of something).
-0	Vytvorte na niečo náter.	the act of projecting out from something.
-4.8	restrict or limit the range of	limit the range or extent of.
-0.2	the act of annoying someone or something	the act of dropping something.
-0	the act of acknowledging the truth of something	the act of perceiving the odor of something.
+0.6	akt niečoho zdvihnúť	čin navíjania alebo krútenia.
+1.6	spôsobiť pohyb, spôsobiť pohyb	spôsobiť sklon k boku.
+1.8	náznak niečoho, dôkaz	náznak nejakej skrytej aktivity.
+0.6	Stav neprítomnosti.	stav podozrenia.
+4	(spôsobiť) sa rozpadnú alebo prestanú fungovať	prestať fungovať alebo byť koherentné ako jednotka.
+0	výber výhercu lotérie	posledná časť oznámenia.
+2	byť v chránenom stave alebo stave	byť v nejakom určenom stave alebo stave.
+4.2	akt úteku, úteku	čin úniku fyzicky.
+4	stavať, vyrábať kombináciou materiálov alebo častí	vyrobiť kombináciou materiálov a dielov.
+0.6	Vytvorte na niečo náter.	podať predstavenie (niečoho).
+0	Vytvorte na niečo náter.	akt vyčnievania z niečoho.
+4.8	obmedziť alebo obmedziť rozsah	obmedziť rozsah alebo rozsah.
+0.2	akt otravovania niekoho alebo niečoho	akt niečoho odhodiť.
+0	akt uznania pravdy niečoho	akt vnímania pachu niečoho.
 1.8	akt poskytnutia stimulu niekomu	akt najatia niečoho alebo niekoho.
-3.2	an argument that gives grounds or justification for a position	the justification for some act or belief.
-5	presentation of a musical theme	(music) the presentation of a musical theme.
-2.8	 cause or permit to fall to the ground	let or cause to fall in drops.
-4.4	move or sway in a sinuous fashion	to move or cause to move in a sinuous, spiral, or circular course.
-2.6	sell or transport an item or idea abroad	cause to spread in another part of the world.
-0.8	the act of taking an offer	the act of making a proposal.
-2.6	a group of people appointed to a committee	a committee appointed to judge a competition.
-1.4	intuitions, a hunch or feeling	maintain (a theory, thoughts, or feelings).
-3.4	situate, position, come to rest	settle into a position, usually on a surface or ground.
-3.8	Sever or remove by pinching or snipping; tend by cutting.	sever or remove by pinching or snipping.
-0	the act of lifting something	the act of damaging something or someone.
-4.4	Place limits on; form the boundary of or be contiguous to.	form the boundary of; be contiguous to.
-3	the value of a currency's conversion to another currency	the charge for exchanging currency of one country for currency of another.
+3.2	argument, ktorý odôvodňuje alebo odôvodňuje pozíciu	odôvodnenie nejakého činu alebo viery.
+5	prezentácia hudobnej témy	(hudba) predstavenie hudobnej témy.
+2.8	spôsobiť alebo dovoliť spadnúť na zem	nechajte alebo nechajte padať po kvapkách.
+4.4	hýbať sa alebo kývať sa kľukatým spôsobom	pohybovať alebo spôsobiť pohyb v kľukatej, špirálovej alebo kruhovej dráhe.
+2.6	predať alebo prepraviť vec alebo nápad do zahraničia	sa rozšíriť v inej časti sveta.
+0.8	akt prijatia ponuky	akt predloženia návrhu.
+2.6	skupina ľudí menovaných do výboru	výbor menovaný na posudzovanie výberového konania.
+1.4	intuície, tušenie alebo cit	udržiavať (teória, myšlienky alebo pocity).
+3.4	situovať, položiť, odpočívať	usadiť sa do polohy, zvyčajne na povrchu alebo na zemi.
+3.8	Oddeľte alebo odstráňte zovretím alebo odseknutím; inklinovať rezaním.	oddeliť alebo odstrániť zovretím alebo odseknutím.
+0	akt niečoho zdvihnúť	čin niečoho alebo niekoho poškodiť.
+4.4	Stanovte limity; tvoria hranicu s nimi alebo susedia.	tvoria hranicu; byť susediaci s.
+3	hodnota prepočtu meny na inú menu	poplatok za výmenu meny jednej krajiny za menu inej krajiny.
 3.8	odstupňovaný oblúk prístroja používaného na meranie uhlov	odstupňovaný oblúk, ktorý je pripevnený k prístroju na meranie uhlov.
-0.8	the act of lifting something	akt niečoho testovať.
-0.4	the act of escaping, fleeing	the act of retaining something.
-0	people who are impoverished, without basic possessions	two people who are married to each other.
-0.4	akt prípravy niečoho.	give certain properties to something.
-0.2	the act of explaining or defending something	the activity of supplying or providing something.
-4.4	the act of lifting something	the act of raising something.
-1.6	confine in or as if in a prison	enclose in or as if in a frame.
-3.2	Make a copy with the intent to deceive.	uveriť s úmyslom klamať.
-4.2	the act of sorting things into categories	akt rozdelenia vecí do tried alebo kategórií rovnakého typu.
-4	Fly in or on a glider plane	fly in or as if in a glider plane.
-1.4	the act of choosing or selecting	the act of testing something.
-4.6	open to members of all races and ethnic groups	open (a place) to members of all races and ethnic groups.
-4.2	Go after with the intent to follow or catch.	go after with the intent to catch.
-4	the center region of an object	stred objektu.
-2.8	an approximated amount of something	zhodnotenie hodnoty niečoho.
-3.6	úplne zakryť; vytvoriť kryt; rozširovať sa.	form a carpet-like cover (over).
-4.2	room where work or repairs are done	room where work is done.
-0.6	akt odhodenia niečoho preč	the act of testing something.
+0.8	akt niečoho zdvihnúť	akt niečoho testovať.
+0.4	akt úteku, úteku	akt udržania niečoho.
+0	ľudia, ktorí sú chudobní, bez základného majetku	dvaja ľudia, ktorí sú manželmi navzájom.
+0.4	akt prípravy niečoho.	dať niečomu určité vlastnosti.
+0.2	akt vysvetlenia alebo obrany niečoho	činnosť dodania alebo poskytnutia niečoho.
+4.4	akt niečoho zdvihnúť	akt niečoho vychovať.
+1.6	uväzniť alebo akoby vo väzení	uzavrieť alebo akoby do rámu.
+3.2	Vytvorte kópiu s úmyslom oklamať.	uveriť s úmyslom klamať.
+4.2	akt triedenia vecí do kategórií	akt rozdelenia vecí do tried alebo kategórií rovnakého typu.
+4	Zalietajte v klzáku alebo na ňom	priletieť alebo akoby v klzáku.
+1.4	akt výberu alebo výberu	akt niečoho testovať.
+4.6	otvorené pre príslušníkov všetkých rás a etnických skupín	otvorené (miesto) príslušníkom všetkých rás a etnických skupín.
+4.2	Choďte za tým s úmyslom nasledovať alebo chytiť.	choďte za tým s úmyslom chytiť.
+4	stredná oblasť objektu	stred objektu.
+2.8	približné množstvo niečoho	zhodnotenie hodnoty niečoho.
+3.6	úplne zakryť; vytvoriť kryt; rozširovať sa.	tvoria koberec (nad).
+4.2	miestnosť, kde sa vykonávajú práce alebo opravy	miestnosť, kde sa pracuje.
+0.6	akt odhodenia niečoho preč	akt niečoho testovať.
 3.6	zmocniť sa zákonným orgánom (kvôli bezpečnosti).	dočasne prevziať ako záruku zákonný orgán.
-0.2	odovzdať alebo vložiť	refer for judgment or consideration.
+0.2	odovzdať alebo vložiť	požiadať o posúdenie alebo zváženie.
 2.4	spôsobiť prechod z jedného kurzu alebo na iný	posielať od jednej osoby alebo miesta k druhej.
-0	the act of pulling a load	čin obydlia na danom mieste.
-0.2	akt otravovania niekoho alebo niečoho	the act of projecting out from something.
-1	The act of talking about the features of something.	akt vyčnievania z niečoho.
-3.6	otočte zo zvislej / normálnej polohy	cause to overturn from an upright or normal position.
-0.2	akt niečoho zdvihnúť	the act of dropping something.
-1	the identification or the realization of something	the end or completion of something.
-0.6	the act of concealing or disguising	the act of projecting out from something.
-3.8	Dokument, ktorý udeľuje vynálezcovi právo alebo privilégium.	a document granting an inventor sole rights to an invention.
-4.6	stredná oblasť objektu	the center of an object.
+0	čin ťahania bremena	čin obydlia na danom mieste.
+0.2	akt otravovania niekoho alebo niečoho	akt vyčnievania z niečoho.
+1	Akt rozprávania o vlastnostiach niečoho.	akt vyčnievania z niečoho.
+3.6	otočte zo zvislej / normálnej polohy	spôsobiť prevrátenie zo zvislej alebo normálnej polohy.
+0.2	akt niečoho zdvihnúť	akt niečoho odhodiť.
+1	identifikácia alebo realizácia niečoho	koniec alebo dokončenie niečoho.
+0.6	skutok zatajovania alebo maskovania	akt vyčnievania z niečoho.
+3.8	Dokument, ktorý udeľuje vynálezcovi právo alebo privilégium.	dokument, ktorý pôvodcovi poskytuje výlučné práva na vynález.
+4.6	stredná oblasť objektu	stred objektu.
 0.6	akt niečoho zdvihnúť	akt kolízie s niečím.
 0.4	akt niečoho zdvihnúť	akt zmenšovania alebo zmenšovania niečoho.
-0.4	the act of putting a preparation on something.	the act of stopping something.
+0.4	akt prípravy niečoho.	akt zastavenia niečoho.
 0.6	akt obhajovania alebo propagácie niečoho	akt zapriahnutia alebo roztrhnutia alebo rozdelenia niečoho.
 4	Majte výraznú alebo charakteristickú chuť, ktorú vníma skúsený.	majú výraznú alebo charakteristickú chuť.
-4.2	Byť znakom alebo označením; mať ako význam.	be a sign or indication of.
+4.2	Byť znakom alebo označením; mať ako význam.	byť znakom alebo údajom o.
 4.4	celkový dojem alebo vzhľad niečoho	všeobecný vonkajší vzhľad niečoho.
-4.8	know, realize, and comprehend the meaning	poznať a pochopiť podstatu alebo význam slova.
+4.8	vedieť, uvedomiť si a pochopiť význam	poznať a pochopiť podstatu alebo význam slova.
 4	Vyrobte alebo vytvorte niečo pre konkrétnu funkciu.	niečo vyrobiť, zvyčajne pre konkrétnu funkciu.
-3	get rid of as if with water (metaphorical)	zbaviť sa akoby ponorením.
-0.6	the act of acknowledging the truth of something	akt výberu alebo výberu.
-4.4	change or conform to fit new or different conditions	adapt or conform oneself to new or different conditions.
-0	akt poskytnutia stimulu niekomu	the act of troubling or annoying someone.
-4	a watch with a hinged lid to protect the face	hodinky s odklápacím kovovým vekom na ochranu kryštálu.
-4	support, sustain, bear, or be responsible for	organize or be responsible for.
+3	zbaviť sa akoby vodou (metaforicky)	zbaviť sa akoby ponorením.
+0.6	akt uznania pravdy niečoho	akt výberu alebo výberu.
+4.4	zmeniť alebo prispôsobiť novým alebo iným podmienkam	prispôsobiť sa alebo prispôsobiť sa novým alebo odlišným podmienkam.
+0	akt poskytnutia stimulu niekomu	čin znepokojovania alebo otravovania niekoho.
+4	hodinky s odklápacím vekom na ochranu tváre	hodinky s odklápacím kovovým vekom na ochranu kryštálu.
+4	podporovať, udržiavať, niesť alebo niesť za ne zodpovednosť	organizovať alebo byť za ne zodpovedný.
 3.2	usilovať sa proti druhému alebo iným dosiahnuť cieľ	súťažiť o niečo; zapojiť sa do súťaže; merať sa proti ostatným.
-0.6	Akt niečoho testovania.	the act of cracking something.
-1.6	Gather or remove (from a location) for use.	odstrániť z funkcie alebo kancelárie.
+0.6	Akt niečoho testovania.	akt prasknutia niečoho.
+1.6	Zhromaždite alebo odstráňte (z určitého miesta) na použitie.	odstrániť z funkcie alebo kancelárie.
 0.2	akt smerovania pozornosti, zdrojov k niečomu	akt kolízie s niečím.
 4	Jazda niekomu na pleciach alebo chrbte; podpora na chrbte alebo ramenách.	jazdiť na niečích pleciach alebo chrbte.
 3.4	akt kombinovania, miešania, integrácie	akt zmiešania.
 3.2	pevný 3D objekt s obdĺžnikovými stranami	pevný kúsok niečoho (zvyčajne majúce ploché obdĺžnikové strany).
-0.2	preklad opusu z jedného jazyka do druhého	the act of moving from one place to another.
+0.2	preklad opusu z jedného jazyka do druhého	akt presunu z jedného miesta na druhé.
 0	akt otravovania niekoho alebo niečoho	akt pripustenia niekoho na vstup.
-4.4	Write differently or alter a piece or writing, perhaps to suit a different purpose.	prepísať tak, aby vyhovoval novému alebo inému účelu.
-4.25	a celebrity or entertainer who attracts a large audience	zabávač, ktorý priťahuje veľké publikum.
+4.4	Píšte inak alebo pozmeňte kus alebo písanie, aby vyhovovalo inému účelu.	prepísať tak, aby vyhovoval novému alebo inému účelu.
+4.25	osobnosť alebo zabávač, ktorý priťahuje veľké publikum	zabávač, ktorý priťahuje veľké publikum.
 4	Zlikvidujte niečo ako nepotrebné a staré; fyzicky roztrhnúť.	zlikvidovať (niečo zbytočné alebo staré).
 0.4	Stav neprítomnosti.	stav exkomunikácie.
-3.6	stúpať na povrch; byť viditeľné alebo známe	appear or become visible; make a showing.
+3.6	stúpať na povrch; byť viditeľné alebo známe	objaviť alebo sa stať viditeľným; urobiť predstavenie.
 0	premožený údivom alebo nedôverou	napraviť trestom alebo disciplínou.
 3.8	znížiť platnosť alebo účinok, obmedziť, oslabiť	účinnosť alebo účinok.
 0	akt úmyselného vynechania niečoho	akt niečoho lezenia.
@@ -546,10 +546,10 @@
 3.2	čin niečoho poškodil a spôsobil rozbitie	čin niečoho alebo niekoho poškodiť.
 4.6	umiestniť na konkrétne miesto alebo abstraktné miesto	vložiť na určité miesto alebo abstraktné miesto.
 4.4	akt vnímania vône	akt vnímania pachu niečoho.
-1.8	the act of providing assistance, giving aid	akt podávania liekov.
+1.8	akt poskytovania pomoci, poskytovania pomoci	akt podávania liekov.
 4.6	znížiť platnosť, dopad alebo účinok	účinnosť alebo účinok.
 1.4	kryt s drevenými doskami; zabezpečiť	nastúpiť na palubu (vlaky, autobusy, lode, lietadlá atď.).
-0	akt vysvetlenia alebo obrany niečoho	the act of removing or getting rid of something.
+0	akt vysvetlenia alebo obrany niečoho	čin odstránenia alebo zbavenia sa niečoho.
 3.8	veko alebo vrchná časť nádoby	zakrytie otvoru (najmä otvoru v hornej časti nádoby).
 4.6	(spôsobiť) oddelenie alebo pohyb v rôznych smeroch	spôsobiť rozchod a ísť rôznymi smermi.
 2.4	vibrovať v inom vzore	vibrovať v určitom vzore.
@@ -557,5 +557,5 @@
 4	rozhodne alebo definitívne opraví / spresní	rozhodne alebo urcite napravi.
 1.4	poskytnúť sedadlo alebo podstavec pre	zabezpečiť hostinu alebo hostinu.
 0	akt vysvetlenia alebo obrany niečoho	akt zapriahnutia alebo roztrhnutia alebo rozdelenia niečoho.
-0.4	pozorovateľ procesu alebo činnosti	a meeting devoted to a particular activity.
-3.8	make keen; give (new) life or energy to	dať nový život alebo energiu.
+0.4	pozorovateľ procesu alebo činnosti	stretnutie venované konkrétnej činnosti.
+3.8	robiť bystrý; dať (nový) život alebo energiu	dať nový život alebo energiu.

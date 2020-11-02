@@ -5,7 +5,7 @@ from time import sleep
 from googletrans import Translator
 
 translator = Translator()
-slovak_letters = 'áäčďéíľĺňóôšťúýžÁČĎÉÍĽĹŇÓŠŤÚÝŽ'
+slovak_letters = 'áäčďéíľĺňóôŕšťúýžÁČĎÉÍĽĹŇÓŠŤÚÝŽ'
 
 
 def translate(input_text):
@@ -90,7 +90,7 @@ for input_dataset_file in input_dataset_files:
                 tokens[2] = translate(tokens[2])
                 change = True
             if change:
-                print("Translation needed")
+                print("Translation needed \n{}\n{}".format(tokens[1], tokens[2]))
                 lines[i] = "\t".join(tokens) + "\n"
                 sleep(0.5)
             else:
@@ -101,5 +101,8 @@ for input_dataset_file in input_dataset_files:
         if i % 50 == 0:
             with open(input_dataset_file, 'w+', encoding='utf-8') as output_file:
                 output_file.writelines(lines)
+
+    with open(input_dataset_file, 'w+', encoding='utf-8') as output_file:
+        output_file.writelines(lines)
 
 

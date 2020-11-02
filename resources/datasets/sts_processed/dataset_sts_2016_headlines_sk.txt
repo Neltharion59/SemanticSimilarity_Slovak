@@ -445,7 +445,7 @@
 5	Bývalý FM Lieberman spod obžaloby oslobodený	Bývalý izraelský FM Lieberman bol spod obžaloby oslobodený
 5	Dolce a Gabbana pokutované v talianskom daňovom prípade	Dolce a Gabbana odsúdení za daňové úniky do väzenia
 5	Po požiaroch vlakov v Kanade stále chýbajú desiatky	40 osôb je stále nezvestných pri smrteľnej havárii ropného vlaku v Kanade
-5	Dvaja potvrdení mŕtvi po nehodách prúdových lietadiel cestujúcich v San Franciscu	2 Die and Many Are Hurt as Plane Crashes in San Francisco
+5	Dvaja potvrdení mŕtvi po nehodách prúdových lietadiel cestujúcich v San Franciscu	2 Die and Many Are Hurt as Plane Havaruje v San Franciscu
 5	Vojak NATO zabitý pri afganskom útoku	Vojak NATO zabitý pri útoku Talibanu v Afganistane
 5	Výkonný riaditeľ spoločnosti Microsoft Ballmer odíde do dôchodku do 12 mesiacov	V skratke: Vzostupy aj pády generálneho riaditeľa spoločnosti Microsoft Ballmer
 5	Výbuch zasiahol továreň na hnojivá v Texase	Smrtiaci výbuch v továrni na hnojivá v Texase
@@ -985,7 +985,7 @@
 0	Študenti zabití pri zrútení balkóna v Berkeley smútili v Írsku	Úradníci tvrdia, že 5 írskych študentov bolo zabitých pri zrútení balkóna v Berkeley
 0	12 zabitých pri cestných bombových útokoch v Afganistane	13 zabitých v bombových útokoch na mešitu v Nigérii
 0	Sekretárka Kerry Travel do Bagdadu v Iraku	Cesta ministra Kerryho do Ruska a Turecka
-0	Live TV Now Drive it! 03:00 UTC DW News	Živé televízne vysielanie sa teraz zameriava na Európu 05:00 UTC DW News
+0	Live TV Now Drive it! 03:00 UTC DW správy	Živé televízne vysielanie sa teraz zameriava na Európu 05:00 UTC DW News
 0	Ako sa zameriava na dlhodobejšie hľadisko, zastaví sa prímerie v Gaze	Ako sa zhromažďujú vyjednávači, zastavuje sa prímerie v Gaze
 0	Nepál zdevastoval zemetrasenie o sile 7,3 stupňa	Nepál zasiahlo zemetrasenie o sile 8,1 stupňa
 0	Nigéria vyvracia fámy o ďalších prípadoch eboly	Nigéria potvrdzuje 1 ďalší prípad eboly
@@ -1399,98 +1399,98 @@
 0	Streľba Michaela Browna: Rodinný právnik naznačuje, že 18-ročný mladík sa „vzdal“	Rodina Michaela Browna žalujúca policajta a Fergusona
 0	Palace až šiesty po víťazstve vo Watforde	Neskoré góly prinesú Man City víťazstvo vo Ville
 0	Irán, veľký dôležitý partner pre Rusko: Novak	Irán opätovne zdôrazňuje podporu Iraku a Sýrie
-0	Global pressure on US to loosen oil exports ban	Irán je pripravený obnoviť vývoz ropy do Egypta
+0	Globálny tlak na USA, aby uvoľnili zákaz vývozu ropy	Irán je pripravený obnoviť vývoz ropy do Egypta
 0	USA a Irán sú po jadrových rozhovoroch pozitívne	Hongkongské protesty sa po chaosu slzného plynu stávajú slávnostnými
-0	Taiwanský prezident si prenajal lietadlo, aby vzdal úctu Leeovi	Poland president loses to challenger
+0	Taiwanský prezident si prenajal lietadlo, aby vzdal úctu Leeovi	Poľský prezident podľahol výzvam
 0	Pred návštevou Kerryho zahynuli dvaja Palestínčania pri útokoch na Izraelčanov	Palestínsky úradník zabil izraelský zákon o vrhaní kameňov
-0	Minister urges Malayalis in Yemen to return	Minister prednesie prípad Pakistanu na konferencii o zmene podnebia
-0	China home prices rise for second month in June	Čína schvaľuje iPhone 6 po bezpečnostných zárukách
+0	Minister vyzýva Malayalis v Jemene, aby sa vrátili	Minister prednesie prípad Pakistanu na konferencii o zmene podnebia
+0	Ceny domov v Číne rastú druhý mesiac v júni	Čína schvaľuje iPhone 6 po bezpečnostných zárukách
 0	Egyptský súd vyhlásil palestínske hnutie Hamas za teroristické	Vlna nepokojov nenecháva palestínskeho prezidenta na výber
 0	Thomas Cook obvinený z uvádzania nákladov pred zákazníkov	Frat z University of Florida obvinený z pľuvania na zranených vojnových veteránov
-0	Female soldier strip-searches 2 Palestinian women in Beit Ummar	Traja muži zadržali sériu bodnutí v oblasti Temple Bar
-0	VC Austrálie: Lewis Hamilton berie ocenenia vo veľkom štýle	Australia bins standalone coding for kids in schools course
-0	Obama secures key vote to protect Iran nuclear deal in U.S. Congress	Lebanese politician urges Arab countries to welcome nuclear deal
-0	Narendra Modi 'photoshopped' image of Chennai floods visit goes viral	PM Narendra Modi speaks of non-discrimination and equality
+0	Vojakka podrobne prehľadáva 2 palestínske ženy v Beit Ummar	Traja muži zadržali sériu bodnutí v oblasti Temple Bar
+0	VC Austrálie: Lewis Hamilton berie ocenenia vo veľkom štýle	Austrália pripravuje pre deti v školských kurzoch samostatné kódovanie
+0	Obama získal kľúčové hlasovanie na ochranu iránskej jadrovej dohody v Kongrese USA	Libanonský politik vyzýva arabské krajiny, aby privítali jadrovú dohodu
+0	Obrázok „Photoshopu“ Narendra Modi o návšteve povodní v Chennai sa stal virálnym	PM Narendra Modi hovorí o nediskriminácii a rovnosti
 1	Mjanmarskí aktivisti v oblasti vzdelávania boli uväznení	Mjanmarsko objaví prípad podozrivý z eboly
-1	Ted Cruz: Donald Trump nebude nominantom GOP	Donald Trump to unveil tax plan Monday
+1	Ted Cruz: Donald Trump nebude nominantom GOP	Donald Trump v pondelok predstaví daňový plán
 1	Glasgow hlasuje „za“ proti škótskej nezávislosti	Brexit povedie k požiadavkám na škótsku nezávislosť, tvrdí Sturgeon
-1	Mourners March to Commemorate French Bus Crash Victims	Slzy v Barcelone na pohrebe obete pádu spoločnosti Germanwings
-1	UN chief welcomes peaceful presidential elections in Guinea	UN chief condemns attack against peacekeepers in Mali
-0	Netanjahu tvrdí, že na ukončenie palestínskeho násilia použije „všetky prostriedky“	Germany says wants to keep close ties with Poland
-0	Starbucks encourages baristas to talk race	Kentucky Senate rivals hold solitary debate
-0	Obama Struggles to Soothe Saudi Fears As Iran Talks Resume	Myanmar Struggles to Finalize Voter Lists for Sunday Polls
-0	7 cudzincov, 1 Tunisan mŕtvy pri streleckom útoku v múzeu	U.S. government scrambles to deal with massive hacking attack
-0	Pakistanské popravy vyvolali medzinárodný hnev	Pakistan protests ceasefire violations by India
-0	Philippines confirms nurse infected with Mers	Havaj pripravuje prvý hurikán za 22 rokov
-0	Brazil to elect president today in run-off vote	Tanzania awaits tense presidential poll result
-0	Obama: 'No excuse' for violence	MERS: No cause for alarm in Phl
-0	Obama begins meeting with Raul Castro in Panama	AG Holder Meeting With Michael Brown's Parents
-0	Liberty president calls for an armed Christian campus	Liberia's president orders civil servants to stay home amid Ebola crisis
-0	Israeli defense minister in US after spat over Kerry remarks	Italy's cabinet wins key confidence vote in Senate over labor reform
-0	Search resumes for missing in Brazil mine mudslide	Search for Indonesia's missing chopper underway
-0	Tony Blair Denies Saying Miliband Can't Win	Britain's Tony Blair resigns as U.N. Middle East envoy
-0	North Korea starts huge military parade	Vyslanec: Severná Kórea bude pokračovať v „obrannom“ jadrovom programe
-0	South Korea declares end to MERS outbreak	Severokórejská delegácia sa stretáva s juhokórejskými úradníkmi
-0	US pledges more military support to Somalia	Cui: US patrol serious political, military provocation
-0	Pranab zdôrazňuje, že je potrebné usilovať sa o mier medzi národmi	WTO: India regrets action of developed nations
-2	Misia mníšok v Pakistane	Free speech activist killed in Pakistan
-2	Filipíny hľadajú pomoc USA pri zastavovaní čínskych meliorácií	Philippines: ERC to build 10 schools in Philippine Typhoon-ravaged areas
-2	Východná Európa odmietne utečenecký plán	Japan restarts nuclear plant
-2	Fireman killed in south China	Vyše 80 ozbrojencov zabitých v agentúre Khyber
-2	Asian stocks mostly down on weak data, commodity prices	Americké akcie sa otvárajú väčšinou nižšie, pretože výnosy sklamú
-2	Volkswagen sa po škandále so znečistením dostane na červenú	Volkswagen's "gesture of goodwill" to diesel owners
-0	Two Australians killed in Kenya after bus crashed into river	Trvalý odkaz na dvoch osôb zabitých v Nemecku pri nehode vlaku
-2	6 killed in school stampede in China	21 killed in Tunisia museum gun attack
-2	France shuts mosque, arrests man in crackdown after attacks	Security tightened at New Delhi churches after attacks
-2	Syrian refugees not welcome in 30 U.S. states	Libéria sa stala kresťanským štátom
-2	US Vice President's son dies	Viceprezident volebnej komisie v Kongu rezignuje
-2	Train rams SUV, killing 13 in eastern India	Head-on collision kills 7 in east China
-2	Russian plane reportedly crashes in Egypt	Pilot killed as US jet crashes in England
-0	Du Preez drives Springboks into World Cup semi-finals	Dibes letí pred finále svetového pohára v rugby medzi Austráliou a NZ
-0	U.S.-led coalition conducts 25 air strikes against Islamic State militants	Obama Rallies Coalition Commanders against IS Jihadists
+1	Smútoční pochod na pamiatku francúzskych obetí zrážky autobusov	Slzy v Barcelone na pohrebe obete pádu spoločnosti Germanwings
+1	Šéf OSN víta pokojné prezidentské voľby v Guinei	Šéf OSN odsudzuje útok proti mierovým silám v Mali
+0	Netanjahu tvrdí, že na ukončenie palestínskeho násilia použije „všetky prostriedky“	Nemecko tvrdí, že chce udržiavať úzke vzťahy s Poľskom
+0	Starbucks nabáda baristov, aby hovorili o rase	Súperi senátu Kentucky vedú osamelú debatu
+0	Obama bojuje o upokojenie saudských obáv, keď bude pokračovať rozhovor Iránu	Mjanmarsko bojuje o dokončenie zoznamov voličov pre nedeľné hlasovania
+0	7 cudzincov, 1 Tunisan mŕtvy pri streleckom útoku v múzeu	Vláda USA sa snaží bojovať s masívnym hackerským útokom
+0	Pakistanské popravy vyvolali medzinárodný hnev	Pakistanské protesty proti prímeriu zo strany Indie
+0	Filipíny potvrdili sestru infikovanú Mersom	Havaj pripravuje prvý hurikán za 22 rokov
+0	Brazília si dnes zvolí prezidenta na základe priebežného hlasovania	Tanzánia čaká na napätý výsledok prezidentských volieb
+0	Obama: „Žiadna výhovorka“ pre násilie	MERS: Žiadny dôvod na poplach vo Phl
+0	Obama začína stretnutie s Raúlom Castrom v Paname	Stretnutie držiteľov AG s rodičmi Michaela Browna
+0	Prezident Liberty požaduje ozbrojený kresťanský kampus	Libérijský prezident nariadil štátnym zamestnancom zostať doma uprostred krízy ebola
+0	Izraelský minister obrany v USA potom, čo pľul na Kerryho výroky	Taliansky vládny kabinet získal kľúčové hlasovanie o dôvere v Senáte ohľadne pracovnej reformy
+0	Obnoví sa pátranie po nezvestných v zosuve bahenného bahna	Hľadá sa chýbajúci indonézsky vrtuľník
+0	Tony Blair popiera, že by Miliband nemohol vyhrať	Brit Tony Blair rezignuje na post vyslanca pre Blízky východ v OSN
+0	Severná Kórea začína obrovskú vojenskú prehliadku	Vyslanec: Severná Kórea bude pokračovať v „obrannom“ jadrovom programe
+0	Južná Kórea vyhlasuje ukončenie nákazy MERS	Severokórejská delegácia sa stretáva s juhokórejskými úradníkmi
+0	USA sľubujú väčšiu vojenskú podporu Somálsku	Cui: Americká hliadka predstavuje vážnu politickú a vojenskú provokáciu
+0	Pranab zdôrazňuje, že je potrebné usilovať sa o mier medzi národmi	WTO: India ľutuje kroky rozvinutých krajín
+2	Misia mníšok v Pakistane	Aktivista za slobodu prejavu zabitý v Pakistane
+2	Filipíny hľadajú pomoc USA pri zastavovaní čínskych meliorácií	Filipíny: ERC postaví 10 škôl v oblastiach spustošených filipínskym tajfúnom
+2	Východná Európa odmietne utečenecký plán	Japonsko reštartuje jadrovú elektráreň
+2	Hasič zabitý v južnej Číne	Vyše 80 ozbrojencov zabitých v agentúre Khyber
+2	Ázijské akcie väčšinou klesajú na slabých dátach, cenách komodít	Americké akcie sa otvárajú väčšinou nižšie, pretože výnosy sklamú
+2	Volkswagen sa po škandále so znečistením dostane na červenú	„Gesto dobrej vôle“ spoločnosti Volkswagen pre majiteľov nafty
+0	Po náraze autobusu do rieky zahynuli v Keni dvaja Austrálčania	Trvalý odkaz na dvoch osôb zabitých v Nemecku pri nehode vlaku
+2	6 ľudí zabitých pri školskej panike v Číne	21 ľudí zahynulo v Tunisku zbraňovým útokom
+2	Francúzsko zatvára mešitu a po útokoch zatýka človeka	Po útokoch sa v kostoloch v Dillí sprísnila bezpečnosť
+2	Sýrski utečenci nie sú vítaní v 30 štátoch USA	Libéria sa stala kresťanským štátom
+2	Syn amerického viceprezidenta zomrel	Viceprezident volebnej komisie v Kongu rezignuje
+2	Vlak barani SUV, pričom 13 ich bolo zabitých vo východnej Indii	Čelná zrážka zabila 7 ľudí vo východnej Číne
+2	Ruské lietadlo údajne havarovalo v Egypte	Pilot zabitý pri páde amerického prúdového lietadla v Anglicku
+0	Du Preez ženie Springboks do semifinále majstrovstiev sveta	Dibes letí pred finále svetového pohára v rugby medzi Austráliou a NZ
+0	Koalícia pod vedením USA podniká 25 leteckých útokov proti militantom z Islamského štátu	Obama zhromaždil veliteľov koalície proti džihádistom z IS
 0	Britský parlament podporuje nálety proti ISIS v Iraku	Americká armáda zverejňuje zábery leteckých útokov na ciele ISIS v Iraku a Sýrii
-0	Iraq launches operation to retake Tikrit from Islamic State	Obama sľubuje, že zasiahne Islamský štát
-0	Amit Jain bol menovaný prezidentom spoločnosti Uber India	Beau Biden, son of vice president, dies of brain cancer
-0	Three Somalis killed in attack on UN convoy in capital	Desiatky zabitých po leteckých útokoch v jemenskom hlavnom meste
-0	Japonsko naďalej trvá na svojich právach pre ostrovy Senkaku	Gov't: Sanctions on Russia don't hit Paks plans
-0	Stovky údajne chodia na pohreb pre dánskeho ozbrojenca	Russian market: Great export potentialities for Tunisia
-0	Severe Gales As Storm Clodagh Hits Britain	Merkel pledges NATO solidarity with Latvia
-0	Netanyahu Looks for Alternative Approaches to Peace Talks	Netanyahu forms new government just ahead of deadline
-0	Strong quake kills 367 in southern China	Austrálsky otec bol obvinený zo zneužívania náhradných dvojčiat
+0	Irak začína operáciu zameranú na opätovné získanie Tikrítu z Islamského štátu	Obama sľubuje, že zasiahne Islamský štát
+0	Amit Jain bol menovaný prezidentom spoločnosti Uber India	Beau Biden, syn viceprezidenta, zomrel na rakovinu mozgu
+0	Traja Somálčania zabití pri útoku na konvoj OSN v hlavnom meste	Desiatky zabitých po leteckých útokoch v jemenskom hlavnom meste
+0	Japonsko naďalej trvá na svojich právach pre ostrovy Senkaku	Vláda: Sankcie proti Rusku neovplyvnia plány spoločnosti Paks
+0	Stovky údajne chodia na pohreb pre dánskeho ozbrojenca	Ruský trh: Veľké vývozné možnosti pre Tunisko
+0	Silné víchrice ako búrka Clodagh zasahuje Britániu	Merkelová sľubuje solidaritu NATO s Lotyšskom
+0	Netanjahu hľadá alternatívne prístupy k mierovým rozhovorom	Netanjahu zostavuje novú vládu tesne pred termínom
+0	Silné zemetrasenie zabilo v južnej Číne 367 osôb	Austrálsky otec bol obvinený zo zneužívania náhradných dvojčiat
 0	Taliansko varuje pred hrozbou Líbye s rastúcim tlakom na akciu	Pevnina zruší požiadavku na povolenie vstupu pre obyvateľov Taiwanu
-0	Belarus tightens security along the border with Ukraine	Malls in Paris, London under tight security after Shabab threat
+0	Bielorusko sprísňuje bezpečnosť pozdĺž hraníc s Ukrajinou	Obchodné centrá v Paríži a Londýne pod prísnou bezpečnosťou po hrozbe šababu
 0	Pistorius sa obieha pred verdiktom	JP býčí pred trojuholníkom
-0	Nurse With Ebola Appears on Camera Before Leaving Dallas Hospital	First Ebola case diagnosed in US after man who flew in from Liberia falls ill
-0	Children among bombardment victims in Syria	Girl bombs market in Nigeria
-0	Nato shunned as France calls on EU to destroy Islamic State	Texas man arrested, accused of helping friend travel overseas to join Islamic State
-0	Dozens of Egyptians hostages taken by Libyan terrorists as revenge for airstrikes	Egyptian boat crash death toll rises as more bodies found in Nile
-0	President heading to Bahrain	President Xi: China to continue help to fight Ebola
-0	Venezuelský prezident pripúšťa porážku	Venezuela tightens visa rules on America
-0	U.S. stocks open lower after rally	US stocks end rocky week with a surge; Nike gains
-0	US surveillance powers set to lapse after Senate vote	Iceland lowers volcano alert to orange
-0	Čína a India sľubujú ďalšie bilaterálne vzťahy	China Scrambles to Reassure Jittery Stock Traders
-0	Carnaevova porota začne rokovania	Musharraf's party to contest Pakistan's local elections
-0	Gunmen kill 20 laborers in SW Pakistan: officials	Suicide Attack, Bomb Blast in Pakistan Kill 10
-0	China to put 81-year-old writer on trial: lawyer	China cut yuan rate more than 1% against dollar
-0	Boko Haram: Obchodníci chvália prímerie medzi FG a Boko Haram	Adam Chandler: A hollow Ukrainian cease-fire
-0	Ukraine city readies for rebel advance	Ukrajinský minister uviedol, že nehoda jadrových elektrární nie je ohrozená
-0	Funeral of Ian Paisley to take place in Belfast	Kerry calls for united front to tackle Islamic State
-0	Obama má pravdu: Afrika si zaslúži lepšie vedenie	Obama waiting for midterm to name attorney general
-0	Man, 20, kills 13 in Oregon college shooting	4 ľudia zahynuli v Okle. Zrážka zahŕňajúca vysokoškolský softbalový tím
+0	Pred odchodom z nemocnice v Dallase sa na kamere objaví zdravotná sestra s ebolou	Prvý prípad eboly diagnostikovaný v USA po chorobe muža, ktorý priletel z Libérie
+0	Deti medzi obeťami bombardovania v Sýrii	Trh s dievčenskými bombami v Nigérii
+0	NATO sa vyhýbalo, keď Francúzsko vyzýva EÚ, aby zničila Islamský štát	Muža z Texasu zatkli a obvinili ho z toho, že kamarátovi pomohol vycestovať do zahraničia s pripojením k Islamskému štátu
+0	Desiatky egyptských rukojemníkov zajatých líbyjskými teroristami ako pomstu za nálety	Počet obetí havárie egyptských člnov stúpa, keď sa v Níle našlo viac tiel
+0	Prezident smerujúci do Bahrajnu	Prezident Xi: Čína bude naďalej pomáhať v boji proti ebole
+0	Venezuelský prezident pripúšťa porážku	Venezuela sprísňuje vízové ​​pravidlá týkajúce sa Ameriky
+0	Americké akcie sa po rally otvárajú nižšie	Americké akcie končia skalnatý týždeň prudkým nárastom; Nike získava
+0	Právomoci USA v oblasti dohľadu zanikli po hlasovaní Senátu	Island znížil výstrahu sopky na oranžovú
+0	Čína a India sľubujú ďalšie bilaterálne vzťahy	Čína sa snaží zaistiť nervóznych obchodníkov s akciami
+0	Carnaevova porota začne rokovania	Mušarafova strana proti miestnym voľbám v Pakistane
+0	Ozbrojenci zabili 20 robotníkov v JZ Pakistane: úradníci	Samovražedný útok, výbuch bomby v Pakistane, zabite 10
+0	Čína postaví pred súd 81-ročného spisovateľa: právnika	Čína znížila sadzbu jüanov oproti doláru o viac ako 1%
+0	Boko Haram: Obchodníci chvália prímerie medzi FG a Boko Haram	Adam Chandler: Prázdna ukrajinská prímerie
+0	Ukrajinské mesto je pripravené na povstalecký pokrok	Ukrajinský minister uviedol, že nehoda jadrových elektrární nie je ohrozená
+0	Pohreb Iana Paisleyho, ktorý sa uskutoční v Belfaste	Kerry požaduje zjednotenie frontu pri riešení problému Islamského štátu
+0	Obama má pravdu: Afrika si zaslúži lepšie vedenie	Obama čaká na meno generálneho prokurátora v polovici obdobia
+0	20-ročný muž zabil pri streľbe na Oregonskej univerzite 13 osôb	4 ľudia zahynuli v Okle. Zrážka zahŕňajúca vysokoškolský softbalový tím
 0	Nemecký minister pristáva v Iráne s obchodným tímom	Jemen menuje nového premiéra v dohode so šiitskými povstalcami
 0	Felline posúva Aussie Matthewsovej v baskickom šprinte	Hamilton vyhral GP Ruska, pretože Rosberg nedokončil
-0	Attack on Canadian parliament: Soldier, shooter killed	Po zabití vojakov šéf tuniskej armády rezignuje
-0	Turecko obviňuje ruskú raketomet z „provokácie“	Turkey urges Russia not to escalate tension in Syria
+0	Útok na kanadský parlament: zabitý vojak, strelec	Po zabití vojakov šéf tuniskej armády rezignuje
+0	Turecko obviňuje ruskú raketomet z „provokácie“	Turecko vyzýva Rusko, aby eskalovalo napätie v Sýrii
 0	Obama sa obracia na osud kresťanov na Blízkom východe	USA napomínajú víťazného Izraelca Netanjahua v súvislosti s politikou na Blízkom východe
-0	US is most popular destination for Chinese travelers	Nusra demands compensation, aid for release of soldiers
-0	Does Biden have what it takes to compete in New Hampshire?	Polícia volala k hláseniam vrtuľníka v mori
-0	'Framework' for Final Deal Reached at Iran Nuclear Talks	Seize the moment for breakthrough in Iran nuclear talks
-0	Spain won't commit to taking in more migrants	Turkey votes in one of most crucial elections in years
+0	USA sú najobľúbenejšou destináciou čínskych cestujúcich	Nusra požaduje odškodnenie, pomoc pri prepustení vojakov
+0	Má Biden všetko na to, aby mohol súťažiť v New Hampshire?	Polícia volala k hláseniam vrtuľníka v mori
+0	„Rámec“ pre konečnú dohodu sa dosiahol na iránskych jadrových rozhovoroch	Využite okamih prielomu v jadrových rozhovoroch s Iránom
+0	Španielsko sa nezaviaže prijať viac migrantov	Turecko hlasuje v jednej z najdôležitejších volieb za posledné roky
 0	Kranjcar necháva neskoro na záchranu QPR pred Mojžišom inšpirovaným Stoke	Irán je väzený akademicky za zločiny proti režimu
 0	Cieľom spoločnosti Kerry je upokojiť napätie v Juhočínskom mori	Irackí Kurdi tvrdia, že Islamský štát použil chlórovú bombu
 0	Ebola prepukla „medzinárodná núdzová situácia“ - Svetová zdravotnícka organizácia	Úmrtia na epidémiu eboly presahujú 4 000 - WHO
-0	Nigeria reaches deal with Boko Haram over abducted girls: source	Skóre mŕtve po bombovom útoku Boko Haram v Nigérii
-0	Putin spokesman: Doping charges appear unfounded	Najnovšie v nepriaznivom počasí: 1 mŕtvy v Texase po tornáde
+0	Nigéria uzavrela dohodu s Boko Haram o unesených dievčatách: zdroj	Skóre mŕtve po bombovom útoku Boko Haram v Nigérii
+0	Hovorca Putina: Dopingové poplatky sa zdajú neopodstatnené	Najnovšie v nepriaznivom počasí: 1 mŕtvy v Texase po tornáde
 0	Šesť mŕtvych, 33 zranených pri výbuchu čínskeho ohňostroja	Pri havárii vrtuľníka v afganskej provincii Bámján boli dvaja ľudia zabití, 5 zranených
-0	Pakistan will not allow NGOs working against national interest: Nisar	Výbuch Číny v Tchien-ťin: záchranári pracujúci s časom
-0	New video shows US police officers beating mentally-ill man	New York police officer critically wounded in hatchet attack
+0	Pakistan nepovolí MVO pôsobiace proti národným záujmom: Nisar	Výbuch Číny v Tchien-ťin: záchranári pracujúci s časom
+0	Nové video ukazuje, ako americkí policajti bijú duševne chorého muža	Newyorský policajný dôstojník bol pri útoku sekerou kriticky zranený

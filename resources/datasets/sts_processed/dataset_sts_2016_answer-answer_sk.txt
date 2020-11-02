@@ -1549,21 +1549,21 @@
 5	Ak to neurobíte, idete skoro spať.	Ak si nie ste istí, ako na to, nerobte to vôbec.
 5	Pravdepodobne vám nebudú blokovať vstup, pokiaľ zaplatíte pokutu.	Pokiaľ vôbec neblokujete prieduch, mali by ste byť v poriadku.
 5	Myslím, že ste svoju recenziu do veľkej miery vykonali.	Myslím, že si pekne odpovedal na svoju otázku.
-5	Couple of things to add:	Just to correct a couple of mistakes:
-5	I think it's fine to ask this question.	I think there's a good solution to this.
-5	The answer depends on where you are.	Závisí to od vybavenia, ktoré používate.
-5	You might want to check out the rasgueado technique.	Pokiaľ ide o prvú otázku, možno budete chcieť skontrolovať Maxroam.
-5	I agree with the other comments.	I agree with the previous comments.
-3	Krátka zenová odpoveď by bola:	The short answer is :
-3	Odpoveď na obe otázky znie: Áno.	If the answer to any of these questions is yes, a PhD may be worthwhile for you.
+5	Pár vecí, ktoré treba pridať:	Len na opravu niekoľkých chýb:
+5	Myslím si, že je v poriadku položiť si túto otázku.	Myslím si, že je to dobré riešenie.
+5	Odpoveď závisí od toho, kde sa nachádzate.	Závisí to od vybavenia, ktoré používate.
+5	Možno budete chcieť vyskúšať techniku ​​rasgueado.	Pokiaľ ide o prvú otázku, možno budete chcieť skontrolovať Maxroam.
+5	Súhlasím s ostatnými komentármi.	Súhlasím s predchádzajúcimi komentármi.
+3	Krátka zenová odpoveď by bola:	Krátka odpoveď je:
+3	Odpoveď na obe otázky znie: Áno.	Ak je odpoveď na ktorúkoľvek z týchto otázok kladná, môže sa vám PhD hodiť.
 5	Skôr záleží na tom, v ktorej krajine sa nachádzate.	To závisí od toho, v ktorej krajine sa nachádzate.
-5	It depends on how it's used.	Závisí to od spôsobu výroby syra.
-5	I'm of the same mind as SF.	I had the same problem as you.
-5	The key thing to realize here is that it's not your job to make people do their work.	It is not your job to agree with the decisions but to do your best to make them work.
-5	Takto niekto zistí, kde ste boli, pozná smer, v ktorom vás má hľadať.	Apply to the one you think you want, and also describe that you're interested in the other.
-5	Yes it will help.	Yes Kilz will probably contain it.
-5	I believe the name of the movie you are looking for is Poltergeist 3.	I believe this is the episode you are looking for.
-5	This question is answered on wikipedia:	Na túto otázku odpovedal Ochef.com.
-5	Voltron is the name of the show you're looking for	The answer you are looking for is in the name of the building.
-5	You are on the right path.	You are right about the overtaking rules.
-5	This is a terrible idea.	This is a bad idea.
+5	Závisí to od toho, ako sa používa.	Závisí to od spôsobu výroby syra.
+5	Som rovnakého rozumu ako SF.	Mal som rovnaký problém ako ty.
+5	Kľúčovou vecou, ​​ktorú si tu musíte uvedomiť, je, že nie je vašou úlohou prinútiť ľudí, aby robili svoju prácu.	Nie je vašou úlohou súhlasiť s rozhodnutiami, ale robiť všetko pre to, aby fungovali.
+5	Takto niekto zistí, kde ste boli, pozná smer, v ktorom vás má hľadať.	Podajte žiadosť na jednu, o ktorej si myslíte, že chcete, a tiež opíšte, že vás druhá zaujíma.
+5	Áno pomôže.	Áno, Kilz to pravdepodobne bude obsahovať.
+5	Domnievam sa, že hľadaný film je Poltergeist 3.	Verím, že toto je epizóda, ktorú hľadáte.
+5	Táto otázka je zodpovedaná na wikipedii:	Na túto otázku odpovedal Ochef.com.
+5	Voltron je názov relácie, ktorú hľadáte	Odpoveď, ktorú hľadáte, je v názve budovy.
+5	Ste na správnej ceste.	Máte pravdu o pravidlách predbiehania.
+5	Toto je hrozný nápad.	To je zlý nápad.

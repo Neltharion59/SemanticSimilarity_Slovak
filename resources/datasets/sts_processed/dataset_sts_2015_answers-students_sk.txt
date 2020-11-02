@@ -1399,23 +1399,23 @@
 5.00	žiarovka c nemá vplyv na dráhu a a b.	Ak je C poškodené, A a B sú stále v uzavretej dráhe
 5.00	Žiarovky B a C boli ešte stále uzavreté v ceste s batériou.	Žiarovky B a C boli stále obsiahnuté v tej istej uzavretej ceste s batériou.
 4.60	pretože kladný pól batérie nie je od svorky 6 oddelený medzerou.	Svorka 6 a kladný pól nie sú oddelené medzerou
-4.00	medzera medzi 3 a kladnou batériou	Terminal 3 and the positive terminal are separated by the gap
+4.00	medzera medzi 3 a kladnou batériou	Svorka 3 a kladný pól sú oddelené medzerou
 5.00	v okruhu 4 nie je uzavretá cesta.	Okruh 4 nemá uzavreté cesty
-2.40	because the voltage doesnt change in the battery	Batéria využíva chemickú reakciu na udržanie rôznych elektrických stavov na svorkách
-3.40	because bulb A was still on a closed circuit	Žiarovka A je stále v uzavretej ceste s batériou.
-3.40	there is a gap at bulb b	Terminals 1, 2 and 3 are separated from the positive battery terminal by a gap
-3.40	it is on a closed path	If bulb A burns out, B and C are no longer in a closed path with the battery
-3.40	A IS ON ITS ON PATH B AND C SHARE A PATH	existuje cesta obsahujúca A a iná cesta obsahujúca B a C
-2.20	Existuje chemická reakcia.	A battery uses a chemical reaction to maintain different electrical states at the terminals
-2.20	bulb B and C will no be in a closed path with the battery	Ak žiarovka A vyhorí, B a C už nie sú s batériou v uzavretej dráhe
+2.40	pretože napätie sa v batérii nemení	Batéria využíva chemickú reakciu na udržanie rôznych elektrických stavov na svorkách
+3.40	pretože žiarovka A bola stále na uzavretom okruhu	Žiarovka A je stále v uzavretej ceste s batériou.
+3.40	pri žiarovke b je medzera	Svorky 1, 2 a 3 sú oddelené od kladného pólu batérie medzerou
+3.40	je na uzavretej ceste	Ak žiarovka A vyhorí, B a C už nie sú s batériou v uzavretej dráhe
+3.40	A JE NA JEHO NA CESTE B a C ZDIEĽAJTE CESTU	existuje cesta obsahujúca A a iná cesta obsahujúca B a C
+2.20	Existuje chemická reakcia.	Batéria využíva chemickú reakciu na udržanie rôznych elektrických stavov na svorkách
+2.20	žiarovky B a C nebudú s batériou v uzavretej dráhe	Ak žiarovka A vyhorí, B a C už nie sú s batériou v uzavretej dráhe
 2.20	stále pripojený k batérii	Ak žiarovka A vyhorí, B a C už nie sú s batériou v uzavretej dráhe
-2.20	žiarovky a a c sú uzavreté v uzavretej dráhe s batériou	Bulb A is still in a closed path with the battery
-2.20	Bulbs have to be contained in closed paths with the battery	Poškodená žiarovka a druhá žiarovka musia byť v rovnakom smere
+2.20	žiarovky a a c sú uzavreté v uzavretej dráhe s batériou	Žiarovka A je stále v batérii v uzavretej dráhe
+2.20	Žiarovky musia byť s batériou uzavreté v uzavretých dráhach	Poškodená žiarovka a druhá žiarovka musia byť v rovnakom smere
 3.00	žiarovka a je v uzavretom okruhu s batériou bez spínača y.	Žiarovka A je stále v batérii v uzavretej dráhe
-4.80	žiarovky b a c sú obsiahnuté v tej istej ceste	B and C are in the same path
-4.80	žiarovky a a c sú obsiahnuté v rôznych cestách s batériou.	A and C are in different paths with the battery
+4.80	žiarovky b a c sú obsiahnuté v tej istej ceste	B a C sú na rovnakej ceste
+4.80	žiarovky a a c sú obsiahnuté v rôznych cestách s batériou.	A a C sa líšia od batérie
 3.60	Spínač Z je v rovnakom smere ako žiarovka A	Žiarovka A je stále v uzavretej dráhe s batériou a spínačom Z.
-1.00	not contained inthe same path	Ak C zhorí, potom A a B sú stále v uzavretej ceste.
+1.00	nie sú obsiahnuté v tej istej ceste	Ak C zhorí, potom A a B sú stále v uzavretej ceste.
 2.80	žiarovky b a c sú na uzavretej ceste k batérii	Ak žiarovka A vyhorí, žiarovky B a C sú stále v uzavretej dráhe
 4.00	stále existujú úplné cesty k batérii pre B a C.	žiarovky B a C sú stále s akumulátorom v uzavretých dráhach
 3.00	Pretože sú obidve svorky spojené	Svorky 1 a 4 sú spojené
@@ -1425,24 +1425,24 @@
 3.20	V obvode je žiarovka	Batéria v 2 nie je v uzavretej ceste
 3.20	stále to bolo na uzavretej ceste	Žiarovka A bola stále v tej istej uzavretej ceste s batériou.
 5.00	V okruhu je medzera.	v okruhu je medzera
-1.40	Cez žiarovku B nie je žiadna cesta	there is no closed path
+1.40	Cez žiarovku B nie je žiadna cesta	neexistuje uzavretá cesta
 1.40	Žiarovka C je nezávislou cestou	Žiarovka C je v samostatnej ceste
-1.40	Svorka kladného akumulátora je oddelená medzerou od svorky 4.	Terminal 4 and the positive battery terminal are in the same electrical state
+1.40	Svorka kladného akumulátora je oddelená medzerou od svorky 4.	Svorka 4 a kladná svorka batérie sú v rovnakom elektrickom stave
 1.60	Ak je spínač pred dráhou žiarovky alebo nie.	Spínač a žiarovka musia byť v rovnakom smere
-1.60	The bulb must be in a closed pathway containing the battery	Ak sú žiarovka a spínač v rovnakom smere, spínač ovplyvňuje žiarovku
+1.60	Žiarovka musí byť v uzavretom kanáli obsahujúcom batériu	Ak sú žiarovka a spínač v rovnakom smere, spínač ovplyvňuje žiarovku
 1.60	medzi kladným pripojením batérie a svorkou žiarovky je medzera.	medzi svorkami nie je medzera
-3.00	a gap causes a lost connection	Nenulové napätie znamená, že svorky nie sú pripojené.
+3.00	medzera spôsobí stratu spojenia	Nenulové napätie znamená, že svorky nie sú pripojené.
 1.80	Žiarovka je mŕtva a nie je pripojená ku svorke batérie	medzi svorkami nie je medzera
 1.80	Je rušený elektrický stav.	Nenulové napätie znamená, že svorky nie sú pripojené.
 4.60	pretože žiarovka c bola v otvorenej ceste	Žiarovka C nebola v uzavretej ceste
 4.60	žiarovka a je na uzavretej ceste s batériou	Žiarovka A je stále v batérii v uzavretej dráhe
-4.20	because the battery has its own chemical reacion between the positive and negative tterminals it contains	A battery uses a chemical reaction to maintain different electrical states at the terminals
+4.20	batéria má svoju vlastnú chemickú reakciu medzi kladnými a zápornými svorkami, ktoré obsahuje	Batéria využíva chemickú reakciu na udržanie rôznych elektrických stavov na svorkách
 4.00	svorka je pripojená k kladnému pólu batérie	Svorka 5 a kladný pól sú spojené
-2.20	žiarovka a sa rozsvieti, keď je v uzavretej ceste s batériou.	there is a path containing A, C, Z and X
-2.20	a switch is contained in the path	The switch and the bulb have to be in the same path
+2.20	žiarovka a sa rozsvieti, keď je v uzavretej ceste s batériou.	existuje cesta obsahujúca A, C, Z a X
+2.20	v ceste je prepínač	Spínač a žiarovka musia byť v rovnakom smere
 2.20	Kladný pól batérie je oddelený medzerou od svorky 3	Svorka 3 a kladný pól sú oddelené medzerou
 2.20	pretože žiarovky a a c majú svoje uzavreté cesty	Žiarovky A a C sú uzavreté
-2.20	žiarovka vytvára medzeru v uzavretej dráhe	If bulb A burns out, neither B nor C is in a closed path
+2.20	žiarovka vytvára medzeru v uzavretej dráhe	Ak žiarovka A vyhorí, ani B, ani C nie sú v uzavretej dráhe
 2.20	otvorený vypínač a rozbitá žiarovka sú rovnaké	Poškodená žiarovka a druhá žiarovka musia byť v rovnakom smere
 2.20	terminál je pripojený k inému terminálu	Svorky 4, 5 a 6 sú pripojené ku kladnej svorke batérie
 5.00	Žiarovky A a C sú stále v batérii v uzavretej dráhe.	Žiarovky A a C sú stále uzavreté v uzavretej dráhe s batériou

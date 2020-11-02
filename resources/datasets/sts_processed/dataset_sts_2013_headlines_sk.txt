@@ -599,17 +599,17 @@
 3.8	Rusko, Čína vetujú rezolúciu OSN o Sýrii	Rusko a Čína vetujú rezolúciu OSN o zabíjaní Sýrie
 1.4	Pri streľbe v Toronte boli dvaja zabití, 19 zranených	Dvaja mŕtvi, 7 zranených pri streľbe vo Fínsku
 3.4	To, čo videl pápežov komorník, zatknutý pobočník pre úniky Vatikánu	Pápežov komorník zatknutý pre škandál s únikmi Vatikánu
-3.8	Anti-Putin protesters form human chain in Moscow	Protiputinskí demonštranti tvoria ľudskú reťaz
-1.6	Juror: Sandusky appeared to accept his fate	Jerry Sandusky odsúdený za sexuálne zneužívanie detí
+3.8	Protiputinskí demonštranti tvoria v Moskve ľudskú reťaz	Protiputinskí demonštranti tvoria ľudskú reťaz
+1.6	Porotca: Zdá sa, že Sandusky prijal jeho osud	Jerry Sandusky odsúdený za sexuálne zneužívanie detí
 2.6	Akty Kongresu vo Washingtone sa predávajú za 9,8 mil. USD	Kópia ústavy USA Georga Washingtona sa predáva za 9,8 mil. USD
-4.4	Lakers Fire Coach Mike Brown After 1-4 Start	Lakers fire Mike Brown after 1-4 start
-3.4	Canadian Muslims issue fatwa against 'honor killing'	Americkí a kanadskí imámovia vydávajú fatwu proti vraždám zo cti
+4.4	Lakerský tréner Mike Brown po štarte 1: 4	Lakers vyhodia Mika Browna po štarte 1: 4
+3.4	Kanadskí moslimovia vydávajú fatwu proti „vražde zo cti“	Americkí a kanadskí imámovia vydávajú fatwu proti vraždám zo cti
 3.6	OSN, aby sa ujalo sýrskej rezolúcie	Zhromaždenie OSN bude hlasovať o rezolúcii Sýrie
 4.4	Vojak si „nemôže spomenúť“ na masaker	Americký vojak „si nespomína na masaker“
 4.4	Nie dobrý začiatok: Hollandovo lietadlo zasiahlo blesk na ceste do Berlína	French President Francois Hollande's plane hit by lightning en route to Berlin
 1.2	Líbyjský premiér pomenoval nový kabinet po protestoch proti pôvodnému	Líbyjské zhromaždenie odmieta nový kabinet, odvoláva predsedu vlády
 3.8	Na východe Afganistanu zabití 4 zahraniční vojaci	V Afganistane boli údajne zabití 4 francúzski vojaci
-2.5	Syrian forces storm central town	Sýrske sily bombardujú Homs, Rusko varuje pred občianskou vojnou
+2.5	Sýrske sily vtrhnú do centra mesta	Sýrske sily bombardujú Homs, Rusko varuje pred občianskou vojnou
 2.2	Pak: 20 mŕtvych pri protestoch proti islamu	25 osôb bolo zranených pri protestoch proti islamskému filmu v pakistanskom Islamabade
 1.8	Príčina smrti Whitney Houstonovej môže trvať týždne	Vyšetrovatelia hľadajú odpovede na smrť Whitney Houston
 3.6	Severná Kórea varuje pred odvetou za juhokórejský výcvik	Sever varuje pred odvetou za plán námorného výcviku Soulu
@@ -622,32 +622,32 @@
 1.2	Profily hlavných egyptských prezidentských kandidátov	Druhý deň egyptských prezidentských volieb
 4.4	Herec Gazzara zomrel vo veku 81 rokov	Vo veku 81 rokov zomrel herec Ben Gazzara
 0.6	Britská zlatá horúčka umlčí náklady	2 britskí vojaci zabití pri afganskom útoku zasvätených osôb
-4.6	Lavína pochovala najmenej 100 pakistanských vojakov	Avalanche buries over 100 Pakistani soldiers
-4.6	Inflation falls to 15-month low: what the analysts say	Inflácia klesá na 15-mesačné minimum
+4.6	Lavína pochovala najmenej 100 pakistanských vojakov	Lavína pochovala viac ako 100 pakistanských vojakov
+4.6	Inflácia klesá na 15-mesačné minimum: tvrdia analytici	Inflácia klesá na 15-mesačné minimum
 3	Komen nezníži financovanie plánovaného rodičovstva	Susan G Komenová sa obrátila o zníženie financovania plánovaným rodičovstvom
 2.2	Forex &amp; Gold 25 August 2012	Forex a zlato 19. júla 2012
 4.8	Afganský parlament hlasuje pre kľúčových ministrov	Afganský parlament hlasuje o odvolaní kľúčových ministrov
-2.8	Iran says UN nuclear talks will continue	Irán tvrdí, že jadrové rozhovory s OSN sú „konštruktívne“
+2.8	Irán tvrdí, že jadrové rozhovory OSN budú pokračovať	Irán tvrdí, že jadrové rozhovory s OSN sú „konštruktívne“
 4.2	Agrobiznis: Choroba šialených kráv nájdená v Kalifornii	USDA potvrdzuje prípad choroby šialených kráv v Kalifornii
-3.6	BP sells some Gulf of Mexico assets for $5.55 bil	Spoločnosť BP predáva aktíva v Mexickom zálive spoločnosti Plains za 5,55 miliardy dolárov
+3.6	BP predáva niektoré aktíva v Mexickom zálive za 5,55 miliárd dolárov	Spoločnosť BP predáva aktíva v Mexickom zálive spoločnosti Plains za 5,55 miliardy dolárov
 3.6	300 potenciálnych obetí Jimmyho Savileho: polícia	UK: Vynorí sa 300 potenciálnych obetí zneužívania Savile
 0.8	Romney vedie pri získavaní peňazí súperov, nie Obamu	Romney: V roku 1999 som opustil celé vedenie Baina
 4.6	Armstrong zostupuje z Livestrongu	Armstrong stojí z Livestrongu
-1.8	US drone strike kills 5 militants in Pakistan	Americké drony zabili v Jemene 16 podozrivých militantov
+1.8	Americký bezpilotný útok zabil 5 militantov v Pakistane	Americké drony zabili v Jemene 16 podozrivých militantov
 1	Obžalovaní z 11. septembra ignorujú sudcu na pojednávaní na Guantáname	Obžalovaní 11. septembra rozčuľujú rodiny na pojednávaní
 1	Sýrsky štát nezastaví útoky	Sýrska opozícia informovala o „masakre“
-4.6	Chinese stocks close higher midday Friday	Čínske akcie sú vyššie v piatok napoludnie
+4.6	Čínske akcie sa v piatok napoludnie zatvárajú vyššie	Čínske akcie sú vyššie v piatok napoludnie
 3.2	Mjanmarsko: Opozícia tvrdí, že Su Ťij zvíťazila	Voliči v Mjanmarsku dúfajú, že strana Su Ťij vyhrá
 1	Obamovo hodnotenie hlasovania klesá, čo sa týka republikánskych rivalov	Obamova veľká hispánska výhra znepokojuje republikánov
-1.2	V Afganistane boli zranení dvaja vojaci Aust	4 foreign soldiers killed in Afghan east
+1.2	V Afganistane boli zranení dvaja vojaci Aust	Na afganskom východe zahynuli 4 zahraniční vojaci
 3.4	Útočník v afganskej uniforme zabil 2 jednotky NATO	Muž v uniforme afganskej armády zabil vojaka NATO
 1	Nový šéf sýrskej opozície chce pomoc bez strún	Sýrska opozícia sa zjednocuje, keď Izrael strieľa varovné výstrely
 3.8	Lacné generiká nie sú všeliekom pre najchudobnejších obyvateľov Indie	Lacné lieky proti rakovine neliečia najchudobnejších Indov
 2.6	Egypťania hlasujú za výber prezidenta prvýkrát	Egypťania čakajú na kľúčové výsledky prezidentských volieb
-0.8	Zrážka mín v Južnej Afrike zabila najmenej 30 ľudí	South Africa train crash kills 26
+0.8	Zrážka mín v Južnej Afrike zabila najmenej 30 ľudí	Zrážka vlaku v Juhoafrickej republike zabila 26
 2.6	Sýrske sily bombardujú Homs, Rusko varuje pred občianskou vojnou	Sýrske sily bombardujú Homs, Lavrov prichádza na rokovania
 4.2	Výsledky prezidentských volieb v Egypte sa oneskorili	Výsledok egyptských volieb sa oneskoril
-1.6	Deadline passes with no new Iran sanctions	EÚ sa posúva bližšie k sankciám voči Novému Iránu
+1.6	Termín plynie bez nových sankcií voči Iránu	EÚ sa posúva bližšie k sankciám voči Novému Iránu
 0.8	Zatknutý ruský vrah popiera väzby na Pussy Riot	Desiatky zatknutých na protestoch ruskej televíznej veže
 2.8	Pamätník Nórska vyznamenáva 77 obetí masakry	Nórsko si pripomína výročie masakry
 3.8	Americký generál Afganistan súvisí so škandálom Petraeus	Vysoký generál USA prepojený so škandálom Petraeus
@@ -657,94 +657,94 @@
 2.8	NKorea dosahuje „významný“ pokrok v jadrovom reaktore - IAEA	Severná Kórea sľubuje rozšírenie jadrového odstrašovania
 3.4	Prezident Maldív končí po vzbure polície, protestuje	Maldivský prezident po týždňoch protestov končí
 0.8	Štrajk NATO v Afganistane „zabíja civilistov“	Dvaja vojaci NATO zabití v Afganistane
-1.4	Al-Qaida says it captures 70 Yemeni soldiers in Abyan's battle	Al Qaeda clashes, blasts kill 35 soldiers in Yemen
+1.4	Al-Káida tvrdí, že zajala 70 jemenských vojakov v bitke Abyan	Zrážky Al-Káidy, výbuchy zabili v Jemene 35 vojakov
 3.4	Letectvo narazilo do amerických bytov, piloti sa katapultovali	Americké námorníctvo narazilo do bytových domov vo Virgínii
 0.8	Akcie Číny sa v stredu otvárajú vyššie	Americké akcie sa otvárajú vyššie aj napriek chýbajúcemu HDP
-0	IDF to deploy Iron Dome in Central Israel	Hlavné snehové búrky dole na Central Plains
+0	IDF rozmiestni Iron Dome v strednom Izraeli	Hlavné snehové búrky dole na Central Plains
 3	4 Zabitý v USA Drone Strike v Pakistane	U.S. Drone Strike Kills 3 in Pakistan
 3.4	Americký tínedžer držal v Chicagu „džihádový“ bombový útok na auto	Teenager z Chicaga bol uväznený pri bombovom útoku na auto v Chicagu
-0.2	PC David Rathband: twin brother's fears for his 'bestest mate'	David Miliband: môj brat a návrat k starej práci
-4.4	Sýrske sily sa snažia dobyť Aleppo	Syrian Regime Bids To Retake City Of Aleppo
+0.2	PC David Rathband: obavy dvojčaťa o jeho „najlepšieho kamaráta“	David Miliband: môj brat a návrat k starej práci
+4.4	Sýrske sily sa snažia dobyť Aleppo	Sýrsky režim sa uchádza o opätovné obsadenie mesta Aleppo
 0	20-členný parlamentný obchodný tím odchádza do Indie	Sekretár obchodu si vezme dovolenku
 4.2	Sly Sallone Sone Sage nájdený mŕtvy v LA	Syn Sylvestra Stallona nájdený mŕtvy doma
 2	Wall Street sa otvára nižšie	Wall Street končí zmiešané
 4.4	Clinton: USA, Európa musí urobiť viac proti tyranom	Clinton: USA, Európa musia pracovať na tom, aby porazili tyranov
 0.8	Akcie vidia viac ako Čína	Ceny ropy rastú v nádeji na stimul
 4	Sýrske sily prekročili povstaleckú pevnosť	Sýrska armáda zaberá pevnosť severných povstalcov
-4.4	Futures na akciový index poukazujú na nižší štart	Stock index futures signal early losses
+4.4	Futures na akciový index poukazujú na nižší štart	Futures na akciové indexy signalizujú skoré straty
 1.4	Muž obvinený po tom, čo MP zranil pri útoku	Muž obvinený z vraždy v byte
-1	Chinese stocks close higher midday Friday	Čínske akcie sa otvárajú nižšie v piatok
+1	Čínske akcie sa v piatok napoludnie zatvárajú vyššie	Čínske akcie sa otvárajú nižšie v piatok
 0	Nokia sa ospravedlňuje za „fingovanú“ reklamu	USA upúšťajú od poskytovania pomoci pre Pak
-3	US drone strike kills 5 militants in Pakistan	Drone strike kills four suspected militants in Pakistan
-4.4	Sýrski povstalci odchádzajú z obkľúčeného Homsu	Syrian rebels retreat from besieged Homs district
+3	Americký bezpilotný útok zabil 5 militantov v Pakistane	Štrajk dronov zabil v Pakistane štyroch podozrivých militantov
+4.4	Sýrski povstalci odchádzajú z obkľúčeného Homsu	Sýrski povstalci ustupujú z obkľúčeného okresu Homs
 4	USA nariadili nepodstatným zamestnancom opustiť sudánsky Tunisko	USA nariadili nepodstatným zamestnancom opustiť Tunisko v Sudáne
-4.6	Egyptský Mubarak je kritický	Egypt's Mubarak in critical condition
-2.6	Piesočná rana na severovýchod; najmenej 18 mŕtvych, 7,4 milióna bez napájania	Eastern U.S. storms leave 2 dead in Va., 2 million without power
+4.6	Egyptský Mubarak je kritický	Egyptský Mubarak v kritickom stave
+2.6	Piesočná rana na severovýchod; najmenej 18 mŕtvych, 7,4 milióna bez napájania	Búrky na východe USA zanechali vo Va. 2 mŕtvych, 2 milióny bez energie
 2.2	Romney, Obama narazil na daň, ekonomiku v prvej rozprave	Obama a Romney idú na pódium pre prvú debatu
-3.33333333333333	Assad tvrdí, že za nepokojmi v Sýrii stoja žoldnieri	Assad Accuses US of Fueling Syrian Uprising
-1	Putin vyhlasuje víťazstvo v Rusku Prezidentské hlasovanie	Complaints in Russian election mount
-0	Japan PM dissolves lower house for election	Iran and world powers set for nuclear talks
+3.33333333333333	Assad tvrdí, že za nepokojmi v Sýrii stoja žoldnieri	Assad obviňuje USA z tankovania sýrskeho povstania
+1	Putin vyhlasuje víťazstvo v Rusku Prezidentské hlasovanie	Sťažnosti v ruských voľbách
+0	Japonský premiér rozpustil dolnú komoru pre voľby	Irán a svetové mocnosti sa pustili do jadrových rozhovorov
 2	Dvaja zabití pri novom izraelskom štrajku v Gaze: zdravotníci	5 ľudí zahynulo pri štrajkoch v Gaze, ozbrojenci strhli Izrael
 3.2	Tryskové námorníctvo narazilo do budov vo Virgínii, šesť bolo zranených	Námorné tryskové lietadlo narazilo do bytov vo Virginii, 9 bolo zranených
-3.2	One NATO soldier killed in S. Afghanistan	Britský vojak zabitý v južnom Afganistane
-4.2	Miera nezamestnanosti v Španielsku dosahuje nové maximum	Spain's jobless claims hit new high
+3.2	Jeden vojak NATO zabitý v S. Afganistane	Britský vojak zabitý v južnom Afganistane
+4.2	Miera nezamestnanosti v Španielsku dosahuje nové maximum	Žiadosti Španielska o nezamestnanosť dosiahli nové maximum
 2.6	Bomba pri ceste zabila 10 afganských civilistov: polícia	Bomba pri ceste zabila 5 afganských policajtov
-3.6	Turecko štrajkuje trysky blízko hraníc	Turkey scrambles jets to Syrian border
+3.6	Turecko štrajkuje trysky blízko hraníc	Turecko štrajkuje s prúdmi k sýrskym hraniciam
 1.4	Najvyšší súd, ktorý vypočuje zákon o hlasovacích právach	Najvyšší súd prejedná prípad ľudských práv právnických osôb
-0	Two die in Syria violence after UN monitors land	Dvojročný zákaz dopingu pre Contador
-2.8	Vystúpenie prezidenta na vedeckom veľtrhu v Bielom dome	The Presidential Planner - The White House Science Fair
+0	Po tom, čo OSN monitorovala pôdu, dvaja zomreli pri násilnostiach v Sýrii	Dvojročný zákaz dopingu pre Contador
+2.8	Vystúpenie prezidenta na vedeckom veľtrhu v Bielom dome	Prezidentský plánovač - Vedecký veľtrh v Bielom dome
 1	Civilný, utečenec zabitý v Sýrii, tvrdí mimovládna organizácia	Sýrski ozbrojenci zabili troch sýrskych dôstojníkov: mimovládna organizácia
 4	Malawi potvrdzuje prezidentovu smrť	Malawi potvrdzuje smrť prezidenta Muthariku
 1.2	Taiwan rachotil po silnom zemetrasení	Čína otriasla dvojitým zemetrasením
-2.8	Bank of England's Paul Tucker tainted by Libor mess	Bank of England deputy denies ordering rate-rigging
-4	Líbya posúva voľby do zhromaždenia na 7. júla	Libya postpones landmark election to July 7
+2.8	Paul Tucker z Bank of England poškvrnený Liborovým neporiadkom	Námestník Bank of England popiera, že by nariadil úpravu sadzieb
+4	Líbya posúva voľby do zhromaždenia na 7. júla	Líbya posunula rozhodujúce voľby na 7. júla
 4.4	Červený kríž hovorí, že rokovania o zastavení bojov v Sýrii s cieľom prijať pomoc	Červený kríž rokujúci o prímerí v Sýrii s cieľom poskytnúť pomoc
-0.8	Syrian forces shoot civilians on bus	Blízko Turecka sa zrážajú sýrske sily a povstalci
+0.8	Sýrske sily strieľajú na civilistov v autobuse	Blízko Turecka sa zrážajú sýrske sily a povstalci
 4.4	Nemecký parlament v drvivej väčšine podporuje grécku dohodu o záchrane	Nemecký parlament schvaľuje záchranu Grécka
-3.4	Bombardovanie, strety pokračujú v Sýrii	Bombings, clashes as Syria opposition seeks arms
-4.2	Slávnostné otvorenie olympijských hier v Londýne 2012 „bude obsahovať zelenú a príjemnú zem“	London 2012 Olympics: Opening Ceremony to be a 'green and pleasant land', says Danny Boyle
-2.4	Burma's reforms bring easing of U.S. sanctions	Barmskí aktivisti tvrdia, že zmierňovanie sankcií ide pomaly
+3.4	Bombardovanie, strety pokračujú v Sýrii	Bombardovanie, strety, keď sýrska opozícia hľadá zbrane
+4.2	Slávnostné otvorenie olympijských hier v Londýne 2012 „bude obsahovať zelenú a príjemnú zem“	Olympijské hry v Londýne 2012: Otvárací ceremoniál bude „zelenou a príjemnou krajinou“, hovorí Danny Boyle
+2.4	Barmské reformy prinášajú zmiernenie amerických sankcií	Barmskí aktivisti tvrdia, že zmierňovanie sankcií ide pomaly
 0.2	Usain Bolt vyhral 200 metrov - reakcia Stevena Howarda	Zisky z mobilných telefónov Facebook zvyšujú príjmy: reakcia
-0.4	Dozens dead in Taliban resort attack	'India police name 3 Iranians in embassy attack'
-3.8	Heavy fighting rocks eastern Syria ahead of poll	Ťažké bojové skaly východná Sýria - obyvatelia
+0.4	Desiatky mŕtvych pri útoku na stredisko Taliban	„Indická polícia označila 3 Iráncov za útokom na ambasádu“
+3.8	Ťažké bojové skaly na východe Sýrie pred volebným obdobím	Ťažké bojové skaly východná Sýria - obyvatelia
 2.8	Čínsky jüan v pondelok oslabuje na 6 3282 USD	Čínsky jüan ustupuje vo štvrtok proti 6,2697 voči USD
 1.4	7 mŕtvych pri streľbe z kresťanskej školy	5 zranených pri streľbe na škole v Ohiu
-3.2	Indonesia anti-terror squad kills two suspected militants	Indonesia police shoot dead suspected militants in Bali
-4	US Election: Mitt Romney concedes defeat as Barack Obama wins second term	Romney pripúšťa voľby do Obamu v telefonáte
-3.2	Armenians vote in parliamentary elections	Armenia's parliamentary vote a test for president
+3.2	Indonézska protiteroristická jednotka zabila dvoch podozrivých militantov	Indonézska polícia na Bali zastrelila podozrivých militantov
+4	Voľby do USA: Mitt Romney pripúšťa porážku, pretože Barack Obama vyhral druhé volebné obdobie	Romney pripúšťa voľby do Obamu v telefonáte
+3.2	Arméni hlasujú v parlamentných voľbách	Arménske parlamentné hlasovanie je testom na prezidenta
 3.8	Pakistan blokuje Twitter pre antiislamský materiál	Pakistan blokuje Twitter pre „rúhanie“
-3.8	Annan v utorok navštívi sýrskych utečencov v Turecku	Annan to visit Syrian refugees in Turkey before Iran
-3.2	Venezuela's Chavez in Cuba for 3rd anti-cancer treatment	Venezuelský vodca sa vracia na liečenie na Kubu
-1.6	Sachin Tendulkar zložil prísahu ako indický senátor	MP Sachin Tendulkar says no to govt bungalow
-0	Obyvatelia blízko Gazy dostali pokyn zostať v blízkosti útulku	Best’s great day brings West Indies cheer
-3.6	Navy Jet Crashes Into Apartment Building	U.S. Navy Jet Crashes Into Virginia Apartment Buildings
-1.5	Romney wins big in Puerto Rico primary	Romney wins Illinois primary
-4.2	Yahoo! to name Google's Mayer as CEO: report	Spoločnosť Yahoo vymenovala výkonného riaditeľa spoločnosti Google za spoločnosť Google
-2	Americký vojak obvinený z afganského masakru najíma prominentného trestného právnika	US soldier accused of killing Afghan civilians identified
-1.6	6.0-magnitude quake hits northern Italy: USGS	5.9-magnitude quake hits Sunda Strait, Indonesia: USGS
-4.4	Vláda USA oficiálne označuje sieť Haqqani za teroristov	US designates Haqqani network as terrorists
-3	Motor Racing: Button fastest in year's first F1 practice	Button boasts best time after first practice
-4.8	Rangers voted into Division Three	Rangers voted into third division
-1.8	Syria in ceasefire observers call	Sýrske prímerie prináša nepokojný pokoj
+3.8	Annan v utorok navštívi sýrskych utečencov v Turecku	Annan navštíviť sýrskych utečencov v Turecku pred Iránom
+3.2	Venezuelský Chávez na Kube za 3. protirakovinovú liečbu	Venezuelský vodca sa vracia na liečenie na Kubu
+1.6	Sachin Tendulkar zložil prísahu ako indický senátor	Poslanec Sachin Tendulkar hovorí nie bungalovu
+0	Obyvatelia blízko Gazy dostali pokyn zostať v blízkosti útulku	Best's great day makes West Indies fandiť
+3.6	Navy Jet sa zrúti do bytového domu	Americké námorníctvo narazilo do bytových domov vo Virgínii
+1.5	Romney zvíťazil na prvom mieste v Portoriku	Romney vyhral primárnu v Illinois
+4.2	Yahoo! menom Mayera z Google ako generálneho riaditeľa: správa	Spoločnosť Yahoo vymenovala výkonného riaditeľa spoločnosti Google za spoločnosť Google
+2	Americký vojak obvinený z afganského masakru najíma prominentného trestného právnika	Americký vojak obvinený zo zabitia afganských civilistov identifikovaný
+1.6	Severné Taliansko zasiahlo zemetrasenie o sile 6 stupňov: USGS	Otrasy o sile 5,9 stupňa zasiahli Sundský prieliv, Indonézia: USGS
+4.4	Vláda USA oficiálne označuje sieť Haqqani za teroristov	USA označili sieť Haqqani za teroristov
+3	Motoristické preteky: Najrýchlejší gombík v prvom tohtoročnom tréningu F1	Button sa môže pochváliť najlepším časom po prvom tréningu
+4.8	Rangers hlasovali pre divíziu tri	Rangers hlasovali pre tretiu divíziu
+1.8	Vyzývajú pozorovatelia prímeria v Sýrii	Sýrske prímerie prináša nepokojný pokoj
 4.2	Starosta Newarku zachráni suseda pred požiarom	Starosta Newarku zachráni suseda z horiaceho domu
-0	Spurs get revenge on Lakers, lead West	Abduct Israelis to free prisoners, Gaza leaders say
-2.25	Protesty F1 v Bahrajne	A day of rage in Bahrain
-3	Newyorská burza cenných papierov sa v stredu opäť otvorí	DealBook: Stock Exchanges Prepare to Open
-2.6	Čínsky rast CPI sa v júli spomalí na 1,8%	China's industrial output growth slows to 9.2 pct in July
-2.6	Homs mortar fire kills 105	Homs offensive kills 200
-2	Hundreds honor student killed in Ohio shooting	Funeral set for Ohio shooting victim
-3	Bombs in southern Thailand kill 5, wound 50	Bomby v Thajsku zabili 14, zranili 340
-0.2	US lawmakers take next step on new Iran sanctions	Somalia lawmakers to vote for new president
-0.4	Barack Obama admits US has 'more nuclear weapons than we need'	Francúzsky ozbrojenec chce „zomrieť so zbraňami v rukách“
-1.8	2 rockets hit in the Eshkol region; no injuries	10 rockets in 20 minutes in Eshkol Regional Council
-0.6	'Betrayed' disabled workers protest against Remploy closures	May Day marked by protests against austerity cuts
-4	Povstalci z Konga zabíjajú strážcov parku	Rebels kill two park rangers in eastern Congo
-0.8	Nine Pakistani troops killed in militant ambush	Trade: Pakistan, India agree to take it a step ahead
-3.2	74 dead in Egypt soccer violence	Najmenej 73 zomrelo pri invázii egyptského futbalového ihriska
-0.2	Nepokoje v napätej Nigérii si vyžiadajú najmenej 95 mŕtvych	Southwest China quakes kill at least 50
-3	Hurricane Sandy makes landfall in southeastern Jamaica: NHC	Hurikán Sandy sa dostáva na Jamajku
-2.75	Gaza militants fire 40 rockets into Israel, 3 hurt: police	Gazania odpálili štyri rakety do Izraela; bez zranení
-1.5	Poznámky s predsedom vlády Elkeibom po ich stretnutí	Remarks With Foreign Minister Koichiro Gemba
-3.2	Iraq Releases Suspected Hezbollah Operative Wanted By U.S.	Iraq Said to Release Hezbollah Operative
-2.4	Pakistani PM shocked at avalanche trapping army personnel	Pakistanská lavína: záchranári pátrajú po pochovaných vojakoch
-1.2	Barrick rokuje s čínskou spoločnosťou o afrických aktívach	Obama aide holds talks in China after Syria veto
+0	Spurs sa pomstia Lakers, vedú na západ	Unesú Izraelčanov na slobodu väzňov, tvrdia vodcovia Gazy
+2.25	Protesty F1 v Bahrajne	Deň besnenia v Bahrajne
+3	Newyorská burza cenných papierov sa v stredu opäť otvorí	DealBook: Burzy sa pripravujú na otvorenie
+2.6	Čínsky rast CPI sa v júli spomalí na 1,8%	Rast priemyselnej produkcie v Číne v júli spomalil na 9,2%
+2.6	Homs mínomet zabil 105	Homs útočný zabije 200
+2	Stovky študentov cti zabitých pri streľbe v Ohiu	Pohrebná sada pre obete streľby v Ohiu
+3	Bomby v južnom Thajsku zabili 5, zranili 50	Bomby v Thajsku zabili 14, zranili 340
+0.2	Americkí zákonodarcovia podnikajú ďalší krok k novým iránskym sankciám	Somálski zákonodarcovia hlasovali za nového prezidenta
+0.4	Barack Obama pripúšťa, že USA majú „viac jadrových zbraní, ako potrebujeme“	Francúzsky ozbrojenec chce „zomrieť so zbraňami v rukách“
+1.8	V oblasti Eškol zasiahli 2 rakety; bez zranení	10 rakiet za 20 minút v regionálnej rade v Eškol
+0.6	„Zradení“ zdravotne postihnutí pracovníci protestujú proti zatváraniu spoločnosti Remploy	Prvý máj poznačený protestmi proti úsporným škrtom
+4	Povstalci z Konga zabíjajú strážcov parku	Rebeli zabili dvoch strážcov parku vo východnom Kongu
+0.8	Deväť pakistanských vojakov zabitých v zálohe militantov	Obchod: Pakistan a India sa dohodli, že urobia krok vpred
+3.2	74 mŕtvych v Egypte pri futbalovom násilí	Najmenej 73 zomrelo pri invázii egyptského futbalového ihriska
+0.2	Nepokoje v napätej Nigérii si vyžiadajú najmenej 95 mŕtvych	Otrasy v juhozápadnej Číne zabili najmenej 50 ľudí
+3	Hurikán Sandy dopadá na juhovýchod Jamajky: NHC	Hurikán Sandy sa dostáva na Jamajku
+2.75	Militanti v Gaze odpálili do Izraela 40 rakiet, 3 zranenia: polícia	Gazania odpálili štyri rakety do Izraela; bez zranení
+1.5	Poznámky s predsedom vlády Elkeibom po ich stretnutí	Poznámky s ministrom zahraničných vecí Koichirom Gembom
+3.2	Irak prepustil podozrivé operatívne Hizballáh zo strany USA	Irak uviedol, že prepustil operatívny Hizballáh
+2.4	Pakistanský premiér šokoval personál lavíny zachytávajúci armádu	Pakistanská lavína: záchranári pátrajú po pochovaných vojakoch
+1.2	Barrick rokuje s čínskou spoločnosťou o afrických aktívach	Obamov asistent vedie rozhovory v Číne po tom, čo Sýria vetuje
