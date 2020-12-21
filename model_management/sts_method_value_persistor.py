@@ -43,6 +43,21 @@ def get_persisted_method_types(dataset_name):
     return method_list
 
 
+def get_persisted_method_values(dataset_name):
+    input_file_path = output_folder + dataset_name
+    method_pool = {}
+    try:
+        with open(input_file_path, 'r', encoding='utf-8') as input_file:
+            for line in input_file:
+                line = line.replace('\n', '')
+                method_name = line.split(':')[0]
+                method_values = list(map(lambda x : float(x), line.split(':')[1].split(',')))
+                method_pool[method_name] = method_values
+    except FileNotFoundError:
+        return None
+    return method_pool
+
+
 def load_dataset(dataset_name):
     input_file_path = input_folder + dataset_name
     words1, words2 = [], []

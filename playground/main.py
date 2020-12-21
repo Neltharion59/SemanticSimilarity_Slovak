@@ -1,2 +1,3 @@
-from basic_similarity_methods.character_based import *
+from evaluation.evaluate_regression_metrics import print_dataset_metrics
 
+print_dataset_metrics('dataset_sts_2013_OnWN_sk.txt')
