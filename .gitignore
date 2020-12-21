@@ -2,4 +2,3 @@
 interpreter/*
 *pycache*
 *.pyc
-model_management/__pycache__/sts_method_value_persistor.cpython-36.pyc
