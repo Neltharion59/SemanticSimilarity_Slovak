@@ -39,6 +39,7 @@ def evaluate_dataset_metrics(dataset_name):
 
 
 def evaluate_prediction_metrics(gold_standard_values, prediction_values):
+    prediction_values = list(map(lambda x: x * 5, prediction_values))
     prediction_metrics = {
         'MAE': mean_absolute_error(gold_standard_values, prediction_values),
         'MSE': mean_squared_error(gold_standard_values, prediction_values),
