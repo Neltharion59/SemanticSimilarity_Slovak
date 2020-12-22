@@ -180,21 +180,21 @@ sentence_pairs = [["slabý pomaranč variť", "silný citrón piecť"]]
 similarities = [wu_palmer_similarity_sentence, path_similarity_sentence, leacock_chodorow_similarity_sentence]
 
 
-for sentence_pair in sentence_pairs:
-    for similarity in similarities:
-        for sentence_merge_strategy in args['sentence_merge_strategy']:
-            for synset_strategy in args['synset_strategy']:
-                curr_args = {
-                    'sentence_merge_strategy': sentence_merge_strategy,
-                    'synset_strategy': synset_strategy,
-                    'wordnet': 'slk'
-                }
-                print("{}-{} : {} - {}, {}, {}".format(
-                    sentence_pair[0],
-                    sentence_pair[1],
-                    similarity(sentence_pair[0], sentence_pair[1], curr_args),
-                    similarity.__name__,
-                    sentence_merge_strategy,
-                    synset_strategy
-                ))
-exit()
+# for sentence_pair in sentence_pairs:
+#     for similarity in similarities:
+#         for sentence_merge_strategy in args['sentence_merge_strategy']:
+#             for synset_strategy in args['synset_strategy']:
+#                 curr_args = {
+#                     'sentence_merge_strategy': sentence_merge_strategy,
+#                     'synset_strategy': synset_strategy,
+#                     'wordnet': 'slk'
+#                 }
+#                 print("{}-{} : {} - {}, {}, {}".format(
+#                     sentence_pair[0],
+#                     sentence_pair[1],
+#                     similarity(sentence_pair[0], sentence_pair[1], curr_args),
+#                     similarity.__name__,
+#                     sentence_merge_strategy,
+#                     synset_strategy
+#                 ))
+# exit()
