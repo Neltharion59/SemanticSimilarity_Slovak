@@ -16,7 +16,7 @@ def predict_and_persist_values(sts_method, dataset_name):
         if len(persisted_values) >= len(words1):
             print("All values already predicted, no more action to be done")
             return
-        print("Cutting down dataset size from {} to {}".format(len(words1), len(persisted_values)))
+        print("Cutting down dataset size from {} by {} to {}".format(len(words1), len(persisted_values), abs(len(words1) - len(persisted_values))))
         words1 = words1[len(persisted_values):]
         words2 = words2[len(persisted_values):]
 
@@ -25,7 +25,7 @@ def predict_and_persist_values(sts_method, dataset_name):
     output_file_path = output_folder + dataset_name
 
     with open(output_file_path, 'a+', encoding='utf-8') as output_file:
-        if len(persisted_values) == 0:
+        if len(persisted_values) == 0 and sts_method.name not in persisted_method_types:
             output_file.write(sts_method.name + ":")
 
         for predicted_value in sts_method.predict_mass(words1, words2):
@@ -98,7 +98,7 @@ def get_persisted_method_values(dataset_name):
                 if len(line) == 0:
                     continue
                 method_name = line.split(':')[0]
-                method_values = list(map(lambda x: float(x), line.split(':')[1].split(',')))
+                method_values = [] if len(line.split(':')[1]) < 1 else list(map(lambda x: float(x), line.split(':')[1].split(',')))
                 method_pool[method_name] = method_values
     except FileNotFoundError:
         return None

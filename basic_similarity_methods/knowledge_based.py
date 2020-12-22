@@ -131,6 +131,7 @@ def calculate_knowledge_similarity_sentence(sentence1, sentence2, similarity_fun
         for i in range(desired_length):
             sim_func(collection1[i], collection2[i], similarities)
 
+    similarities = list(filter(lambda x: x is not None, similarities))
     result = round(average(similarities), 2)
 
     return result
