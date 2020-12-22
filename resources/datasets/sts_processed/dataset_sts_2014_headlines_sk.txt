@@ -1,9 +1,9 @@
 3	Útočníci z Mall použili stratégiu „menej je viac“	V Keni útočníci použili stratégiu „menej je viac“
 0.4	Na pamiatku smrti kambodžských robotníkov sa objavili vodcovia opozície	Kambodžskí opoziční vodcovia boli predvolaní pred súd
 3.8	Slabé príjmy ťahajú akcie nižšie	Slabé zárobky ťahajú akcie nižšie na Wall Street
-3.2	6,8 zemetrasenia zasiahlo Šalamúnove ostrovy	Otrasy o sile 6,3 stupňa zasiahli Šalamúnove ostrovy: USGS
+3.2	68 zemetrasenia zasiahlo Šalamúnove ostrovy	Otrasy o sile 63 stupňa zasiahli Šalamúnove ostrovy: USGS
 4.6	Únik tekutého amoniaku zabil v Šanghaji 15 ľudí	Únik tekutého amoniaku zabije v Šanghaji najmenej 15 ľudí
-4	Priatelia Sýrie uznávajú opozičnú koalíciu ako legitímneho zástupcu sýrskeho ľudu	USA, Priatelia Sýrie, uznávajú opozíciu ako jediného zástupcu
+4	Priatelia Sýrie uznávajú opozičnú koalíciu ako legitímneho zástupcu sýrskeho ľudu	USA Priatelia Sýrie uznávajú opozíciu ako jediného zástupcu
 3	Weiner zostáva v závode starostu NYC uprostred nového škandálu sextingu	Weiner pokrčí posledný sexuálny škandál online
 0	Počet obetí stúpa pri páde ruského lietadla	Počet obetí autobusovej dopravy v Taliansku stúpol na 39
 2.8	Indické médiá: samit Commonwealthu	Indický premiér znemožňuje summit Spoločenstva národov
@@ -14,7 +14,7 @@
 2.6	Yvette Cooper podporuje účet za homosexuálne manželstvo	Biely dom podporuje manželstvá homosexuálov
 3.8	Piatich zabitých pri nehode belgického autobusu	Teenageri medzi 5 mŕtvymi pri nehode belgického autobusu
 3.4	Ozbrojenci unesú v Nigérii sedem zahraničných pracovníkov	V Nigérii uniesli sedem zahraničných pracovníkov
-5	Švajčiarski turisti „znásilnení“ v Indii	Polícia uviedla, že v Indii znásilňovali švajčiarsky turistický gang
+5	Švajčiarski turisti „znásilnení“ v Indii	Polícia uviedla že v Indii znásilňovali švajčiarsky turistický gang
 4.2	Palestínčania sa zrazili s izraelskými silami na západnom brehu Jordánu v Jeruzaleme	Zrážky Palestínčanov s bezpečnostnými silami vo W. Bank
 4.6	Izraelské lietadlá štrajkujú vo vnútri Sýrie	Izrael zahájil nálet do Sýrie
 0.4	Iránci hlasujú v prezidentských voľbách	Keita vyhráva prezidentské voľby v Mali
@@ -22,19 +22,19 @@
 1.4	Protest proti americkým útokom bezpilotných lietadiel bol odložený	6 ľudí zahynulo pri štrajku amerických bezpilotných lietadiel v severozápadnom Pakistane
 3.2	12 osôb zahynulo pri nehode autobusu v Pakistane	10 osôb bolo zabitých pri dopravnej nehode v severozápadnom Pakistane
 5	Carney nastavuje na BoE vysokú latku pre zmenu	Carney nastavuje latku zmien v Bank of England
-2.4	8 zatknutých po smrteľnom zrútení budovy v Bangladéši	Štyria zatknutí, keď sa mýto v Bangladéši zvýšilo na 352
+2.4	8 zatknutých po smrteľnom zrútení budovy v Bangladéši	Štyria zatknutí keď sa mýto v Bangladéši zvýšilo na 352
 2.8	Samovražedný atentátnik zabil 3 na americkej základni v Afganistane	Samovražední útočníci útočia na americkú základňu v Afganistane
-0.6	Afganci sa hrnú na vysoké školy, aj keď sa objavil tkalcovský stav	Guvernér afganského okresu zlyhal proti Talibanu
+0.6	Afganci sa hrnú na vysoké školy aj keď sa objavil tkalcovský stav	Guvernér afganského okresu zlyhal proti Talibanu
 5	Severná Kórea odkladá rodinné stretnutia s Juhom	Severná Kórea „odkladá“ rodinné odbory s Južnou Kóreou
-0.6	Príjmy spoločnosti Apple opäť chýbajú, iPhone sklamal	Pravidlá americkej obchodnej agentúry pre spoločnosť Samsung zakazujú dovoz iPhone 4
+0.6	Príjmy spoločnosti Apple opäť chýbajú iPhone sklamal	Pravidlá americkej obchodnej agentúry pre spoločnosť Samsung zakazujú dovoz iPhone 4
 3.4	Ozbrojenci zabijú na severe Pakistanu 10 zahraničných turistov	Ozbrojenci zabili v Pakistane 11 zahraničných horolezcov
 4.4	David Beckham oznamuje dôchodok z futbalu	David Beckham odchádza z futbalu do dôchodku
 4	Matt Smith opustí Doctor Who po 4 rokoch	Matt Smith skončil s BBC Doctor Doctor
 0	Generácie rozdelené kvôli homosexuálnym manželstvám	Samit G20 sa končí rozdelený na Sýriu
 1.6	23 Iraku zahynulo pri bombových útokoch na automobily	10 zabitých pri bombovom útoku v Iraku
-5	Muž, ktorý sa podpálil na National Mall, zomrie na úrazy	Muž, ktorý „zapálil“ v ​​obchodnom centre National Mall, zomrel
+5	Muž ktorý sa podpálil na National Mall zomrie na úrazy	Muž ktorý „zapálil“ v ​​obchodnom centre National Mall zomrel
 1.4	Útoky Talibanu zabili v Afganistane 17 civilistov	Séria útokov zabila v Afganistane 10 policajtov
-4.2	Čínsky jüan posilňuje v pondelok na 6,168 voči USD	Čínsky jüan posilňuje na 6,1696 oproti USD vo štvrtok
+4.2	Čínsky jüan posilňuje v pondelok na 6168 voči USD	Čínsky jüan posilňuje na 61696 oproti USD vo štvrtok
 1.6	Egyptský minister atentát prežil	Sýrsky premiér „prežil pokus o atentát“
 2.6	Obyvatelia Texasu hľadajú po smrteľnom výbuchu uzdravenie v kostole	Obyvatelia sa vracajú na miesto výbuchu Texasu
 4.2	Shinzo Abe Selected as Japan’s Prime Minister	Shinzo Abe is Japan's prime minister
@@ -44,68 +44,68 @@
 5	11 ľudí zahynulo pri útoku na čínsku policajnú stanicu	Jedenásť zabitých na čínskej policajnej stanici zaútočilo
 2.2	Mali hlasovať za prezidenta	Mali počíta hlasovanie po prezidentskom odtoku
 4	Bradley Cooper a JJ Abrams v rozhovoroch o natáčaní životopisného filmu Lanca Armstronga	Bradley Cooper rokuje s Lanceom Armstrongom v životopisnom filme
-3.8	Havaruje dopravné lietadlo Boeing v Rusku, 50 zahynulo	Dopravné lietadlo Boeing sa zrútilo v ruskom meste Kazaň, 50 zahynulo
+3.8	Havaruje dopravné lietadlo Boeing v Rusku 50 zahynulo	Dopravné lietadlo Boeing sa zrútilo v ruskom meste Kazaň 50 zahynulo
 4.4	Ministri EÚ sa „rozhodli“ vyriešiť škandál s konským mäsom	Ministri EÚ vedú krízové ​​rozhovory o škandále s konským mäsom
-5	De Blasio zložil prísahu ako newyorský starosta a nahradil Bloomberg	Bill De Blasio zložil prísahu ako starosta New Yorku, ktorý vystriedal Michaela Bloomberga
+5	De Blasio zložil prísahu ako newyorský starosta a nahradil Bloomberg	Bill De Blasio zložil prísahu ako starosta New Yorku ktorý vystriedal Michaela Bloomberga
 4.8	Thajská opozičná strana bojkotuje všeobecné voľby	Thajská opozícia ohlasuje volebný bojkot
 2.6	Bangladéš zrútil budovu a počet obetí zasiahol 540: armáda	Počet obetí budovania Bangladéša prekročil počet 1 000
 4.4	Členka Pussy Riot Alyokhina prepustená z väzenia v Rusku	Členka Pussy Riot Maria Alyokhina bola prepustená z väzenia
-4.2	Jagan Reddy prešiel do nemocnice, energetická kríza pokračuje v Seemandhre	Telangana: Jagan strávi štvrtok v nemocnici; zatemnenie pokračuje v Seemandhre
+4.2	Jagan Reddy prešiel do nemocnice energetická kríza pokračuje v Seemandhre	Telangana: Jagan strávi štvrtok v nemocnici; zatemnenie pokračuje v Seemandhre
 3.6	Asiana Jet Crash pristála na letisku v San Franciscu	Zrážka lietadla pristála na letisku v San Franciscu
-2.6	Prezident Stredoafrickej republiky zvrhnutý povstalcami	Prezident Stredoafrickej republiky, predseda vlády, odstúpil
+2.6	Prezident Stredoafrickej republiky zvrhnutý povstalcami	Prezident Stredoafrickej republiky predseda vlády odstúpil
 5	Pri opätovnom otvorení Maracany Brazília remizovala s Anglickom 2: 2	Brazília v držbe Anglicka 2: 2 pri opätovnom otváraní Maracany
 0.8	Čína obnoví rokovania o investovaní v USA	Čína a Taiwan vedú historické rozhovory
-3.8	Kalifornský požiar: 1 900 na linkách, keď hasiči pracujú na obmedzení škôd (+ video)	Kalifornský požiar rastie, ale úradníci tvrdia, že hasičské posádky dosahujú pokrok
+3.8	Kalifornský požiar: 1 900 na linkách keď hasiči pracujú na obmedzení škôd (+ video)	Kalifornský požiar rastie ale úradníci tvrdia že hasičské posádky dosahujú pokrok
 3	George W. Bush varuje pred tvrdými debatami o prisťahovalectve	George W. Bush zvažuje imigračné debaty
-3.4	Mandela hospitalizovaná v nemocnici, reagovala na liečbu	Mandela hospitalizovaný po tom, čo prestal rozprávať
-1.2	Rusko odsudzuje severokórejský jadrový test	Južná Kórea potvrdzuje, že Severná Kórea vykonala kontroverzný tretí jadrový test
+3.4	Mandela hospitalizovaná v nemocnici reagovala na liečbu	Mandela hospitalizovaný po tom čo prestal rozprávať
+1.2	Rusko odsudzuje severokórejský jadrový test	Južná Kórea potvrdzuje že Severná Kórea vykonala kontroverzný tretí jadrový test
 4.4	Stovky pracovníkov bangladéšskeho odevného závodu chorých	Stovky chorých v bangladéšskej továrni
 2	Jemenské samovražedné bombové útoky zabíjajú vojakov	Samovražedné atentátničky zabili 16 na ruskej stanici
 2.8	18 uväznených pri výbuchu ruskej uhoľnej bane	Desať zabitých v Rusku výbuchu uhoľnej bane
 4.6	Thajskí demonštranti vnikli do veliteľstva armády	Thajskí demonštranti zaútočili na ústredie armády
 4.4	Izrael podniká nálety na Sýriu	Izrael zahájil nový nálet proti Sýrii
-2.2	Polícia strieľala slzným plynom, aby rozohnala demonštrantov v Tunise	Polícia na protestujúcich v Káhire strieľa slzný plyn
-2.2	Blizzard kladivá na severovýchod USA, päť mŕtvych, 700 000 stratilo výkon	Blizzard sa valí na severovýchod USA, uzatvára cesty
+2.2	Polícia strieľala slzným plynom aby rozohnala demonštrantov v Tunise	Polícia na protestujúcich v Káhire strieľa slzný plyn
+2.2	Blizzard kladivá na severovýchod USA päť mŕtvych 700 000 stratilo výkon	Blizzard sa valí na severovýchod USA uzatvára cesty
 3.8	Hlavná egyptská opozícia odmieta výzvu prezidenta na dialóg	Egyptská opozícia pokojne reaguje na výzvu na dialóg z Morsi
 1.4	V Tokiu sa budú konať olympijské hry 2020	Zápas sa predstaví na olympijských hrách v Tokiu v roku 2020
 3.8	„Asi 100 mŕtvych alebo zranených“ po zemetrasení v Číne	Stovky mŕtvych alebo zranených pri zemetrasení v Číne
-4.6	V máji sa začína bývanie o 6,8%	Máj sa začína bývanie 6,8%
+4.6	V máji sa začína bývanie o 68%	Máj sa začína bývanie 68%
 5	V Mali zabití 2 francúzski novinári	V Mali zabili dvaja francúzski novinári
 5	&gt;Cuba's Castro assumes CELAC presidency	Cuba's Castro to Take Over CELAC Presidency
-4.2	V zrútenom japonskom tuneli horeli vozidlá	Vozidlá „zostali horieť“, keď dym vychádza z japonského tunela
-0.2	Nový Zéland zasiahlo zemetrasenie o sile 6,9 ​​stupňa	Iránom otriaslo zemetrasenie o sile 5,6 stupňa
-3	Desiatky ľudí sa obávali kolapsu budov v Indii	Záchranári sa snažia nájsť 20 osôb, ktoré sú stále uväznené v Indii
+4.2	V zrútenom japonskom tuneli horeli vozidlá	Vozidlá „zostali horieť“ keď dym vychádza z japonského tunela
+0.2	Nový Zéland zasiahlo zemetrasenie o sile 69 ​​stupňa	Iránom otriaslo zemetrasenie o sile 56 stupňa
+3	Desiatky ľudí sa obávali kolapsu budov v Indii	Záchranári sa snažia nájsť 20 osôb ktoré sú stále uväznené v Indii
 1.6	Nelson Mandela prevezený do nemocnice	Nelson Mandela prepustený z nemocnice
 1.2	Denná tlačová konferencia: Južný Sudán	Denný briefing pre tlač: Sýria
 3.2	Islamisti zaútočili na mesto severné Mali po samovražedných bombových útokoch	Islamisti útočia na malajské jednotky v Gao
-3.4	Kardináli vstupujú do Vatikánu na historické hlasovanie	Kardináli vstupujú do Sixtínskej kaplnky, aby zvolili pápeža
+3.4	Kardináli vstupujú do Vatikánu na historické hlasovanie	Kardináli vstupujú do Sixtínskej kaplnky aby zvolili pápeža
 2.2	Británia sa chystá deportovať Abu Qatadu	Británia stráca ponuku na deportáciu radikálneho duchovného Abú Qatadu
 0.8	Francúzsky parlament podporuje reformu zákona o prostitúcii	Ruský parlament zváži zákaz adopcií v USA
-2.6	Výstrely, explózie počuť, keď Thajci pokračujú v protestoch v Bangkoku	Výstrely, výbuchy otriasli thajským protestným dňom pred volebnými urnami
+2.6	Výstrely explózie počuť keď Thajci pokračujú v protestoch v Bangkoku	Výstrely výbuchy otriasli thajským protestným dňom pred volebnými urnami
 1.6	Izraelská armáda sa zameriava na severné hranice	Egyptská armáda preberá kontrolu nad podporovateľmi Moslimského bratstva
 1	Severná Kórea blokuje prístup do Kaesongu	Severná Kórea sľubuje reštart jadrových zariadení
 0.6	Vedúci predstavitelia AÚ sa stretávajú pri príležitosti Dňa Afriky	Vedúci egyptskej mládeže bol zadržaný štyri dni
-1.4	Dnes v histórii, 23. apríla	Dnes v histórii, 21. januára
+1.4	Dnes v histórii 23. apríla	Dnes v histórii 21. januára
 0.4	Manning odsúdený na 35 rokov väzenia	Ariel Castro odsúdený na 1 000 rokov väzenia
 3.4	Senát USA schvaľuje dohodu o fiškálnych útesoch	Je to oficiálne: Dohoda bola dosiahnutá na „fiškálnom útese“
-5	Zimmerman v Texase zastavil za prekročenú rýchlosť a s varovaním ho prepustili	Zimmerman zastavil v Texase kvôli prekročeniu rýchlosti, dostal varovanie
+5	Zimmerman v Texase zastavil za prekročenú rýchlosť a s varovaním ho prepustili	Zimmerman zastavil v Texase kvôli prekročeniu rýchlosti dostal varovanie
 1.4	Iránsky Rúhání varuje pred talibanizáciou v Sýrii	Rusko a Čína sú znepokojené izraelskými náletmi v Sýrii
 0	Sýria popiera správy o smrteľnom útoku damaského nervového plynu	Spojencom USA je poskytnutá pomoc pri odrážaní iránskych počítačových útokov
 3.4	Akcie Číny sa po hospodárskom stretnutí zatvoria vyššie	Akcie Číny sa v stredu zatvárajú vyššie
 3.4	Rusko predstavuje ropné spojenie s Pacifikom v hodnote 30 miliárd dolárov	Rusko predstavuje ropné spojenie s Tichým oceánom v hodnote 25 miliárd dolárov
-2	Polícia zabije strelca, ďalších 3 mŕtvych našla v Coloradu doma	4 mŕtvi po zadržaní polície s ozbrojencom zabarikádovaným v dome USA
+2	Polícia zabije strelca ďalších 3 mŕtvych našla v Coloradu doma	4 mŕtvi po zadržaní polície s ozbrojencom zabarikádovaným v dome USA
 3	Dolce a Gabbana odsúdení za daňové úniky	Dolce a Gabbana pokutované v talianskom daňovom prípade
-3.8	Pakistan zasiahlo zemetrasenie o sile 7,2 stupňa: CENC	JZ Pakistan zasiahlo zemetrasenie o sile 7,7 stupňa
+3.8	Pakistan zasiahlo zemetrasenie o sile 72 stupňa: CENC	JZ Pakistan zasiahlo zemetrasenie o sile 77 stupňa
 3.8	Varovanie Spojeného kráľovstva o sýrskych chemických zbraniach	West zvyšuje stávky nad nárokmi Sýrie na chemické látky
 1.8	Akcie Číny sa v piatok zatvárajú nižšie	Akcie Číny sa v stredu zatvárajú vyššie
 4.4	Asteroidy sa zipsujú medzi Zemou a satelitmi	Asteroid preletel okolo Zeme
 2	Boj za mesto Mali odráža islamistickú taktiku	EÚ vycvičí armádu Mali na boj proti severným islamistickým militantom
-0	Dvaja Santoví stopári, ktorí súťažia tieto Vianoce	Španielsko otočilo čas na siestách
-2.6	Lode sa cvičia na prepravu sýrskych chemických zbraní	Sýria nakladá chemické bomby do bômb, čaká na Asadov rozkaz
-1.4	Starosta uviedol, že pri výbuchu továrne na hnojivá v Texase bolo 14 mŕtvych	Záchranári pátrajú po pozostalých po výbuchu texaských hnojív
-2.2	Pri útokoch v Iraku boli dvaja zabití, 11 zranených	Pri nových útokoch na Irak bolo 15 zabitých, 90 zranených
-1	Môžu USA dôverovať Sýrii v odovzdanie chemických zbraní?	USA tvrdia, že Sýria mohla použiť plyn sarín v chemických zbraniach
-3.4	Mexická speváčka Jenni Rivera verila, že bola zabitá pri leteckom nešťastí	Jenni Rivera, mexická hudobná hviezda, zomrela pri leteckom nešťastí
+0	Dvaja Santoví stopári ktorí súťažia tieto Vianoce	Španielsko otočilo čas na siestách
+2.6	Lode sa cvičia na prepravu sýrskych chemických zbraní	Sýria nakladá chemické bomby do bômb čaká na Asadov rozkaz
+1.4	Starosta uviedol že pri výbuchu továrne na hnojivá v Texase bolo 14 mŕtvych	Záchranári pátrajú po pozostalých po výbuchu texaských hnojív
+2.2	Pri útokoch v Iraku boli dvaja zabití 11 zranených	Pri nových útokoch na Irak bolo 15 zabitých 90 zranených
+1	Môžu USA dôverovať Sýrii v odovzdanie chemických zbraní?	USA tvrdia že Sýria mohla použiť plyn sarín v chemických zbraniach
+3.4	Mexická speváčka Jenni Rivera verila že bola zabitá pri leteckom nešťastí	Jenni Rivera mexická hudobná hviezda zomrela pri leteckom nešťastí
 1.8	Bangladéšsky súd odsúdil prvého zákonodarcu na smrť za vojnové zločiny	Britský premiér tlačí Srí Lanku na vojnové zločiny
 4	Mugabe vyhlásený za víťaza sporných volieb	Zimbabwe: Mugabe vyhlásený za víťaza v spornom hlasovaní
 3.6	Počet obetí sa v Indonézii potápa na člne a stúpa na 15	Indonézia: Počet obetí lodí stúpa na 11 v Indonézii
@@ -116,40 +116,40 @@
 2.2	CBN opakuje plán postupného vyraďovania polymérových nôt	Nigéria oznamuje plány na zmenu polymérových bankoviek Naira
 1	S.Korea navrhuje „konečné“ rozhovory N.Korea o Kaesongu	Severná Kórea navrhuje rozhovory na vysokej úrovni s USA
 1.8	Obeť znásilnenia v Indii „bojuje proti presile“	V singapurskej nemocnici zomrela obeť indického znásilnenia
-2.8	Ozbrojenci zabijú 9 zahraničných turistov, 1 pakistanského	Ozbrojenci zabijú 11 zahraničných turistov v Pakistane
+2.8	Ozbrojenci zabijú 9 zahraničných turistov 1 pakistanského	Ozbrojenci zabijú 11 zahraničných turistov v Pakistane
 3.2	Vyhlásenie hovorkyne vysokej predstaviteľky Catherine Ashtonovej o najnovšej vlne útokov v Iraku	Vyhlásenie hovorkyne vysokej predstaviteľky EÚ Catherine Ashtonovej o obnovení popráv v Iraku
 3	Egypt zvyšuje bezpečnosť pred protestmi proti Morsi	Egypt sa pripravuje na masívne protesty
-2	Yacimovič žiada vládu, aby schválila prepustenie palestínskych väzňov	Izrael súhlasí s prepustením 104 palestínskych väzňov
+2	Yacimovič žiada vládu aby schválila prepustenie palestínskych väzňov	Izrael súhlasí s prepustením 104 palestínskych väzňov
 3.8	USA podali špionážne obvinenia proti úniku NSA	USA podali proti Snowdenovi špionážne obvinenia týkajúce sa únikov
-0.4	Palestínčania stavajú ďalší protest proti stanu na Západnom brehu	Prvý palestínsky hlas OSN, ktorý bol vôbec symbolický, ale historický
+0.4	Palestínčania stavajú ďalší protest proti stanu na Západnom brehu	Prvý palestínsky hlas OSN ktorý bol vôbec symbolický ale historický
 3.6	Počet obetí budovania Bangladéša dosiahol počet obetí 362	Počet obetí bangladéšskeho zrútenia sa vyšplhá na 580
 2.5	Izraelskí vyslanci boli zvolaní kvôli plánom osídlenia	Británia zvoláva izraelského vyslanca nad osadami
 4.2	Syn čínskeho generála dostal 10 rokov väzenia za znásilnenie	Syn čínskeho generála dostal 10 rokov väzenia za znásilnenie
-5	2 mŕtvi, 2 zranení pri streľbe na strednej škole v Nevade	Nevada: 2 mŕtvi, 2 zranení pri streľbe na strednej škole
+5	2 mŕtvi 2 zranení pri streľbe na strednej škole v Nevade	Nevada: 2 mŕtvi 2 zranení pri streľbe na strednej škole
 3	Mierne zemetrasenie otriaslo SZ Pakistan	Mierne zemetrasenie zasiahlo južný Pakistan
 4.2	Zákaz zmiešaných sexuálnych hnutí Hamas nadobúda účinnosť	Hamas v škole „zakázal“ školu zmiešaného sexu
 2.2	32 protest v Bangladéši	1 Zabitý v bangladéšskom proteste
-0.4	Muž zatknutý po tom, čo policajt zastrelil v Leedsi	Panel námorníctva naliehavo žiada odvolanie dôstojníka, ktorý predstieral smrť
+0.4	Muž zatknutý po tom čo policajt zastrelil v Leedsi	Panel námorníctva naliehavo žiada odvolanie dôstojníka ktorý predstieral smrť
 0.6	Ukrajinský predseda vlády rezignoval uprostred protestov	Signály tureckého predsedu vlády sa vracajú k tvrdým protestujúcim
 2.2	Obamovi zamerať pozornosť na ekonomiku v štáte Únie	Factbox: Čo treba hľadať v prejave Obamu o stave Únie
 1	Google uvádza na trh balóny prenášajúce internet	Google „hrá medzinárodnú daňovú hru“
 4.8	Irak podporuje zákrok Egypta proti priaznivcom Morsi	Irak podporuje tvrdé zákroky Egypta proti priaznivcom Mohameda Morsiho
 3.8	Rusko dáva pôvodne zákaz americkej adopcie v poriadku	Rusko dáva počiatočný súhlas so zákazom adopcie
 2.8	Piati odsúdení v prípade obchodovania s kosovskými orgánmi	Kosovo: 3 roky väzenia v prípade obchodovania s orgánmi
-4.4	Hrithik Roshan, manželka Sussanne sa rozchádzajú	Hrithik Roshan, Sussanne sa rozvádzajú
+4.4	Hrithik Roshan manželka Sussanne sa rozchádzajú	Hrithik Roshan Sussanne sa rozvádzajú
 5	Gunman Among 7 Dead After Florida Apartment Shooting	Strelec medzi 7 mŕtvymi po prestrelke vo Fla
 1	Obama chváli pokrok v oblasti práv homosexuálov v úvodnej reči	Tisíce protestujú proti manželstvám homosexuálov vo Francúzsku
 2.2	Vlna bombových útokov zabila v Iraku 15 ľudí	Automobilové bomby zabili v Iraku najmenej 49 osôb
 4.6	Obama šokujúcim spôsobom pozastavil štrajk Sýrie	Obama pozastavil útok na Sýriu
-1.8	Izrael udrie do Sýrie, keď vzrastie napätie v zbraniach	Letecké údery zranili civilistov v sýrskej Deraa
+1.8	Izrael udrie do Sýrie keď vzrastie napätie v zbraniach	Letecké údery zranili civilistov v sýrskej Deraa
 2.6	Ozbrojenci zabijú na severozápade Pakistanu deväť ľudí	Ozbrojenci zabili 6 vojakov na severozápade Pakistanu
-1.2	San Francisco lietadlo na prvý pohľad	Dvaja mŕtvi, 181 zranených pri leteckej nehode v San Franciscu
+1.2	San Francisco lietadlo na prvý pohľad	Dvaja mŕtvi 181 zranených pri leteckej nehode v San Franciscu
 2.2	8 zatknutých po smrteľnom zrútení budovy v Bangladéši	Pracovníci protestujú po zrútení budovy v Bangladéši
 0	Cestujúcich na vianočných plavbách zasiahol Norovirus	Chýbajúcim pasažierom je NSW
-3.5	Vražda pre smrť Diany Nové informácie, ktoré sa dostali k polícii v súvislosti so smrťou princeznej Diany a Dodiho Fayeda, údajne obsahujú obvinenie z ich vraždy	Informácie o smrti Diany a Fayeda dostali nové Smrť princeznej Diany a Dodiho Al Fayeda policajti po získaní informácií opäť sledujú.
-1.4	Snowden žiada, aby zostal v Rusku	Snowden zverejňuje prvé ruské video
+3.5	Vražda pre smrť Diany Nové informácie ktoré sa dostali k polícii v súvislosti so smrťou princeznej Diany a Dodiho Fayeda údajne obsahujú obvinenie z ich vraždy	Informácie o smrti Diany a Fayeda dostali nové Smrť princeznej Diany a Dodiho Al Fayeda policajti po získaní informácií opäť sledujú.
+1.4	Snowden žiada aby zostal v Rusku	Snowden zverejňuje prvé ruské video
 2.2	Čínske akcie sa uzatvárajú nižšie v stredu	Čínske akcie sa v piatok uzatvárajú vyššie
-3.4	Chyba v žalúdku spôsobí, že chorľavý Nadal vynechal Australian Open	Rafa Nadal vynechal Australian Open
+3.4	Chyba v žalúdku spôsobí že chorľavý Nadal vynechal Australian Open	Rafa Nadal vynechal Australian Open
 4.8	Narendra Modi sľubuje tvrdú obranu proti Pakistanu	Indický režim sľubuje tvrdý postoj proti Pakistanu
 1	Thajská polícia používa proti demonštrantom slzný plyn	Brazílsky vodca prestáva mlčať o protestoch
 2.2	Muž z Kalifornie nebol v prípade únosu dievčaťa vinný	Kalifornia. v prípade terorizmu muž nie je vinný
@@ -157,26 +157,26 @@
 5	Skauti odkladajú rozhodnutie o prijatí gayov	Americkí skauti zdržiavajú hlasovanie o zrušení zákazu gayov
 1.4	2 automobilové bomby zabili 8 v južnom Iraku	Bombardovanie automobilov zabilo 14 ľudí na severe Iraku
 4	Van der Sloot sa oženil vo väzení	Joran Van Der Sloots plánuje uzavrieť manželstvo vo väzení v Peru
-3	Akcie v Tokiu klesajú o 0,26%	Akcie v Tokiu klesli o 1,53%
+3	Akcie v Tokiu klesajú o 026%	Akcie v Tokiu klesli o 153%
 2.2	Futures na akciový index v Číne sú vyššie - 4. decembra	Futures na akciový index v Číne sú nižšie - 24. januára
 2.8	Fotografie dňa: 7. augusta 2013	Fotografie dňa: 11. apríla 2013
 2.8	Palestínčania „zasiahnutí“ izraelským požiarom v Gaze	Dvaja Palestínčania zabití pri izraelskom leteckom útoku na Gazu
-2	Kde je Rusty? Panda červená zmizla z Národnej zoo	Chýbajúca panda červená sa bezpečne vrátila do Národnej zoo
-4.6	Jesse Jackson mladší a jeho manželka, ktorí sa priznávajú k podvodu	Jesse Jackson mladší, manželka, ktorá uznala vinu za podvod
+2	Kde je RustyPanda červená zmizla z Národnej zoo	Chýbajúca panda červená sa bezpečne vrátila do Národnej zoo
+4.6	Jesse Jackson mladší a jeho manželka ktorí sa priznávajú k podvodu	Jesse Jackson mladší manželka ktorá uznala vinu za podvod
 4.4	USA vypovedajú venezuelských diplomatov za sebou	U.S. expels Venezuelan diplomats
 3.4	Veterán BBC Hall pripúšťa sexuálne zneužívanie detí	Stuart Hall pripúšťa sexuálne útoky na deti
-0.6	Pri dopravnej nehode v južnej Číne bolo 7 zabitých, 3 zranení	Pri filipínskej dopravnej nehode bolo 20 zabitých, 44 zranených
-3.4	Spoločnosť Ryanair uvádza rekordné zisky, ale varuje, že sa tento rok pravdepodobne spomalí	Stansted: Ryanair hlási 13% nárast ročných ziskov, ale varuje pred pomalším rastom v tomto roku
-3	Akcie, ktoré je potrebné sledovať v pondelok v pondelok	Akcie je potrebné sledovať vo štvrtok vo štvrtok
+0.6	Pri dopravnej nehode v južnej Číne bolo 7 zabitých 3 zranení	Pri filipínskej dopravnej nehode bolo 20 zabitých 44 zranených
+3.4	Spoločnosť Ryanair uvádza rekordné zisky ale varuje že sa tento rok pravdepodobne spomalí	Stansted: Ryanair hlási 13% nárast ročných ziskov ale varuje pred pomalším rastom v tomto roku
+3	Akcie ktoré je potrebné sledovať v pondelok v pondelok	Akcie je potrebné sledovať vo štvrtok vo štvrtok
 4	Pripomenulo si 50. výročie smrti JFK	Pri príležitosti 50. výročia úmrtia JFK je v Dallase prvý pamätník
-1.2	Taiwan zasiahlo zemetrasenie o sile 6,3 stupňa	JZ Pakistan zasiahlo zemetrasenie o sile 7,7 stupňa
-0.8	Knihy, ktoré majú pomôcť deťom hovoriť o novinkách z maratónu v Bostone	Správa o dvoch výbuchoch v cieli Bostonského maratónu
+1.2	Taiwan zasiahlo zemetrasenie o sile 63 stupňa	JZ Pakistan zasiahlo zemetrasenie o sile 77 stupňa
+0.8	Knihy ktoré majú pomôcť deťom hovoriť o novinkách z maratónu v Bostone	Správa o dvoch výbuchoch v cieli Bostonského maratónu
 2.6	Technologický sektor sa zvyšuje: Google a IBM zvyšujú vysoké príjmy	Akcie spoločnosti Google prudko stúpajú o viac ako 1 000 dolárov
 5	Holandská kráľovná Beatrix sa vzdá abdikácie na syna	Holandská kráľovná Beatrix abdikuje v prospech syna
 1.8	Motoristi zahynuli po zrútení japonského tunela	Autá uväznené v tuneli sa zrútili pred Tokiom
 1	Profily kenských prezidentských kandidátov	Taliansky novinár bol vybraný ako kandidát na prezidenta
 3.4	Izrael oslobodzuje palestínskych väzňov	Vládny výbor schvaľuje prepustenie 26 palestínskych väzňov
-4	Budova vo Philadelphii sa zrútila, môže byť uväznených 8 - 10 ľudí	Budova Philadelphie sa zrúti; správy o uväznených osobách
+4	Budova vo Philadelphii sa zrútila môže byť uväznených 8 - 10 ľudí	Budova Philadelphie sa zrúti; správy o uväznených osobách
 3	Obama sa stretáva s rodinou Mandelu	Obama sa stretáva so Zumou a vzdáva hold Mandele
 3.4	Senát USA zahájil debatu o kontrole zbraní	Americký senát začal hlasovať o návrhu zákona o kontrole zbraní
 0	Čínske akcie v stredu uzatvárajú nižšie	Čínski študenti zaútočili vo Francúzsku
@@ -184,49 +184,49 @@
 2.6	„Priatelia Sýrie“ v Dauhá hovoria o vyzbrojovaní povstalci	Sýrske rozhovory sa dohodli na vojenskej pomoci povstalcom
 2	Sýria odsudzuje izraelské letecké údery.	Séria smrteľných útokov zasiahla Irak
 5	Egyptský vodca ukladá výnimočný stav v 3 mestách	Egyptský prezident vyhlasuje výnimočný stav v troch mestách
-2.8	Demonštranti ABVP sa zrazili s políciou pri Jantarovi Mantarovi, hádzali kamene	Demonštranti sa zrazili s políciou v Jantare Mantare, 5 osôb bolo zadržaných
+2.8	Demonštranti ABVP sa zrazili s políciou pri Jantarovi Mantarovi hádzali kamene	Demonštranti sa zrazili s políciou v Jantare Mantare 5 osôb bolo zadržaných
 2.8	Turecký premiér vyzýva na ukončenie protestov v Istanbule	Turecká polícia na protestujúcich v Istanbule strieľa slzy
-4.2	Vedci tvrdia, že červené hrozno a čučoriedky posilňujú imunitný systém	Červené hrozno, čučoriedky zvyšujú imunitu človeka
+4.2	Vedci tvrdia že červené hrozno a čučoriedky posilňujú imunitný systém	Červené hrozno čučoriedky zvyšujú imunitu človeka
 1.8	Dvaja muži obvinení z trestných činov terorizmu	Nigérijčan narodený v Saudskej Arábii obvinený z terorizmu v New Yorku
 3.6	EÚ získala Nobelovu cenu za mier	EÚ získala Nobelovu cenu za mier za rok 2012
-2.6	Začiatok býčieho festivalu v San Fermíne sa krátko oneskoril, pretože výhľad bol prekážkou baskickej vlajky	Začína sa býčí festival San Fermin
-2.8	Až 21, väčšinou cudzincov, zahynulo pri samovražednom útoku v Kábule	Brit je medzi mŕtvymi v Kábule a spáchal samovražedný útok
+2.6	Začiatok býčieho festivalu v San Fermíne sa krátko oneskoril pretože výhľad bol prekážkou baskickej vlajky	Začína sa býčí festival San Fermin
+2.8	Až 21 väčšinou cudzincov zahynulo pri samovražednom útoku v Kábule	Brit je medzi mŕtvymi v Kábule a spáchal samovražedný útok
 0	Bývalý dôstojník LAPD hľadal zabitie v Irvine	Bývalý dôstojník CIA odsúdený na 30 mesiacov väzenia za únik informácií
-0.8	Akcie Tokia uzatvárajú o 0,88 percenta nižšie	Singapurské akcie sa uzatvárajú o 0,44% nižšie
+0.8	Akcie Tokia uzatvárajú o 088 percenta nižšie	Singapurské akcie sa uzatvárajú o 044% nižšie
 0.6	Pakistanský súd požaduje odpovede na „rúhanie“	Správa Pakistan - OSN odhaľuje alarmujúce úrovne užívania drog
 3.8	Spoločnosť Intel McAfee kupuje cloudový špecializovaný sieťový firewall Stonesoft za 389 miliónov dolárov v hotovosti	McAfee získava firewall Stonesoft za 389 miliónov dolárov
-1	4.1 magnitude quake strikes U.S	Filipíny zasiahlo zemetrasenie o sile 7,2 stupňa
+1	4.1 magnitude quake strikes U.S	Filipíny zasiahlo zemetrasenie o sile 72 stupňa
 3.6	Bangladéšsky opozičný vodca odsúdený na smrť za vojnové zločiny	Bangladéš: Utečenec odsúdený na trest smrti Súdom pre vojnové zločiny
 4.2	Údajný zabijak policajtov zomrel z výstrelu do hlavy	Údajný zabijak policajtov zomrel pri streľbe
 0.4	Pri výbuchu na východe Afganistanu zabili 2 policajti	Najmenej 28 ľudí zomrelo pri výbuchu čínskej uhoľnej bane
-4.8	Automobilová bomba na švédskom konzuláte v líbyjskom Benghází, bez obetí	Car Bomb Hits Swedish Consulate in Benghazi, None Hurt
+4.8	Automobilová bomba na švédskom konzuláte v líbyjskom Benghází bez obetí	Car Bomb Hits Swedish Consulate in Benghazi None Hurt
 3	Mušaraf zatknutý pre prípad Lal Masjida	Mušaraf zatknutý v Pakistane
-4.4	Irán dúfa, že jadrové rozhovory prinesú „cestovnú mapu“	Iránske jadrové rozhovory v Ženeve podnecujú veľké nádeje
+4.4	Irán dúfa že jadrové rozhovory prinesú „cestovnú mapu“	Iránske jadrové rozhovory v Ženeve podnecujú veľké nádeje
 2.8	35 militantov zabitých pri náletoch v Afganistane: oficiálne	12 militantov zabitých pri náletoch v Afganistane: ministerstvo
 4	Severná Kórea údajne testuje strely krátkeho doletu	Severná Kórea odpaľuje rakety krátkeho doletu
 2.8	Thajskí demonštranti bránia hlasovaniu; 1 mŕtvy pri násilí	Thajskí demonštranti blokujú volebné miestnosti v Bangkoku
 1.8	Venezuelský Hugo Chávez zomrel na rakovinu	Hugo Chavez: Venezuelskí úradníci za jednotu
-2.2	Tretí severokórejský test ju približuje stavu jadrovej energie	NATO tvrdí, že jadrový test Severnej Kórey je vážnou hrozbou pre svetový mier
+2.2	Tretí severokórejský test ju približuje stavu jadrovej energie	NATO tvrdí že jadrový test Severnej Kórey je vážnou hrozbou pre svetový mier
 4.6	Severná Kórea vykonáva tretí jadrový test	Severná Kórea potvrdzuje tretí jadrový test
 3.6	Indické akcie sa otvárajú rovnomerne	Indické akcie sa otvárajú nižšie
 5	Príjmy z hazardných hier v Macau dosiahli v roku 2012 rekordných 38 miliárd dolárov	Príjmy z hazardných hier v Macau dosiahli v roku 2012 rekordných 38 miliárd dolárov
-3.8	Izraelčania, Palestínčania pokračujú v rozhovoroch v USA	Izraelčania, Palestínčania začínajú rozhovory
-2.6	Poznámky, ktoré sa musia čítať v pondelok 25. novembra 2013	Poznámky, ktoré sa musia čítať na utorok 8. októbra 2013
+3.8	Izraelčania Palestínčania pokračujú v rozhovoroch v USA	Izraelčania Palestínčania začínajú rozhovory
+2.6	Poznámky ktoré sa musia čítať v pondelok 25. novembra 2013	Poznámky ktoré sa musia čítať na utorok 8. októbra 2013
 2.4	Pietna spomienka Nelsona Mandelu	Zomrel Nelson Mandela: Živé vysielanie
 3.8	Okres NM sa pripravuje na vypočutie manželstiev osôb rovnakého pohlavia	Niektorí úradníci kraja pripravujú pôdu pre manželstvá osôb rovnakého pohlavia
-0.6	Libanonské podniky štrajkujú na protest proti politickej slepej uličke	Prezident Tuniska tvrdí, že sebavedomie dokáže prekonať politickú krízu
+0.6	Libanonské podniky štrajkujú na protest proti politickej slepej uličke	Prezident Tuniska tvrdí že sebavedomie dokáže prekonať politickú krízu
 4	Štyria členovia posádky vrtuľníka amerických vzdušných síl zahynuli pri nehode Spojeného kráľovstva	Posádka vrtuľníka amerického letectva zabitá pri britskej havárii
 4.2	V Tokiu sa budú konať olympijské hry 2020	Tokio vyhráva závod o usporiadanie olympijských hier v roku 2020
 4	Malajzia zadržala austrálskeho senátora na letisku	Malajzia zadržala austrálskeho zákonodarcu na letisku
 3.8	Indická polícia zhromaždila všetkých päť podozrivých z prípadu znásilnenia v Bombaji	Polícia v Bombaji zatkla piateho podozrivého z prípadu znásilnenia
 0	Na pohreb Thatcherovej sa sprísňuje bezpečnosť	Bezpečnostné agentúry sa obávajú nových teroristických hrozieb v Keni
-2.2	Južná Kórea hovorí, že rakety sú vypálené na sever	Severná Kórea odpaľuje rakety krátkeho doletu
-3	Británia vypína rastliny, pretože škandál s konským mäsom sa dostal do Francúzska	Ministri EÚ sa „rozhodli“ vyriešiť škandál s konským mäsom
+2.2	Južná Kórea hovorí že rakety sú vypálené na sever	Severná Kórea odpaľuje rakety krátkeho doletu
+3	Británia vypína rastliny pretože škandál s konským mäsom sa dostal do Francúzska	Ministri EÚ sa „rozhodli“ vyriešiť škandál s konským mäsom
 3.2	USA varujú Sýriu pred chemickými zbraňami	Obavy USA vzrastajú ohľadom sýrskych chemických zbraní
 1.2	Pri nehode autobusu v Taliansku zahynulo 37 osôb	12 osôb zahynulo pri nehode autobusu v Pakistane
 3.8	USA ukladajú bomby na Veľký bariérový útes	Americké vojenské odpaľovanie bômb blízko austrálskeho Veľkého bariérového útesu
 1.2	V Afganistane zabitých 38 militantov Talibanu	Taliban útočí na americkú základňu v Afganistane
-3	Čínsky jüan posilňuje na 6,2689 voči USD	Čínsky jüan oslabuje na 6,2816 voči USD
+3	Čínsky jüan posilňuje na 62689 voči USD	Čínsky jüan oslabuje na 62816 voči USD
 2	USA uznávajú sýrsku opozíciu	Rusko pozýva sýrsku opozíciu na rokovania
 5	Google investuje 200 miliónov dolárov do veternej farmy v Texase	Google investuje 200 miliónov USD do projektu veternej farmy v Texase
 4.8	Egypt hlasuje v novej ústave	Egypťania hlasujú o novej ústave
@@ -239,35 +239,35 @@
 1.2	Nálet NATO zabil dve afganské deti	NATO pevnejšie v Afganistane
 4	Ozbrojenci zabijú 11 zahraničných turistov v Pakistane	Ozbrojenci zabili v Pakistane 11 zahraničných horolezcov
 4	Kórea zastaví prácu v spoločnej priemyselnej zóne	Severná Kórea blokuje prístup do spoločnej priemyselnej zóny
-1.8	Podozrivý zo znásilnenia v Dillí, zbitý, otrávený	Rozsudok o znásilnení v Dillí bol opäť odložený
+1.8	Podozrivý zo znásilnenia v Dillí zbitý otrávený	Rozsudok o znásilnení v Dillí bol opäť odložený
 3.2	Na štadióne Don Valley sa začínajú búracie práce	Na štadióne sa majú začať búracie práce
 1.4	Francúzsko sľubuje vojenskú pomoc v Mali	Väčšina Francúzov podporuje vojenskú operáciu v Mali
 2.2	Najmocnejší tajfún roku 2013 zasiahol Filipíny	23 Missing as Typhoon Utor Hits Philippines
 4	Egypťania hlasujú o rozporuplnej ústave	Egypťania hlasujú o zmene ústavy
-2.8	Reid uvádza v rozhovoroch o dlhovom strope „obrovský pokrok“	Zdá sa, že vodcovia Senátu sú blízko dohody o americkom dlhovom strope
+2.8	Reid uvádza v rozhovoroch o dlhovom strope „obrovský pokrok“	Zdá sa že vodcovia Senátu sú blízko dohody o americkom dlhovom strope
 1.4	Žiada ďalšie protesty Egypta	Počet obetí protestov v Egypte stúpol na 49
-2	Sarangani otriaslo zemetrasením o sile 6,2 stupňa	4 zemetrasenia o sile 4,3 stupňa JZ Čína
-1.2	Jeden mŕtvy, 11 zranených v automobilovom chaose LA	6 mŕtvych, 33 zranených pri výbuchu Cotabato
-4.2	Predseda easyJet, aby odstúpil	Predseda britskej leteckej spoločnosti easyJet bez ozdôb, aby odstúpil
-0.8	Obama obnovuje ponuku na zníženie sociálnej záchrannej siete pri veľkom rozpočte: pomocník	Japonsko nalieha na USA, aby rýchlo vyriešili zablokovanie rozpočtu
+2	Sarangani otriaslo zemetrasením o sile 62 stupňa	4 zemetrasenia o sile 43 stupňa JZ Čína
+1.2	Jeden mŕtvy 11 zranených v automobilovom chaose LA	6 mŕtvych 33 zranených pri výbuchu Cotabato
+4.2	Predseda easyJet aby odstúpil	Predseda britskej leteckej spoločnosti easyJet bez ozdôb aby odstúpil
+0.8	Obama obnovuje ponuku na zníženie sociálnej záchrannej siete pri veľkom rozpočte: pomocník	Japonsko nalieha na USA aby rýchlo vyriešili zablokovanie rozpočtu
 2.4	Samovražedný atentátnik zabil 14 v rade afganských provincií	Samovražedný atentátnik zabil v Afganistane 11 osôb
-2.8	USA potvrdzujú, že vodca al-Káidy bol zajatý	USA zajali vodcu Al-Káidy, ale v útoku na Somálsko zlyhali
+2.8	USA potvrdzujú že vodca al-Káidy bol zajatý	USA zajali vodcu Al-Káidy ale v útoku na Somálsko zlyhali
 3.4	Výbor sa blíži ku konečným veľkým rozhodnutiam o prisťahovalectve	Justičný výbor Senátu sa blíži ku konečným veľkým rozhodnutiam pri formovaní imigračného zákona
 3.8	Vojaci USA boli zabití pri afganskom útoku zasvätených osôb	Vojaci NATO zabití pri afganskom „útoku zasvätených osôb“
-1.8	Matku zatkli pre podozrenie z zabitia po tom, čo pes zabil dcéru	Muž bol uväznený pre podozrenie z vraždy po bodnutí v Suffolku
+1.8	Matku zatkli pre podozrenie z zabitia po tom čo pes zabil dcéru	Muž bol uväznený pre podozrenie z vraždy po bodnutí v Suffolku
 4.6	Londýnsky maratón zachováva ticho pre obete bombových útokov v Bostone	Londýnsky maratón zachováva ticho pre obete Bostonu
-3.4	Messi vsietil v Barcelone 300., 301. gól	Futbal: Messi dosiahol 300. gól v Barcelone po návrate späť
-3.2	Päť mŕtvych, 40 nezvestných v Kanade, spôsobilo katastrofu	40 stále chýba v kanadskom vraku vlaku
+3.4	Messi vsietil v Barcelone 300. 301. gól	Futbal: Messi dosiahol 300. gól v Barcelone po návrate späť
+3.2	Päť mŕtvych 40 nezvestných v Kanade spôsobilo katastrofu	40 stále chýba v kanadskom vraku vlaku
 3	Tuniský opozičný politik bol zastrelený	Zabitý vodca opozície Tuniska; vypuknú protesty
-1.2	Ukrajinský premiér Azarov a celá vláda rezignujú	Ukrajinskí úradníci vylúčili z Kanady protesty, ktoré pokračujú
-4.8	Je potrebné, aby OSN naliehavo podporili sýrsku pomoc	Šéf OSN tlačí na výrazné zvýšenie sýrskej pomoci
+1.2	Ukrajinský premiér Azarov a celá vláda rezignujú	Ukrajinskí úradníci vylúčili z Kanady protesty ktoré pokračujú
+4.8	Je potrebné aby OSN naliehavo podporili sýrsku pomoc	Šéf OSN tlačí na výrazné zvýšenie sýrskej pomoci
 1.6	Zásoby stúpajú na olovo Wall St	Akcie klesajú na Wall Street
-2.6	George Zimmerman nebol uznaný vinným z vraždy Trayvona Martina	Protesty a apelácie na upokojenie po tom, ako bol Zimmerman oslobodený z vraždy Trayvona Martina
+2.6	George Zimmerman nebol uznaný vinným z vraždy Trayvona Martina	Protesty a apelácie na upokojenie po tom ako bol Zimmerman oslobodený z vraždy Trayvona Martina
 3.6	Informátor Edward Snowden letí do Moskvy	Informátor NSA Edward Snowden opúšťa Hongkong pri odlete do Moskvy
-0.6	Pri bombových útokoch na severe Iraku bolo 17 zabitých, 133 zranených	Pri zrážkach v severnom Libanone boli dvaja ľudia zabití, 6 zranených
+0.6	Pri bombových útokoch na severe Iraku bolo 17 zabitých 133 zranených	Pri zrážkach v severnom Libanone boli dvaja ľudia zabití 6 zranených
 1.2	Insideri odhaľujú volebné tajomstvá roku 2012	Všetky oči na Capriles ako venezuelská volebná sada
 2.8	Kráľovský smútok nad smrťou sestry	Rozhlasový vtipálek v slzách nad smrťou sestry
-4.2	Severná Kórea tvrdí, že môže oddialiť kontroverzný štart rakety	Zdá sa, že Severná Kórea odloží kontroverzný štart rakety
+4.2	Severná Kórea tvrdí že môže oddialiť kontroverzný štart rakety	Zdá sa že Severná Kórea odloží kontroverzný štart rakety
 4	Dvaja vojaci NATO zabití v Afganistane	Vojak NATO zabitý pri afganskom útoku
 2.4	Americká vláda je na pokraji vypnutia	Obama odmieta ponuku GOP na uľahčenie vypínania
 4	Monografie Critical Gates skaly Obamovej administratívy	Brány trhajú kamene Obamovej administratívy
@@ -275,64 +275,64 @@
 3.8	Brooks sa neprevinil voči obvineniu z hackerstva	Brooks sa vinu na hackerskom vypočutí nehlási
 4	Purge pošle mrazivú správu elite Severnej Kórey	Čistka Kimovho strýka posiela mrazivú správu elite Severnej Kórey
 1.4	Juhoafričania si pripomínajú 95. narodeniny Mandely	Bývalý juhoafrický premiér Nelson Mandela je späť v nemocnici
-3	Obama vyhlásil, že zákon o zdravotnej starostlivosti funguje	Obama sa zaväzuje, že nový zákon o zdravotnej starostlivosti bude fungovať
+3	Obama vyhlásil že zákon o zdravotnej starostlivosti funguje	Obama sa zaväzuje že nový zákon o zdravotnej starostlivosti bude fungovať
 3	Silný dážď zvyšuje hrozbu povodní na Štedrý deň	Čerstvý dážď prináša ďalšie záplavy
 3.6	Tisíce ľudí protestujú proti manželstvám homosexuálov	Tisíce ľudí protestujú v Paríži proti manželstvám homosexuálov
 0.4	Vodca taiwanských gangov sa na letisku ocitol po 17 rokoch	Zambia zatkla bývalého vodcu Bandu kvôli ropnej dohode
-1.8	Poznámky, ktoré sa musia čítať na piatok 6. decembra 2013	Poznámky, ktoré sa musia čítať v piatok 12. júla 2013
+1.8	Poznámky ktoré sa musia čítať na piatok 6. decembra 2013	Poznámky ktoré sa musia čítať v piatok 12. júla 2013
 3	Iránske jadrové rozhovory sa začínajú uprostred nádeje na pokrok	Iránske jadrové rozhovory sa začínajú v Ženeve
 4.2	Thajské politické protesty paralyzujú ďalšie ministerstvá	Thajskí demonštranti obliehajú ďalšie ministerstvá
 4.6	Bezos z Amazonu kúpi Washington Post za 250 miliónov dolárov	Bezos z Amazonu kupuje Washington Post za 250 miliónov dolárov
-1.8	Obamova ekonomická prehliadka zmarená malými očakávaniami	Obama povzbudzuje skautov, aby ukončili zákaz gayov
-0.6	Izrael sľubuje, že po leteckom údere poprie Hizballáh	Bomba v automobile zabila štyri v bašte Hizballáhu v Bejrúte: minister
+1.8	Obamova ekonomická prehliadka zmarená malými očakávaniami	Obama povzbudzuje skautov aby ukončili zákaz gayov
+0.6	Izrael sľubuje že po leteckom údere poprie Hizballáh	Bomba v automobile zabila štyri v bašte Hizballáhu v Bejrúte: minister
 2.4	Francúzsko víta dohodu medzi USA a Ruskom o Sýrii	Liga arabských štátov víta americko-ruskú dohodu o Sýrii
 2	Viac francúzskych vojakov do Stredoafrickej republiky	Prestrelky v hlavnom meste Strednej Afriky vyvolávajú novú paniku
 1	Rezolúcia OSN nariaďuje zničenie sýrskych chemických zbraní	Nemecko je pripravené pomôcť sýrskej chemickej misii
 4.6	Exkluzívna AKTUALIZÁCIA spojenectvo s Egyptom pre-Mursi signalizuje flexibilitu v rozhovoroch	EXKLUZÍVNA AKTUALIZÁCIA Aliancia 1 - Egypt zameraná na Mursi signalizuje flexibilitu rozhovorov
 4.2	David Beckham odíde do dôchodku na konci sezóny	David Beckham odchádza z futbalu
 4	Úmrtia potvrdené po páde vrtuľníka do škótskej krčmy	Škótska polícia uviedla najmenej jedného mŕtveho po náraze vrtuľníka do krčmy
-3.4	Líbya náhle uzavrie hranice so štyrmi krajinami	Líbya uzatvára hranice, vyhlasuje stanné právo na juhu
-1	Grécko zasiahlo zemetrasenie o sile 6 stupňov - USGS	Otrasy s magnitúdou 5,0 otriasli Japonskom
-0.2	Pátranie po tom, ako človek zmietol do mora	Lara plánuje návštevu Nepálu
+3.4	Líbya náhle uzavrie hranice so štyrmi krajinami	Líbya uzatvára hranice vyhlasuje stanné právo na juhu
+1	Grécko zasiahlo zemetrasenie o sile 6 stupňov - USGS	Otrasy s magnitúdou 50 otriasli Japonskom
+0.2	Pátranie po tom ako človek zmietol do mora	Lara plánuje návštevu Nepálu
 3	Ozbrojenci zinscenovali pakistanské väzenie	Prestávka vo väzení Talibanu: 250 militantov uniklo po útoku na pakistanské väzenie
-3	Meteorit zasiahol stredné Rusko, zranených bolo viac ako 500 ľudí	Meteorit zasiahol stredné Rusko, 400 bolo zranených
+3	Meteorit zasiahol stredné Rusko zranených bolo viac ako 500 ľudí	Meteorit zasiahol stredné Rusko 400 bolo zranených
 2.4	Severokórejský jadrový test vyvoláva obavy	Severokórejský jadrový test
-4.2	Blizzard zastavuje USA na severovýchod	Blizzard sa valí na severovýchod USA, uzatvára cesty
+4.2	Blizzard zastavuje USA na severovýchod	Blizzard sa valí na severovýchod USA uzatvára cesty
 1.6	Protestujúci NATO boli oslobodení spod obžaloby z terorizmu	Demonštranti z NATO boli odsúdení za obvinenie z terorizmu
-1.4	„Dôveryhodnosť na hranici Sýrie“	Obama: Kongres, svetová dôveryhodnosť online
-0	Taliban na programe rokovania pre USA v Pakistane	Pakistan zasiahlo najmenej 33 mŕtvych, keď otrasy zasiahlo veľké množstvo ľudí
+1.4	„Dôveryhodnosť na hranici Sýrie“	Obama: Kongres svetová dôveryhodnosť online
+0	Taliban na programe rokovania pre USA v Pakistane	Pakistan zasiahlo najmenej 33 mŕtvych keď otrasy zasiahlo veľké množstvo ľudí
 3	123 zabitých v bojoch na severe Sýrie	Mnoho z nich zahynulo pri sýrskom leteckom útoku
 5	Egyptský minister vnútra prežil bombu	Egyptský minister vnútra prežil bombový útok
-2	Čínsky jüan vo štvrtok voči USD oslabuje na 6,2767	Čínsky jüan v utorok oslabuje na 6,1818 voči USD
+2	Čínsky jüan vo štvrtok voči USD oslabuje na 62767	Čínsky jüan v utorok oslabuje na 61818 voči USD
 1.4	Obama rokuje o akcii v Sýrii	Cameron stráca parlamentné hlasovanie o sýrskej vojenskej akcii
 5	Egypt „zmrazuje aktíva Moslimského bratstva“	Egypt zmrazuje finančné prostriedky Moslimského bratstva
 0	Zen Report: Nie je ľahké mať vysokú údržbu	Ruský meteorit necháva otvorené budovy otvorené
-3.2	Kritici tvrdia, že Putinove bezpečnostné obmedzenia porušujú práva	Putinov bezpečnostný dekrét pre Soči vyvoláva hnev kritikov
+3.2	Kritici tvrdia že Putinove bezpečnostné obmedzenia porušujú práva	Putinov bezpečnostný dekrét pre Soči vyvoláva hnev kritikov
 4.6	Tony Abbott zložil prísahu ako nový austrálsky premiér	Tony Abbott zložil prísahu ako austrálsky premiér
 4	Egyptská armáda zasahuje proti Bratstvu	Egyptská armáda zasahuje proti Moslimskému bratstvu
 3.4	Venezuelské zhromaždenie sa stretlo uprostred zdravotnej krízy Cháveza	Zhromaždenie sa stretáva uprostred Chávezovej krízy
-3.8	Egypt sa pripravuje na viac protestov, modlí sa za pokoj	Egypt sa pripravuje na ďalšie protesty proti Morsi, modlí sa za pokoj
+3.8	Egypt sa pripravuje na viac protestov modlí sa za pokoj	Egypt sa pripravuje na ďalšie protesty proti Morsi modlí sa za pokoj
 2	Sýrska opozícia hrozí ukončením rozhovorov	Sýrska opozícia s rokovaniami súhlasí
 3	Priaznivci Morsi protestujú v Egypte	Podporovatelia Morsi vzdorujú tvárou v tvár hrozbe egyptskej vlády
 2.6	Samovražedný atentátnik zabil policajta v Pakistane	Samovražední útočníci zabijú 3 vojakov v Pakistane
 0.8	Protivládni demonštranti vtrhnú do ulíc Kyjeva	Ukrajinskí demonštranti zvrhli Leninovu sochu
 1	Muž z Chicaga bude odsúdený za odsúdenie za terorizmus	Hlavy Kábulu boli odsúdené za korupciu
 2.4	Americký bezpilotný útok zabil troch na severozápade Pakistanu	Americký dron zabil v Severnom Vaziristane sedem ľudí
-4.2	Porucha trate narušuje vlakovú dopravu medzi Raffles Place, Marina Bay	Vlaková doprava prerušená medzi Raffles Place a Marina Bay
+4.2	Porucha trate narušuje vlakovú dopravu medzi Raffles Place Marina Bay	Vlaková doprava prerušená medzi Raffles Place a Marina Bay
 2	Akcie na začiatku obchodovania stúpajú	Americké akcie uľahčujú trhané obchodovanie
 1	Manning odsúdený na 35 rokov za únik vládneho tajomstva	Brit bol uväznený na 10 rokov za predaj falošných detektorov bômb
-1	Britská polícia uviedla, že teroristické spojenie s pádom vrtuľníka nie je spojené	Čínska polícia hľadá po nehode osem podozrivých
+1	Britská polícia uviedla že teroristické spojenie s pádom vrtuľníka nie je spojené	Čínska polícia hľadá po nehode osem podozrivých
 1.8	Samovražedný atentátnik zabil na juhu Ruska 13 ľudí	Samovražedný atentátnik zabil 16 v ruskom Volgograde
-1.8	Pri násilných útokoch v Iraku bolo 41 zabitých, 22 zranených	Pri nových útokoch na Irak bolo 15 zabitých, 90 zranených
+1.8	Pri násilných útokoch v Iraku bolo 41 zabitých 22 zranených	Pri nových útokoch na Irak bolo 15 zabitých 90 zranených
 2.8	Bangladéš zrútil budovu a počet obetí zasiahol 540: armáda	Mýto v Bangladéši - zrútenie budovy - topy 600
-2.5	Kerry navštívi Jordánsko, izraelsko-palestínsky mier je na programe rokovania	Kerry odloží návštevu Izraela o jeden týždeň
+2.5	Kerry navštívi Jordánsko izraelsko-palestínsky mier je na programe rokovania	Kerry odloží návštevu Izraela o jeden týždeň
 4.4	Nezamestnanosť v eurozóne dosahuje nové rekordné hodnoty	Nezamestnanosť v EÚ dosiahla nový rekord
 4	Defiant Mugabe zložil prísahu na siedme volebné obdobie na „odpornom“ západe	Mugabe zložil prísahu na ďalšie volebné obdobie
-1.4	Skutočným hrdinom Nelsona Mandelu nebol Gándhí, ale Nehru	Zdravie Nelsona Mandelu je „nestabilné“
-3	Cyperčania, ktorí čelia bailoutovej dani, sa snažia dostať z bánk hotovosť	Podmienky výpomoci rýchlo bežia na cyperských bankách
+1.4	Skutočným hrdinom Nelsona Mandelu nebol Gándhí ale Nehru	Zdravie Nelsona Mandelu je „nestabilné“
+3	Cyperčania ktorí čelia bailoutovej dani sa snažia dostať z bánk hotovosť	Podmienky výpomoci rýchlo bežia na cyperských bankách
 1.2	Obama sa zaregistruje do Obamacare	Američania sa usilovne snažia prihlásiť do Obamacare do stanoveného termínu
 4.2	Lance Armstrong priznáva Oprah všetko	Lance Armstrong sa v rozhovore pre Oprah priznáva k dopingu
-5	Andy Murray si zaslúži rytierstvo, hovorí David Cameron	David Cameron: Andy Murray si zaslúži rytierske postavenie
+5	Andy Murray si zaslúži rytierstvo hovorí David Cameron	David Cameron: Andy Murray si zaslúži rytierske postavenie
 2	Index Hushen 300 sa uzatvára vyššie - 14. októbra	Index Hushen 300 sa uzatvára nižšie - 12. marca
 2.4	Americké ministerstvo zahraničia pochybilo o Benghází	Šéf bezpečnosti štátu rezignuje po Bengházimu
 0	Futbal - Francúzsko bude v októbri prvýkrát hostiteľom Austrálie	Úradník NRO bude čeliť otázkam prvýkrát od kontroverzných poznámok
@@ -340,36 +340,36 @@
 2.4	Sýria musí zničiť chemické zbrane	Líbya „ničí posledné chemické zbrane“
 0	Mierny chvenie v centrálnom Stredomorí	Irán: Umiernený kandidát vyhráva prezidentské hlasy
 3.6	Traja Afganci zabití pri samovražednom útoku	Traja Afganci mŕtvi pri novom výbuchu na americkej základni vo východnom Afganistane
-2.8	Samovražedné bomby zasiahli egyptské vojsko na Sinaji, zabite 6	Samovražedné bomby zasiahli egyptskú armádu na Sinaji, zabili 4
+2.8	Samovražedné bomby zasiahli egyptské vojsko na Sinaji zabite 6	Samovražedné bomby zasiahli egyptskú armádu na Sinaji zabili 4
 3.4	Ázijské trhy získavajú na pozitívnych ekonomických údajoch z USA	Ázijské trhy sa zvýšili o pozitívne údaje z USA a Číny
 4.6	Nelson Mandela v nemocnici pre testy	Južná Afrika: Mandela v nemocnici na testy
-4	Irán, šesť svetových mocností podpisuje prelomovú jadrovú dohodu	Irán, svetové mocnosti sa dohodli na jadrovej dohode
+4	Irán šesť svetových mocností podpisuje prelomovú jadrovú dohodu	Irán svetové mocnosti sa dohodli na jadrovej dohode
 1.6	Samovražedný atentátnik zabil 9 ľudí na politickom zhromaždení v Pakistane	Samovražedný atentátnik zabil strážcu na americkom veľvyslanectve v Turecku
 2.2	Štyria priaznivci Morsi zabití v Egypte	Desiatky zranených pri zrážke priaznivcov Morsi s bezpečnostnými silami
-0	Študenti sa povozia na vlnách	Taiwan zasiahlo zemetrasenie o sile 5,5 stupňa
+0	Študenti sa povozia na vlnách	Taiwan zasiahlo zemetrasenie o sile 55 stupňa
 2.2	Dôstojník Pistorius vypadol z puzdra	Dôstojník Pistorius pre obvinenia z pokusu o vraždu
-4	Vinnie Jones odhaľuje novinku v boji proti rakovine	Vinnie Jones odhalí, že má rakovinu kože
-1.8	Zásoby sa zatvárajú o 0,39% vyššie	Zásoby sa zatvárajú o 2,47% vyššie
-2.6	Pakistanský šéf Talibanu Hakimullah Mehsud zabitý pri štrajku bezpilotných lietadiel	Pakistanský Taliban sa zaväzuje pomstiť, že odplatí Hakimullahovo zabitie krviprelievaním
+4	Vinnie Jones odhaľuje novinku v boji proti rakovine	Vinnie Jones odhalí že má rakovinu kože
+1.8	Zásoby sa zatvárajú o 039% vyššie	Zásoby sa zatvárajú o 247% vyššie
+2.6	Pakistanský šéf Talibanu Hakimullah Mehsud zabitý pri štrajku bezpilotných lietadiel	Pakistanský Taliban sa zaväzuje pomstiť že odplatí Hakimullahovo zabitie krviprelievaním
 5	Desiatky zabitých pri leteckom útoku na pekáreň v strednej Sýrii	„Desiatky zabitých“ pri sýrskom leteckom útoku na pekáreň
-2	Ozbrojenci zabili jedného vojaka, ďalších dvoch zranili v Pakistane	Ozbrojenci zabili v Pakistane 6 pracovníkov obrny
-2.2	Polícia potvrdzuje, ako boli podozriví zajatí	Razia pri podozrení z bombového útoku na maratón v Bostone zachytená na filme
+2	Ozbrojenci zabili jedného vojaka ďalších dvoch zranili v Pakistane	Ozbrojenci zabili v Pakistane 6 pracovníkov obrny
+2.2	Polícia potvrdzuje ako boli podozriví zajatí	Razia pri podozrení z bombového útoku na maratón v Bostone zachytená na filme
 2.8	Začína sa ničenie sýrskych chemických zbraní	Zničenie sýrskych chemických zbraní by sa mohlo ukázať ako ťažké
-0.8	Záplavy v Kanade si vynútili evakuáciu iného mesta	Kalifornské požiare vynútili evakuáciu domov, univerzita
-4.4	OSN tvrdí, že americké drony porušujú suverenitu Pakistanu	UN: US drone strikes violate Pakistan's sovereignty
+0.8	Záplavy v Kanade si vynútili evakuáciu iného mesta	Kalifornské požiare vynútili evakuáciu domov univerzita
+4.4	OSN tvrdí že americké drony porušujú suverenitu Pakistanu	UN: US drone strikes violate Pakistan's sovereignty
 4.8	Obama chváli Mandelu za „inšpiráciu“	Obama víta Mandelov inšpiračný efekt
-0.8	Obama prichádza „počúvať“ Izrael, Palestínčanov	Kerry víta arabský plán izraelsko-palestínskych rozhovorov
+0.8	Obama prichádza „počúvať“ Izrael Palestínčanov	Kerry víta arabský plán izraelsko-palestínskych rozhovorov
 4.2	E-maily - Ropná firma požiadala obchodníka o stretnutie s ministrom	Ropná firma sa pýtala nečestného obchodníka na stretnutie s ministrom
 1.4	Počet obetí pri útoku nigérijskej polície stúpol na 30	Počet obetí útoku na autobus v Keni stúpol na šesť
-2.6	Sýria „vyhlási chemické zbrane a podpíše dohovor“	Rusko, Sýria Práce na konkrétnom pláne chemických zbraní
+2.6	Sýria „vyhlási chemické zbrane a podpíše dohovor“	Rusko Sýria Práce na konkrétnom pláne chemických zbraní
 0	Austrália zruší stúpajúci strop štátneho dlhu	Austrálsky premiér netrvá na nijakých sporoch s Indonéziou
 4.8	Ázijské trhy dosiahli 3-týždňové maximum v nádeji na dohodu o zadĺžení sa v USA	Ázijské akcie dosiahli trojtýždňové maximá v nádeji na dohodu o americkom dlhu
 1.4	Taliansky predseda vlády Mario Monti rezignuje	„Palestínsky predseda vlády Fajjád podáva demisiu“
 3.2	Juhoafrická republika priznáva chybu nad „schizofrenickým“ podpisom Mandely	Južná Afrika pripúšťa možnú „chybu“ ohľadne hluchého signatára pri pamätníku Mandela
-1.6	Irán tvrdí, že v jadrových rozhovoroch pretrvávajú vážne problémy	Irán sľubuje zachovanie „mierového“ jadrového programu
-2	Davy sa na Vianoce zhromažďujú v Betleheme	Ach, mestečko Betlehem - naozaj
+1.6	Irán tvrdí že v jadrových rozhovoroch pretrvávajú vážne problémy	Irán sľubuje zachovanie „mierového“ jadrového programu
+2	Davy sa na Vianoce zhromažďujú v Betleheme	Ach mestečko Betlehem - naozaj
 1.6	Sedem príslušníkov mierových síl zabitých v sudánskom Dárfúre	Mierová stráž zabitá pri zrážke Abyei
-3.2	NATO: Batéria rakiet Patriot operujúca na sýrskych hraniciach	Obama: Patriotské raketové batérie, jednotky na pobyt v Jordánsku blízko sýrskych hraníc
+3.2	NATO: Batéria rakiet Patriot operujúca na sýrskych hraniciach	Obama: Patriotské raketové batérie jednotky na pobyt v Jordánsku blízko sýrskych hraníc
 4.6	Americké akcie sa prepadávajú tretí deň zastavenia	Zásoby klesajú tretí deň zastavenia vlády
 3.4	Guinea hlasuje v dlho odkladanom legislatívnom prieskume	Equatoguineans hlasujú v legislatívnych prieskumoch
 3	NATO: 3 jednotky zabité pri útoku na Afganistan	Vojaci NATO zabití pri afganskom „útoku zasvätených osôb“
@@ -378,11 +378,11 @@
 3.4	Egyptská armáda zahájila nové nálety na sinajských militantov	Egypt podniká nové útoky proti sinajským militantom
 2.6	Francúzske sily útočia na spojencov Mali z Al-Káidy	Bitka o znovudobytie severného Mali: Stovky francúzskych vojsk zaháňajú povstalcov napojených na Al-Káidu
 1.2	Egyptská polícia strieľa na protestujúcich Bratstva slzný plyn	India: Slzný plyn vystrelili na protestujúcich proti znásilneniu gangov
-3	Sýrsky režim súhlasí s účasťou na mierovej konferencii	Sýria, opozícia súhlasí „v zásade“ s účasťou na mierovej konferencii
+3	Sýrsky režim súhlasí s účasťou na mierovej konferencii	Sýria opozícia súhlasí „v zásade“ s účasťou na mierovej konferencii
 3.8	Afganskí zákonodarcovia schvaľujú nový volebný zákon	Afganský prezident schvaľuje nový volebný zákon
 2.2	Alžírsko zahájilo vojenskú operáciu na záchranu rukojemníkov Al-Káidy	Alžírsko premýšľa nad medzinárodnými silami rukojemníkov
 3.8	Desiatky zranených pri nehode lietadla Boeing 777 pristáli na letisku v San Franciscu	Zrážka lietadla Asiana Air Boeing 777 pristála na letisku v San Franciscu
-4.6	Pri požiari mjanmarskej mešity zomrelo 13 detí	Mjanmarská polícia uviedla, že 13 detí zomrelo pri požiari elektrického prúdu v mešite
+4.6	Pri požiari mjanmarskej mešity zomrelo 13 detí	Mjanmarská polícia uviedla že 13 detí zomrelo pri požiari elektrického prúdu v mešite
 2.8	Senát USA bude hlasovať o dohode o fiškálnych útesoch s blížiacim sa termínom	Fiškálny útes: Dom oneskoruje hlasovanie o dohode o fiškálnych útesoch - naživo
 3.4	V singapurskej nemocnici zomrela obeť znásilnenia v Dillí	Obeť znásilnenia v Dillí letela do singapurskej nemocnice
 3.4	Kontrola pôrodnosti spojená s vyšším rizikom glaukómu	Antikoncepčná tabletka „zdvojnásobuje riziko glaukómu“
@@ -391,16 +391,16 @@
 3.6	Zakážte Ki-moonovi preskúmanie dohody o chemických látkach v Sýrii	Zákaz preskúmania sýrskej dohody o chemických zbraniach
 3.6	Iracký prezident je v nemocnici pre zdravotné problémy	Iracký prezident v nemocnici po mozgovej príhode
 3.8	Malajzijská dlho vládnuca koalícia sa drží moci	Malajzijská vládna koalícia získava väčšinu
-1.4	Almagor výbuchom Netanjahua prepustil väzňa	Yacimovič žiada vládu, aby schválila prepustenie palestínskych väzňov
+1.4	Almagor výbuchom Netanjahua prepustil väzňa	Yacimovič žiada vládu aby schválila prepustenie palestínskych väzňov
 4.2	Výbuchy blízko iránskeho veľvyslanectva v Bejrúte	Dva výbuchy neďaleko iránskeho veľvyslanectva v Bejrúte
 4.2	19 zranených pri streľbe v New Orleans	Polícia: 19 osôb bolo zranených pri streľbe na Deň matiek NOLA
 2.4	Hagel narieka nad „politickými“ zmenami rozpočtu USA na obranu	Hagel obhajuje navrhované znižovanie výdavkov na obranu
-4.4	USA zakazujú príručné tekutiny, gély pri letoch do Ruska	USA zakazujú príručnú tekutinu pri priamych letoch do Ruska
+4.4	USA zakazujú príručné tekutiny gély pri letoch do Ruska	USA zakazujú príručnú tekutinu pri priamych letoch do Ruska
 2.4	Egyptské bratstvo stojí po vraždách na zemi	Egypt: Moslimské bratstvo stojí za Morsi
 3.4	Malajzia stanovila dátum 5. mája ako deň pre ostro sporné voľby	Malajzia stanovila dátum pre zásadné voľby
 3	Vojaci NATO zabijú dve afganské deti	Štrajk NATO zabije 11 afganských detí
 2	Iránsky prezident žiada nové jadrové rozhovory	Iránsky minister obviňuje Západ z neúspešných rozhovorov o jadrových zbraní
-3.4	Povodne zabili dvoch, z domovov v Calgary si vyžiadali 75-tisíc	Povodňové sily 75 000 z domovov v Kanade
+3.4	Povodne zabili dvoch z domovov v Calgary si vyžiadali 75-tisíc	Povodňové sily 75 000 z domovov v Kanade
 2.6	4 jednotky NATO zabité v Afganistane	Osem vojakov NATO zabitých v Afganistane
 3.8	Typhoon Fitow zapadá do východnej Číny	Typhoon Fitow narazil do juhovýchodnej Číny
 0.2	Mandela stráviť Vianoce v nemocnici	Film Mandela sa začne tento mesiac v Južnej Afrike
@@ -410,22 +410,22 @@
 4.2	Dhawan rozbil Indiu na veľké víťazstvo nad Juhoafrickou republikou	Dhawan ton ustanovuje víťazstvo India Trophy nad Južnou Afrikou
 0	Chris Froome rides to Tour de France endgame	Koncerty Chrisa Browna zrušené nové
 3.6	Aplikácia Apple nasmeruje vodičov na dráhu letiska na Aljaške	Aplikácia Apple odosiela vodičov na letisko
-3.4	Podozrenie, že americký dron zabil v Pakistane 3 ozbrojencov	U.S. drone kills 4 militants in Pakistan
+3.4	Podozrenie že americký dron zabil v Pakistane 3 ozbrojencov	U.S. drone kills 4 militants in Pakistan
 2.6	Nemocnica: 61 osôb zabitých pri nepokojoch vo väzení vo Venezuele	Desiatky ľudí boli údajne zabitých pri nepokojoch vo väzení v Venezuele
-1.4	Súboje prepukajú, keď sa islamisti tlačia späť do Egypta	Koptský kňaz bol zastrelený pri útoku na Egypt
+1.4	Súboje prepukajú keď sa islamisti tlačia späť do Egypta	Koptský kňaz bol zastrelený pri útoku na Egypt
 3.8	Severná Kórea odkladá rodinné stretnutia	Severná Kórea odkladá vojnou zničené rodinné zväzky
 3.6	František začína pápežstvo modlitbou	Pápež František vykĺzol z Vatikánu na modlitby
 3.6	Senát USA sa stretne ako cesta z fiškálnej slepej uličky stále nepolapiteľná	Senát USA má dni zriedkavých nedeľných zasadnutí uprostred fiškálnej slepej uličky
 1.8	Egyptské bratstvo obviňované za svojho vodcu	Egyptské moslimské bratstvo sa koná na omšový pochod
 1.6	Kráľovná vzdáva hold Nelsonovi Mandelovi	Americkí prezidenti vzdávajú hold Mandele
-0.2	Do prevádzky bola uvedená nová čínska stealth fregata	Bielorusko, Lotyšsko zriadi hraničnú komisiu
+0.2	Do prevádzky bola uvedená nová čínska stealth fregata	Bielorusko Lotyšsko zriadi hraničnú komisiu
 2.2	Irak násilie zabíja 11	Násilnosti v Iraku zabili sedem
 1.6	Protesty pokračujú v napätom hlavnom meste Ukrajiny	V Brazílii pokračujú protesty
 2.6	Sýria odmieta tvrdenia USA a Veľkej Británie o chemických zbraniach	USA podozrievajú Sýriu z použitia chemických zbraní
 3.2	Briti boli prepustení po únose z egyptských zdrojov na Sinaji	Beduíni prepustili dvoch Britov zadržaných na egyptskom Sinaji
-3	Sýria víta iránsku jadrovú dohodu	Irán, šesť svetových mocností si prelomilo jadrovú dohodu
+3	Sýria víta iránsku jadrovú dohodu	Irán šesť svetových mocností si prelomilo jadrovú dohodu
 3.6	Izrael čelí európskym odporom v súvislosti s plánom osídlenia	Izrael vyzval k zodpovednosti za posledné plány osídlenia európskych krajín
-4.8	Irán tvrdí, že zachytáva drony; USA popierajú, že by o jednu prišli	Irán tvrdí, že zadržal americký dron; USA tvrdia, že to nie je pravda
+4.8	Irán tvrdí že zachytáva drony; USA popierajú že by o jednu prišli	Irán tvrdí že zadržal americký dron; USA tvrdia že to nie je pravda
 2.2	Egypt zatýka Najvyššieho sprievodcu Moslimským bratstvom	Egypt zakazuje skupinu Moslimské bratstvo
 2.2	Obama vtipkuje o sebe na večeri reportérov	Počas tlačovej večere si Obama žartuje s kritikmi
 4.2	Allen odpovedá na Farrowove žiadosti o zneužitie listom	Allen sa bráni proti Farrowovým tvrdeniam o zneužívaní
@@ -434,36 +434,36 @@
 1.2	Čo je to jadrová možnosť?	Fotografie ukazujú jadrovú pripravenosť Severnej Kórey
 2.6	Forex &amp; Gold 6 March 2013	Forex a zlato 12. marca 2013
 1	Islamisti zabili 21 pri samovražedných útokoch v Nigeri	Automobilové bomby zabili 20 v tureckom meste neďaleko sýrskych hraníc
-2.8	USA určili, že Sýria použila chemické zbrane	Hlasovanie OSN o eliminácii sýrskych chemických zbraní
+2.8	USA určili že Sýria použila chemické zbrane	Hlasovanie OSN o eliminácii sýrskych chemických zbraní
 4.2	Snowdenov otec pricestuje do Moskvy	Otec Edwarda Snowdena v Moskve
 0.8	V iránskej jadrovej elektrárni neuniká žiadne žiarenie	Kongres USA môže vrhnúť kľúč na iránsku jadrovú dohodu
 2.2	Pakistanský Taliban je po štrajku dronov novým vodcom	Pakistanský šéf Talibanu zabitý pri štrajku dronov v USA
 1.2	Dvojité bombové útoky v Pakistane zabili najmenej 40 ľudí	Teraz ozbrojenci bojujú proti pakistanskej polícii
 3.6	Pri zrážke v Káhire zomrel podporovateľ Moslimského bratstva	Priaznivci Moslimského bratstva zomierajú v Egypte
-3.4	Ako sa akcelerujú mobilné reklamy, výnosy Facebooku poskočia o 63%	Zisky Facebooku stúpajú s rozširovaním užívateľskej základne
+3.4	Ako sa akcelerujú mobilné reklamy výnosy Facebooku poskočia o 63%	Zisky Facebooku stúpajú s rozširovaním užívateľskej základne
 2.2	Vyslanec Sýrie žiada vládu národnej jednoty	Vyslanec Sýrie žiada politické zmeny na ukončenie konfliktu
 1.8	Zhrnutie správ za 11. marca	Zhrnutie správ za 14. januára
 3.2	Tridsaťsedem mŕtvych v Taliansku Prepadnite sa autobusom	Tridsať mŕtvych v talianskom autobusovom prepade
-4.2	Rogers, Videotron rozširujú dosah o dohodu o zdieľaní v sieti	Rogers, Videotron dosahujú zdieľanie sietí, dohody o spektre
+4.2	Rogers Videotron rozširujú dosah o dohodu o zdieľaní v sieti	Rogers Videotron dosahujú zdieľanie sietí dohody o spektre
 5	Akcie v Číne končia vo štvrtok nižšie	Akcie Číny sa vo štvrtok zatvárajú nižšie
-0.6	Ženy topless protestujú proti Berlusconimu, keď hlasuje vo voľbách	Bulharský prezident podporuje protestujúcich, je proti rýchlym voľbám
+0.6	Ženy topless protestujú proti Berlusconimu keď hlasuje vo voľbách	Bulharský prezident podporuje protestujúcich je proti rýchlym voľbám
 2.8	Indonézia: Medzi 14 školákmi zabitých pri výbuchu sopky v Indonézii	Indonézia: Šesť mŕtvych pri výbuchu indonézskej sopky
 3.4	Bangladéšska islamistická poprava bola potvrdená	Bangladéš popravuje vodcu opozície
-3.2	Iránsky vodca Rúhání tvrdí, že jadrová dohoda s USA je možná do ¿troch mesiacov¿	Iránsky prezident Hasan Rúhání chce jadrovú dohodu o mesiacoch
+3.2	Iránsky vodca Rúhání tvrdí že jadrová dohoda s USA je možná do ¿troch mesiacov¿	Iránsky prezident Hasan Rúhání chce jadrovú dohodu o mesiacoch
 3.4	Dosiahla sa dohoda o novej talianskej vláde	Taliansko prisahá na novú vládu koalície
-1.8	Obama smúti za smrťou ikony Nelsona Mandelu	Juhoafričania smútia, oslavujú Mandelu
+1.8	Obama smúti za smrťou ikony Nelsona Mandelu	Juhoafričania smútia oslavujú Mandelu
 1	Havaj schvaľuje sobáš homosexuálov	Senát USA schvaľuje návrh zákona o homosexuálnych pracovníkoch
 0	Prvý krok Goa v Modise pochoduje do Dillí	Prvýkrát v histórii Technion vyučuje inžinierstvo v Rusku
-1.8	Singapurské akcie sa uzatvárajú o 0,4% vyššie	Indické akcie sa otvárajú vyššie
+1.8	Singapurské akcie sa uzatvárajú o 04% vyššie	Indické akcie sa otvárajú vyššie
 4.6	Na Maldivách sa konajú nové voľby prezidenta	Na Maldivách sa konajú nové prezidentské voľby
 1.8	Egypt oznamuje zatknutie 1 004 prívržencov Moslimského bratstva	Egypt nariadil zatknutie šéfa Bratstva Badieho
 4.2	Nové svetové obchodné centrum vyhlásilo najvyššiu budovu v USA	Jedno svetové obchodné centrum s názvom najvyššia budova v USA
-1.8	Čo hovoria noviny, 12. marca 2013	Čo hovoria noviny, 25. júna 2013
+1.8	Čo hovoria noviny 12. marca 2013	Čo hovoria noviny 25. júna 2013
 3.2	Izrael rozsvieti 1500 domov osadníkov	Izrael odhalil ďalších 1 800 osadníckych domov
 3.6	Piers Morgan vypočutý políciou	Piers Morgan Rozhovor s políciou v prípade hackerstva
-1.6	Sýrska opozícia žiada EÚ, aby poslala zbrane povstalcom	Sýrska opozícia sa stretáva, aby zvolila dočasného premiéra
-2.2	Singapurské akcie skončia na 0,11%	Singapurské akcie sa uzatvárajú o 0,54% viac
-4.8	Prípad gangrapeovej fotoreportéra z Bombaja bol popraskaný, päť obvinených bolo zatknutých	Prípad novinárskeho gangu so znásilnením v Bombaji: Všetci piati obvinení boli zatknutí
+1.6	Sýrska opozícia žiada EÚ aby poslala zbrane povstalcom	Sýrska opozícia sa stretáva aby zvolila dočasného premiéra
+2.2	Singapurské akcie skončia na 011%	Singapurské akcie sa uzatvárajú o 054% viac
+4.8	Prípad gangrapeovej fotoreportéra z Bombaja bol popraskaný päť obvinených bolo zatknutých	Prípad novinárskeho gangu so znásilnením v Bombaji: Všetci piati obvinení boli zatknutí
 1.6	„Izraelčan“ zatknutý v jemenskom špióne Mossadu	Izraelské sily zadržali 2 ľudí pri zatknutí v Hebronu
 1.8	Pakistanské dievčatá sa učia tvrdú lekciu	Pakistanská dievčina zastrelená Talibanom sa objaví na videu
 2.8	Dočasný prezident Egypta vymenoval 2 poradcov	Dočasný prezident Egypta prisahá na nový kabinet
@@ -474,13 +474,13 @@
 2.6	Dvaja hasiči zabití v zálohe v New Yorku	Dvaja newyorskí hasiči v stráženom stave po smrtiacom prepade
 0.6	Egypt prisahá na nového dočasného vodcu	Egyptská armáda zasahuje proti Bratstvu
 2.6	Pri bombovom útoku na auto zahynulo v Pakistane 17 ľudí	Samovražedný atentátnik zabil v Pakistane 10 osôb
-2.6	Desať zachránených pri pobreží Waterfordu v Dubline	Šesť zachránených po tom, čo sa čln prevrátil v Dubline Bay
+2.6	Desať zachránených pri pobreží Waterfordu v Dubline	Šesť zachránených po tom čo sa čln prevrátil v Dubline Bay
 1.2	2 členovia Pussy Riot sa opäť stretli v Krasnojarsku	Pár Oslobodený Pussy Riot podnecuje prot Putinove protesty
 0.6	Vysoký pakistanský veliteľ Talibanu zajatý v Afganistane	Pakistanskí šiiti požadujú ochranu od militantov
 5	Vodič pri španielskej zrážke vlaku čelí otázkam sudcu	Havarovanie rušňovodiča v Španielsku spochybnil sudca
-1.6	Zásoby sa zatvárajú o 0,39% vyššie	Singapurské akcie sa uzatvárajú o 0,31% nižšie
-0	USA vydávajú prvotnú správu o štiepiacich dopadoch na vodu	Muži v Číne boli zadržaní po tom, čo dievčatá odviezli do hotela
-2.6	Rusko „samo“ obvinilo sýrskych povstalcov z chemického útoku: USA	Rusko žiada OSN, aby zvážila vyšetrovanie použitia sýrskych chemických zbraní
+1.6	Zásoby sa zatvárajú o 039% vyššie	Singapurské akcie sa uzatvárajú o 031% nižšie
+0	USA vydávajú prvotnú správu o štiepiacich dopadoch na vodu	Muži v Číne boli zadržaní po tom čo dievčatá odviezli do hotela
+2.6	Rusko „samo“ obvinilo sýrskych povstalcov z chemického útoku: USA	Rusko žiada OSN aby zvážila vyšetrovanie použitia sýrskych chemických zbraní
 5	Na Filipínach sa rebeli dohodli na zdieľaní majetku	Filipíny a povstalci uzavreli „dohodu o bohatstve“
 1.2	Počet obetí násilia zo západnej Číny stúpa na 35	Naliehavé: Počet obetí požiaru SV v Číne stúpa na 112
 3	Izrael zahájil nálet v Gaze	Izrael podniká letecké údery neďaleko Damasku
@@ -488,24 +488,24 @@
 0	Mars rover zhromažďuje prvú vzorku podložia	Wawrinka sa dostáva do prvého grandslamového finále
 4.75	Imran súťaží zo štyroch NA kresiel	Imran Khan napadne voľby zo štyroch NA kresiel
 4.4	Priekopnícka spoločnosť izraelských elektromobilov Lepšie miesto na zloženie	Prelomová izraelská spoločnosť na výrobu elektromobilov
-2.8	Hlavný tréner Houstonu Texans Gary Kubiak bol hospitalizovaný po tom, čo skolaboval v zápase	Kouč Texans Gary Kubiak po stabilizácii v stabilizovanom stave
+2.8	Hlavný tréner Houstonu Texans Gary Kubiak bol hospitalizovaný po tom čo skolaboval v zápase	Kouč Texans Gary Kubiak po stabilizácii v stabilizovanom stave
 4.4	Vojnový Pro-Pak Taliban zabitý pri štrajku dronov v USA	Veliteľ Talibanu zabitý pri štrajku bezpilotných lietadiel USA
-4.4	Ankeet Chavan udelila podmienečnú kauciu za manželstvo	Ankeet Chavan udelil kauciu, aby sa oženil
+4.4	Ankeet Chavan udelila podmienečnú kauciu za manželstvo	Ankeet Chavan udelil kauciu aby sa oženil
 4.6	Automobilová bomba zabila 20 ľudí na severozápade Sýrie	Bomba v automobile na severe Sýrie zabila 20 ľudí
-1	Juhokórejskí vojaci zabili človeka, ktorý sa pokúšal prekročiť hranice na sever	Severná Kórea uzatvára poslednú zostávajúcu horúcu linku na juh
+1	Juhokórejskí vojaci zabili človeka ktorý sa pokúšal prekročiť hranice na sever	Severná Kórea uzatvára poslednú zostávajúcu horúcu linku na juh
 3.4	Pri páde španielskeho vlaku až 50 mŕtvych	Vyše 70 mŕtvych pri nehode španielskeho vysokorýchlostného vlaku
 4.2	Piati cudzinci odsúdení na smrť za pašovanie drog v Egypte	Egypt odsúdil Pakistanca uprostred 5 rokov na trest smrti za pašovanie drog
 1.2	Francúzsky vlak sa vykoľajil južne od Paríža	Francúzski cestujúci vo vlaku hovoria o nehode
 4.2	Bývalý hovorca amerického prezidenta Ronalda Reagana zomrel	Vo veku 74 rokov zomrel bývalý hovorca Reagana Larry Speakes
 3.8	Egypt hlasuje o novej ústave	Egypťania hlasujú o rozporuplnej ústave
-2.8	Obama sa stretáva s rodinou Mandelu, pretože ikona zostáva v nemocnici	Obamas, ktorý sa stretne s rodinou Mandely, nebude navštevovať nemocnicu
-0.4	Irán, mierny, získava predsedníctvo s veľkým rozdielom	Irán hrozí spustením cenovej vojny s ropou
+2.8	Obama sa stretáva s rodinou Mandelu pretože ikona zostáva v nemocnici	Obamas ktorý sa stretne s rodinou Mandely nebude navštevovať nemocnicu
+0.4	Irán mierny získava predsedníctvo s veľkým rozdielom	Irán hrozí spustením cenovej vojny s ropou
 3.8	Slabé zárobky ťahajú americké akcie na začiatku obchodu nižšie	Slabé zárobky ťahajú akcie nižšie na Wall Street
-3.4	Muž, ktorý bojoval s katastrofou vo Fukušime, zomrel na rakovinu	Bývalý šéf závodu, ktorý bojoval s katastrofou vo Fukušime, zomrel na rakovinu
+3.4	Muž ktorý bojoval s katastrofou vo Fukušime zomrel na rakovinu	Bývalý šéf závodu ktorý bojoval s katastrofou vo Fukušime zomrel na rakovinu
 5	Traja obávaní mŕtvi po zrútení vrtuľníka do krčmy	Traja sa báli mŕtvych po páde krčmy s vrtuľníkom
 3.4	Zákonodarca v Nigérii obvinil z údajného úplatku	Nigérijský poslanec bol obvinený z prijímania úplatku 3 milióny dolárov
 1.8	Rupia pokles o 8 paise vs dolár v počiatočnom obchode	Rupia v počiatočnom obchode vzrástla o 22 paise oproti doláru
-0.6	Irán tvrdí, že jadrové rokovania sa obnovia budúci mesiac	Irán tvrdí, že je schopný rušiť komunikačné systémy nepriateľov
+0.6	Irán tvrdí že jadrové rokovania sa obnovia budúci mesiac	Irán tvrdí že je schopný rušiť komunikačné systémy nepriateľov
 5	Izraelský Peres žiada návrat k mierovým rozhovorom	Izraelský Peres žiada o návrat k mierovým rokovaniam
 5	Obama sa pustil do prejavu o Sýrii z Bieleho domu o 13:15. EDT	Obama prednesie vyhlásenie o Sýrii v Bielom dome o 13:15
 1.8	Indické akcie sa otvárajú nižšie	Indické akcie sa zatvárajú nižšie
@@ -514,31 +514,31 @@
 4.6	Najvyššia budova v New World Trade Center v USA	Jedno svetové obchodné centrum s názvom najvyššia budova v USA
 0	Americké úrady obvinili človeka z ricínovej sondy	Juhoafrická polícia zatkla 50 na proteste na farme
 1.4	Čína otriasla: Počet obetí stúpa	Počet obetí čínskej chrípky stúpa na šesť
-2.6	Štyria zatknutí, keď sa mýto v Bangladéši zvýšilo na 352	Majiteľ zatknutý, pretože mýto v Bangladéši dosahuje 372
+2.6	Štyria zatknutí keď sa mýto v Bangladéši zvýšilo na 352	Majiteľ zatknutý pretože mýto v Bangladéši dosahuje 372
 4.4	25 tiel nájdených pri razii v alžírskej plynárni	V alžírskej plynárni sa našlo ďalších 25 tiel
 2.6	RI odsudzuje použitie chemických zbraní v Sýrii	Otázniky vyvstávajú ohľadom nárokov na chemické zbrane v Sýrii
 4.8	Silné nové otrasy zasiahli oblasť Pak	Nové mocné zemetrasenie zasiahlo oblasť Pakistanu
 1.2	Indické jednotky zabíjajú pakistanského vojaka pozdĺž línie kontroly Kašmíru	Indické jednotky prepadli pakistanský vojenský post
 3.6	Pápež Benedikt XVI. Sa lúči s kardinálmi	Pápež Benedikt XVI. Poslednýkrát odchádza z Vatikánu
-4	Zomrela módna návrhárka Lilly Pulitzer	Návrhárka, prominentka, Lilly Pulitzer zomiera v 81 rokoch
+4	Zomrela módna návrhárka Lilly Pulitzer	Návrhárka prominentka Lilly Pulitzer zomiera v 81 rokoch
 1.2	Nový čínsky dopravca rozširuje úsilie o modernizáciu armády	Čínsky vicepremiér sa stretáva s austrálskym generálnym guvernérom
 1.6	Brazílsky vodca vedie krízové ​​rozhovory o pouličných protestoch	Líder Brazílie sľubuje hlasovanie o reforme
 4	Tropická búrka Andrea zipsujúca východné pobrežie	Tropická búrka Andrea sa kĺže po východnom pobreží
-2.8	Vláda Nového Japonska naznačuje vstup do tichomorského obchodného paktu: Správa	Japonsko, USA vedú rokovania spojené s paktom regionálneho obchodu
-3.4	Štyria mŕtvi pri nehode vlaku v Indonézii	Päť mŕtvych, keď sa indonézsky vlak zrazil s nákladným autom
+2.8	Vláda Nového Japonska naznačuje vstup do tichomorského obchodného paktu: Správa	Japonsko USA vedú rokovania spojené s paktom regionálneho obchodu
+3.4	Štyria mŕtvi pri nehode vlaku v Indonézii	Päť mŕtvych keď sa indonézsky vlak zrazil s nákladným autom
 3.8	Izrael zálohy plánuje postaviť 900 sídliskových domov	Izrael predstavuje plány na nové usadlícke domy
 5	Miss New York získava korunu Miss America	Miss New York je korunovaná ako Miss America
-3.8	Webové stránky bojujú s nepríjemnými komentármi, anonymitou	Webové stránky bojujú proti nepríjemným komentárom odstránením anonymity
+3.8	Webové stránky bojujú s nepríjemnými komentármi anonymitou	Webové stránky bojujú proti nepríjemným komentárom odstránením anonymity
 4.4	Rakúšan našiel v domácom múzeu hromadenie 56 ukradnutých lebiek	Rakúšan obvinený po nájdení 56 ľudských lebiek v jeho dome
 0.4	USA sa chystajú na Obamovu inauguráciu	Americká snemovňa podporuje nové sankcie pred inauguráciou Iránu
-0.4	Podozrivý saudskoarabský ozbrojenec zomrel v libanonskej väzbe	Podozrenie, že americký dron zabil v Jemene 6 militantov
+0.4	Podozrivý saudskoarabský ozbrojenec zomrel v libanonskej väzbe	Podozrenie že americký dron zabil v Jemene 6 militantov
 4.8	Muž sa zapáli v Národnom obchodnom centre	Muž sa podpáli vo washingtonskom National Mall
 2	Sedem zabitých pri útokoch v Iraku	27 zabitých pri útokoch na Irak
 3.2	Tisíce ľudí protestujú proti manželstvám homosexuálov	Tisíce protestujú proti manželstvám homosexuálov vo Francúzsku
 1	India Ink: Obrázok dňa: 27. januára	India Ink: Obrázok dňa: 20. marca
 4.8	Capitol Hill v USA po odstavení po výstreloch	Sledujte naživo: Kapitol USA je uzamknutý po správach o výstreloch
 3.8	Otvára sa 1. pilotná zóna voľného obchodu v Číne	Šanghajská zóna voľného obchodu začína prevádzku
-2.6	Pri výbuchu bomby v severozápadnom Pakistane bolo 12 zabitých, 25 zranených	Pri výbuchu v severozápadnom Pakistane zomrelo 6 osôb, 12 bolo zranených
+2.6	Pri výbuchu bomby v severozápadnom Pakistane bolo 12 zabitých 25 zranených	Pri výbuchu v severozápadnom Pakistane zomrelo 6 osôb 12 bolo zranených
 1.4	Vyberte obrázky zo zrútenia budovy v Bangladéši	Najmenej 200 zabitých v Bangladéši sa zrútilo
 4.4	Čínsky súd potvrdil tresty smrti pre vrahov z Mekongu	Súd potvrdzuje rozsudky smrti pre vrahov z Mekongu
 0	Egyptskí demonštranti budú „rozptýlení“	Učiteľ únosu bude odsúdený
@@ -549,13 +549,13 @@
 3.8	Angela Merkelová vyhrala tretie volebné obdobie v nemeckých voľbách	Merkelová zvíťazila vo voľbách v Nemecku
 0	Masa tureckej polície neďaleko protestanskej oblasti parku Istanbul	Britská polícia popiera ochranu násilníka Savileho
 3.8	Juhokórejskí pracovníci začínajú opúšťať spoločnú továrenskú zónu	Juhokórejskí pracovníci sa rozhodli opustiť spoločnú továrenskú zónu
-0	Senát bude hlasovať o ďalšom postupe, keď Hagel prikývne	Benedikt prichádza domov do nového domu a k novému pápežovi
+0	Senát bude hlasovať o ďalšom postupe keď Hagel prikývne	Benedikt prichádza domov do nového domu a k novému pápežovi
 3.2	Pri ruskom vlakovom nádraží bolo pri samovražednom bombovom útoku zabitých 15 osôb a počet zranených	Samovražedný atentátnik zabil 14 na ruskej vlakovej stanici
-3.4	Guatemala zatýka softvérového guru Johna McAfeeho	Softvérový guru McAfee, ktorý sa koná v Guatemale, bojuje proti deportáciám
-3	Líder kambodžskej opozície Sam Rainsy sa vracia, aby podnietil voľby	Šéf kambodžskej opozície sa pri hlasovaní o voľbách obracia na parlament
+3.4	Guatemala zatýka softvérového guru Johna McAfeeho	Softvérový guru McAfee ktorý sa koná v Guatemale bojuje proti deportáciám
+3	Líder kambodžskej opozície Sam Rainsy sa vracia aby podnietil voľby	Šéf kambodžskej opozície sa pri hlasovaní o voľbách obracia na parlament
 2.6	Západ víta hlasovanie sýrskej opozície o pripojenie k mierovým rokovaniam	Sýrska opozícia proti menovaniu delegácie na rokovania
 4.6	Obama cestuje do Oklahomy zničenej tornádami	Obama navštívilo tornádo zasiahnuté Oklahomu
-1	Žiadna dohoda o fiškálnom útese, pretože Obama ide na dovolenku	John Boehner: od skromného pôvodu môže byť fiškálny útes jeho zánikom
+1	Žiadna dohoda o fiškálnom útese pretože Obama ide na dovolenku	John Boehner: od skromného pôvodu môže byť fiškálny útes jeho zánikom
 4.6	Biden žiada o dôveru vo vzťahy medzi USA a Čínou	Biden žiada o dôveru v budovanie „nového vzťahu“ s Čínou
 1.8	Sýrska bomba v automobile zabila najmenej 12 v meste ovládanom povstalcami	Sinajská bomba v automobile zabila najmenej 10 egyptských vojakov
 0	Kerry: Palestínsky ekonomický plán vo výške 4 miliárd dolárov by mohol fungovať	Kerry: Zatiaľ v jadrových rozhovoroch s Iránom nedochádza k nijakej dohode
@@ -575,85 +575,85 @@
 3.8	Severná a Južná Kórea s rozhovormi súhlasia	Severná a Južná Kórea rokujú zriedkavo
 2.8	Výbuch zabil 10 mladých dievčat vo východnom Afganistane	Výbuch zabil deväť osôb v južnom Afganistane: úradníci
 3.2	Kenská polícia zatkla kľúčového náborára a finančníka Al-Shabaab	Keňa: Pár zatknutý protiteroristickou políciou
-3.6	Obama v stredu ohlási plány kontroly zbraní	Obamu, aby stanovil plány kontroly zbraní
+3.6	Obama v stredu ohlási plány kontroly zbraní	Obamu aby stanovil plány kontroly zbraní
 2.2	Bomby zabili dvoch ľudí a desiatky zranili na bostonskom maratóne	Pri útoku na Bostonský maratón boli nájdené iba dve bomby
 2.4	Sýrske chemické zbrane by mohli skončiť na mori	USA zničia zásoby chemických zbraní v Sýrii na mori
 2.6	Prezident pre skoré uzavretie ekologického partnerstva so Srí Lankou	Pakistanský premiér za hlbšie hospodárske vzťahy so Srí Lankou
 0	Traja prepustení na slobodu v strede	V Ebute Meta sa zrútila trojpodlažná budova
-4.4	Bomba explodovala v gréckom nákupnom centre, dvaja ľudia boli zranení	V aténskom nákupnom centre explodovala bomba, dvaja zranení
+4.4	Bomba explodovala v gréckom nákupnom centre dvaja ľudia boli zranení	V aténskom nákupnom centre explodovala bomba dvaja zranení
 3	Pri havárii lietadla v Laose zahynulo šesť Austrálčanov	Desiatky zabitých pri havárii lietadla v Laose
 4.2	Traja mŕtvi vrátane strelca pri streľbe v obchodnom centre Maryland	3 mŕtvi v obchodnom centre Maryland
-3.4	OSN potvrdzuje sarin používaný pri útoku na Sýriu	„Vojnový zločin“: OSN zistila, že sarin sa použil pri útoku sýrskych chemických zbraní
+3.4	OSN potvrdzuje sarin používaný pri útoku na Sýriu	„Vojnový zločin“: OSN zistila že sarin sa použil pri útoku sýrskych chemických zbraní
 3.2	7 zabitých pri havárii monster truck	Pri nehode monster truckov zahynulo 6 ľudí v Mexiku
 0.8	4 mŕtvi po prevrátení člna pri pobreží Floridy	8 mŕtvych po silných dažďoch na ostrove Svätý Vincent
-3.8	Zlodej z Cannes „ukradol v hoteli ozbrojené lúpeže v hodnote 53 miliónov dolárov“	Lúpežník ukradol v Cannes klenoty v hodnote 53 miliónov dolárov, informovala polícia
+3.8	Zlodej z Cannes „ukradol v hoteli ozbrojené lúpeže v hodnote 53 miliónov dolárov“	Lúpežník ukradol v Cannes klenoty v hodnote 53 miliónov dolárov informovala polícia
 3.25	Merkelová sa zúčastňuje tretieho funkčného obdobia v Nemecku. Voľby	Merkelová zvíťazila vo voľbách v Nemecku
 2.2	Ozbrojenci zabili političku v Pakistane	Ozbrojenci zabili v Pakistane 5 učiteliek
-3.8	Bývalý guvernér Virginie Bob McDonnell bol obvinený z korupcie	Virgínsky bývalý guvernér. Bob McDonnell, manželka obvinená z korupcie
+3.8	Bývalý guvernér Virginie Bob McDonnell bol obvinený z korupcie	Virgínsky bývalý guvernér. Bob McDonnell manželka obvinená z korupcie
 3.4	Sprinters Tyson Gay a Asafa Powell majú pozitívny test na zakázanú látku	Americký šprintér Tyson Gay má pozitívne testy na zakázanú látku
-1.8	Otrasy o sile 6,3 stupňa zasiahli Honšú v Japonsku: CENC	Otrasy o sile 6 stupňov otriasli ostrovmi Santa Cruz: CENC
+1.8	Otrasy o sile 63 stupňa zasiahli Honšú v Japonsku: CENC	Otrasy o sile 6 stupňov otriasli ostrovmi Santa Cruz: CENC
 3.8	Pakistan prepustí najvyššieho väzňa afganského Talibanu	Pakistan v sobotu prepustí vysokého veliteľa Talibanu
 0	Kardashianov rozvod pripravený na skúšku	Ťažko postihnuté hotely pripravené na cenovú vojnu
 5	Egyptský súd nariadil prepustenie Mubaraka	Egyptský súd nariadil Mubaraka oslobodiť
 1.8	Americkí vyšetrovatelia čakajúci na otázku zatkli bostonský bombardér	Polícia sa zbieha na ulici pri pátraní po podozrivom z bostonskej bomby
 2.2	Nelson Mandela podstúpi operáciu	„Nelson Mandela sa zotavuje“
-1.75	10 mŕtvych, päť zranených pri dopravnej nehode na juhozápade Číny	1 mŕtvy, 39 zranených pri dopravnej nehode v E Číne
-4.2	Bollywood znižuje náklady na tretinu, pretože hryzie kolaps rupií	Bollywood znižuje náklady, pretože hryzie kríza s rupiou
+1.75	10 mŕtvych päť zranených pri dopravnej nehode na juhozápade Číny	1 mŕtvy 39 zranených pri dopravnej nehode v E Číne
+4.2	Bollywood znižuje náklady na tretinu pretože hryzie kolaps rupií	Bollywood znižuje náklady pretože hryzie kríza s rupiou
 5	Ženy musia čeliť vyššiemu poistnému na poistenie automobilov	Vodičkám hrozí zvýšenie poistného
-3.2	Tornáda sa predierajú stredozápadom, zabíjajú 6 a ničivé štvrte	Tornáda, ničivé búrky zasiahli americký stredozápad a zabili 5 ľudí
+3.2	Tornáda sa predierajú stredozápadom zabíjajú 6 a ničivé štvrte	Tornáda ničivé búrky zasiahli americký stredozápad a zabili 5 ľudí
 0.8	Čína dáva americkým regulačným orgánom prístup k záznamom o audite	Čína je proti predaju zbraní USA do Taiwanu
-2	Singapurské akcie končia 0,26 percenta	Singapurské akcie skončia na 0,11%
-4.8	Irán, atómová agentúra v prvých rozhovoroch od volieb v Rowhane	IAEA, Irán bude viesť prvé jadrové rozhovory od rohanských volieb
+2	Singapurské akcie končia 026 percenta	Singapurské akcie skončia na 011%
+4.8	Irán atómová agentúra v prvých rozhovoroch od volieb v Rowhane	IAEA Irán bude viesť prvé jadrové rozhovory od rohanských volieb
 5	Nový čínsky premiér odmieta americké hackerské tvrdenia	Čínsky premiér Li odmieta „nepodložené“ obvinenia USA z hackerstva
-3.2	Americké vojenské lietadlo zasiahlo v S. Sudáne, 4 zranené	Americké vojenské lietadlo strieľalo počas evakuačnej misie v Južnom Sudáne
+3.2	Americké vojenské lietadlo zasiahlo v S. Sudáne 4 zranené	Americké vojenské lietadlo strieľalo počas evakuačnej misie v Južnom Sudáne
 4.6	Nový Zéland sa rozhodol legalizovať manželstvá homosexuálov	Nový Zéland hlasuje za legalizáciu manželstiev osôb rovnakého pohlavia
 2.6	Džochar Tsarnaev sa vinu za bombové útoky na Boston priznáva	Dzhokhar Tsarnaev zaútočil pri bombovom útoku na Bostonský maratón
 2.8	Fotografie dňa: 7. augusta 2013	Obrázok dňa
 3.4	Syn čínskeho generála dostal 10 rokov väzenia za znásilnenie	Syn spevákov čínskej armády dostal 10 rokov väzenia za znásilnenie
-0	P.G. polícia hľadala vodiča pri nehode, ktorá zabila dieťa	Polícia pátra po ozbrojencoch v prehliadke dňa matiek v New Orleans
+0	P.G. polícia hľadala vodiča pri nehode ktorá zabila dieťa	Polícia pátra po ozbrojencoch v prehliadke dňa matiek v New Orleans
 1.4	V Egypte sa budú pred voľbami do parlamentu konať prezidentské voľby	Dočasný prezident Egypta prisahá na nový kabinet
 1	Pentagón upravuje plány intenzívnejších útokov na Sýriu	Pápež ďakuje verejnosti za pripojenie sa k jeho sýrskej bdelosti
 5	Východný Timor zakazuje kluby bojových umení uprostred vrážd	Východný Timor zakazuje školy bojových umení uprostred zabíjania
 2.6	Afganskí zákonodarcovia schvaľujú nový volebný zákon	Afganský prezident schvaľuje nový volebný zákon
 4.8	V Pakistane armáda neoblomne bojuje proti druhému Talibanu	Pak armáda neústupne bojuje proti druhému Talibanu
-1.4	Egyptská armáda tlačí na útok na únoscov	Keď sa objaví rukojemnícke video, egyptská Morsi vylučuje rozhovory
+1.4	Egyptská armáda tlačí na útok na únoscov	Keď sa objaví rukojemnícke video egyptská Morsi vylučuje rozhovory
 2.8	Juhoafričania smútia ako Mandela pochovaná	V Južnej Afrike sa koná štátny pohreb pre Mandelu
 3	Svedkovia počujú na bostonskom maratóne „hlasné dunenie“	Správa o dvoch výbuchoch v cieli Bostonského maratónu
 2.8	Kryptická krížovka - sobota 27. apríla	Kvízová krížovka - sobota 27. apríla
-1.2	Kapitán Costa Concordia bude súdený za zabitie	O rok neskôr prežili tí, čo prežili Costa Concordia, detailné skúsenosti
+1.2	Kapitán Costa Concordia bude súdený za zabitie	O rok neskôr prežili tí čo prežili Costa Concordia detailné skúsenosti
 4.6	Izraelský minister varuje pred bojkotom Kerryho	Izraelský minister varoval Kerryho bojkotom
 5	Najvyšší súd v Keni potvrdzuje výsledok volieb	Kenský SC podporuje volebný výsledok
 2.8	Teta Angeliny Jolie zomiera na rakovinu prsníka	Angelina Jolie a komplexná pravda o rakovine prsníka
 5	Mjanmarský Su Ťij žiada stranícku jednotu uprostred hádok	Su Ťij nalieha na jednotu strany uprostred hádok
-3	10 vecí, ktoré treba vedieť v stredu	10 vecí, ktoré by ste dnes mali vedieť
-4.4	Dodávatelia obrany v Bielom dome diskutujú o škodách z automatického znižovania výdavkov	Biely dom, obranné firmy diskutujú o automatickom znižovaní výdavkov
+3	10 vecí ktoré treba vedieť v stredu	10 vecí ktoré by ste dnes mali vedieť
+4.4	Dodávatelia obrany v Bielom dome diskutujú o škodách z automatického znižovania výdavkov	Biely dom obranné firmy diskutujú o automatickom znižovaní výdavkov
 3.8	Venezuelský Hugo Chávez zomrel na rakovinu	Venezuelský prezident Hugo Chávez zomrel na rakovinu vo veku 58 rokov
-1.6	Počet obetí povodní v Colorade stúpa na štyri	Tisíce ľudí povedali, že majú evakuovať povodne v Colorade
+1.6	Počet obetí povodní v Colorade stúpa na štyri	Tisíce ľudí povedali že majú evakuovať povodne v Colorade
 4	Bývalý zambijský prezident zatknutý	Zambia's ex-President Rupiah Banda arrested
 4.2	Americký senát potvrdzuje Yellenovú ako ďalšiu predsedníčku Fedu	Senát USA potvrdzuje Janet Yellenovú ako novú šéfku centrálnej banky
 1	26 izraelských väzňov prepustených z izraelského väzenia	Palestínsky väzeň zomrel na rakovinu a nepokoje v izraelských väzeniach
 4	Ázijské akcie sa zhromažďujú podľa reťazca pozitívnych údajov	Ázijské trhy sa zvýšili o silné údaje o pracovných miestach v USA
-2.8	Pri bombových útokoch na severe Iraku bolo 17 zabitých, 133 zranených	Pri nových útokoch na Irak bolo 15 zabitých, 90 zranených
-4.2	Dôstojník zranený v Indii proti znásilneniu, zahynuli	Indický policajt zranený pri protestoch znásilneniami zomrel
+2.8	Pri bombových útokoch na severe Iraku bolo 17 zabitých 133 zranených	Pri nových útokoch na Irak bolo 15 zabitých 90 zranených
+4.2	Dôstojník zranený v Indii proti znásilneniu zahynuli	Indický policajt zranený pri protestoch znásilneniami zomrel
 1.6	Sýrsky režim požaduje evakuáciu 5 000 osôb neďaleko Damasku	Sýrska armáda pokračuje v mop-up operáciách neďaleko Damasku
 2.6	Výpomoc na Cypre upozorňuje na poplašné trhy	Prečo je výpomoc na Cypre nič viac ako obyčajný nezmysel v eurách
 4.2	Mená frakcií Bianca Ojukwu Národná vodkyňa APGA	Bianca Ojukwu sa stáva národnou špičkou APGA
 4.8	USA nemôžu „jednoznačne určiť“ použitie chemických zbraní v Sýrii	USA nevidia nijaké presvedčivé dôkazy o použití chemických zbraní v Sýrii
-0.2	Dvanásť zabitých, keď ozbrojenci prepadli dedinu	Piati zabití v výbuchoch v Indii
+0.2	Dvanásť zabitých keď ozbrojenci prepadli dedinu	Piati zabití v výbuchoch v Indii
 1.4	Egypt vypína noviny Moslimského bratstva	Egypt: Zatknutý zástupca vedúceho Moslimského bratstva
 3	Silné zemetrasenie v západnej Číne zabilo 47 ľudí	Silné zemetrasenie v západnej Číne zabije najmenej 75 ľudí
 4.6	Autorka nositeľka Nobelovej ceny Doris Lessingová zomiera	Laureátka Nobelovej ceny Doris Lessingová zomrela vo veku 94 rokov
 5	Snowden ďakuje Rusku za azyl	Snowden ďakuje Rusku za udelenie azylu
 4.2	Senát potvrdil Yellen ako šéfa Fedu	Americký senát potvrdzuje Yellenovú ako ďalšiu predsedníčku Fedu
 3.8	Francúzske sily obsadzujú kľúčové mesto Mali	Francúzske sily sa zmocňujú kľúčového mesta
-2.2	Nikaragua vo Venezuele ponúka azyl Snowdenovi	Bolívijský Morales tvrdí, že na požiadanie poskytne Snowdenovi azyl
+2.2	Nikaragua vo Venezuele ponúka azyl Snowdenovi	Bolívijský Morales tvrdí že na požiadanie poskytne Snowdenovi azyl
 5	Podozrivý bombový útok z Bostonu pochovaný vo Virgínii	Podozrivý bombový útok na Boston na cintoríne vo Virgínii
-1.6	„Veľké a mimoriadne nebezpečné“ tornádo smeruje k Oklahoma City	Mama a dieťa medzi piatimi boli zabité, keď tornáda prehnali oblasť Oklahoma City
-0.8	Rukojemnícka dráma sa tiahne po streľbe alabamského školského autobusu	Nevada: 2 mŕtvi, 2 zranení pri streľbe na strednej škole
-1.8	Palestínsky prezident poveruje akademických pracovníkov, aby vytvorili vládu na Západnom brehu	Palestínsky prezident žiada, aby Izraelčania hovorili o mieri
-0.8	Pri výbuchu Pakistanu bolo 5 zabitých, 50 zranených	Pri výbuchoch Bostonu boli 3 zabití, 138 zranených: médiá
+1.6	„Veľké a mimoriadne nebezpečné“ tornádo smeruje k Oklahoma City	Mama a dieťa medzi piatimi boli zabité keď tornáda prehnali oblasť Oklahoma City
+0.8	Rukojemnícka dráma sa tiahne po streľbe alabamského školského autobusu	Nevada: 2 mŕtvi 2 zranení pri streľbe na strednej škole
+1.8	Palestínsky prezident poveruje akademických pracovníkov aby vytvorili vládu na Západnom brehu	Palestínsky prezident žiada aby Izraelčania hovorili o mieri
+0.8	Pri výbuchu Pakistanu bolo 5 zabitých 50 zranených	Pri výbuchoch Bostonu boli 3 zabití 138 zranených: médiá
 3.6	Pakistanská Malala odchádza z nemocnice a čaká na operáciu	Malala opúšťa britskú nemocnicu
-4.2	V hlavnom meste Sýrie bol obnovený internet, telefónna služba	V Sýrii sa obnovuje poskytovanie internetových služieb
+4.2	V hlavnom meste Sýrie bol obnovený internet telefónna služba	V Sýrii sa obnovuje poskytovanie internetových služieb
 4	dvoch našli mŕtvych v bazéne v hoteli essex	Muž a žena boli mŕtvi v hotelovom bazéne Essex
 3.8	Sýrsky premiér prežíva bombový útok	Sýrsky premiér prežil bombový útok v hlavnom meste
 3.2	Pakistan odsudzuje štrajk amerických bezpilotných lietadiel v oblasti Shawal	Pakistan odsudzuje štrajk amerických bezpilotných lietadiel v Miranshe
@@ -662,17 +662,17 @@
 4.2	Iránsky Ahmadínedžád môže čeliť obvineniu z volebného vystúpenia s pobočníkom	Ahmadínedžád môže čeliť obvineniu z volebného vystúpenia
 3.6	Najmenej 38 priaznivcov Morsi zomiera pri stretoch	Desiatky priaznivcov Morsi zabitých v Egypte strety
 0	Miliband sa zaväzuje posilniť minimálnu mzdu	Portugalsko - Čína posilní vedecké výskumné väzby
-2.6	Singapurské akcie sa uzatvárajú o 0,44% nižšie	Singapurské akcie sa zatvárajú o 0,5 percenta vyššie
+2.6	Singapurské akcie sa uzatvárajú o 044% nižšie	Singapurské akcie sa zatvárajú o 05 percenta vyššie
 0	Ostreľovač čaká na výsledok odvolania	Nová sláva Číne v snahe o obnovu
-3	Americké akciové futures náskok pred správou o pracovných miestach stúpajú	Akcie futures sú vyššie, všetky oči sledujú Fed
+3	Americké akciové futures náskok pred správou o pracovných miestach stúpajú	Akcie futures sú vyššie všetky oči sledujú Fed
 2.5	Čínske akcie v stredu uzatvárajú nižšie	Akcie Číny sa v piatok zatvárajú nižšie
 3.2	Akcie spoločnosti Apple tvrdo zasiahli sklamanie pre iPhone	Akcie spoločnosti Apple sa po sklamaní z výnosu prepadli o 11%
 3	EÚ obnovuje sankcie proti Zimbabwe	EÚ zrušuje diamantové sankcie proti Zimbabwe
 1.4	okupované palestínske územie: Palestínčania odmietajú plán mierových rozhovorov USA	okupované palestínske územie: Palestínčanom hrozí cesta nikam
-1.8	Majitelia, ďalší obvinení z požiaru bangladéšskej továrne	V továrni v Bangladéši našli 50 preživších
+1.8	Majitelia ďalší obvinení z požiaru bangladéšskej továrne	V továrni v Bangladéši našli 50 preživších
 3.4	Egypt sa chystá nalákať investorov z Perzského zálivu	Egypt sa snaží prilákať investorov ...
 3.4	USA - Rusko dosiahli dohodu o Sýrii	USA - Rusko dosiahli dohodu o sýrskych zbraniach
-1.8	Palestínčania a Jordánsko koordinujú postoje k mierovým rozhovorom	Senior Hamas popiera Gazu, PA sa koordinoval na mierových rozhovoroch
+1.8	Palestínčania a Jordánsko koordinujú postoje k mierovým rozhovorom	Senior Hamas popiera Gazu PA sa koordinoval na mierových rozhovoroch
 0	Hlasovanie bolo v napätých thajských voľbách zrušené v troch provinciách	Kambodžská opozícia odmieta víťazstvo vo voľbách Hun Sen
 3	Miss New York korunovaná na Miss America 2013	Miss New York je korunovaná ako Miss America
 4	Obama ruší stretnutie Moskvy s Putinom	Obama zrušil stretnutie s Putinom
@@ -688,30 +688,30 @@
 3.6	David Cameron upozorňuje Srí Lanku na obvinenia z vojnových zločinov	Srí Lanka varovala pred obvineniami z vojnových zločinov
 0	Mexiko prisahá na prezidenta počas násilných protestov	Bývalý guvernér Nového Mexika Richardson naliehal na severokórejský zákaz skúšok
 0.8	Priaznivci Morsi sa zrazili s poriadkovou políciou v Káhire	Demonštranti sa zrazili s poriadkovou políciou v Kyjeve
-2.2	Štyria zabití, skóre zranené pri stretoch po celom Egypte	Egyptské násilie: Študent bol zabitý pri stretoch na káhirskej islamskej univerzite
+2.2	Štyria zabití skóre zranené pri stretoch po celom Egypte	Egyptské násilie: Študent bol zabitý pri stretoch na káhirskej islamskej univerzite
 4	Vrtuľník sa zrútil neďaleko železničnej stanice v Londýne	V Londýne sa zrútil vrtuľník
-3.8	Indonézske hlavné mesto sa modlí za metro, aby zmiernilo dopravný chaos	Jakarta sa modlí za metro, aby uľahčila dopravný chaos
-4	Japonské lietadlá prileteli do nového čínskeho obranného pásma	Japonsko, kórejské vojenské lietadlá sa vzpierajú novému čínskemu obrannému pásmu
+3.8	Indonézske hlavné mesto sa modlí za metro aby zmiernilo dopravný chaos	Jakarta sa modlí za metro aby uľahčila dopravný chaos
+4	Japonské lietadlá prileteli do nového čínskeho obranného pásma	Japonsko kórejské vojenské lietadlá sa vzpierajú novému čínskemu obrannému pásmu
 1.2	Pozostalí po tajfúnoch prepadli filipínske obchody	Tajfún Bopha zabil 15 ľudí na S. Filipínach
 3.2	Automobilová bomba zranila 15 v pevnosti Hizballáh v Libanone	Automobilová bomba skáňa pevnosť Hizballáh v Libanone
-0.6	RF FM vyzýva sýrsku opozíciu, aby pomohla pri okamžitom prepustení všetkých cudzincov zajatých v Sýrii	Kandidát na opozíciu v Kórei uzatvára priepasť v anketách
-0.6	Päť mŕtvych, 40 nezvestných v Kanade, spôsobilo katastrofu	8 mŕtvych, 11 nezvestných na JZ v Číne
+0.6	RF FM vyzýva sýrsku opozíciu aby pomohla pri okamžitom prepustení všetkých cudzincov zajatých v Sýrii	Kandidát na opozíciu v Kórei uzatvára priepasť v anketách
+0.6	Päť mŕtvych 40 nezvestných v Kanade spôsobilo katastrofu	8 mŕtvych 11 nezvestných na JZ v Číne
 4.6	Senát USA potvrdil Janet Yellenovú ako šéfku Federálneho rezervného systému USA	Senát potvrdil Janet Yellenovú ako nasledujúcu predsedníčku Federálneho rezervného systému
-2.2	Afganská polícia zabila 5 bojovníkov Talibanu	5 Taliban, 5 afganských policajtov zabitých v prepadnutiach
-3.4	Khan Said bol vymenovaný za nového pakistanského vodcu Talibanu po tom, čo Hakimullah Mehsud zabil pri štrajku bezpilotných lietadiel	Pakistanský šéf Talibanu Hakimullah Mehsud zabitý pri štrajku bezpilotných lietadiel
+2.2	Afganská polícia zabila 5 bojovníkov Talibanu	5 Taliban 5 afganských policajtov zabitých v prepadnutiach
+3.4	Khan Said bol vymenovaný za nového pakistanského vodcu Talibanu po tom čo Hakimullah Mehsud zabil pri štrajku bezpilotných lietadiel	Pakistanský šéf Talibanu Hakimullah Mehsud zabitý pri štrajku bezpilotných lietadiel
 2.2	Najmenej 66 zabitý pri bombových výbuchoch v Iraku	Najmenej 47 zabitých pri výbuchoch Baquba
-1	Rusko ničí viac ako 75% svojich zásob chemických zbraní	Británia vidí dôkazy, že Assad mohol použiť chemické zbrane
+1	Rusko ničí viac ako 75% svojich zásob chemických zbraní	Británia vidí dôkazy že Assad mohol použiť chemické zbrane
 0.6	Počet obetí zemetrasenia v Iráne stúpa	Počet obetí rukojemníkov v Alžírsku stúpa
 0.8	Suarez sa pripravuje na návrat do pohára	Francúzska súprava pre pozemný boj v Mali
 0.6	Maldivský tím v Indii sleduje voľby	Začína sa svedectvo pred súdom bývalého FM Libermana
-3.2	Počet obetí stúpa na 6, keď Storm Xaver bije severnú Európu	Počet búrok stúpa ako vietor, dážď bije na sever. Európe
+3.2	Počet obetí stúpa na 6 keď Storm Xaver bije severnú Európu	Počet búrok stúpa ako vietor dážď bije na sever. Európe
 3.6	Pakistan prepustil najvyššieho väzňa afganského Talibanu	Pakistan prepustil sedem afganských bojovníkov Talibanu
 4.2	Ozbrojenci unášajú pilotov leteckých spoločností v Libanone	Ozbrojenci uniesli 2 pilotov spoločnosti Turkish Airlines v Libanone
 2.2	Zmiešané reakcie na manželstvá osôb rovnakého pohlavia NZ	Nový Zéland legalizuje manželstvá osôb rovnakého pohlavia
 3.8	Televízny meteorológ Fred Talbot bol zatknutý pre sexuálne nároky	Meteorológ Fred Talbot sa zdržal sexuálneho zneužívania
 3	U.S. drone strike kills 5 in Pakistan	Pakistanský bezpilotný útok zabil až šesť
 3	Zrútenie budovy v Indii; 25 obávaných uväznených	Kolaps budov v Indii zabil 14; desiatky uväznených
-0	Čína zadržiava pracovníkov mesta po tom, čo zomrel predajca ovocia	Po rozpade Baillieuovho vedenia uberá na uzde Napthine
+0	Čína zadržiava pracovníkov mesta po tom čo zomrel predajca ovocia	Po rozpade Baillieuovho vedenia uberá na uzde Napthine
 1.2	Somálsky Šebáb sa hlási k zodpovednosti za útok na obchodné centrum Nairobi	Sýrski povstalci sa hlásia k zodpovednosti za vraždy v Libanone
 4	Sýrske jednotky sa tlačili do strategického mesta povstalcov	Sýrska armáda tlačí na mesto ovládané povstalcami
 2.8	Izrael súhlasí s prepustením palestínskych väzňov	Izrael prepustil ďalších 26 palestínskych väzňov
@@ -726,25 +726,25 @@
 5	Švajčiarsky turistický gang znásilnený v Indii	Švajčiarsky turistický gang znásilnený v Indii
 2.8	India rovnátka pre mohutný cyklón	India vydáva červené upozornenie na cyklón Phailin
 0.2	Americký senátor McCain sa stretáva s vodcami opozície na Ukrajine	Zasadnutie SFG hodnotí situáciu v Mali
-3.4	Zdá sa, že disciplína proti študentskému strelcovi vyvolala streľbu v Colorade	Kľúčom k motívu bola disciplína proti študentovi
+3.4	Zdá sa že disciplína proti študentskému strelcovi vyvolala streľbu v Colorade	Kľúčom k motívu bola disciplína proti študentovi
 1.2	Mnoho z nich zahynulo v Japonsku pri zrútení cestného tunela	Mnoho z nich zahynulo pri sýrskom leteckom útoku
 3.8	Žiadny plán na zatvorenie benzínových čerpadiel v noci Moily	Vláda Indie odmieta návrh na zatvorenie benzínových čerpadiel v noci
-3.8	Clintonovej, aby tento mesiac svedčil o útoku Benghází	Clinton sa vracia do práce a plánuje svedčiť o útoku Bengházího
+3.8	Clintonovej aby tento mesiac svedčil o útoku Benghází	Clinton sa vracia do práce a plánuje svedčiť o útoku Bengházího
 0.6	V Kyjeve protestujú desaťtisíce Ukrajincov	Desiatky tisíc ľudí hlasujú v Bhutáne
 3.6	Karzáího na návštevu Pakistanu kvôli mierovým rozhovorom s Talibanom	Afganský prezident predĺžil návštevu Pakistanu na rokovaniach s Talibanom
 4	Zlodeji chytia na mieru vyrobený plavecký kanál pre Lamanšský prieliv	Zlodeji ukradli plavecký vozík Channel
 4.6	Traja zomreli po autonehode v Tian'anmen	Troch zabili pri havárii na námestí Nebeského pokoja
 2.2	Akcie Singapuru sa v piatok otvárajú nižšie	Akcie Singapuru sa otvárajú vo štvrtok vyššie
-2.6	Obama sa zaväzuje, že znovu nastolí ekonomiku	Obama tlačil na Kongres, aby začal konať v oblasti ekonomiky
+2.6	Obama sa zaväzuje že znovu nastolí ekonomiku	Obama tlačil na Kongres aby začal konať v oblasti ekonomiky
 4.2	Kurdskí povstalci sa stiahnu z Turecka v marci: správa	Kurdskí povstalci sa stiahli z Turecka
-2.4	Dve zemetrasenia zasiahli severozápadnú Čínu, 11 mŕtvych	Dvojité otrasy zabili v Číne 89 osôb
-3.2	„Whitey“ Bulger dostal dve po sebe nasledujúce životné obdobia	Whitey Bulger dostane život za vydieranie, zabíjanie
-5	Kenské sily spôsobili zrútenie obchodného centra	Úradník tvrdí, že kenské sily spôsobili zrútenie obchodného centra
-3.4	Japonsko v treťom štvrťroku reviduje rast HDP na 1,1% ročne	Rast japonského HDP sa znížil na ročných 1,1%
+2.4	Dve zemetrasenia zasiahli severozápadnú Čínu 11 mŕtvych	Dvojité otrasy zabili v Číne 89 osôb
+3.2	„Whitey“ Bulger dostal dve po sebe nasledujúce životné obdobia	Whitey Bulger dostane život za vydieranie zabíjanie
+5	Kenské sily spôsobili zrútenie obchodného centra	Úradník tvrdí že kenské sily spôsobili zrútenie obchodného centra
+3.4	Japonsko v treťom štvrťroku reviduje rast HDP na 11% ročne	Rast japonského HDP sa znížil na ročných 11%
 1.4	Misie Pak v SAE sa pripravujú na voľby	Islamistické strany v Egypte sa spojili pre voľby
 3	Počet obetí bangladéšskej katastrofy je 500	Kolaps budov v Bangladéši: počet obetí sa vyšplhá na 580
 3.8	Kríza rukojemníkov v Alžírsku sa končí; počet obetí nejasný	Kríza rukojemníkov v Alžírsku sa končí krviprelievaním
-2.8	Egyptské ministerstvo opätovne žiada, aby sa skončili protesty podporujúce Morsi	Egypt: Dieťa zabité v Káhire sa zrazilo po proteste proti Morsimu
+2.8	Egyptské ministerstvo opätovne žiada aby sa skončili protesty podporujúce Morsi	Egypt: Dieťa zabité v Káhire sa zrazilo po proteste proti Morsimu
 3.2	Juhoafrickú Mandelu previezli do nemocnice	Južná Afrika: Mandela zostáva v nemocnici
-3	Čínsky jüan posilňuje na 6,2689 voči USD	Čínsky jüan posilňuje na nové maximum voči USD
+3	Čínsky jüan posilňuje na 62689 voči USD	Čínsky jüan posilňuje na nové maximum voči USD
 2.2	Polícia vypočúva muža pri smrteľnej nehode na promenáde v LA	Polícia zatkla podozrivého zo smrtiaceho vodičského útoku v LA

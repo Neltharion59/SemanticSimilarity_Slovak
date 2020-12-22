@@ -1,6 +1,6 @@
 3.6	mladí chlapec sa hrať vonku a muž sa usmievať neďaleko	nie byť tam žiaden chlapec ktorý sa hrať vonku a žiaden muž sa usmievať
 3.4	človek v čierny sako robiť trik na motorka	šikovný človek jazdiť na bicykel na jeden koleso
-3.8	štyri dieťa robiť ? v telocvičňa	štyri dievča robiť ? a hrať sa vonku
+3.8	štyri dieťa robiť v telocvičňa	štyri dievča robiť a hrať sa vonku
 2.9	hráč vhadzovať lopta	dva tím súťažiť vo futbalový zápas
 4.2	pred drevený chata stáť pätiť dieťa	v drevenieť chatrč stáť pätiť dieťa
 2.6	málokto sa stravovať pri červená stôl v reštaurácia bez svetlo	veľký reštaurácia Ázijec sa stravovať v reštaurácia
@@ -42,7 +42,7 @@
 3.1	dievčatko v modro biely uniforma jasať	dievča povzbudzovať muž v modro biely uniforma
 4.2	žena bozkávať muž	nie byť žiaden žena ktorý by pobozkať muž
 3.8	dievča v červenieť košeľa fúkať bublina	mladá dievča fúkať bublina ktorý byť obrovský
-4.8	niektorý ? jesť dva batoľa ktorý byť vo vagón ktorý byť naozaj malý	dva batoľa jesť ? vo vagón ktorý byť naozaj malý
+4.8	niektorý jesť dva batoľa ktorý byť vo vagón ktorý byť naozaj malý	dva batoľa jesť vo vagón ktorý byť naozaj malý
 2.1	muž sadať na kôň na dráha položený vo voľný príroda	kôň hodiť kovboj v nohavica modrieť a červenieť farba
 4.3	dospelý byť v amfiteáter a rozprávať sa s chlapec	v amfiteáter nie byť dospelý ktorý by sa rozprávať s chlapec
 3.1	v amfiteáter sa hovoriť o dospelý a chlapcov	dospelý byť v amfiteáter a rozprávať sa s chlapec
@@ -50,8 +50,8 @@
 1	žena jazdiť na kôň	muž otvárať malá balenie ktorý obsahovať slúchadlo
 3.5	ryba loviť v more korytnačka	korytnačka sledovať ryba
 3	zemiak krájať žena	žena krájať mrkva
-4.1	žena byť ? vlas	žena byť upravovať vlas
-3.6	žena byť ? vlas	neexistovať žena ktorý by byť česať vlas
+4.1	žena byť vlas	žena byť upravovať vlas
+3.6	žena byť vlas	neexistovať žena ktorý by byť česať vlas
 4.3	muž a žena byť na turistika zalesnený oblasť	muž a žena kráčať spolu les
 4.6	muž a žena kráčať spolu les	muž a žena kráčať zalesnený oblasť
 3.6	muž krájať drdol	muž krájať paradajka
@@ -85,7 +85,7 @@
 4.6	na flauta hrať krásny spôsob dievča	na flauta hrať dievča
 2.4	dospelý hlasne hrať na gitara	muž hrať na flauta
 2.4	muž hrať hlasno na gitara	na flauta nehrať muž
-4.6	dievčatko ktorý byť malá byť starostlivo ? vlas do chvost poník	dievčatko ktorý byť malá byť ? vlas do chvost
+4.6	dievčatko ktorý byť malá byť starostlivo vlas do chvost poník	dievčatko ktorý byť malá byť vlas do chvost
 1	jeden muž sedieť na stolička	dievčatko ktorý byť malá byť prehrabávať vlas
 4	mikrofón pred hovoriaci papagáj byť stlmený	papagáj hovoriť do mikrofón
 3.5	mačiatko na tácka sa jesť ako jedlo na reklama	jedlo na tácka konzumovať mačiatko
@@ -100,13 +100,13 @@
 3	obrázok nastavený kamera snímať muž na pláž pri západ slnko	muž fotografovať jazero
 4.8	žena šija so stroj	žena používať stroj vyrobený na šitie
 3.9	niekto spadnúť z kôň	muž nie byť zrazený z kôň
-4.1	žena ? prst na stôl	žena spočívať prst na stôl
-3.1	žena ? po prst	žena spočívať prst na stôl
+4.1	žena prst na stôl	žena spočívať prst na stôl
+3.1	žena po prst	žena spočívať prst na stôl
 4.7	mačka sa vášnivo hrať s melón	mačka sa hrať s melón
 4.5	mačka sa vášnivo hrať s melón	mačka sa hrať s melón
 3.8	osoba horieť niektorý fotoaparát fúkací baterka	vysoký človek podpaľovať kamera
 4.2	niektorý fotoaparát horieť človek pomoc fúkací baterka	osoba podpaľovať kamera
-3.3	osoba podľa niektorý kamera fúkať na ? pochodeň	osoba podpaľovať kamera
+3.3	osoba podľa niektorý kamera fúkať na pochodeň	osoba podpaľovať kamera
 3.4	človek krájať cibuľa na kúsok	človek krájať mrkva na kúsok
 2.7	muž nekrájať zemiak	muž krájať zemiak
 3.5	niekto krájať paradajka	žena držať celá paradajka
@@ -129,7 +129,7 @@
 4.1	muž v garáž narýchlo nasadať do auto	muž sadať do auto
 3.4	muž parkovať auto v garáž	muž sadať do auto
 3	osoba krájať strúčik cesnak na kúsok	osoba byť krájať strúčik cesnak na kúsok
-5	? variť vo voda žena	žena variť rezanec vo voda
+5	variť vo voda žena	žena variť rezanec vo voda
 4.3	neexistovať žiaden praktik karate ktorý kop do iný muž ktorý mať na seba ochranný boxerský rukavica	karatistka kop do iný muž ktorý mať na seba ochranný boxerský rukavica
 3	muž kop box s tréner	neexistovať žiaden praktik karate ktorý kop do iný muž ktorý mať na seba ochranný boxerský rukavica
 4	muž kop box s tréner	karatistka kop do iný muž ktorý mať na seba ochranný boxerský rukavica
@@ -142,14 +142,14 @@
 4.5	malá morča hrýzť a zjesť kúsok mrkva na zem	morča požierať mrkva
 2.7	pristávať lietadlo	animovaný lietadlo štartovať
 2.7	žena vyberať zmes z misa	žena pripravovať vajíčko na panvica
-5	dáma ? na očný tieň	žena ? na očný tieň
+5	dáma na očný tieň	žena na očný tieň
 3.8	malá dievčatko hrať na pódium na klavír	dievča cvičiť na klavír
 3.2	žena hrať na flauta	žena nehrať na flauta
 4.3	muž dvíhať činka	muž dvíhať činka
 4	žena sa nalíčiť	neexistovať žena ktorý by sa nalíčiť
 2.4	žena krájať mrkva	cibuľa krájať žena
 3	dva muž bojovať v dobytčí koterec	dva muž byť mimo dobytčí koterec
-3.3	k veľký zelenieť guľa chýbať zemiak	veľký zelenať guľa ? na zemiak
+3.3	k veľký zelenieť guľa chýbať zemiak	veľký zelenať guľa na zemiak
 4.8	veľký zelenať guľa narážať na zemiak	veľký guľa zelenieť farba zasahovať zemiak
 3.5	vo veľký zelenieť guľa chýbať zemiak	veľký zelenať guľa narážať na zemiak
 3.4	veľký zelenať guľa narážať na zemiak	k veľký zelenieť guľa chýbať zemiak
@@ -176,7 +176,7 @@
 4.8	medveď panda žrať trocha bambus	niektorý bambus zožrať medveď panda
 3.2	niekto biÅ¥ vajce	žena nemiešať vajce v miska
 1.9	žena vykostiť ryba	muž chytiť veľký ryba
-5	podnos byť maslo určený pre osoba	človek ? ?
+5	podnos byť maslo určený pre osoba	človek
 4.4	muž sekať kmeň strom	muž sekera poleno
 4.1	mačka sa pozerať z okno na stôl na bidielko	mačka posadený na stôl pozerať von okno
 4.8	pes olizovať dieťa	pes olizovať dieťa
@@ -234,7 +234,7 @@
 4.6	muž byť banán	muž byť ovocie
 4.4	muž strihať nôta	muž strihať papier
 2.7	muž hrať na gitara	nikto nehrať na klavír
-3.7	dva muž v ? obracať pneumatika traktor	dva muž súťažiť v preteky valcovanie pneumatika
+3.7	dva muž v obracať pneumatika traktor	dva muž súťažiť v preteky valcovanie pneumatika
 3	muž hovoriť	niektorý stará žena hovoriť
 1.2	muž biť futbalový lopta	muž miešať obsah miska
 4.2	lekár liečiť človek	lekár pomáhať pacient
@@ -248,7 +248,7 @@
 1.4	dievčatko sedieť na gauč a háčkovať	na pláž nie byť žiaden dievča ktorý by hrať na husle
 3.7	muž variť had	nie byť človek ktorý by variť had
 3.8	nie byť tam žiaden chlapec ktorý hrať na gitara	chlapec hrať na gitara
-2.935	v zoologický záhrada nie byť opica ? pes	opica dráždiť pes v zoo
+2.935	v zoologický záhrada nie byť opica pes	opica dráždiť pes v zoo
 4.4	opica ťahať psí chvost	opica dráždiť pes v zoo
 3.8	nie byť žiaden osoba ktorý by porezať nejaký zázvor	človek porezať nejaký zázvor
 3	človek porezať nejaký zázvor	človek krájať cibuľa
@@ -257,11 +257,11 @@
 5	na niektorý nástroj hrať skupina	skupina hrať na nejaký nástroj
 3.8	skupina nehrať na nejaký nástroj	skupina hrať na nejaký nástroj
 3	človek tancovať	žena cvičiť
-4	muž robiť ?	muž cvičiť v posilňovňa
+4	muž robiť	muž cvičiť v posilňovňa
 4.5	muž spievať a hrať na gitara	muž spievať a hrať na hudobný nástroj
-3.7	? sa rozprávať s dôstojník	dôstojník sa rozprávať s regrút
+3.7	sa rozprávať s dôstojník	dôstojník sa rozprávať s regrút
 4.7	cesnak krájať žena	žena krájať cesnak
-2.7	žena krájať ryba	neexistovať žena ? ryba
+2.7	žena krájať ryba	neexistovať žena ryba
 5	žena jazdiť na kôň	na kôň jazdiť žena
 4.4	veľký mačka labka otvárať plastový zásuvka a skákať dovnútra	mačka otvárať zásuvka a skákať dovnútra
 4.9	muž hovoriť po telefón	muž hovoriť do telefón
@@ -305,14 +305,14 @@
 5	muž a žena byť v miestnosť natretý béžový farba na seba mať tmavo sfarbený košeľa a v pozadie byť monitor	muž a žena byť v béžový miestnosť mať na seba tmavo sfarbený košeľa a v pozadie byť monitor
 4.2	človek v rifle sedieť šťastne na vrchol konský sedlo	žena v rifle sedieť na sedlo kôň
 3.3	hnedý a biely pes držať v ústa bejzbal	čiernobiely pes zhadzovať z ústa bejzbal
-4	mladý chlapec v červená plavky skákať do bazén modrá dieťa	chlapec v červená šortky skákať do ?
+4	mladý chlapec v červená plavky skákať do bazén modrá dieťa	chlapec v červená šortky skákať do
 2.5	dva človek stoj v oceán a sledovať západ slnko	nikto nestáť v oceán a nesledovať západ slnko
 3	vodič závodný auto sa postaviť a ukázať ruka na obloha	vodič závodný auto byť sadať a byť nehybný
 1.6	vodič závodný automobil sa postaviť a urputne ukazovať ruka na obloha	osoba v modré sako mať farebný prilba
 3.4	cyklista držať v skupina človek bicykel nad hlava	cyklista byť držaný nad hlava skupina človek s bicykel
 3.8	muž sedieť na loď pred západ slnko v blízkosť vlajka	muž stáť na čln pred západ slnko blízko vlajka
 4.1	muž stáť na čln pred západ slnko blízko vlajka	muž byť na loď pred západ slnko
-2.6	človek na ? Rača utekať pred plameň ktorý vychádzať z automobil	dav sledovať dva závodný automobil ktorý opúšťať štartový čiara
+2.6	človek na Rača utekať pred plameň ktorý vychádzať z automobil	dav sledovať dva závodný automobil ktorý opúšťať štartový čiara
 3.3	na tráva sa spolu hrať dva pes	dva pes odpočívať spolu v tráva
 5	v tráva behať čierny pes	v tráva behať čierny pes
 4.9	v tráva behať čierny pes a jazyk on visieť	v tráva behať čierny pes
@@ -325,7 +325,7 @@
 3.5	malý chlapec mať na seba žltý tielko a smiať sa	vysmiaty chlapec byť v žltieť nádrž a mať na seba top
 3.1	osoba nestáť na biely ľad	osoba stáť v obrovský pole ľadovcový ľad
 4	brankár ľadový hokej mať na seba žltý dres a brániť brána	nie byť tam žiaden hokejista v žltý dres ktorý by strážiť brána
-3.1	žena mať na seba modrá prilba a jazdiť na bicykel na parkovisko	žena parkovať na modré bicykel a nosiť veľa ?
+3.1	žena mať na seba modrá prilba a jazdiť na bicykel na parkovisko	žena parkovať na modré bicykel a nosiť veľa
 3.3	na jeden noha stáť mladá dievča	mladá žena tancovať
 2.7	na jeden noha stáť mladá dievča	mladá dievča tancovať
 3.9	včela sa držať na žltý kvet	na zväzok žltý kvet nepristávať malá včielka
@@ -359,23 +359,23 @@
 3.8	po dvor behať hnedý pes s hračka v ústa	po dvor nebežať žiaden hnedý pes s hračka v ústa
 2.6	nie byť žiaden chlapec ktorý skákať do vzduch s pokrčený koleno a roztiahnutý ruka	osoba so zelená košeľa skákať vysoko nad tráva
 4.8	muž v slamený klobúk fajčiť cigareta	muž mať slamený klobúk a fajčiť cigareta
-4.3	muž mať oblečený modrá košeľa s dlhý rukáv a džínsy a jazdiť na ? po ulica	muž mať na seba modrá kockovaný košeľa a jazdiť na ? po ulica
+4.3	muž mať oblečený modrá košeľa s dlhý rukáv a džínsy a jazdiť na po ulica	muž mať na seba modrá kockovaný košeľa a jazdiť na po ulica
 4.1	malá dieťa liezť na socha v park	dva dieťa sa hrať na socha
-3.3	na veža sa pozerať ? dáma	žena sa pozerať na výhľad na mesto
+3.3	na veža sa pozerať dáma	žena sa pozerať na výhľad na mesto
 3.1	na vrchol skala stáť muž a za on byť mrak	niekto stáť na vrchol hora
 4.1	dieťa sa usmievať do kamera a plávať pod voda	dieťa plávať pod voda v bazén
 2.4	americký futbalista mať na seba červeno biely pásik	futbalista mať oblečený čierny páska na rukáv
 4.9	dievčatko sa hojdať a žena stáť za ona	dievčatko ktorý byť malá sa hojdať a žena stáť vzadu
 3.6	malá dieťa prejavovať vzrušenie na hojdačka v park	dievčatko ktorý byť malá sa hojdať a žena stáť vzadu
-3.5	na vlna sa jazdiť ?	muž padať zo ? doska vo voda
+3.5	na vlna sa jazdiť	muž padať zo doska vo voda
 4.9	skupina človek sedieť v šero	skupina človek sedieť v tmavieť miestnosť
 3.6	muž a dva žena v tmavieť miestnosť sedieť za stôl so sviečka	skupina človek sedieť v šero
-2.5	muž a dva žena v ? miestnosť sedieť za stôl so sviečka	skupina matný človek sedieť v miestnosť
+2.5	muž a dva žena v miestnosť sedieť za stôl so sviečka	skupina matný človek sedieť v miestnosť
 4.9	muž v biely košeľa a slnečný okuliare a muž v čierny košeľa a slnečný okuliare sedieť pri stôl so štyri fľaša pivo	muž v biely košeľa a slnečný okuliare a muž v čierny košeľa a slnečný okuliare sedieť za stôl so štyri pivový fľaša
 2.4	žena nemať na seba červená sako a nedržať pred muž pohár v biely tričko	osoba mať na seba červená bunda a držať pivo
 3	dieťa sledovať niekto ako sa hrať vonku a chrliť voda na svoj rodina	chlapec držať hadica vedľa muž a ďalší chlapec on sledovať
 3.3	nie byť futbalista vo fialový dres ktorý by bežať s lopta po dorážka	futbalista bežať okolo funkcionár ktorý nosiť futbal
-2.9	futbalista niesť oficiálny minulosť okolo ? sa futbal	futbalista vo fialový dres bežať s lopta po dorážka
+2.9	futbalista niesť oficiálny minulosť okolo sa futbal	futbalista vo fialový dres bežať s lopta po dorážka
 5	mladá dievča v modré trikot skákať do vzduch	mladá dievča v trikot sfarbený do modra skákať do vzduch
 5	mladá dievča v modré skákať do vzduch	mladá dievča v modré skákať do vzduch
 4.5	partia muž hrať rugby na ihrisko plný bahno	niektorý muž hrať ragby
@@ -388,7 +388,7 @@
 4.3	chlapec pod slnečník držať jeho otec v modré kabát	chlapec ktorý mať na seba modrý kabát držať jeho otec pod dáždnik
 1.5	chlapec pod slnečník držať jeho otec v modré kabát	dieťa zažívať nový svet
 3.2	pes sa sám hrať na pláž pokrytý sneh	po snehový nádielka kráčať pes
-3.9	? ísť na veľký vlna cez tmavozelený voda	? ísť na malá vlna
+3.9	ísť na veľký vlna cez tmavozelený voda	ísť na malá vlna
 4.4	tenista sa rútiť doľava	tenista skákať doľava
 3.7	dva pes sa pozerať na niečo čo špliechať vo voda	niektorý pes sa nehrať v potok
 3.9	muž v modré kovbojský klobúk jazdiť na biely kôň	muž v modré sa viezť na kôň po poľný cesta
@@ -400,17 +400,17 @@
 2.3	dievča behať voda na pláž	chlapec v biely tričko sa špliechať v plytký voda
 3.5	chlapec v biely tričko sa špliechať v plytký voda	chlapec bežať cez voda na pláž
 2.8	dieťa nemať oblečený oblek a voda špliechať okolo	dieťa v plavky sa hrať vo voda
-4.8	mladá dievča mať oblečený modrá ? plavky čierno žltý plavecký čiapka a na hlava mať modrá plavecký okuliare	dievčatko mať oblečený modrá ? plavky čierno žltý plavecký čiapka a na hlava mať modrá plavecký okuliare
+4.8	mladá dievča mať oblečený modrá plavky čierno žltý plavecký čiapka a na hlava mať modrá plavecký okuliare	dievčatko mať oblečený modrá plavky čierno žltý plavecký čiapka a na hlava mať modrá plavecký okuliare
 3	ženská roztlieskavačka sedieť na koleno mužský roztlieskavačka	niektorý roztlieskavačka byť relaxačný
-4.4	dievčatko mať červená vlas a obočie niekoľko ? do ucho a kresba na chrbát	dievčatko mať červená vlas a obočie niekoľko ? do ucho a tetovanie na chrbát
-3	dievčatko mať červená vlas a obočie niekoľko ? do ucho a na chrbát nemať tetovanie	dievča s červený vlas a červená obočie byť v stredný reč
+4.4	dievčatko mať červená vlas a obočie niekoľko do ucho a kresba na chrbát	dievčatko mať červená vlas a obočie niekoľko do ucho a tetovanie na chrbát
+3	dievčatko mať červená vlas a obočie niekoľko do ucho a na chrbát nemať tetovanie	dievča s červený vlas a červená obočie byť v stredný reč
 4.8	dva človek jazdiť na džíp a na jeho vrchol sedieť dáma	dva človek jazdiť na džíp a na jeho vrchol sedieť dievča
 4.4	dospelý a dieťa nie byť zhromaždený v blízkosť vonkajší sedenie	dospelý a dieťa byť zhromažďovanie v blízkosť vonkajší posedenie
-2.4	dievča mať na líce farebný škvrna	dievča stáť v skupina a mať na seba čierny košeľa a ružový ?
+2.4	dievča mať na líce farebný škvrna	dievča stáť v skupina a mať na seba čierny košeľa a ružový
 3.335	voda behať dva pes	po vysoká tráva behať dva pes
 4.2	niektorý človek a vozidlo byť na preplnený ulica	niektorý človek a vozidlo byť na takmer prázdny ulica
 3.1	mladá dievča s pomaľovaný tvár stáť vedľa niektorý ďalší dieťa	dieťa byť oblečený v kostým a hrať sa hra
-4.4	pred vodný plocha nie byť žiaden cyklista ? skákajúci po prašný rampa	dva motorkár ? ? pred vodný plocha po rampa
+4.4	pred vodný plocha nie byť žiaden cyklista skákajúci po prašný rampa	dva motorkár pred vodný plocha po rampa
 4.4	muž robiť trik na skateboard	človek robiť trik na skateboard
 4.8	muž v motokrosový uniforma mať na hlava prilba a jazdiť na červenieť motorka	osoba v motokrosový uniforma mať na hlava prilba a jazdiť na červenieť motorka
 4.2	chlapec v pruhovaný košeľa skákať za vodný fontána	chlapec v pruhovaný košeľa skákať pred vodný fontána
@@ -423,7 +423,7 @@
 4.3	za slnečný deň sedieť na lavička v park dva človek	v horúci deň sedieť na lavička v park dva človek
 3.1	dieťa špliechať voda vo veľký červený bazén	batoľa robiť špliechanie vo vnútri modré bazén
 3.2	šedý hodvábny pes ležať v tráva a hnedý pes sa prizerať	hnedý pes spozorovať čierny pes ležiaci v suchý tráva
-4.2	čierny pes a malý biely a čierny pes ? k kuchynský doska	veľký pes a malý pes stoj vedľa kuchynský linka a vyšetrovať
+4.2	čierny pes a malý biely a čierny pes k kuchynský doska	veľký pes a malý pes stoj vedľa kuchynský linka a vyšetrovať
 4.4	muž nie byť lezenie po skala a v pozadie byť mesto a záliv	muž liezť po skala a v pozadie byť mesto a záliv
 4.8	muž liezť po skala pozastavovať sa a počítať trasa	muž liezť po skala zastavovať a počítať trasa
 3.8	žiaden skupina človek sa nezbierať pri stánok na veľtrh	človek stoj na karneval
@@ -437,7 +437,7 @@
 4.5	pes plávať vo voda	zviera plávať vo vodný plocha
 3.8	žena sa opierať o rímsa balkón	muž sa opierať o rímsa balkón
 3.1	malý biely pes behať po trávnik	po trávnik bežať veľký biely pes
-4.5	pes byť na ? a kráčať neďaleko voda	vo voda sa prechádzať čierny pes na ?
+4.5	pes byť na a kráčať neďaleko voda	vo voda sa prechádzať čierny pes na
 4	jeden chlapec v oranžový trenírky stáť na skalný útes nad voda a druhý chlapec v čierny trenírky to skákať do voda	dva muž stoj na okraj útes a jeden skákať do voda
 3.8	malá skupina človek stáť a dva sedieť na pohovka	skupina piatich mladá dospelý sa váľať v interiér
 4.4	mladá dievča v bikiny skákať na pláž	mladá dievča v plaváreň skákať na pláž
@@ -448,7 +448,7 @@
 4.4	dva chlapec ležať v oceán blízko pláž	dva chlapec ležať vo voda blízko pláž
 2.8	v obchod s vojenský príslušenstvo sedieť veľký muž	veterán ukazovať niektorý človek rôzne vec z vojna
 3.4	s lopta sa vonku hrať pes s modrá golier	sivý pes odrážať futbalový lopta na hlava v trávnatý pole
-2.4	mladá žena s indický oblečenie a ? na ruka prechádzať ?	žena mať na seba farebný košeľa a veľa šperk
+2.4	mladá žena s indický oblečenie a na ruka prechádzať	žena mať na seba farebný košeľa a veľa šperk
 4.9	muž v čierny dres stáť v telocvičňa	muž v čierny dres stáť v telocvičňa
 4.5	muž v čierny dres stáť v telocvičňa	muž stáť v telocvičňa a mať na seba dres
 3.7	po chodník bežať malý hnedo biely pes	po cesta bežať malý hnedo biely pes
@@ -458,14 +458,14 @@
 4.3	chlapík skákať do vzduch v drevo	chlapík skákať do vzduch v zalesnený oblasť
 4	pes bežať s lopta	čierny pes niesť v ústa modro biely guľa
 3.2	muž v modré pózovať pre obrázok vedľa vozidlo	muž stáť za volant klasický americký automobil ktorý mať otvorený dvere a kufor
-3.1	muž lyžovať z kopec dol a skákať po červenieť prekážka	muž ? po zábradlie v sneh
+3.1	muž lyžovať z kopec dol a skákať po červenieť prekážka	muž po zábradlie v sneh
 4.9	skejtbordista skákať do vzduch	skejtbordista skákať do vzduch
-3.3	snowboardista brúsiť dlhý betónový koľajnica	človek robiť akrobacia na ?
+3.3	snowboardista brúsiť dlhý betónový koľajnica	človek robiť akrobacia na
 4.2	po ulica kráčať skupina človek a telefonovať človek v zelený klobúk	po mestský chodník ísť štyri človek a ten v zelený klobúk niekto telefonovať
-4.9	? surfovať na veľký vlna	? surfovať na obrovský vlna
-3	osoba s červená bunda s kapucňa a čierny batoh kráčať neďaleko kamenný stena	muž v červenieť bunda a ? nohavica kráčať po európsky štát
+4.9	surfovať na veľký vlna	surfovať na obrovský vlna
+3	osoba s červená bunda s kapucňa a čierny batoh kráčať neďaleko kamenný stena	muž v červenieť bunda a nohavica kráčať po európsky štát
 3.5	hráč manévrovať za futbalový lopta	muž v zelený kop futbalový lopta a muž v fialový a biely vstávať
-3.3	muž oblečený v kožený ? a fialovieť košeľa stáť pred niekto kto sa pozerať	muž mať na seba fialový tričko a čierny kožený čapica a pózovať pre fotoaparát
+3.3	muž oblečený v kožený a fialovieť košeľa stáť pred niekto kto sa pozerať	muž mať na seba fialový tričko a čierny kožený čapica a pózovať pre fotoaparát
 4.1	pes byť v piesočnatý oblasť s piesok ktorý sa miešať do vzduch a v pozadie byť niekoľko rastlina	v piesok ktorý fúkať vzduch byť pes
 4	v piesok ktorý fúkať vo vietor nie byť žiaden pes	pes byť v piesočnatý oblasť s piesok ktorý sa miešať do vzduch a v pozadie byť niekoľko rastlina
 4.4	čiernobiely pes bežať na zelený dvor	vonku behať čiernobiely pes
@@ -475,7 +475,7 @@
 2.9	na ulica ležať na bunda veľký hnedo biely škvrnitý pes	pes byť zdriemnuť v park
 2.8	muž na žltý športový bicykel robiť dvojkolesie a priateliť na čierny bicykel to stíhať	jazdec oblečený v oranžový farba riadiť motocykel na jeden koleso
 4.5	starý muž sedieť na lavička a mať na seba sivý bunda a čierny nohavica	starý muž sedieť na lavička
-4.9	žena držať štetec vedľa ? stojan	dáma držať štetec vedľa ? stojan
+4.9	žena držať štetec vedľa stojan	dáma držať štetec vedľa stojan
 3.6	muž mať na seba modrá košeľa a chodiť bosý po tenisový kurt	žena mať na seba modrá košeľa a chodiť bosý po tenisový kurt
 4.8	mladá dievča sa hrať na okraj fontána a starý žena ona sledovať	mladá dievča sa hrať na okraj fontána a starý žena ona sledovať
 3.5	mladá dievča sa hrať na okraj fontána a starý žena ona sledovať	malá dievča a žena v žltieť košeľa byť postriekaný mestský fontána
@@ -489,7 +489,7 @@
 1.4	dva malá dieťa sa na ulica hrať s autíčko	pes bežať po pole a prenasledovať hračka
 1	muž hrať na elektrický gitara	skupina človek držať nápoj a ukazovať na kamera
 1	dievča v zlatý a fialovieť farba držať dúhový afganský	muž čupieť v štetec a fotografovať
-2	dva človek ísť na bicykel	Cvičiák skokan vyhadzovať ? človek do vzduch
+2	dva človek ísť na bicykel	Cvičiák skokan vyhadzovať človek do vzduch
 1	na niektorý nástroj hrať skupina	mladá polonahý žena byť pokrytý farba
 1	rodina kupovať niečo v automat	muž v oblek stáť pri mikrofón a spievať
 2.8	na bicykel sa jazdiť po opica	osoba jazdiť na špinavý bicykel z kopec dol

@@ -1,106 +1,106 @@
 4	Mexiko chcieť zaručiť bezpečnosť občan	Mexiko byť priať vyhnúť sa veľký násilie
-4.2	Španielsko v súčasnosť držať rotujúci predsedníctvo v OBSE	Španielsko v súčasnosť predsedať ?
-4.2	zmluva bola prvýkrát podpísaný v rok 1990	zmluva o ? bola podpísaný v rok 1990
-3.2	? a ? byť popravený vo väzenie	? a ? byť popravený za obchodovanie s heroín v provincia Sistán ?
-0.6	bezpečný ? bola odsúdený na 15 rok väzenie	? ? bola odsúdený na pätiť rok
-3.6	? uviesť že rádioaktívny materiál bola primárny základ pre výroba surový zbraň hromadný ničenie a terorizmus	urán byť rádioaktívny materiál ktorý byť primárny základ pre výroba špinavý zbraň hromadný ničenie a terorizmus
-3.6	? ? uviesť že digitálny červ s názov ? ? bola obzvlášť ? a replikovať sa rýchlosť 8 000 krát za hodina	? ? uviesť že digitálny červ s názov ? ? mať veľmi vysoká schopnosť replikácia a digitálny červ s názov ? ? spomaľovať počítačový sieť post italiana a robiť niektorý počítač nefunkčný
-2	? ? uviesť že v súčasnosť byť veľký záujem o právať duševný vlastníctvo ako pred 20 alebo 30 rok	? ? uviesť že niektorý národ mať silne právať duševný vlastníctvo ako iný
+4.2	Španielsko v súčasnosť držať rotujúci predsedníctvo v OBSE	Španielsko v súčasnosť predsedať
+4.2	zmluva bola prvýkrát podpísaný v rok 1990	zmluva o bola podpísaný v rok 1990
+3.2	a byť popravený vo väzenie	a byť popravený za obchodovanie s heroín v provincia Sistán
+0.6	bezpečný bola odsúdený na 15 rok väzenie	bola odsúdený na pätiť rok
+3.6	uviesť že rádioaktívny materiál bola primárny základ pre výroba surový zbraň hromadný ničenie a terorizmus	urán byť rádioaktívny materiál ktorý byť primárny základ pre výroba špinavý zbraň hromadný ničenie a terorizmus
+3.6	uviesť že digitálny červ s názov bola obzvlášť a replikovať sa rýchlosť 8 000 krát za hodina	uviesť že digitálny červ s názov mať veľmi vysoká schopnosť replikácia a digitálny červ s názov spomaľovať počítačový sieť post italiana a robiť niektorý počítač nefunkčný
+2	uviesť že v súčasnosť byť veľký záujem o právať duševný vlastníctvo ako pred 20 alebo 30 rok	uviesť že niektorý národ mať silne právať duševný vlastníctvo ako iný
 4.4	vyšetrovateľ tvrdiť že britský spoločnosť bola kryt čí	ruský vyšetrovateľ uviesť že britský spoločnosť bola kryt čí
 1.4	členské štát Rusko a nato byť táto jeseň rokovať o konvenčný sila v európsky zmluva CFE	ruský parlament jednomyseľne hlasovať za pozastavenie účasť Ruska v zmluva o konvenčný sila v Európa CFE
 4.6	vláda spojený štát a ďalší člen nato odmiesť ratifikovať zmenený a doplnený zmluva až kto predstaviteľ v Moskva nestiahnuť vojsko z bývalá sovietsky republika Moldavsko a Gruzínsko	spojený štát a ďalší člen nato odmiesť ratifikovať zmenený a doplnený zmluva kto sa Rusko úplne nevstúpiť z Moldavsko a Gruzínsko
 2	Rusko by okamžite nezvýšiť vojenský sila pozdĺž ruský hranica	Rusko by v prípad potreba neváhať zvýšiť vojenský sila pozdĺž ruský hranica
 2.2	centrum byť v prevádzka od august 2008	centrum byť formálne otvorený v rok 2009
-3.8	brazílsky polícia obklopujúci ? severne od Rio ? ? aby ich zbaviť násilný obchodník s droga	policajt obkľúčiť ? severne od Rio ? ? aby ich zbaviť násilný obchodník s droga a zaistiť zbraň a droga
+3.8	brazílsky polícia obklopujúci severne od Rio aby ich zbaviť násilný obchodník s droga	policajt obkľúčiť severne od Rio aby ich zbaviť násilný obchodník s droga a zaistiť zbraň a droga
 3.6	regionálne a medzinárodný otázka nešírenie by sa mať riešiť prostredníctvo dialóg a rokovanie	druhý návrh byť že regionálne a medzinárodný otázka nešírenie jadrový zbraň by sa mať riešiť prostredníctvo dialóg a rokovanie
 2.6	v Afganistan dôjsť k bombardovanie pretože v posledný deň pribúdať útok protivládny povstalec	v Afganistan dôjsť k bombový útok polícia však zatiaľ neuviesť kto byť zodpovedný
 4.8	webový stránka gruzínsky vláda byť pod silný kybernetický útok po ruský vojenský útok proti Gruzínsko koncom minulý týždeň	kybernetický útok nasledovať po ruský vojenský útok proti Gruzínsko koncom minulý týždeň
-3.8	obchodný a diplomatický vzťah Švajčiarsko s Irán byť kritizovaný v posledný mesiac po ten čo v marec 2008 odcestovať ministerka zahraničie ? ? Reyová do Teherana aby podpísať dohoda s iránsky štátny plynárenský spoločnosť	obchodný a diplomatický vzťah Švajčiarsko s islamský republika byť kritizovaný v posledný mesiac po ten čo v marec 2008 odcestovať ministerka zahraničie ? ? Reyová do Teherana aby podpísať dohoda o plyn
+3.8	obchodný a diplomatický vzťah Švajčiarsko s Irán byť kritizovaný v posledný mesiac po ten čo v marec 2008 odcestovať ministerka zahraničie Reyová do Teherana aby podpísať dohoda s iránsky štátny plynárenský spoločnosť	obchodný a diplomatický vzťah Švajčiarsko s islamský republika byť kritizovaný v posledný mesiac po ten čo v marec 2008 odcestovať ministerka zahraničie Reyová do Teherana aby podpísať dohoda o plyn
 2.8	zmluva o konvenčný sila v Európa obmedzovať počet vojenský lietadlo tank a iný nejadrový ťažký zbraň v Európa	zmluva o konvenčný sila v Európa bola podpísaný ruský a nato v rok 1990
 3.6	africký únia navrhnúť mierový misia s cieľ pomôcť somálsky dočasný vláda stabilizovať Somálsko	africký únia navrhnúť mierový misia na pomoc prechodný dočasný vláda v stabilizácia somálsky najmä po stiahnutie etiópsky sila
 4.2	správa uvádzať že sýrsky vláda na miesiť napadnutie tajiť jadrový zariadenie	u n. expert začať analyzovať správa podľa ktorý sýrsky vláda tajiť jadrový zariadenie na napadnutý miesiť
-3.4	droga byť tiež známa ako ľad alebo ?	metamfetamín byť tiež známy ako ľad
+3.4	droga byť tiež známa ako ľad alebo	metamfetamín byť tiež známy ako ľad
 4	národný regionálne a medzinárodný snaha o ukončenie nezákonný obchod s ručný a ľahký zbraň	globálne spoločenstvo musieť spolupracovať na ukončenie nezákonný obchod s ručný a ľahký zbraň
 4	v Pakistan pokračovať náboženský extrémizmus napriek zákaz militantný skupina	v Pakistan pokračovať náboženský extrémizmus napriek zákaz militantný skupina pakistanský vláda
 3.2	ruský predstaviteľ vyzvať na konferencia o zmluva o konvenčný sila v Európa na ktorý sa byť diskutovať o ratifikácia zmenený a doplnený zmluva	Anton vystúpiť deň pred konferencia o zmluva o konvenčný sila v Európa
-4.4	ruský prezident ? podpisovať dekrét o pozastavenie uplatňovanie európsky zmluva o kontrola zbraň Rusko	prezident Vladimíra ? podpísať dekrét o pozastavenie účasť Ruska v konvenčný sila na európsky zmluva
-5	Mjanmarsko byť predtým znať ako ?	Mjanmarsko sa predtým volať ?
-0	alt ? sa nachádzať severovýchodne od hlavný mesto Lima	? ? sa nachádzať 557 km severovýchodne od Nikaragua Managua
+4.4	ruský prezident podpisovať dekrét o pozastavenie uplatňovanie európsky zmluva o kontrola zbraň Rusko	prezident Vladimíra podpísať dekrét o pozastavenie účasť Ruska v konvenčný sila na európsky zmluva
+5	Mjanmarsko byť predtým znať ako	Mjanmarsko sa predtým volať
+0	alt sa nachádzať severovýchodne od hlavný mesto Lima	sa nachádzať 557 km severovýchodne od Nikaragua Managua
 3.8	nato ľutovať rozhodnutie Ruska pozastaviť účasť na CFE	rozhodnutie Ruska pozastaviť účasť na CFE byť krok zlé smer
 4.2	medza porušenie ľudský právo v Mjanmarsko patriť hromadný poprava mučenie a nábor detská vojak	medza tento porušenie ľudský právo patriť hromadný poprava mučenie a nábor dieťa
-2.4	generál ? n. urak telefonicky uviesť že štátny vedecký stredisko aplikovaný mikrobiológia mať v prípad núdza celkom spoľahlivý systém ochrana	generál ? n. urak byť dlhoročný riaditeľ štátny vedecký center aplikovaný mikrobiológia
-3.6	spoločnosť Alst o zákazka súťaž s japonský a nemecký krajina	spoločnosť Alst súťaž o zákazka s japonský spoločnosť ? a nemecký spoločnosť ?
+2.4	generál n. urak telefonicky uviesť že štátny vedecký stredisko aplikovaný mikrobiológia mať v prípad núdza celkom spoľahlivý systém ochrana	generál n. urak byť dlhoročný riaditeľ štátny vedecký center aplikovaný mikrobiológia
+3.6	spoločnosť Alst o zákazka súťaž s japonský a nemecký krajina	spoločnosť Alst súťaž o zákazka s japonský spoločnosť a nemecký spoločnosť
 3.8	legislatíva byť posledné úsilie Japonsko pripísať mnoho prísnosť svoj prísne kontrolovaný armáda a zrušiť by zákaz vojenský využívanie vesmír	legislatíva byť posledné úsilie Japonsko pripísať veľký sloboda prísne kontrolovaný armáda ktorý byť technicky známa ako sila sebaobrana
 2	južný Kórea zavádzať nový guľový vlak s rýchlosť 300 km h	južný Kórea mať systém guľový vlak od 80. rok
 2.2	Rusko byť člen kvarteto na blízko východ	Rusko byť člen NSR
-4.6	vyhlásiť ? sokol sovietsky vybudovaný raketový obranný systém a 135 okolo Moskva byť zastaraný a neefektívny	sovietsky postavený systém protiraketový obrana a 135 okolo Moskva byť zastaraný a neefektívny
-0.6	dohoda byť v platnosť niekoľko rok	? vyšetrovať iránsky jadrový aktivita už 4 rok
-3.2	dodržiavanie povinnosť nešírenie jadrový zbraň zvýšiť vzájomný dôvera a medzinárodný spolupráca v oblasť jadrový energia	? ? uviesť že všetok krajina by mať dodržiavať povinnosť nešírenie zbraň hromadný ničenie aby sa posilniť vzájomný dôvera a vytvoriť dobré prostredie pre medzinárodný spolupráca v oblasť jadrový energia
-4	francúzsky energetický a dopravný spoločnosť ? môcť podpísať zmluva na vybudovanie vysokorýchlostný železničný spojenie medza Peking a Šanghaj	Alst môcť podpísať zmluva na vybudovanie vysokorýchlostný železničný spojenie medza Peking a Šanghaj
+4.6	vyhlásiť sokol sovietsky vybudovaný raketový obranný systém a 135 okolo Moskva byť zastaraný a neefektívny	sovietsky postavený systém protiraketový obrana a 135 okolo Moskva byť zastaraný a neefektívny
+0.6	dohoda byť v platnosť niekoľko rok	vyšetrovať iránsky jadrový aktivita už 4 rok
+3.2	dodržiavanie povinnosť nešírenie jadrový zbraň zvýšiť vzájomný dôvera a medzinárodný spolupráca v oblasť jadrový energia	uviesť že všetok krajina by mať dodržiavať povinnosť nešírenie zbraň hromadný ničenie aby sa posilniť vzájomný dôvera a vytvoriť dobré prostredie pre medzinárodný spolupráca v oblasť jadrový energia
+4	francúzsky energetický a dopravný spoločnosť môcť podpísať zmluva na vybudovanie vysokorýchlostný železničný spojenie medza Peking a Šanghaj	Alst môcť podpísať zmluva na vybudovanie vysokorýchlostný železničný spojenie medza Peking a Šanghaj
 2	žiaden iný liek sa za desaťročie nestať taký integrálny	droga existovať už rok v iný forma
 3.4	medzinárodný agentúra pre atómový energia dosiahnuť dohoda s iránsky úradník ktorý uviesť že v súvislosť s iránsky jadrový program a činnosť neexistovať žiaden ďalší problém a nejasnosť	dohoda uviesť že v súvislosť s iránsky jadrový program a činnosť neexistovať žiaden ďalší otázka a nejasnosť
-3.8	pekinský polícia zadržať mnoho ako 20 človek vrátane 8 cudzinec podozrivý z užívanie droga a obchodovanie s on v 2 krčma v obľúbený center mesto	? polícia zadržať mnoho ako 20 človek pre podozrenie z užívanie a obchodovanie s droga v 2 bar v center mesto
-4.2	Rusko ratifikovať aktualizovaný zmluva v rok 2004 ale spojený štát a ďalší člen nato to odmiesť tvrdiť že Moskva musieť najskôr splniť povinnosť stiahnuť sila z Gruzínsko a z moldavský separatistický región ? deňester	Rusko ratifikovať zmenený a doplnený verzia ale spojený štát a ďalší člen vláda nato to odmiesť kto ruský vláda nestiahnuť jednotka z bývalá sovietsky republika Moldavsko a Gruzínsko
+3.8	pekinský polícia zadržať mnoho ako 20 človek vrátane 8 cudzinec podozrivý z užívanie droga a obchodovanie s on v 2 krčma v obľúbený center mesto	polícia zadržať mnoho ako 20 človek pre podozrenie z užívanie a obchodovanie s droga v 2 bar v center mesto
+4.2	Rusko ratifikovať aktualizovaný zmluva v rok 2004 ale spojený štát a ďalší člen nato to odmiesť tvrdiť že Moskva musieť najskôr splniť povinnosť stiahnuť sila z Gruzínsko a z moldavský separatistický región deňester	Rusko ratifikovať zmenený a doplnený verzia ale spojený štát a ďalší člen vláda nato to odmiesť kto ruský vláda nestiahnuť jednotka z bývalá sovietsky republika Moldavsko a Gruzínsko
 3.2	existovať protichodný názor pokiaľ ísť o rozsah škoda ktorý vzniknúť povstanie	násilie pokračovať napriek protichodný názor na rozsah škoda ktorý utrpieť povstalecký skupina
-5	provincia ? byť veľký región na výroba ópium na svet	provincia ? byť veľký producent ópium na svet
-1.8	polícia uviesť že ? ? ? byť vydaný na ? ?	polícia uviesť že ? bola na útek
-1.6	2 zo zatknutý osoba byť prepustenie	2 zo zatknutý ? byť mladistvý
-4.6	mexický prezident ? ? vyslať do ? 2 800 zvláštny agent a vojak kvôli vysoký stupeň organizovaný zločin a obchod s droga	mexický prezident ? ? vyslať do ? 2 800 zvláštny agent a vojak aby bojovať proti obchodovanie s droga
+5	provincia byť veľký región na výroba ópium na svet	provincia byť veľký producent ópium na svet
+1.8	polícia uviesť že byť vydaný na	polícia uviesť že bola na útek
+1.6	2 zo zatknutý osoba byť prepustenie	2 zo zatknutý byť mladistvý
+4.6	mexický prezident vyslať do 2 800 zvláštny agent a vojak kvôli vysoký stupeň organizovaný zločin a obchod s droga	mexický prezident vyslať do 2 800 zvláštny agent a vojak aby bojovať proti obchodovanie s droga
 1.8	v Berlín sa v október uskutočniť stretnutie na vysoký úroveň s cieľ zachrániť kľúčový európsky zmluva o kontrola zbraň konvenčný sila v Európa CFE	Rusko pozastaviť svoj účasť na kľúčový európsky zmluva o kontrola zbraň ktorý upravovať rozmiestnenie vojsko v Európa
-1.8	stretnutie ? trvalo dva deÅˆ	stretnutie ? sa konaÅ¥ v Madrid
-4.8	zmluva o ? bola podpísaný v rok 1990	zmluva ? bola založený v rok 1990
+1.8	stretnutie trvalo dva deÅˆ	stretnutie sa konaÅ¥ v Madrid
+4.8	zmluva o bola podpísaný v rok 1990	zmluva bola založený v rok 1990
 4.4	Irán trvať na ten že program byť zameraný výhradne na mierový činnosť ako byť generácia	Irán trvať na ten že jeho jadrový program slúžiť na mierový účel
 3.4	Čína byť dôležitý sila na zabezpečenie svetový mier	Čína byť dôležitý sila na podpor svetový rozvoj
 4.4	severný Kórea popierať účasť na jadrový program v Sýria	severný Kórea popierať účasť na akýkoľvek sýrsky jadrový projekt
-1.2	hovorca spoločnosť ? ? nebyť okamžite k dispozícia pre	čínsky orgán nebyť okamžite k dispozícia na vyjadrenie
-3.8	? ? ? varovať že ak dôjsť k zákaz severokórejský plavidlo vláda severný ? by sa pomstiť útok jadrový raketa na veľký mesto ako ? York a Washington	? ? ? vyhlásiť že severný Kórea sa pomstiť útok jadrový raketa na veľký mesto ako ? York a Washington DC.
+1.2	hovorca spoločnosť nebyť okamžite k dispozícia pre	čínsky orgán nebyť okamžite k dispozícia na vyjadrenie
+3.8	varovať že ak dôjsť k zákaz severokórejský plavidlo vláda severný by sa pomstiť útok jadrový raketa na veľký mesto ako York a Washington	vyhlásiť že severný Kórea sa pomstiť útok jadrový raketa na veľký mesto ako York a Washington DC.
 3.8	Irán byť po Čína produktívny aplikátor trest smrť na svet	islamský republika byť po Čína plodný aplikátor trest smrť na svet
-1.4	John ? byť veľký britský veľvyslanec pre mnohostranný kontrola zbraň a odzbrojenie	na zhromaždenie OSN čínsky vláda vyzývať na zvýšený úsilie zameraný na globálny kontrola zbraň a odzbrojenie
+1.4	John byť veľký britský veľvyslanec pre mnohostranný kontrola zbraň a odzbrojenie	na zhromaždenie OSN čínsky vláda vyzývať na zvýšený úsilie zameraný na globálny kontrola zbraň a odzbrojenie
 4	zmluva bola zmenený a doplnený v rok 1999 po rozpad sovietsky zväz	zmluva bola zmenený a doplnený v rok 1999 tak aby odrážať zmena od rozpad soviet
 4.4	Kašmír byť rozdelený medza India a Pakistan	o kašmír sa hlásiť India aj Pakistan
-1.4	južný Kórea a Izrael byť proti šírenie zbraň hromadný ničenie a preteky v ?	Čína sa rozhodne postaviť proti šírenie hromadne deštruktívny zbraň
-3.4	? varovať že my a britský zlyhanie v kompenzácia Líbya za jadrový odzbrojenie neodradiť Irán a severný ? od odzbrojenie	neschopnosť západný krajina dostatočne kompenzovať Líbya odradiť Irán a severný ? od odzbrojenie
+1.4	južný Kórea a Izrael byť proti šírenie zbraň hromadný ničenie a preteky v	Čína sa rozhodne postaviť proti šírenie hromadne deštruktívny zbraň
+3.4	varovať že my a britský zlyhanie v kompenzácia Líbya za jadrový odzbrojenie neodradiť Irán a severný od odzbrojenie	neschopnosť západný krajina dostatočne kompenzovať Líbya odradiť Irán a severný od odzbrojenie
 3.4	Rusko ratifikovať zmenený a doplnený zmluva	Rusko ratifikovať aktualizovaný zmluva v rok 2004
 3.4	zamestnanec 30 špecialista byť vykonávať výskum a školenie o kybernetický vojna a byť pripravený pomáhať člen nato pri reakcia na všetok budúca kybernetický útok	zamestnanec 30 špecialista byť vykonávať výskum a školenie o kybernetický vojna
-3	mládežnícky krídlo ? i ? usporiadať samostatný demonštrácia v Kašmír	demonštrácia mládežnícky krídlo skupina ? i ? bola proti útok USA na Irak
+3	mládežnícky krídlo i usporiadať samostatný demonštrácia v Kašmír	demonštrácia mládežnícky krídlo skupina i bola proti útok USA na Irak
 3.8	Irán byť po Čína produktívny aplikátor trest smrť na svet	islamský republika byť po Čína plodný aplikátor trest smrť na svet
 4.4	Čína sa rozhodne postaviť proti prostriedkom dodávanie hromadne ničivý zbraň	Čína sa vždy postaviť proti šírenie zbraň hromadný ničenie
 3.4	porucha poriadok v Čína viesť k významný globálny nepokoj	rozpad objednávka v Čína byť horšiť ako v Afganistan alebo Juhoslávia
-4	severný Kórea sa prihlásiť k jadrový ambícia a v súčasnosť sa uvádzať že severný Kórea mať raketa zameraný na Japonsko	severný Kórea sa môcť pochváliť jadrový ambícia a v súčasnosť sa uvádzať že v severný ? byť cvičený raketa
-0.8	Abuja byť hlavná mesto	? byť hlavná mesto Gruzínsko
+4	severný Kórea sa prihlásiť k jadrový ambícia a v súčasnosť sa uvádzať že severný Kórea mať raketa zameraný na Japonsko	severný Kórea sa môcť pochváliť jadrový ambícia a v súčasnosť sa uvádzať že v severný byť cvičený raketa
+0.8	Abuja byť hlavná mesto	byť hlavná mesto Gruzínsko
 4.6	vláda spojený štát obviniť iránsky vláda zo snaha vyvinúť jadrový zbraň pod záštita civilný jadrový program	USA a spojenec obviniť Irán z pokus o vývoj jadrový zbraň pod zámienka civilný jadrový program
 1	Tirana byť hlavná mesto	Abuja byť hlavná mesto
-3.2	pri ozbrojený stret iránsky polícia zabiť 4 údajný obchodník s droga 2 zatknúť a zaistiť takmer 5 metrický tona ópium a ?	počas ozbrojený stret na juhovýchod Irán policajt zaistiť takmer 5 metrický tona 5,5 tona ópium a ?
+3.2	pri ozbrojený stret iránsky polícia zabiť 4 údajný obchodník s droga 2 zatknúť a zaistiť takmer 5 metrický tona ópium a	počas ozbrojený stret na juhovýchod Irán policajt zaistiť takmer 5 metrický tona 55 tona ópium a
 3.6	iránsky jadrový projekt slúžiť na mierový účel	Irán trvať na ten že jeho jadrový program slúžiť na mierový účel
 4.2	Čína sa rozhodne postaviť proti šírenie hromadne deštruktívny zbraň	Čína sa rozhodne postaviť proti prostriedkom dodávanie hromadne ničivý zbraň
-1.2	Čína byť blízky spojenec severný ?	severný Kórea byť samotársky sťať
-4.2	líbyjský minister zahraničie Abdel Rahman ? navštíviť Londýn počas prvý návšteva líbyjský minister zahraničný vec od rok 1969	? návšteva v Londýn byť prvý líbyjský minister zahraničný vec od rok 1969
-3.6	? uviesť že to predstavovať veľký hrozba pre globálny bezpečnosť	predstavovať veľký hrozba pre globálny bezpečnosť
+1.2	Čína byť blízky spojenec severný	severný Kórea byť samotársky sťať
+4.2	líbyjský minister zahraničie Abdel Rahman navštíviť Londýn počas prvý návšteva líbyjský minister zahraničný vec od rok 1969	návšteva v Londýn byť prvý líbyjský minister zahraničný vec od rok 1969
+3.6	uviesť že to predstavovať veľký hrozba pre globálny bezpečnosť	predstavovať veľký hrozba pre globálny bezpečnosť
 2	Kambodža a Vietnam dokončiť dohoda o zastavenie ázijský a európsky obchodník s droga	sýrsky a ruský úradník podpísať dohoda o spolupráca v boj proti obchodovanie s droga
-4.2	aktivista uviesť že Rusko ? človek bez dôkaz o nelegálny činnosť	Rusko uväzňovať človek bez dôkaz o nezákonný činnosť
-3.8	obmedzovanie extrémistický skupina byť čoraz ťažko z dôvod spôsob financovanie tento skupina	? uviesť zadržiavanúť extrémistický skupina najmä v celieť Európa byť čoraz ťažko z dôvod spôsob financovanie tento skupina
-1.2	zabolieť byť mesto v juhovýchodný Irán	? byť mesto v západný Irán
-3.25	zadržaný osoba obvinený z vražda trestný spolupráca únos a financovanie terorizmus medza ktorý patriť aj príslušník armáda a polícia	? uviesť že zadržanie byť obvinenie z vražda trestný spolupráca únos a financovanie terorizmus
+4.2	aktivista uviesť že Rusko človek bez dôkaz o nelegálny činnosť	Rusko uväzňovať človek bez dôkaz o nezákonný činnosť
+3.8	obmedzovanie extrémistický skupina byť čoraz ťažko z dôvod spôsob financovanie tento skupina	uviesť zadržiavanúť extrémistický skupina najmä v celieť Európa byť čoraz ťažko z dôvod spôsob financovanie tento skupina
+1.2	zabolieť byť mesto v juhovýchodný Irán	byť mesto v západný Irán
+3.25	zadržaný osoba obvinený z vražda trestný spolupráca únos a financovanie terorizmus medza ktorý patriť aj príslušník armáda a polícia	uviesť že zadržanie byť obvinenie z vražda trestný spolupráca únos a financovanie terorizmus
 4.2	existujúci tyč môcť vyrobiť 3 6 atómový bomba za 6 8 mesiac	odborník uviesť že tyč môcť vyrobiť 3 6 atómový bomba za 6 8 mesiac
 2.4	medzinárodný agentúra pre atómový energia môcť byť podvedený pretože túžiť po dohoda	plán medzinárodný agentúra pre atómový energia uvádzať rokovanie na mnoho mesiac
 4.6	mjanmarský vláda uviesť že Mjanmarsko sa do rok 2014 stan bez ópium	mjanmarský vláda uviesť že Mjanmarsko byť na dobrý cesta k ten aby do rok 2014 nebyť bez droga
-4.4	židovský americký skupina ? ? ? ADL zverejniť v apríl 2008 celostránkový reklama vo švajčiarsky a medzinárodný novina obviňujúci Švajčiarsko z financovanie terorizmus prostredníctvo dohoda	liga proti hanobenie začiatkom apríl 2008 zverejniť celostranový reklama vo švajčiarsky a medzinárodný novina a obviniť Švajčiarsko z financovanie terorizmus prostredníctvo dohoda
+4.4	židovský americký skupina ADL zverejniť v apríl 2008 celostránkový reklama vo švajčiarsky a medzinárodný novina obviňujúci Švajčiarsko z financovanie terorizmus prostredníctvo dohoda	liga proti hanobenie začiatkom apríl 2008 zverejniť celostranový reklama vo švajčiarsky a medzinárodný novina a obviniť Švajčiarsko z financovanie terorizmus prostredníctvo dohoda
 1.8	Francúzsko poskytovať raketa zbraň a motor	Británia poskytovať palivový nádrž a prevodovka
 3.2	medza hlavná trestný čin v Saudská Arábia patriť znásilnenie vražda odpadlíctvo ozbrojený lúpež a obchodovanie s droga	medza hlavná trestný čin v Irán patriť vražda znásilnenie ozbrojený lúpež vážne obchodovanie s droga a cudzoložstvo
-3.4	? ? byť veľký britský obranný spoločnosť	? ? byť veľký britský armáda
-2.8	? my povedať že ministerka zahraničný vec ? ryža tvrdiť že Rusko zostávať otvorený dialóg	u s. minister zahraničný vec ? požadovať aby Rusko stiahnuť svoj sila
+3.4	byť veľký britský obranný spoločnosť	byť veľký britský armáda
+2.8	my povedať že ministerka zahraničný vec ryža tvrdiť že Rusko zostávať otvorený dialóg	u s. minister zahraničný vec požadovať aby Rusko stiahnuť svoj sila
 3.8	ďalší osoba a subjekt byť predmet zmrazenie majetok	rezolúcia obsahovať rozšírený zoznam fyzický a právnický osoba ktorý byť predmet zmrazenie majetok
 3.4	odstúpenie od zmluva by umožniť Ruska posilniť sila v blízkosť ruský hranica	odstúpenie od zmluva s konvenčný sila v Európa by Ruska umožniť posilniť sila v blízkosť ruský hranica
-1.8	? uviesť že komisia sa primárne zaoberať termín budúca investícia na ?	fanúšik uviesť že komisia zabezpečiť dodržiavanie záväzok akonáhle byť investícia prebiehať
-2.8	hovorca vláda ? uviesť že ak byť administratívne dokument v poriadok vláda juhoafrický republika nemôcť zasiahnuť aby zabrániť transport zbraň cez svoj územie do susedný vnútrozemský krajina	hovorca ? ? uviesť že pokiaľ byť administratívne dokument v poriadok aby juhoafrický republika nemôcť zasiahnuť aby zabrániť transport zbraň cez juhoafrický územie do Zimbabwe
-3.2	vyhlásenie prezident ? ? byť zverejnený na kremeľský webový stránka a v plný rozsah on priniesť štátny spravodajský agentúra	vyhlásenie byť zverejnený na kremeľský webový stránka a doručený štátny spravodajský agentúra
-1.8	Turkménsko hraničiť s Afganistan	? ? hraničiť s Afganistan a Pakistan
+1.8	uviesť že komisia sa primárne zaoberať termín budúca investícia na	fanúšik uviesť že komisia zabezpečiť dodržiavanie záväzok akonáhle byť investícia prebiehať
+2.8	hovorca vláda uviesť že ak byť administratívne dokument v poriadok vláda juhoafrický republika nemôcť zasiahnuť aby zabrániť transport zbraň cez svoj územie do susedný vnútrozemský krajina	hovorca uviesť že pokiaľ byť administratívne dokument v poriadok aby juhoafrický republika nemôcť zasiahnuť aby zabrániť transport zbraň cez juhoafrický územie do Zimbabwe
+3.2	vyhlásenie prezident byť zverejnený na kremeľský webový stránka a v plný rozsah on priniesť štátny spravodajský agentúra	vyhlásenie byť zverejnený na kremeľský webový stránka a doručený štátny spravodajský agentúra
+1.8	Turkménsko hraničiť s Afganistan	hraničiť s Afganistan a Pakistan
 3.4	počet poprava sa v Irán v minulo rok zvýšiť vďaka kampaň zameraný na zlepšenie bezpečnosť v spoločnosť	počet poprava v rok 2007 dramaticky vzrásť počas kampaň ktorý cieľ byť stav iránsky orgán zameraný na zlepšenie bezpečnosť v spoločnosť
 5	Sýria popierať že by mala nelegálny jadrový program	Sýria popierať existencia čierny jadrový program
-1.4	? ? byť skupina pre právať so sídlo v Londýn	medzinárodný inštitút pre strategický štúdia sa nachádzať v Londýn
-2.2	číslo 254 byť zostavený do tabuľka s počet ? zostavený z tlačový a svedecký sprava	počet poprava v Irán v rok 2007 bola vypočítaný z počet ? zostavený z tlačový sprava
+1.4	byť skupina pre právať so sídlo v Londýn	medzinárodný inštitút pre strategický štúdia sa nachádzať v Londýn
+2.2	číslo 254 byť zostavený do tabuľka s počet zostavený z tlačový a svedecký sprava	počet poprava v Irán v rok 2007 bola vypočítaný z počet zostavený z tlačový sprava
 5	iránsky vláda uviesť iránsky jadrový program zostávať mierový	iránsky vláda tvrdiť že jadrový program byť mierový
-0.6	? uviesť že byť veľmi ťažký vyrobiť jadrový zbraň z plutónium v tento palivo	? uviesť že byť veľmi ťažký manipulovať s rádioaktívny izotop bez zanechanie stop
+0.6	uviesť že byť veľmi ťažký vyrobiť jadrový zbraň z plutónium v tento palivo	uviesť že byť veľmi ťažký manipulovať s rádioaktívny izotop bez zanechanie stop
 0.6	Paríž byť hlavná mesto Francúzska	Lima byť hlavná mesto
 3.4	hovoriť indický vládny úradník pod podmienka anonymita	úradník hovoriť pod podmienka anonymita
 4.6	Rusko viackrát pohroziť vystúpenie z CFE keď byť v rozpor so spojený štát nad USA plánovať inštalovať protiraketový štít na východ	Rusko opakovane pohroziť vystúpenie z CFE v rozpor s plán na rozšírenie štít protiraketový obrana USA do východný Európa
@@ -109,178 +109,178 @@
 2.6	ruský ministerstvo zahraničie uviesť že Rusko neprerušiť dialóg	ruský úradník uviesť že Rusko pozastavenie prehodnotiť nebyť
 2.8	z juhovýchodný Ázia musieť byť vylúčenie prevádzač zbraň a drogový kartel	pašerák zbraň a drogový kartel podnecovať terorista
 4.8	nový zákon sa pokúšať odstrániť všetok právne prekážka brániaci budovanie vyspelý špionážny satelit a pomôcť inovácia v japonský vesmírny priemysel	účel nový zákon byť odstránenie akýkoľvek právny prekážka pri budovanie vyspelý špionážny satelit a podpora inovácia v japonský vesmírny priemysel
-4.4	? uviesť Čína sa stavať proti obmedzovanie mierový využívanie jadrový energia štát ktorý nie byť jadrový zbraň na základ nešírenie jadrový zbraň pretože mierový využitie jadrový energia byť zásadný cieľ NPT	? ? uviesť že Čína byť proti využívanie nešírenie jadrový zbraň ako zámienka na obmedzenie a zbavenie štát ktorý nie byť jadrový zbraň právať na mierový využitie jadrový energia
-4	expert na nešírenie zbraň z medzinárodný inštitút pre strategický štúdia ? ? uviesť že správa ? mala neobvyklý silný tenor	vedúci pracovník medzinárodný ústav pre strategický štúdia ? ? uviesť že plán medzinárodný agentúra pre atómový energia byť povrchný
+4.4	uviesť Čína sa stavať proti obmedzovanie mierový využívanie jadrový energia štát ktorý nie byť jadrový zbraň na základ nešírenie jadrový zbraň pretože mierový využitie jadrový energia byť zásadný cieľ NPT	uviesť že Čína byť proti využívanie nešírenie jadrový zbraň ako zámienka na obmedzenie a zbavenie štát ktorý nie byť jadrový zbraň právať na mierový využitie jadrový energia
+4	expert na nešírenie zbraň z medzinárodný inštitút pre strategický štúdia uviesť že správa mala neobvyklý silný tenor	vedúci pracovník medzinárodný ústav pre strategický štúdia uviesť že plán medzinárodný agentúra pre atómový energia byť povrchný
 4.2	zmluva obmedzovať počet lietadlo tank a iný nejadrový ťažký zbraň v celieť Európa	zmluva o konvenčný sila v Európa obmedzovať počet vojenský lietadlo tank a iný nejadrový ťažký zbraň v Európa
-3.8	estónsky úradník uviesť že niektorý z kybernetický útok ktorý spôsobiť dočasný vypnutie estónsky vládny webový stránka pochádzať z počítač v správa Ruska vrátane kancelária prezident Vladimíra Putin	úradník v Estónsko vrátane predseda vláda ? ansipieť tvrdiť že niektorý z kybernetický útok pochádzať z počítač ruský vláda vrátane počítač v kancelária ruský prezident Vladimíra Putin
-3.2	Británia uzavrieť dohoda o dodávka ? Arábia prúd tajfún v hodnota ? 8 miliarda libra asi 13,9 miliarda dolár	veľký Británia súhlasiť s dodávka ? Arábia prúd tajfún v hodnota 8 miliarda libra približne 13,9 miliarda dolár pre britský obranný spoločnosť ? ?
+3.8	estónsky úradník uviesť že niektorý z kybernetický útok ktorý spôsobiť dočasný vypnutie estónsky vládny webový stránka pochádzať z počítač v správa Ruska vrátane kancelária prezident Vladimíra Putin	úradník v Estónsko vrátane predseda vláda ansipieť tvrdiť že niektorý z kybernetický útok pochádzať z počítač ruský vláda vrátane počítač v kancelária ruský prezident Vladimíra Putin
+3.2	Británia uzavrieť dohoda o dodávka Arábia prúd tajfún v hodnota 8 miliarda libra asi 139 miliarda dolár	veľký Británia súhlasiť s dodávka Arábia prúd tajfún v hodnota 8 miliarda libra približne 139 miliarda dolár pre britský obranný spoločnosť
 3.4	ópium byť surovina pre heroín	vlčí mak priniesť surovina pre heroín
-3	spoločnosť ? ? látať odmiesť uviesť akýkoľvek podrobnosť o projekt severokórejský jadrový reaktor	južný Kórea zaujať k otázka projekt severokórejský jadrový reaktor zatiaľ opatrný postoj
+3	spoločnosť látať odmiesť uviesť akýkoľvek podrobnosť o projekt severokórejský jadrový reaktor	južný Kórea zaujať k otázka projekt severokórejský jadrový reaktor zatiaľ opatrný postoj
 3.4	cieľ dohoda byť nadviazať široký spolupráca v oblasť národný bezpečnosť a boj proti globálny terorizmus	vo vyhlásenie britský ministerstvo obrana uviesť cieľ dohoda byť nadviazať široký spolupráca v oblasť národný bezpečnosť a boj proti globálny terorizmus
 3.4	mnoho z ten popravený v Irán byť obesený na verejnosť	veľa z popravený človek byť obesený na verejnosť
 3.8	spojený štát a spojenec spojený štát veriť že Irán sledovať jadrový zbraň	spojený štát a niektorý európsky národ sa domnievať že iránsky jadrový projekt slúžiť na výroba jadrový zbraň
 5	CFE byť pre európsky bezpečnosť veľmi dôležitý	CFE byť základný kameň európsky bezpečnosť
 5	indický jednotka ktorý už bojovať proti rebel v Kašmír byť teraz zapojený do masívny kampaň zameraný na ničenie makový plodina v región	indický jednotka ktorý už bojovať proti rebel byť teraz tiež zapojený do masívny operácia zameraný na ničenie makový plodina v Kašmír
-0	záležitosť byť delikátny	správa ? byť obmedzený
+0	záležitosť byť delikátny	správa byť obmedzený
 2.4	minulý týždeň Rusko oznámiť že pozastaviť účasť na CFE	nato ľutovať rozhodnutie Ruska pozastaviť účasť na CFE
 3.6	USA ďalší západný národ a nato odsúdiť násilie	u s. ďalší západný národ a nato požadovať prímerie
 2	indický štátny príslušník tvoriť veľký počet zahraničný väzeň v nepálsky väzenie	obchodník s droga z cudzina tvoriť veľký percento zahraničný väzeň v Nepál
-4.2	súdny poriadok obviniť ? z financovanie terorizmus	súd obviniť ? ? ? z financovanie terorizmus
+4.2	súdny poriadok obviniť z financovanie terorizmus	súd obviniť z financovanie terorizmus
 3.75	mjanmarský vojenský vládca spáliť nelegálne droga v hodnota približne 250 milión dolár aby byť pripomenúť medzinárodný deň boj proti zneužívanie droga a nedovolený obchodovanie	mjanmarský vojenský vládca spáliť droga pri príležitosť medzinárodný deň boj proti zneužívanie droga a nedovolený obchodovanie
 4	iránsky úradník zvýšiť počet poprava v rok 2007 keď úradník presadzovať kampaň zameraný údajne na podpor cnosť a zvyšovanie bezpečnosť v spoločnosť	počet poprava sa v Irán v minulo rok zvýšiť vďaka kampaň zameraný na zlepšenie bezpečnosť v spoločnosť
 3	India obviňovať Islamabad z financovanie a výcvik partizán	India obviňovať Pakistan z financovanie a odborný príprava cezhraničný partizán
 3.6	následný bitka a nálet zabiť málo 10 ozbrojenec	následný bitka zabiť málo 10 ozbrojenec
 1.8	komuniké panamský ministerstvo zahraničie uviesť že pracovný skupina uľahčiť technologický transfer a podporiť výroba a spotreba biopalivo	komuniké z panamský ministerstvo zahraničie uviesť že Panama a Brazília podpísať 3 zmluva o právnický otázka ktorý obsahovať vydanie
 4.8	Vietnam patriť medza prísne drogový zákon na svet	vietnamský drogový zákon patriť medza prísne zákon na svet
-3.2	indický vláda zakázať priamy alebo nepriamy vývoz a dovoz všetok položka materiál tovar a technológia ktorý by môcť prispieť k iránsky činnosť spojený s ? prepracovanie alebo s ťažký voda	India zakázať priamy alebo nepriamy vývoz a dovoz všetok predmet materiál tovar a technológia ktorý by môcť prispieť k dodávací systém iránsky jadrový zbraň
+3.2	indický vláda zakázať priamy alebo nepriamy vývoz a dovoz všetok položka materiál tovar a technológia ktorý by môcť prispieť k iránsky činnosť spojený s prepracovanie alebo s ťažký voda	India zakázať priamy alebo nepriamy vývoz a dovoz všetok predmet materiál tovar a technológia ktorý by môcť prispieť k dodávací systém iránsky jadrový zbraň
 3.8	vietnamský tlačový agentúra uviesť že ministerstvo verejný bezpečnosť uviesť že cudzinec zapojenie do prípad obchodovanie s droga vo Vietnam pochádzať väčšina z Laos Kambodža Austrália Čína spojený štát a Taiwana	vietnamský tlačový agentúra uviesť že ministerstvo verejný bezpečnosť uviesť že polícia pripustiť že obchodovanie s droga do Vietnam sa zvyšovať ale opatrenie na prevencia a zastavenie obchodovanie s droga pozdĺž hranica byť naďalej obmedzený
-5	uviesť vedúci tím bezpečný svet v oblasť kontrola transfer a ručný zbraň embargo EÚ zakazovať priamy alebo nepriamy dodávka vojenský vybavenie na použitie v Mjanmarsko	vedúci tím bezpečný svet pre kontrola transfer a ručný zbraň ? uviesť že embargo EÚ výslovne uvádzať že na použitie v Mjanmarsko by sa nemať priamo alebo nepriamo dodávať vojenský vybavenie
+5	uviesť vedúci tím bezpečný svet v oblasť kontrola transfer a ručný zbraň embargo EÚ zakazovať priamy alebo nepriamy dodávka vojenský vybavenie na použitie v Mjanmarsko	vedúci tím bezpečný svet pre kontrola transfer a ručný zbraň uviesť že embargo EÚ výslovne uvádzať že na použitie v Mjanmarsko by sa nemať priamo alebo nepriamo dodávať vojenský vybavenie
 3.2	spojený štát a ďalší člen nato odmiesť ratifikovať zmenený a doplnený zmluva	spojený štát a ďalší člen nato odmiesť ratifikovať aktualizácia CFE
 3.8	CFE obmedzovať použitie ozbrojený sila a ťažký zbraň a predpisovať opatrenie zameraný na budovanie dôvera transparentnosť a spolupráca medza členský štát	zmluva obmedzovať rozmiestnenie tank a vojak v krajina nato a krajina bývalý veľkonočný pakt o vojnový vojna a zavádzať opatrenie na budovanie dôvera transparentnosť a spolupráca medza členský štát
 1	Bulharsko sa nachádzať v juhovýchodný časť balkánsky polostrov	v juhovýchodný časť balkánsky polostrov zúriť aktivita obchod s droga
-4	? uviesť že toto byť posledný šanca na vybudovanie bezpečnosť na blízko východ na základ dôvera a spolupráca a nie na držanie jadrový zbraň	toto byť posledný šanca na vybudovanie bezpečnosť na blízko východ skôr na základ dôvera a spolupráca ako na základ držba jadrový zbraň
+4	uviesť že toto byť posledný šanca na vybudovanie bezpečnosť na blízko východ na základ dôvera a spolupráca a nie na držanie jadrový zbraň	toto byť posledný šanca na vybudovanie bezpečnosť na blízko východ skôr na základ dôvera a spolupráca ako na základ držba jadrový zbraň
 2.2	iránsky vláda odmiesť obvinenie v spravodajský informácia predložený rad medzinárodný agentúra pre atómový energia ako nepodložený a spravodajský informácia použitý na ich podpor byť falošný	medzinárodný agentúra pre atómový energia trvať na ten že jednoduchý popieranie spravodajský informácia predložený rad medzinárodný agentúra pre atómový energia iránsky vláda nie byť dosť dobré na to aby vyvrátiť podozrenie západný krajina
-3.2	zmluva ? bola založený v rok 1990	zmluva bola pôvodne podpísaný v rok 1990
+3.2	zmluva bola založený v rok 1990	zmluva bola pôvodne podpísaný v rok 1990
 4	zmluva o konvenčný sila v Európa sa považovať za kľúčový zmluva o kontrola zbraň	zmluva o konvenčný sila v Európa bola kľúčový zmluva o kontrola zbraň v sovietsky éra
-3.8	Nikaragua byť pripomenúť 25. výročie ? revolúcia ktorý zvrhnúť diktatúra ? ? ale nastoliť ľavicový režim v kubánsky štýl	Nikaragua byť pripomenúť 25. výročie ? revolúcia
-2.6	13 ? z Turecko byť zatknutý neďaleko Paríž pre podozrenie z pranie špinavý peniaze pre kurdský strana pracujúci PKK	10 ? byť vo Francúzska vyšetrovaný pre podozrenie z pranie špinavý peniaze pre teroristický organizácia známa ako kurdský robotnícky strana PKK
-3.4	stretnutie trvať 2 deň	stretnutie ? trvalo dva deÅˆ
+3.8	Nikaragua byť pripomenúť 25. výročie revolúcia ktorý zvrhnúť diktatúra ale nastoliť ľavicový režim v kubánsky štýl	Nikaragua byť pripomenúť 25. výročie revolúcia
+2.6	13 z Turecko byť zatknutý neďaleko Paríž pre podozrenie z pranie špinavý peniaze pre kurdský strana pracujúci PKK	10 byť vo Francúzska vyšetrovaný pre podozrenie z pranie špinavý peniaze pre teroristický organizácia známa ako kurdský robotnícky strana PKK
+3.4	stretnutie trvať 2 deň	stretnutie trvalo dva deÅˆ
 1.4	dedinčan sa neúmyselne zapájať do obchodovanie s droga	105 väzeň byť odpykávať trest za obchodovanie s droga
-3.2	ruský vláda ostro vystupovať proti u s. plánovať inštalovať protiraketový obrana v Európa a prepúšťať u s. tvrdenie že zachytávač byť potrebný na obrana pred hrozba z Irán	po rokovanie v ústredie nato ? opakovať ruský odpor voči u s. plánovať inštalovať protiraketový obrana v Európa a prepustiť u s. tvrdenie že zachytávač byť potrebný na obrana pred potenciálny hrozba z Irán
-5	? univerzita spolupracovať s univerzita podnik a vládny sektor čínsky pevnina pri koordinácia výcvikový program a výskumný centrum na podpor špičkový technológia komercializácia a prenos technológia	? univerzita spolupracovať s terciárny vzdelávanie obchodný a vládny sektor čínsky pevnina na ? program odborný príprava a výskumný centrum na podpor komercializácia výskum a prenos technológia
-1	čínsky vláda poskytnúť organizácia aktívny spolupráca a pomoc pri zákaz inšpekcia chemický zbraň	ekvádorský ministerstvo zahraničný vec vo svoj vyhlásenie uviesť že stretnutie sa zúčastniť aj delegát organizácia pre zákaz chemický zbraň ?
+3.2	ruský vláda ostro vystupovať proti u s. plánovať inštalovať protiraketový obrana v Európa a prepúšťať u s. tvrdenie že zachytávač byť potrebný na obrana pred hrozba z Irán	po rokovanie v ústredie nato opakovať ruský odpor voči u s. plánovať inštalovať protiraketový obrana v Európa a prepustiť u s. tvrdenie že zachytávač byť potrebný na obrana pred potenciálny hrozba z Irán
+5	univerzita spolupracovať s univerzita podnik a vládny sektor čínsky pevnina pri koordinácia výcvikový program a výskumný centrum na podpor špičkový technológia komercializácia a prenos technológia	univerzita spolupracovať s terciárny vzdelávanie obchodný a vládny sektor čínsky pevnina na program odborný príprava a výskumný centrum na podpor komercializácia výskum a prenos technológia
+1	čínsky vláda poskytnúť organizácia aktívny spolupráca a pomoc pri zákaz inšpekcia chemický zbraň	ekvádorský ministerstvo zahraničný vec vo svoj vyhlásenie uviesť že stretnutie sa zúčastniť aj delegát organizácia pre zákaz chemický zbraň
 5	mexický vláda prijať od rok 2006 v Mexiko séria opatrenie proti obchodovanie s droga a organizovaný zločin	od rok 2006 prijať Mexiko séria opatrenie proti obchodovanie s droga a organizovaný zločin
 5	vyhlásenie nešpecifikovať množstvo hlavica ktorý byť raketa schopný niesť	vyhlásenie neurčiť koľko hlavica môcť raketa niesť
 4.2	byť to vážny hrozba pre medzinárodný bezpečnosť	predstavovať veľký hrozba pre globálny bezpečnosť
-2.4	Nikaragua byť pripomenúť 25. výročie ? revolúcia	Nikaragua sa nezmieriť s ten ako pristupovať k výročie ? revolúcia
-4.2	ruský prezident Vladimíra ? tvrdiť že rozhodnutie ukončiť implementácia zmluva o konvenčný sila v Európa byť reakcia na USA plán na zriadenie mesto protiraketový obrana vo východný Európa a na to že nato neratifikovať zmenený a doplnený verzia zmluva	ruský prezident Vladimíra ? uvádzať že rozhodnutie byť reakcia na u s. plán na zriadenie mesto protiraketový obrana vo východný Európa a na to že nato neratifikovať zmenený a doplnený verzia zmluva
-2.6	holandský národný výskumný inštitút ktorý v 50. rok uskutočňovať pre holandský ministerstvo obrana experiment s chemický zbraň	novinár ? ? sa dozvedieť o experiment s chemický zbraň v archív ministerstvo obrana
-3.4	podľa správa dodávateľ bezpečnostný softvér ? ? byť čínsky vládnuť hacker v popredie kybernetický studený vojna	vládnuť hacker v Čína byť na čelo rozvíjajúci sa počítačový studený vojna
+2.4	Nikaragua byť pripomenúť 25. výročie revolúcia	Nikaragua sa nezmieriť s ten ako pristupovať k výročie revolúcia
+4.2	ruský prezident Vladimíra tvrdiť že rozhodnutie ukončiť implementácia zmluva o konvenčný sila v Európa byť reakcia na USA plán na zriadenie mesto protiraketový obrana vo východný Európa a na to že nato neratifikovať zmenený a doplnený verzia zmluva	ruský prezident Vladimíra uvádzať že rozhodnutie byť reakcia na u s. plán na zriadenie mesto protiraketový obrana vo východný Európa a na to že nato neratifikovať zmenený a doplnený verzia zmluva
+2.6	holandský národný výskumný inštitút ktorý v 50. rok uskutočňovať pre holandský ministerstvo obrana experiment s chemický zbraň	novinár sa dozvedieť o experiment s chemický zbraň v archív ministerstvo obrana
+3.4	podľa správa dodávateľ bezpečnostný softvér byť čínsky vládnuť hacker v popredie kybernetický studený vojna	vládnuť hacker v Čína byť na čelo rozvíjajúci sa počítačový studený vojna
 3.6	zmluva obmedzovať počet lietadlo tank a iný nejadrový ťažký zbraň po celieť Európa a bola podpísaný prvýkrát v rok 1990	zmluva obmedzovať počet lietadlo tank a iný nejadrový ťažký zbraň v celieť Európa
 1.8	veľa útok malo pôvod v zahraničie	estónsky úradník uviesť že útok mať pôvod v Ruska
 1.4	polícia zatknúť 2 podozrivý z honduraský obchodovanie s droga	bulharský polícia zatknúť vedúci skupina pre obchodovanie s droga
-3.6	ak sa Japonsko stan príležitosť Japonsko nebyť nikdy porazený ani pokiaľ ísť o vojenský moc	? povedať že ak sa Japonsko stan príležitosť pot nebyť nikdy porazený ani pokiaľ ísť o vojenský moc
+3.6	ak sa Japonsko stan príležitosť Japonsko nebyť nikdy porazený ani pokiaľ ísť o vojenský moc	povedať že ak sa Japonsko stan príležitosť pot nebyť nikdy porazený ani pokiaľ ísť o vojenský moc
 4	Egypt a Jordánsko podpísať zmluva o nešírenie jadrový zbraň a už dlho požadovať blízky východ bez zbraň hromadný ničenie	Sýria podpísať zmluva o nešírenie jadrový zbraň a umožniť odborný agentúra vykonať inšpekcia v jej jediný známy jadrový zariadenie
 1.2	Rusko sa už zúčastňovať na činnosť európsky vesmírny agentúra	Francúzsko byť líder v európsky vesmírny agentúra
 3	Mjanmarsko byť vojenský štát	Mjanmarsko mať vojenský junta
 1.8	neuvádzať či byť muž obesený vo väzenie	desiatka takýto zločinec byť obesený na verejnosť
-3.2	správa ? ? vypracovať európsky a medzinárodný mimovládny organizácia ako napríklad ? ktorý byť proti ozbrojený násilie	medzinárodný správa o amnestia zostaviť európsky a medzinárodný mimovládny fórum
+3.2	správa vypracovať európsky a medzinárodný mimovládny organizácia ako napríklad ktorý byť proti ozbrojený násilie	medzinárodný správa o amnestia zostaviť európsky a medzinárodný mimovládny fórum
 4.2	inštitút pre výskum verejný politika uviesť že 27 slabý štát predstavovať hrozba pre britský národný bezpečnosť pretože tento štát by môcť byť základňa pre terorista	správa uvádzať že existovať 27 slabý štát ktorý predstavovať hrozba pre britský národný bezpečnosť pretože tento štát by môcť byť základňa pre terorista
 4	iránsky vláda obvinenie poprieť a trvať na ten že jadrový program slúžiť iba na mierový účel	Irán trvať na ten že jeho jadrový program slúžiť na mierový účel
 3.2	bezpečnostný iniciatíva zameraný na šírenie zbraň žiadať zastavenie a prehľadávanie loď podozrivý z preprava zbraň hromadný ničenie	člen bezpečnostný iniciatíva proti šírenie zbraň hromadný ničenie zvažovať spôsob ako zadržať loď alebo lietadlo podozrivý z preprava zbraň hromadný ničenie
 3.4	medzinárodný spoločenstvo by malo zmodernizovať a hľadať spravodlivý rozumný a efektívny spôsob ako rozšíriť režim nešírenie jadrový zbraň prostredníctvo rozsiahly konzultácia	tretí návrh byť aby krajina napredovať s doba a hľadať spravodlivý rozumný a efektívny spôsob ako rozšíriť režim nešírenie jadrový zbraň prostredníctvo rozsiahly konzultácia
-3.8	organizácia ? ? zverejniť správa podľa ktorý indický projekt predaj útočný vrtuľník Mjanmarsko ohrozovať zbrojný embargo európsky únia proti Mjanmarsko	medzinárodný správa amnestia mala názov indický vrtuľník pre Mjanmarsko vysmievanúť sa zbrojný embargo EÚ
-2.4	? m. pašovať 10 kilogram 22 libra heroín	obžalovanie prepašovať mnoho ako 11 kilogram heroín
-3.4	29 človek byť odsúdený súd ? ? za účasť v drogový kruh ktorý obchodovať s heroín z Vietnam do Čína	súdny úradník ? ? uviesť že 12 osoba byť medza 29 človek odsúdený ľud ľud ? ? za účasť v drogový kruh ktorý obchodovať s heroín z Vietnam do Čína
-2	právnik Michaela ? meno s. s. ? sa nepodariť dosiahnuť pre komentár	prístavný úrad v ? a policajný inšpektor výbušnina nebyť za účel vyjadrenie
-3.2	krajina byť proti ? vesmír a závod v ? vo vesmír	Čína zdôrazniť že nesúhlas so zbraň a preteky v ? vo vesmír
+3.8	organizácia zverejniť správa podľa ktorý indický projekt predaj útočný vrtuľník Mjanmarsko ohrozovať zbrojný embargo európsky únia proti Mjanmarsko	medzinárodný správa amnestia mala názov indický vrtuľník pre Mjanmarsko vysmievanúť sa zbrojný embargo EÚ
+2.4	m. pašovať 10 kilogram 22 libra heroín	obžalovanie prepašovať mnoho ako 11 kilogram heroín
+3.4	29 človek byť odsúdený súd za účasť v drogový kruh ktorý obchodovať s heroín z Vietnam do Čína	súdny úradník uviesť že 12 osoba byť medza 29 človek odsúdený ľud ľud za účasť v drogový kruh ktorý obchodovať s heroín z Vietnam do Čína
+2	právnik Michaela meno s. s. sa nepodariť dosiahnuť pre komentár	prístavný úrad v a policajný inšpektor výbušnina nebyť za účel vyjadrenie
+3.2	krajina byť proti vesmír a závod v vo vesmír	Čína zdôrazniť že nesúhlas so zbraň a preteky v vo vesmír
 3.4	Francúzsko Belgicko Nemecko Švédsko Taliansko a Británia poskytovať diel a technológia pre pokročilý ľahký vrtuľník ALH	Francúzsko Belgicko Nemecko Švédsko Taliansko a Británia poskytovať diel a technológia pre pokročilý ľahký vrtuľník ktorý India plánovať predať Mjanmarsko
 3.2	nárast nezákonný obchodovanie so zbraň v Keňa z dôvod ľahký dostupnosť a susedný konflikt	nezákonný obchodovanie so zbraň sa v Keňa zvýšiť a vyvolať obava o bezpečnosť
-3.4	n. r. ? uviesť že bola podpísaný dohoda medza organizácia pre výskum a vývoj v oblasť obrana spoločnosť Hindustán ? ? a indický letectvo o modernizácia starnúci flotila lietadlo ? 27 m v India	? uviesť že modernizácia sa uskutočniť čoskoro pretože ona už takmer dokončiť organizácia pre obranný výskum a vývoj ? ? ? a indický letectvo
-4.6	? uvádzať že mierový dohoda na blízko východ byť možný dosiahnuť iba súbežne s bezpečnostný dohoda založený na odstránenie všetok zbraň hromadný ničenie z región	podľa agentúra ? sa musieť dosiahnuť mierový dohoda medza Izrael a jeho arabský sused súčasne s bezpečnostný dohoda založený na odstránenie všetok zbraň hromadný ničenie z tento región
+3.4	n. r. uviesť že bola podpísaný dohoda medza organizácia pre výskum a vývoj v oblasť obrana spoločnosť Hindustán a indický letectvo o modernizácia starnúci flotila lietadlo 27 m v India	uviesť že modernizácia sa uskutočniť čoskoro pretože ona už takmer dokončiť organizácia pre obranný výskum a vývoj a indický letectvo
+4.6	uvádzať že mierový dohoda na blízko východ byť možný dosiahnuť iba súbežne s bezpečnostný dohoda založený na odstránenie všetok zbraň hromadný ničenie z región	podľa agentúra sa musieť dosiahnuť mierový dohoda medza Izrael a jeho arabský sused súčasne s bezpečnostný dohoda založený na odstránenie všetok zbraň hromadný ničenie z tento región
 1.6	obchodník s droga hroziť podľa tadžický právať trest smrť	obchodník s afganský droga bola chytený v Tadžikistan
 5	medzinárodný združenie pre atómový energia byť strážny pes spojený národ	medzinárodný agentúra pre atómový energia byť jadrový strážny pes USA
-4.8	? uvádzať že hlavná účel návšteva Nemecko byť podpora obchodný ekonomický a technologický výmena	? uviesť že účel jeho návšteva v Nemecko byť podpora obchodný ekonomický a technologický výmena
-1.2	predstaviteľ spojený štát nevedieť ako ďaleko pokročiť severokórejský program jadrový zbraň	? byť hlavná americký vyjednávač o severokórejský program jadrový zbraň
+4.8	uvádzať že hlavná účel návšteva Nemecko byť podpora obchodný ekonomický a technologický výmena	uviesť že účel jeho návšteva v Nemecko byť podpora obchodný ekonomický a technologický výmena
+1.2	predstaviteľ spojený štát nevedieť ako ďaleko pokročiť severokórejský program jadrový zbraň	byť hlavná americký vyjednávač o severokórejský program jadrový zbraň
 4.6	zahynúť 7 policajt a 4 policajt byť zranenie	počas stret byť zabitý 7 policajt a 4 ťažko zranenie
 2.8	šéf obrana z Estónsko Lotyšsko Litva Nemecko Taliansko Španielsko a Slovensko podpísať dohoda o poskytnutie personál a finančný prostriedok pre stredisko	dohoda podpísať šéf obrana z Estónsko Lotyšsko Litva Nemecko Taliansko Španielsko a Slovensko
 3.4	návrh zákon ktorý navrhovať nový zákon umožňujúci využitie vesmírny program na obrana už minulý týždeň schváliť dolný komora japonský vláda	návrh nový zákon už minulý týždeň schváliť dolný komora japonský vláda
-2.6	vanúť drať ? odsúdiť ? na celkovo 13 rok väzenie	vanúť drať ? podmienečne odsúdiť Geigeš na 5 rok väzenie
-1.8	? byť mesto na juhovýchod krajina	? byť mesto na juhovýchod
-4.4	prezident ? uvies큐 탑e Rusko prija큐 protiopatrenie	? varovať že Rusko podniknúť odvetný krok
+2.6	vanúť drať odsúdiť na celkovo 13 rok väzenie	vanúť drať podmienečne odsúdiť Geigeš na 5 rok väzenie
+1.8	byť mesto na juhovýchod krajina	byť mesto na juhovýchod
+4.4	prezident uvies큐 탑e Rusko prija큐 protiopatrenie	varovať že Rusko podniknúť odvetný krok
 4	Čína sa doteraz brániť tlak spojený štát na Čína aby zastaviť a prehľadať severokórejský loď	Čína vyhlásiť že tlak spojený štát na to aby Čína zastaviť a prehľadať severokórejský loď by môcť vyvolať vojenský stret
-3.8	brazílsky minister pre strategický záležitosť ? ? ? uviesť že nový brazílsky plán národný obrana požadovať nadviazanie partnerstvo s krajina vrátane Ruska a francúzsky s cieľ vybudovať moderný zbrojný priemysel	? uviesť že nový plán národný obrana Brazília požadovať nadviazanie partnerstvo s krajina vrátane Ruska a Francúzska s cieľ vybudovať moderný zbrojný priemysel
+3.8	brazílsky minister pre strategický záležitosť uviesť že nový brazílsky plán národný obrana požadovať nadviazanie partnerstvo s krajina vrátane Ruska a francúzsky s cieľ vybudovať moderný zbrojný priemysel	uviesť že nový plán národný obrana Brazília požadovať nadviazanie partnerstvo s krajina vrátane Ruska a Francúzska s cieľ vybudovať moderný zbrojný priemysel
 1.6	obvinený byť obvinený z medzinárodný obchodovanie s droga	niektorý z obvinený byť obvinenie aj z pranie špinavý peniaze daňový únik a korupcia
-3.6	variant pokročilý ľahký vrtuľník ? obsahovať raketomet z Belgicko raketa zbraň a motor z Francúzska brzdový systém z Taliansko palivový nádrž a prevodovka z Británia prostriedok na sebaobrana od švédsky spoločnosť a od nemecký spoločnosť získať rozhodujúci vývoj a výroba motor	arzenál ? obsahovať raketomet z belgický raketa zbraň a motor z francúzsky brzdový systém z taliansky palivový nádrž a prevodovka z britský ochranný prostriedok švédsky spoločnosť
+3.6	variant pokročilý ľahký vrtuľník obsahovať raketomet z Belgicko raketa zbraň a motor z Francúzska brzdový systém z Taliansko palivový nádrž a prevodovka z Británia prostriedok na sebaobrana od švédsky spoločnosť a od nemecký spoločnosť získať rozhodujúci vývoj a výroba motor	arzenál obsahovať raketomet z belgický raketa zbraň a motor z francúzsky brzdový systém z taliansky palivový nádrž a prevodovka z britský ochranný prostriedok švédsky spoločnosť
 3.6	indický ministerstvo obrana zvýšiť výdavok na nákup obrana	indický ministerstvo obrana zvýšiť výdavok na obrana pri nový nákup o 33 percento
-0	správa ? byť obmedzený	vrah uniknúť
+0	správa byť obmedzený	vrah uniknúť
 2.2	zmluva o konvenčný sila v Európa bola podpísaný ruský a nato v rok 1990	zmluva o konvenčný sila v Európa bola zmenený a doplnený v rok 1999
-3.6	šejk ? šalát íl uviesť že civilný obeta v dôsledok nočná mínometný a raketový útok sa stávať každý deň	šejk ? šalát íl uviesť že civilný obeta v dôsledok nočná mínometný a raketový útok byť do nemocnica prijímaný takmer každý deň
+3.6	šejk šalát íl uviesť že civilný obeta v dôsledok nočná mínometný a raketový útok sa stávať každý deň	šejk šalát íl uviesť že civilný obeta v dôsledok nočná mínometný a raketový útok byť do nemocnica prijímaný takmer každý deň
 1.2	juhoafrický vláda udržiavať veľmi dobré vzťah s vláda spojený štát	CFE byť jeden z niekoľký otázka ktorý mať negatívny vplyv na vzťah Ruska s USA a Európa
 4.2	systém jadrový zbraň na vysoká úroveň pripravenosť zvyšovať riziko použitie tento zbraň a to aj neúmyselne s katastrofický následok	uznesenie hovoriť že vysoká úroveň pripravenosť zvyšovať riziko použitie tento zbraň a že neúmyselný alebo náhodný použitie by malo katastrofický následok
-3.4	? uviesť že byť nevyhnutný zvýšiť úsilie o eliminácia jadrový zbraň a zbraň hromadný ničenie	? navštíviť nový Zéland a uviesť že byť nevyhnutný aby sa vyvinúť veľký úsilie na eliminácia jadrový zbraň a zbraň hromadný ničenie
-0	provincia ? byť veľký producent ópium na svet	skupina ? byť veľký spoločnosť v oblasť jadrový inžinierstvo na svet
-3.8	pohraničný oblasť medza Afganistan a Irán bola dejisko častý stret medza polícia a pašerák droga	oblasť neďaleko mesto ? bola dejisko častý konflikt medza iránsky polícia a pašerák droga
-4.4	fyzik ? bola usvedčený z predaj utajovaný ? o kozmický technológia do cín	fyzik Valentína ? bola uznaný vinný z predaj utajovaný informácia o vesmírny technológia do Čína
+3.4	uviesť že byť nevyhnutný zvýšiť úsilie o eliminácia jadrový zbraň a zbraň hromadný ničenie	navštíviť nový Zéland a uviesť že byť nevyhnutný aby sa vyvinúť veľký úsilie na eliminácia jadrový zbraň a zbraň hromadný ničenie
+0	provincia byť veľký producent ópium na svet	skupina byť veľký spoločnosť v oblasť jadrový inžinierstvo na svet
+3.8	pohraničný oblasť medza Afganistan a Irán bola dejisko častý stret medza polícia a pašerák droga	oblasť neďaleko mesto bola dejisko častý konflikt medza iránsky polícia a pašerák droga
+4.4	fyzik bola usvedčený z predaj utajovaný o kozmický technológia do cín	fyzik Valentína bola uznaný vinný z predaj utajovaný informácia o vesmírny technológia do Čína
 3.4	Mjanmarsko byť veľký producent nelegálny ópium na svet mať však obmedzený finančný a technický zdroj na ukončenie obchod s droga	Mjanmarsko byť veľký svetový producent nezákonný ópium podľa nový u s. správa ministerstvo pre boj proti omamný látka
 3	skupina na podpor únosca dúfať že parlament čoskoro zmeniť zákon	podporný skupina unesený použiť prieskum na tlačenie parlament aby prijať nový zákon
-4	? uviesť že kolumbijský polícia nájsť dôkaz v 2 počítač objavený so zabitý vodca povstalec Raúla Reyes	? ? uviesť že kolumbijský polícia nájsť dôkaz na dva počítač objavený pomoc ? ?
-0.8	do ? ? byť hovorca vietnamský ministerstvo kultúra a informácia	? byť hovorca u s. misia k zjednotený národ
-4	hovorca spoločnosť siemens v Nemecko uviesť že ? von ? uviesť že spoločnosť siemens začínať rozhovor so zainteresovaný čínsky strana o predaj zariadenie na spracovanie plutónium	hovorca spoločnosť siemens v Nemecko uviesť že ? von ? uviesť že ? ? uviesť že ? ? nie byť v zásada proti predaj zariadenie na spracovanie plutónium
+4	uviesť že kolumbijský polícia nájsť dôkaz v 2 počítač objavený so zabitý vodca povstalec Raúla Reyes	uviesť že kolumbijský polícia nájsť dôkaz na dva počítač objavený pomoc
+0.8	do byť hovorca vietnamský ministerstvo kultúra a informácia	byť hovorca u s. misia k zjednotený národ
+4	hovorca spoločnosť siemens v Nemecko uviesť že von uviesť že spoločnosť siemens začínať rozhovor so zainteresovaný čínsky strana o predaj zariadenie na spracovanie plutónium	hovorca spoločnosť siemens v Nemecko uviesť že von uviesť že uviesť že nie byť v zásada proti predaj zariadenie na spracovanie plutónium
 5	Vietnam patriť medza prísne drogový zákon na svet	vietnamský drogový zákon patriť medza prísne zákon na svet
 1	vládnuť iniciatíva na odzbrojenie byť neúčinný	inštitúcia riadenie byť v Somálsko už dlho neúčinný
-5	? uviesť že ruský vláda môcť od zmluva úplne odstúpiť ak západný krajina odmietnuť ratifikovať zmenený a doplnený zmluva	? uviesť že Rusko by môcť zmluva úplne zrušiť ak západný krajina odmietnuť ratifikovať jej zmenený a doplnený znenie
+5	uviesť že ruský vláda môcť od zmluva úplne odstúpiť ak západný krajina odmietnuť ratifikovať zmenený a doplnený zmluva	uviesť že Rusko by môcť zmluva úplne zrušiť ak západný krajina odmietnuť ratifikovať jej zmenený a doplnený znenie
 5	Rusko ratifikovať zmenený a doplnený znenie zmluva	Rusko ratifikovať zmenený a doplnený zmluva
-2.2	? diskutovať o možný rozšírenie misia ? v košový	? rokovať o snaha Kazachstan o predsedníctvo ? v rok 2009
-4.8	? byť šéf medzinárodný agentúra pre atómový energia	? ? byť generálny riaditeľ agentúra pre atómový energia
+2.2	diskutovať o možný rozšírenie misia v košový	rokovať o snaha Kazachstan o predsedníctvo v rok 2009
+4.8	byť šéf medzinárodný agentúra pre atómový energia	byť generálny riaditeľ agentúra pre atómový energia
 1.8	zmluva o nešírenie jadrový zbraň mať 37 rok	zmluva o nešírenie jadrový zbraň sa revidovať každý 5 rok
-2.2	hovorkyňa čínsky ministerstvo zahraničie ? ona uviesť že počítačový hacker byť globálny problém	hovorca čínsky ministerstvo zahraničný vec ? gang bola požiadaný aby reagovať na Cheney prejav o vojenský rozvoj Čína
+2.2	hovorkyňa čínsky ministerstvo zahraničie ona uviesť že počítačový hacker byť globálny problém	hovorca čínsky ministerstvo zahraničný vec gang bola požiadaný aby reagovať na Cheney prejav o vojenský rozvoj Čína
 2.6	závod byť postavený vedľa existujúci závod a plánovať sa jeho prevádzka za 7 rok	závod byť postavený vedľa existujúci závod dodávaný aj z Čína a funkčné od rok 1999
 4.4	kybernetický útok sa považovať za rastúci hrozba pre vojenský a civilný počítačový sieť	nato považovať kybernetický útok za rastúci hrozba pre vojenský a civilný počítačový sieť
-1.2	ak India obviňovať zahraničný militant byť súčasť jej propaganda zavádzanie medzinárodný spoločenstvo	? dôrazne presadzovať zahraničný politika pre Japonsko a medzinárodný spoločenstvo
-4.8	rijádsky akadémia pre bezpečnostný veda ? vo vyhlásenie uviesť že organizovať dvojtýždňový workshop pre 50 odborník na terorizmus	vo vyhlásenie ktorý oznámiť akadémia pre bezpečnostný veda ? byť sponzorovať dvojtýždňový workshop pre 50 expert na boj proti terorizmus
+1.2	ak India obviňovať zahraničný militant byť súčasť jej propaganda zavádzanie medzinárodný spoločenstvo	dôrazne presadzovať zahraničný politika pre Japonsko a medzinárodný spoločenstvo
+4.8	rijádsky akadémia pre bezpečnostný veda vo vyhlásenie uviesť že organizovať dvojtýždňový workshop pre 50 odborník na terorizmus	vo vyhlásenie ktorý oznámiť akadémia pre bezpečnostný veda byť sponzorovať dvojtýždňový workshop pre 50 expert na boj proti terorizmus
 3.8	88 percento liberálny demokratický strana podporovať ekonomický sankcia	80 percento opozičný demokratický strana podporovať ekonomický sankcia
-1.2	? byť islamský zákon	Irán byť islamský republika
-3	množstvo podozrivý islamský militant s údajný väzba na ? ? byť zatknutý v Malajzia a Singapur a úradník uviesť že sieť militant zasahovať do Indonézia	podozrivý z islamský ozbrojenec s údajný väzba na ? ? byť zatknutie v Malajzia a Singapur
-4.6	v september 2007 Jordánsko podpísať dohoda so spojený štát zameraný na podpor mierový rozvoj ? sa jordánsky jadrový program	v september 2007 spojený štát podpísať dohoda s Jordánsko zameraný na podpor mierový rozvoj nový ? jadrový program
-3.2	podľa vyhlásenie ? 24 posilňovať vojenský potenciál strategický sila prekonať systém protiraketový obrana	podľa vyhlásenie byť prototyp raketa ? 24 na rozdiel od topoľ m v ten že byť vybavený niekoľký nezávisle zamerateľný hlavica na premáhanie obranný systém
-0.2	? m. bola obesený v provincia zabolieť v provincia Sistán ?	? byť hlavná mesto provincia Sistán ?
+1.2	byť islamský zákon	Irán byť islamský republika
+3	množstvo podozrivý islamský militant s údajný väzba na byť zatknutý v Malajzia a Singapur a úradník uviesť že sieť militant zasahovať do Indonézia	podozrivý z islamský ozbrojenec s údajný väzba na byť zatknutie v Malajzia a Singapur
+4.6	v september 2007 Jordánsko podpísať dohoda so spojený štát zameraný na podpor mierový rozvoj sa jordánsky jadrový program	v september 2007 spojený štát podpísať dohoda s Jordánsko zameraný na podpor mierový rozvoj nový jadrový program
+3.2	podľa vyhlásenie 24 posilňovať vojenský potenciál strategický sila prekonať systém protiraketový obrana	podľa vyhlásenie byť prototyp raketa 24 na rozdiel od topoľ m v ten že byť vybavený niekoľký nezávisle zamerateľný hlavica na premáhanie obranný systém
+0.2	m. bola obesený v provincia zabolieť v provincia Sistán	byť hlavná mesto provincia Sistán
 4.8	Irán ležať na hlavná drogový cesta medza Afganistan a Európa a štát perzský záliv	Irán ležať na hlavná trasa obchodovanie s droga medza Afganistan a Európa ako aj štát perzský záliv
 0	byť hostiť austrálsky vláda	spojený štát plán nahnevať ruský vláda
-3.6	5 stály člen rad bezpečnosť spojený národ byť Británia Čína Francúzsko Rusko a spojený štát	člen skupina ? ? 1 byť Británia Čína Francúzsko Rusko Nemecko a spojený štát
-4.2	v júl 2006 jordánsky premiér ? ? vyhlásiť že ? ? a jeho rodina žiť pod ochrana kráľ ? ?	jordánsky premiér ? ? v júl 2006 uviesť že ? ? a jej rodina žiť pod ochrana kráľ ? II. po ten čo Irak vydať svoj
-2.6	hovorca spoločnosť siemens v Nemecko uviesť agentúra ? ? ? že spoločnosť siemens byť presvedčený o výsledok rozhovor o predaj zariadenie na spracovanie plutónium	hovorca spoločnosť siemens v Nemecko sa zdržať komentovanie politický aspekt predaj zariadenie na spracovanie plutónium
-3.8	ku kybernetický útok dôjsť po ten čo stretnutie francúzsky prezident ? s dalajláma nahnevať čínsky vláda	ku kybernetický útok dôjsť po stretnutie francúzsky prezident Nicolaš Sarkozy s exilový tibetský duchovná vodca ? láma
+3.6	5 stály člen rad bezpečnosť spojený národ byť Británia Čína Francúzsko Rusko a spojený štát	člen skupina 1 byť Británia Čína Francúzsko Rusko Nemecko a spojený štát
+4.2	v júl 2006 jordánsky premiér vyhlásiť že a jeho rodina žiť pod ochrana kráľ	jordánsky premiér v júl 2006 uviesť že a jej rodina žiť pod ochrana kráľ II. po ten čo Irak vydať svoj
+2.6	hovorca spoločnosť siemens v Nemecko uviesť agentúra že spoločnosť siemens byť presvedčený o výsledok rozhovor o predaj zariadenie na spracovanie plutónium	hovorca spoločnosť siemens v Nemecko sa zdržať komentovanie politický aspekt predaj zariadenie na spracovanie plutónium
+3.8	ku kybernetický útok dôjsť po ten čo stretnutie francúzsky prezident s dalajláma nahnevať čínsky vláda	ku kybernetický útok dôjsť po stretnutie francúzsky prezident Nicolaš Sarkozy s exilový tibetský duchovná vodca láma
 3.8	juhoafrický vláda zaviesť zákaz ktorý zakazovať nábor človek do južný Afrika alebo mimo ona na žoldniersky alebo zahraničný vojenský pomoc	juhoafrický ministerstvo zahraničie uviesť že zákon o zahraničný vojenský pomoc v juhoafrický republika zakazovať nábor človek do južný Afrika alebo mimo ona na žoldniersky alebo vojenský pomoc
 1.6	Ukrajina mať takmer všetok potrebný schválenie aby sa môcť zapojiť do program európsky vesmírny agentúra	Francúzsko byť líder v európsky vesmírny agentúra
 3.2	severokórejský vláda varovať juhokórejský vláda pred účasť na program iniciatíva za bezpečnosť šírenie zbraň hromadný ničenie	severokórejský vláda uviesť že ak sa juhokórejský vláda zúčastniť na program iniciatíva za bezpečnosť šírenie zbraň malo by to nešpecifikovaný katastrofický následok
-3.2	čínsky rada pre poľnohospodárstvo otvárať špeciálny kancelária zodpovedný za prevod poľnohospodársky technológia správa právo duševný vlastníctvo a poradenstvo s cieľ posilniť rozvoj čínsky znalostný poľnohospodárstvo a aplikácia poľnohospodársky technológia	? uviesť že spoločnosť ? stráviť posledný niekoľko rok ustanovenie príslušný mechanizmus a návrh súbor propagačný opatrenie na podpor rozvoj čínsky znalostný poľnohospodárstvo a aplikácia poľnohospodársky technológia
-3	iránsky predseda parlament ? ? ? ? navštíviť Kuba	dohoda byť podpísaný počas návšteva hovorca iránsky ? parlament ? ? ? ? na kuba
+3.2	čínsky rada pre poľnohospodárstvo otvárať špeciálny kancelária zodpovedný za prevod poľnohospodársky technológia správa právo duševný vlastníctvo a poradenstvo s cieľ posilniť rozvoj čínsky znalostný poľnohospodárstvo a aplikácia poľnohospodársky technológia	uviesť že spoločnosť stráviť posledný niekoľko rok ustanovenie príslušný mechanizmus a návrh súbor propagačný opatrenie na podpor rozvoj čínsky znalostný poľnohospodárstvo a aplikácia poľnohospodársky technológia
+3	iránsky predseda parlament navštíviť Kuba	dohoda byť podpísaný počas návšteva hovorca iránsky parlament na kuba
 2.6	Tibet podozrievať čínsky vláda z vytvorenie vírus ktorý by špehovať tibetský vyhnanec a dalajláma	Tibet podozrievať čínsky vláda zo začatie útok
-1	čínsky orgán nebyť okamžite k dispozícia na vyjadrenie	? a ? právnik nebyť okamžite k dispozícia na vyjadrenie
-0.4	európsky únia a spojený štát zmraziť aktívum ? kaďa	západný vláda zahŕňať spojený štát a Francúzsko
+1	čínsky orgán nebyť okamžite k dispozícia na vyjadrenie	a právnik nebyť okamžite k dispozícia na vyjadrenie
+0.4	európsky únia a spojený štát zmraziť aktívum kaďa	západný vláda zahŕňať spojený štát a Francúzsko
 1	čínsky vláda v posledný rok posilniť čínsky kapacita proti šírenie zbraň hromadný ničenie	čínsky vláda v posledný rok podľa zákon prísne cenzurovať čínsky dovoz a vývoz chemikália
-4.2	skupina zastupujúci hlaveň biely Juhoafričan nazývaný ? uviesť že byť organizovať protest pozdĺž cesta do Zimbabwe	? uviesť že skupina byť organizovať protest pozdĺž cesta do Zimbabwe
-3.6	? oznámiť že zmluva ? nechrániť náležite ruský bezpečnostný záujem	zmluva ? nechrániť náležitý spôsob bezpečnostný záujem ruský federácia
-3.4	? bojovať proti vydanie do spojený štát a podať formálny sťažnosť obviňujúci sa z ten že britský polícia vykonať spravodajský správa ktorý mať implikovať Ahmaď do teroristický aktivita a znesvätiť tak korán	? podať formálny sťažnosť nezávislý policajný komisia pre sťažnosť v ktorý tvrdiť že britský polícia vymyslieť spravodajský správa ktorý mať zapojiť Ahmaď do teroristický aktivita a zneuctiť Ahmadová kópia islamský svätá kniha korán ten že pri prehliadka ? dom položiť korán na zem
+4.2	skupina zastupujúci hlaveň biely Juhoafričan nazývaný uviesť že byť organizovať protest pozdĺž cesta do Zimbabwe	uviesť že skupina byť organizovať protest pozdĺž cesta do Zimbabwe
+3.6	oznámiť že zmluva nechrániť náležite ruský bezpečnostný záujem	zmluva nechrániť náležitý spôsob bezpečnostný záujem ruský federácia
+3.4	bojovať proti vydanie do spojený štát a podať formálny sťažnosť obviňujúci sa z ten že britský polícia vykonať spravodajský správa ktorý mať implikovať Ahmaď do teroristický aktivita a znesvätiť tak korán	podať formálny sťažnosť nezávislý policajný komisia pre sťažnosť v ktorý tvrdiť že britský polícia vymyslieť spravodajský správa ktorý mať zapojiť Ahmaď do teroristický aktivita a zneuctiť Ahmadová kópia islamský svätá kniha korán ten že pri prehliadka dom položiť korán na zem
 3.6	Rusko ratifikovať zmenený a doplnený verzia ale spojený štát a ďalší člen vláda nato to odmiesť kto ruský vláda nestiahnuť jednotka z bývalá sovietsky republika Moldavsko a Gruzínsko	spojený štát a ďalší člen nato odmiesť ratifikovať zmenený a doplnený verzia kto Rusko nestiahnuť jednotka z bývalá sovietsky republika Moldavsko a Gruzínsko
-0.8	súčasť účel plán spojený štát byť zvýšenie tlak na severný ?	spojený štát a spojenec spojený štát veriť že Irán sledovať jadrový zbraň
-0.4	? byť hlavná mesto Gruzínsko	Paríž byť hlavná mesto Francúzska
-1.4	indický vládny úradník vyhlásiť že India neprikladať veľký dôveryhodnosť správa ? ?	jeden indický vládny úradník ktorý študovať plán uviesť že veda byť starať a zastaraný ale stále funkčný
+0.8	súčasť účel plán spojený štát byť zvýšenie tlak na severný	spojený štát a spojenec spojený štát veriť že Irán sledovať jadrový zbraň
+0.4	byť hlavná mesto Gruzínsko	Paríž byť hlavná mesto Francúzska
+1.4	indický vládny úradník vyhlásiť že India neprikladať veľký dôveryhodnosť správa	jeden indický vládny úradník ktorý študovať plán uviesť že veda byť starať a zastaraný ale stále funkčný
 2.4	čínsky kabinet štátny rada oznámiť že zmeniť a doplniť nariadenie o dvojak použitie jadrový technológia s cieľ zabrániť jadrový terorizmus	ktorý sa meniť a dopĺňať nariadenie o jadrový technológia s dvojaký použitie zabrániť jadrový terorizmus
-1.2	japonský premiér ? ? uviesť že posun tyč bola proaktívny	v rok 2002 sa japonský premiér ? ? zúčastniť na samit v severný ? so severokórejský vodca ? ? íl
+1.2	japonský premiér uviesť že posun tyč bola proaktívny	v rok 2002 sa japonský premiér zúčastniť na samit v severný so severokórejský vodca íl
 3.2	opozičný japonský komunistický strana bola proti nový zákon a obávať sa že to viesť k silný armáda	opozičný japonský komunistický strana bola proti návrh zákon ktorý navrhovať nový zákon
-3.6	niektorý predstaviteľ ? uviesť že takýto štandardizácia byť z dôvod politický systém rôzny krajina ťažkať	niektorý úradník uviesť že úloha byť pre člen ? ťažkať z dôvod rozdielny právny a politický systém
+3.6	niektorý predstaviteľ uviesť že takýto štandardizácia byť z dôvod politický systém rôzny krajina ťažkať	niektorý úradník uviesť že úloha byť pre člen ťažkať z dôvod rozdielny právny a politický systém
 4	Irak lobovať za to aby rada bezpečnosť prestať využívať príjem z ropa v krajina na vyplácanie kompenzácia obeť vojna v perzský záliv v rok 1991 a plat inšpektor monitorovací overovací a inšpekčný komisia spojený štát a aby všetok zvyšný peniaz zostať v ropa spojený krajina účet pre potravina prevedený do vládny rozvojový fond	nový vodca Irak lobovať za to aby rada bezpečnosť spojený národ prestať využívať príjem Irak z ropa na vyplácanie mzda inšpektor a aby všetok peniaz zostávajúci na účet OSN pre ropa za potravina byť prevedený na iracký vláda
-2.2	musieť sa zachovať kľúčový európsky zmluva o kontrola zbraň	zmluva o ? byť kľúčový európsky zmluva o kontrola zbraň
-2.6	oblasť zlatý trojuholník bola jeden z veľký svetový producent ópium	provincia ? byť veľký producent ópium na svet
+2.2	musieť sa zachovať kľúčový európsky zmluva o kontrola zbraň	zmluva o byť kľúčový európsky zmluva o kontrola zbraň
+2.6	oblasť zlatý trojuholník bola jeden z veľký svetový producent ópium	provincia byť veľký producent ópium na svet
 2.2	spojený štát zamiesť akcia ako jadrový vydieranie	spojený štát vyhlásiť že sa postaviť proti jadrový vydieranie a vylúčiť rokovanie
 2.8	schôdza trvať 3 deň	stretnutie trvať 2 deň
 3.6	minister z Čína Laos India Mjanmarsko a Thajsko sa byť zaoberať aj iniciatíva zameraný na substitúcia plodina pre chudobný etnický menšina ktorý sa stále spoliehať na pestovanie ópium	minister z Čína Laos India Mjanmarsko a Thajsko byť rokovať o ten ako nájsť trh pre tovar vyrobený v rámec substitúcia plodina a o ďalší súvisiaci program ako byť ekoturizmus a remeselný výroba
 3	Čína byť jadrový energia a člen u n. bezpečnostný rada	Čína byť stály člen bezpečnosť OSN
 2	severokórejský úradník byť podozrivý z výroba jadrový zbraň	severný Kórea byť v súčasnosť v proces demontáž svoj program jadrový zbraň
-3.4	austrálsky televízny reportér Peter ? čeliť 3 nový obvinenie z droga v Singapur	podľa súdny dokument 25. júl čeliť austrálsky reportér televízia Peter ? 3 nový obvinenie z droga v Singapur
-3	prezident Vladimíra ? podpísať dekrét o pozastavenie účasť Ruska v konvenčný sila na európsky zmluva	ruský prezident Vladimíra ? podpísať dekrét o pozastavenie účasť Ruska na konvenčný sila v európsky zmluva z dôvod okolnosť ktorý ovplyvňovať bezpečnosť ruský federácia a ktorý byť vyžadovať okamžitý opatrenie
-2.6	podmienka vydanie stanovovať že ? možno stíhať iba na základ jediný obvinenie z falšovanie dokument ktorý môcť taliansky orgán poskytnúť dostatočná dôkaz na stíhanie	hovorca švajčiarsky ministerstvo spravodlivosť ? ? uviesť že podmienka vydanie stanovovať že ? možno stíhať iba na základ jediný obvinenie z falšovanie dokument pre ktorý môcť taliansky orgán poskytnúť dostatočná dôkaz
+3.4	austrálsky televízny reportér Peter čeliť 3 nový obvinenie z droga v Singapur	podľa súdny dokument 25. júl čeliť austrálsky reportér televízia Peter 3 nový obvinenie z droga v Singapur
+3	prezident Vladimíra podpísať dekrét o pozastavenie účasť Ruska v konvenčný sila na európsky zmluva	ruský prezident Vladimíra podpísať dekrét o pozastavenie účasť Ruska na konvenčný sila v európsky zmluva z dôvod okolnosť ktorý ovplyvňovať bezpečnosť ruský federácia a ktorý byť vyžadovať okamžitý opatrenie
+2.6	podmienka vydanie stanovovať že možno stíhať iba na základ jediný obvinenie z falšovanie dokument ktorý môcť taliansky orgán poskytnúť dostatočná dôkaz na stíhanie	hovorca švajčiarsky ministerstvo spravodlivosť uviesť že podmienka vydanie stanovovať že možno stíhať iba na základ jediný obvinenie z falšovanie dokument pre ktorý môcť taliansky orgán poskytnúť dostatočná dôkaz
 3	veriť sa že útok pochádzať z ruský administratívny IP adresa v reakcia na premiestnenie sovietsky socha do Estónsko	k útok dôjsť po spor medza vláda Ruska a Estónsko o premiestnenie pamätník sovietsky vojna
 2	India a Pakistan zostávať mimo zmluva	Izrael zostávať mimo zmluva
 0	Čína byť člen klub balistický raketa	Rusko byť člen kvarteto na blízko východ
 4.4	Rusko môcť odstúpiť od zmluva ak USA a ďalší spojenec nato odmietnuť ratifikovať zmenený a doplnený verzia	varovať že Rusko odstúpiť od zmluva ak západný štát odmietnuť ratifikovať jej zmenený a doplnený znenie
 0.4	to platiť najmä v chudobný krajina	byť to najmä pot čo Etiópia stiahnuť svoj sila
 3.6	Irán v posledný mesiac zjavne zvýšiť počet poprava keď úradník presadzovať kampaň zameraný na podpor cnosť a zvýšenie bezpečnosť v	iránsky úradník zvýšiť počet poprava v rok 2007 keď úradník presadzovať kampaň zameraný údajne na podpor cnosť a zvyšovanie bezpečnosť v spoločnosť
-0.6	vo vyhlásenie oficiálny kúpeľný tlačový agentúra sa uvádzať že ? ? bola odsúdený za obchodovanie s droga	násilník bola identifikovaný ako ? ? a bola tiež odsúdený za obchodovanie s droga
+0.6	vo vyhlásenie oficiálny kúpeľný tlačový agentúra sa uvádzať že bola odsúdený za obchodovanie s droga	násilník bola identifikovaný ako a bola tiež odsúdený za obchodovanie s droga
 1.8	Tadžikistan aj Uzbekistan mať spoločný hranica s Afganistan a v posledný rok zažiť útok islamský militant podporovaný taliban	susedný Kirgizsko tiež v posledný rok zažiť nájazd islamský militant podporovaný taliban
 1.8	Rusko uviesť že systém predstavovať jasný hrozba pre ruský bezpečnosť	byť to vážny hrozba pre medzinárodný bezpečnosť
-3	gang sa zapojiť do nelegálny aktivita vrátane vydieranie vydieranie ? zbraň ? cigareta a pranie špinavý peniaze a údajne použiť výťažok na financovanie teroristický skupina v čečenský	daň uviesť že gang sa zapojiť do nelegálny aktivita vrátane vydieranie vydieranie ? zbraň ? cigareta a pranie špinavý peniaze
+3	gang sa zapojiť do nelegálny aktivita vrátane vydieranie vydieranie zbraň cigareta a pranie špinavý peniaze a údajne použiť výťažok na financovanie teroristický skupina v čečenský	daň uviesť že gang sa zapojiť do nelegálny aktivita vrátane vydieranie vydieranie zbraň cigareta a pranie špinavý peniaze
 3.4	v štátny vedecky center aplikovaný mikrobiológia existovať každý druh smrtiaci baktéria ktorý byť študovaný na použitie v program tajný biologický zbraň sovietsky zväz	štátny vedecký stredisko aplikovaný mikrobiológia spolupracovať so západný vedec na premena komplex na biomedicínsky výrobný miesto
 1.2	medzinárodný agentúra pre atómový energia nemať prístup k človek dokument stránka	medzinárodný agentúra pre atómový energia sídliť v
 0	kniha uvádzať že droga poskytovať úplne pozitívny obraz	úradník uviesť že ísť o úplný prenos technológia
 1.4	40 väzeň byť odpykávať trest za vražda	105 väzeň byť odpykávať trest za obchodovanie s droga
-2	Rusko byť plniť povinnosť a znižovať sila	pozastavenie ruský záväzok podľa zmluva ? byť dočasný
-3.6	výkonný riaditeľ združenie na kontrola zbraň vo Washington ? ? uviesť že správa ? byť 1 zo séria zlý znak	výkonný riaditeľ združenie na kontrola zbraň vo Washington ? ? uviesť že izraelský dokument by môcť ovplyvniť debata o India
+2	Rusko byť plniť povinnosť a znižovať sila	pozastavenie ruský záväzok podľa zmluva byť dočasný
+3.6	výkonný riaditeľ združenie na kontrola zbraň vo Washington uviesť že správa byť 1 zo séria zlý znak	výkonný riaditeľ združenie na kontrola zbraň vo Washington uviesť že izraelský dokument by môcť ovplyvniť debata o India
 4	CFE byť jeden z niekoľký otázka ktorý mať negatívny vplyv na vzťah Ruska s USA a Európa	zmluva byť jeden z niekoľký problém spôsobujúci napätý vzťah medza ruský vláda a u s. a Európa
-3.2	? laboratórium pracovať s u s. ? ? národný laboratórium	? laboratórium spolupracovať s iný vedecký ústav
-1.8	? a ? byť senátor	? a ? udeliť predseda vláda medaila
+3.2	laboratórium pracovať s u s. národný laboratórium	laboratórium spolupracovať s iný vedecký ústav
+1.8	a byť senátor	a udeliť predseda vláda medaila
 4	úradník tvrdiť že rozhodnutie o zmluva byť závisieť od u s. opatrenie na jej plán rozmiestnenie systém protiraketový obrana v Poľsko a český republika	ruský vojenský predstaviteľ uviesť že rozhodnutie byť závisieť od ten či spojený štát pokračovať v plán rozmiestnenie komponent protiraketový obrana v Poľsko a český republika
 3	podpis dohoda byť okrajový otázka stretnutie náčelník štáb obrana z 26 spojenecký krajina nato	dohoda bola podpísaný počas pravidelný stretnutie náčelník obranný štáb z 26 spojenec nato
 3.6	začiatkom máj 2002 podpísať úradník z Filipíny Malajzia a Indonézia protiteroristický dohoda o zdieľanie zoznam cestujúca v letecký doprava a ďalší spravodajský informácia	začiatkom máj 2002 podpísať Filipíny Malajzia a Indonézia dohoda o zdieľanie spravodajský informácia o terorizmus
@@ -288,13 +288,13 @@
 3.6	rezolúcia vyžadovať aby všetok 192 členský štát spojený štát prijať zákon ktorý zabrániť terorista čierny obchodník a iný neštátny subjekt vo výroba získavanie alebo obchodovanie s jadrový biologický alebo chemický zbraň alebo materiál na ich výroba	rezolúcia 1540 vyžadovať aby všetok krajina prijať zákon ktorý zabrániť neštátny subjekt vo výroba získavanie alebo obchodovanie s jadrový biologický alebo chemický zbraň materiál na ich výroba a raketa a iný systém na ich dodanie
 2	medzinárodný združenie pre atómový energia uviesť že Jordánsko súhlasiť s ďalší opatrenie	medzinárodný združenie pre atómový energia byť strážny pes spojený národ
 0.4	existovať veľa obava z táto droga	byť potrebný urobiť ešte veľa práca
-3	medzinárodný správa o amnestia naznačiť že Belgicko začať okamžitý rozhovor s India aby sa zabrániť budúci predaj ? komponent alebo vojenský technológia Mjanmarsko	v správa sa naliehať na Belgicko aby začať okamžitý rozhovor s India s cieľ zabrániť budúci predaj zbraň Mjanmarsko
-3	medza hlavná trestný čin v Irán patriť vražda znásilnenie ozbrojený lúpež odpadlíctvo rúhanie vážne obchodovanie s droga opakovaný ? cudzoložstvo prostitúcia zrada a špionáž	medza hlavná trestný čin v Irán patriť vražda znásilnenie ozbrojený lúpež vážne obchodovanie s droga a cudzoložstvo
+3	medzinárodný správa o amnestia naznačiť že Belgicko začať okamžitý rozhovor s India aby sa zabrániť budúci predaj komponent alebo vojenský technológia Mjanmarsko	v správa sa naliehať na Belgicko aby začať okamžitý rozhovor s India s cieľ zabrániť budúci predaj zbraň Mjanmarsko
+3	medza hlavná trestný čin v Irán patriť vražda znásilnenie ozbrojený lúpež odpadlíctvo rúhanie vážne obchodovanie s droga opakovaný cudzoložstvo prostitúcia zrada a špionáž	medza hlavná trestný čin v Irán patriť vražda znásilnenie ozbrojený lúpež vážne obchodovanie s droga a cudzoložstvo
 3.4	Saudská Arábia byť absolútno monarchia ktorý urobiť krok smer k reforma	Saudská Arábia byť absolútno monarchia a mať poradný rad menovaný vláda
-3	hovorca uviesť že dôjsť k výmena názor na aktuálne medzinárodný a regionálne otázka na základ spoločný pracovný vzťah v samý stred u n. ? uviesť že Rusko uznávať účasť Líbya na práca u n. bezpečnostný rada	? uviesť že dôjsť k výmena názor na aktuálne medzinárodný a regionálne otázka na základ spoločný pracovný vzťah v samý srdce OSN
-2.6	? návšteva v Londýn byť prvý líbyjský minister zahraničný vec od rok 1969	bola ohlásený návšteva ruský minister zahraničný vec v Líbya
+3	hovorca uviesť že dôjsť k výmena názor na aktuálne medzinárodný a regionálne otázka na základ spoločný pracovný vzťah v samý stred u n. uviesť že Rusko uznávať účasť Líbya na práca u n. bezpečnostný rada	uviesť že dôjsť k výmena názor na aktuálne medzinárodný a regionálne otázka na základ spoločný pracovný vzťah v samý srdce OSN
+2.6	návšteva v Londýn byť prvý líbyjský minister zahraničný vec od rok 1969	bola ohlásený návšteva ruský minister zahraničný vec v Líbya
 1.8	indický a pakistanský vláda sa v rok 1999 takmer zapojiť do štvrtý konflikt	v máj 1998 každý indický a pakistanský vláda uskutočniť jadrový test
-3.8	? uviesť že zadržanie byť obvinenie z vražda trestný spolupráca únos a financovanie terorizmus	? uviesť že zadržaný osoba sa tiež podieľať na vražda policajný príslušník skupina proti únos
+3.8	uviesť že zadržanie byť obvinenie z vražda trestný spolupráca únos a financovanie terorizmus	uviesť že zadržaný osoba sa tiež podieľať na vražda policajný príslušník skupina proti únos
 2.4	3 podozrivý extrémista byť prepustenie na kaucia	1 podozrivý extrémista bola dočasne prepustený na sloboda bez kaucia
 0.8	z obchodovanie s ľudský orgán byť obvinený 6 zamestnancov český nemocnica	obvinený byť obvinený z medzinárodný obchodovanie s droga
 2	to ešte mnoho zhoršiť situácia	severný Kórea by nemať ďalej konať s cieľ zhoršiť situácia

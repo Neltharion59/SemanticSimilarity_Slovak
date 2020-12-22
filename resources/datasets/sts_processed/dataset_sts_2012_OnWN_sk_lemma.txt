@@ -3,7 +3,7 @@
 3.250	prevádzať na absorbovateľný látka akoby tepelný alebo chemický proces	zmäkčiť alebo sa rozpadnúť chemický pôsobenie teplo alebo vlhkosť
 4.000	venovať sa alebo sa prispôsobiť výlučne zručnosť štúdia alebo práca	venovať sa osobitný pracovný oblasť
 3.250	vyvýšený drevený veranda dom	veranda ktorý pripomínať paluba na loď
-4.000	budiť polovica luk z luk	budiť z dva polovica luk od ? po špička
+4.000	budiť polovica luk z luk	budiť z dva polovica luk od po špička
 3.333	odnímateľný zariadenie ktorý byť doplnok k veľký predmet	doplnkový delo alebo príslušenstvo
 4.750	obmedzi큐 alebo obmedzi큐	obmedziť rozsah alebo prístup
 0.500	orientovať byť umiestnený	byť oproti
@@ -16,7 +16,7 @@
 3.500	výklad vysvetlenie alebo prečítanie udalosť alebo situácia	mentálny reprezentácia význam alebo význam niečo
 4.250	slávnostný spoločenský udalosť slávnosť	príležitosť pri ktorý sa človek môcť zhromaždiť za účel sociálny interakcia a zábava
 5.000	vykonať jemný úprava aby byť dosiahnuť optimálny prevádzka upraviť do určitý mierka	urobiť jemný úprava alebo rozdeliť do označený interval pre optimálne meranie
-3.750	krátky lyrik alebo báseň určený na spievanie	výpravný pieseň s ? sa refrén
+3.750	krátky lyrik alebo báseň určený na spievanie	výpravný pieseň s sa refrén
 2.750	efektívne ovládať alebo manipulovať s konkrétny entita	zvládnuť efektívne
 3.500	zamestnať alebo sa zamestnať na pozícia	ustanoviť niekto na pozícia alebo práca
 3.500	skupina človek definovaný konkrétny povolanie	organizácia účinkujúca a pridružený personál najmä divadelný
@@ -24,14 +24,14 @@
 4.250	signál schválenie alebo záujem žmurknutie krátko zavrieť jeden oko	signál žmurknutie
 2.750	základný imanie v spoločnosť	ktorýkoľvek z rovnaký častý na ktorý sa deliť základný imanie spoločnosť a ktorý vlastníctvo sa preukazovať akciový certifikát
 2.250	dokázať alebo potvrdiť	ustanoviť alebo posilniť ako pri nový dôkaz alebo fakt
-3.750	obsah komunikácia	komunikácia zvyčajne krátky ktorý byť písomný hovorený alebo ?
+3.750	obsah komunikácia	komunikácia zvyčajne krátky ktorý byť písomný hovorený alebo
 3.000	čiastočný zubný protéza	zubný protéza ukotvený k zub na oba strana chýbajúci zub
 2.750	presunúť do nízky poloha niečo ukončiť	ukončiť združenie s
 2.500	prietok ako kvapalina	znížiť alebo spôsobiť zníženie z tuhé na kvapalný skupenstvo zvyčajne zahriatie
 2.250	utesniť izolovať alebo chrániť	ošetriť telo alebo jeho časť zabalenie ako do prikrývka alebo list a aplikovať na on obklad alebo výplň aby byť poskytnúť krytie zadržanie alebo liečba alebo absorbovať krv
 2.500	jazva fyzicky vytvoriť na niekto alebo niečo známka	robiť značka podčiarknutie
 3.500	obklopiť úplne zblízka akoby s obal alebo obruba	obklopiť úplne
-1.250	čin alebo udalosť ukončenie proces stav situácia	koniec slovo prípona alebo ? koncovka alebo konečná morféma
+1.250	čin alebo udalosť ukončenie proces stav situácia	koniec slovo prípona alebo koncovka alebo konečná morféma
 0.000	cena tovar alebo služba	tvrdenie že niekto byť vinný z chyba alebo priestupok
 2.000	zobrazovať alebo zobrazovať umenie slovo alebo model	vytvoriť obraz alebo podoba
 0.750	cestovať dovnútra alebo byť tvarovaný ako cikcak	ohnúť sa do tvar kľuka
@@ -45,7 +45,7 @@
 4.750	fyzicky nafúknuť	nafúknuť sa
 3.000	ťažký rádioaktívny kovový prvok atómový číslo 92	ťažký toxický striebristo biely rádioaktívny kovový prvok vyskytovať sa v mnohý izotop používaný na jadrový palivo a jadrový zbraň
 3.000	sťažovať sa na niečo alebo niekto povedať zlé vec	povedať myseľ vec
-3.750	starať sa byť ? byť znepokojený	byť urazený alebo ? uraziť sa nechať sa obťažovať
+3.750	starať sa byť byť znepokojený	byť urazený alebo uraziť sa nechať sa obťažovať
 2.750	sčítaný bod hra v dan čas	číslo ktorý vyjadrovať úspech tím alebo jednotlivec v hra alebo súťaž
 2.250	upraviť tak aby blokovať pravda zabrániť distribúcia	podliehať politický náboženský alebo morálny cenzúra
 2.500	neformálne krátky stretnutie s niekto	náhodný alebo neočakávaný zbližovanie
@@ -67,8 +67,8 @@
 4.000	štandardizovaný systém meranie ťažkosť	sústava jednotka slúžiaci na vyjadrenie váha niečo
 4.500	záležitosť alebo záležitosť	nejaký situácia alebo udalosť o ktorý sa uvažovať
 2.000	mať silný sexuálny príťažlivosť	cítiť alebo mať túžba silno chcieť
-1.500	náhradný výraz výrok pre ? slovo	prázdny znak používaný na oddeľovanúť po seba nasledujúci slovo pri písanie alebo tlač
-4.000	zariadenie na bezpečný uloženie vec často peniaze	zariadenie kde byť možný uložiť vec na ? alebo na uschovanie
+1.500	náhradný výraz výrok pre slovo	prázdny znak používaný na oddeľovanúť po seba nasledujúci slovo pri písanie alebo tlač
+4.000	zariadenie na bezpečný uloženie vec často peniaze	zariadenie kde byť možný uložiť vec na alebo na uschovanie
 3.750	vydávať alebo spôsobiť vydávanie hluk	vydať určitý zvuk alebo zvuk
 2.333	nadviazať fyzický kontakt možno s účinok fyzický manipulácia	byť v krátky kontakt s
 2.500	zistiť alebo byť informovaný o nový informácia pochopiť alebo byť uvedomiť	spoznať alebo spoznať zvyčajne náhodne
@@ -80,7 +80,7 @@
 1.750	zodpovednosť za riadenie alebo dohľad	impulzívny nápor k niekto alebo niečo
 4.000	zlyha큐 alebo zlyha큐	ako v niektorý podnik
 4.000	hojnos큐 nie훾o	majetok hojný hojnosť
-3.750	autoritatívny text alebo zodpovedajúci citácia	krátky poznámka ? zdroj informácia alebo citovaný pasáž
+3.750	autoritatívny text alebo zodpovedajúci citácia	krátky poznámka zdroj informácia alebo citovaný pasáž
 0.500	príklad vizuálny vnímanie	často nasledovať z veľký počet alebo množstvo alebo rozsah
 2.500	kolísať pohybovať sa tam a spätiť	hojdať sa tam a spätiť
 1.500	zmiernenie núdza	zmena k dobrý
@@ -90,20 +90,20 @@
 1.600	vymeniť jeden za druhá	dávať a prijímať jeden od druhý
 4.000	bodka ako interpunkčný znamienko	interpunkčný znamienko umiestnený na koniec deklaratívny veta na označenie bodka alebo za skratka
 3.250	niečo po čo túžiť	niečo túžiť najmä intravenózny injekcia omamný látka
-3.500	rýchlo rásť	rýchlo a ?
+3.500	rýchlo rásť	rýchlo a
 3.500	hovoriť vysoká tón hlas ako by to môcť byť zviera alebo človek	vydávať vysoká zvuk
-2.500	domestikovaný zviera ? na použitie alebo na zisk	zvláštny paleta domestikovaný zviera v rámec druh
+2.500	domestikovaný zviera na použitie alebo na zisk	zvláštny paleta domestikovaný zviera v rámec druh
 2.250	disciplína odbor vedomosť	disciplína ktorý zaznamenávať a interpretovať minulý udalosť týkajúci sa človek
-3.333	osoba ktorý byť agresívne prenasledovaný prenasledovaný	osoba ktorý byť cieľ útok najmä obeta posmech alebo ? nejaký nepriateľský osoba alebo vplyv
+3.333	osoba ktorý byť agresívne prenasledovaný prenasledovaný	osoba ktorý byť cieľ útok najmä obeta posmech alebo nejaký nepriateľský osoba alebo vplyv
 2.250	personálny nehoda	vojenský personál stratený smrť alebo zajatie
 3.250	uniknúť alebo vyhnúť sa situácia alebo zodpovednosť	použiť prefíkanosť alebo podvod aby byť uniknúť alebo sa on vyhnúť
 4.000	relatívny strata cena hodnota	strata spôsobený vzdanie sa alebo predaj niečo v nízky hodnota ako byť jeho hodnota
 3.750	merateľný alebo kvantitatívny pokles	náhly prudký pokles určitý množstvo
 3.500	zmena výška tón tón alebo hlasitosť pravdepodobne z estetický dôvod	zmeniť kľúč v hudba
-5.000	písomný správa o neprijatie	správa ? prijať niečo čo sa ponúkať
+5.000	písomný správa o neprijatie	správa prijať niečo čo sa ponúkať
 0.500	spôsobiť prestať hovoriť alebo priviesť ticho	pohybovať sa tak aby brániť otvor alebo priechod zavrieť
 3.500	zraniť poškriabať povrch	rozreza큐 povrch opotrebova큐 povrch
-2.000	rastlinný štruktúra v horný časť rastlina	plodový štruktúra pripomínajúci dáždnik alebo šiška ktorý tvoriť vrchol ? mäsitý huba ako byť huba
+2.000	rastlinný štruktúra v horný časť rastlina	plodový štruktúra pripomínajúci dáždnik alebo šiška ktorý tvoriť vrchol mäsitý huba ako byť huba
 2.500	písomný zoznam konkrétny ponúkaný vec	zoznam podrobnosť ako nákladný list alebo cestovný lístok
 3.500	písomný poznámkový značka diakritika	diakritický značka používaný na označenie stres alebo umiestnený nad samohláska na označenie osobitný výslovnosť
 3.250	stav viera alebo dôvera v niečo alebo niekto	vlastnosť viera v čestnosť a spoľahlivosť ostatný
@@ -113,7 +113,7 @@
 2.000	zlisovať z tvar alebo na malá kúsok	sa zraniť zlomiť alebo zdeformovať tlak
 4.000	bod alebo priamy predmet zbraň alebo úder na niečo alebo niekto	namieriť alebo nechať ísť úder zbraň alebo predmet ako napríklad fotografický vybavenie smer k
 0.750	zamestnať alebo využiť uviesť do prevádzka	dávať alebo fyzicky sprostredkovať
-2.500	roztočiť navinúť ? alebo sa spolu krútiť možno ako pri vykonávanie čipka	robi큐 훾ipka
+2.500	roztočiť navinúť alebo sa spolu krútiť možno ako pri vykonávanie čipka	robi큐 훾ipka
 4.250	ozdobný nádoba často na držanie kvet	otvorený dóza zo sklo alebo porcelán používaný ako ozdoba alebo na držanie kvet
 2.000	konzervovať udržiavať v bezpečie šetrne používať	zavariť s cukor
 2.250	otvorený motorový čln používaný na preprava	motorový čln s otvorený alebo polovičný paluba
@@ -134,7 +134,7 @@
 3.500	klíčiť ako v rastlina	plodiť púčik konár alebo klíčiť
 1.000	sociálny sféra rozsah činnosť alebo záujem	konkrétne prostredie alebo oblasť život
 4.500	statický vertikálne usporiadanie napr. text alebo číslo	vertikálne pole číslo alebo iný informácia
-2.500	rozpoznať byť familiárny alebo dobre ? sa v on	byť byť vedomý alebo byť vedomý skutočnosť alebo konkrétny informácia mať vedomosť alebo informácia o
+2.500	rozpoznať byť familiárny alebo dobre sa v on	byť byť vedomý alebo byť vedomý skutočnosť alebo konkrétny informácia mať vedomosť alebo informácia o
 2.500	portrét niekto alebo niečo prostredníctvo slovo alebo správanie	akýkoľvek podoba osoba v akýkoľvek médium
 2.750	zariadenie na riadenie rýchlosť nejaký aktivita napr. chemicky alebo mechanicky	ktorýkoľvek z rôzny ovládací prvok alebo zariadenie na regulácia alebo riadenie prietok kvapalina tlak teplota atď
 3.750	tvoriť estetický alebo koncepčný celok	spôsobiť jednotný usporiadaný a esteticky konzistentný celok
@@ -144,8 +144,8 @@
 0.750	pridelenie alebo percento niečo	aktívum ktorý patriť alebo byť splatný jednotlivec alebo skupina alebo k on prispieť
 2.750	niečo čo dosiahnuť víťazstvo	udalosť ktorý splniť svoj zamýšľaný účel
 4.500	zoradiť alebo vytvoriť paralelne uviesť do správny úprava	umiestniť v rad alebo usporiadať tak aby byť rovnobežný alebo rovný
-3.750	bytový zariadenie ktorý byť textilný poťah	posteľný prádlo pozostávajúci z ľahký látkový poťah afganský alebo ? ktorý byť ležérne prehodený cez niečo
-3.500	? rám cez okno a dvere	ochranný obal pozostávajúci zo sieťovina byť možný namontovať do rám
+3.750	bytový zariadenie ktorý byť textilný poťah	posteľný prádlo pozostávajúci z ľahký látkový poťah afganský alebo ktorý byť ležérne prehodený cez niečo
+3.500	rám cez okno a dvere	ochranný obal pozostávajúci zo sieťovina byť možný namontovať do rám
 3.750	miera pravdepodobnosť alebo pravdepodobnosť udalosť	miera pravdepodobnosť že k nejaký udalosť dôjsť číslo vyjadrujúci pomer priaznivý prípad k celý možný počet prípad
 4.000	každý kto na niečo súdiť alebo zistiť chyba	niekto kto často zistiť chyba alebo urobiť tvrdé a nespravodlivý rozsudok
 2.200	záchrana alebo prepustenie niekto niečo	zotavenie alebo ochrana pred strata alebo nebezpečenstvo
@@ -153,11 +153,11 @@
 2.800	obmedziť mať pod kontrola odradiť zakázať	prinútiť alebo odradiť hrozba alebo akoby od on hroziť
 2.800	trčať vyčnievať vyčnievať	predĺžiť alebo premietnuť do vesmír
 4.500	konať ako hostiteľ doména	byť hostiteľ alebo pre
-2.000	ukončiť ? proces ktorý už začať	?
+2.000	ukončiť proces ktorý už začať	?
 1.000	tešiť sa mať ich rada alebo schvaľovať	cítiť sa alebo smer k zvážiť vyhodnotiť alebo zohľadniť
 2.750	na stovka	pomer vo vzťah k celka čo byť zvyčajne suma za sto
 3.750	približný atribút alebo kvalita niečo	približný definícia alebo príklad
-4.250	akt ? a kontrola majetok	stav alebo skutočnosť že byť vlastník
+4.250	akt a kontrola majetok	stav alebo skutočnosť že byť vlastník
 2.250	fyzický výbežok veľký alebo malý	prírodný vyvýšenina najmä skalnatý ktorý vyčnievať do mora
 3.500	odhadnúť alebo vypočítať číselný hodnota niečo	vyhodnotiť alebo odhadnúť povaha kvalita schopnosť rozsah alebo významnosť
 0.500	훾as큐 alebo percento celka	rola ktorý hrať osoba pri dosahovanie výsledok
@@ -169,9 +169,9 @@
 4.000	liek schopnosť organizmus brániť sa proti choroba	liek stav v ktorý môcť organizmus odolávať choroba
 3.000	vyhlásenie myšlienka vyjadrený v jazyk	krátky vyhlásenie
 3.500	plniť byť povinnosť	vykonávať povinnosť alebo zastávať úrad slúžiť v konkrétny funkcia
-3.250	vojak ktorý byť člen skupina špeciálny sila	príslušník vojenský jednotka vycvičený ako šokový jednotka na nájazd typ hit ? rúno
+3.250	vojak ktorý byť člen skupina špeciálny sila	príslušník vojenský jednotka vycvičený ako šokový jednotka na nájazd typ hit rúno
 4.000	stať sa pán premáhať dominovať	dostať sa na vrchol úspešne riešiť
-0.500	oblasť poškodený ? tkanivo na živé telo	nehoda vojenský personál v dôsledok boj
+0.500	oblasť poškodený tkanivo na živé telo	nehoda vojenský personál v dôsledok boj
 1.750	to훾i큐 sa	zmeniť smer akoby sa točiť na čap
 4.000	dvojnásobok množstvo alebo množstvo niečo	množstvo ktorý byť dvakrát veľký ako iný
 3.250	dať podnet na akcia provokovať alebo rozvíriť nabádať alebo prinútiť konať	vyprovokovať alebo rozprúdiť
@@ -186,7 +186,7 @@
 3.800	vybudovaný podzemný chodba	priechod cez niečo alebo pod niečo zvyčajne pod zem najmä ten pre vlak alebo auto
 2.250	rozoznať identifikovať alebo vedieť vďaka predchádzajúci skúsenosť	byť byť plne vedomý alebo vedomý
 3.000	presunúť alebo zmeniť vlastný pozícia alebo kvalita	hýbať sa veľmi mierne
-1.750	začleniť alebo uzavrieť jeden vec do druhá	vmiešať prísada do zmes tak že ona opakovane obracať bez miešanie alebo ?
+1.750	začleniť alebo uzavrieť jeden vec do druhá	vmiešať prísada do zmes tak že ona opakovane obracať bez miešanie alebo
 1.750	sprievodca pretiahnuť	prechádzať prechádzať alebo prechádzať
 3.400	zachrániť vykúpiť oslobodiť od ujma alebo nebezpečenstvo	zdržať sa ublíženie
 4.000	šľahať akoby bič alebo tyč	štrajkovať akoby bič
@@ -223,7 +223,7 @@
 3.667	odpovedať ústne alebo písomne na otázka komentár list alebo prejav	reagovať slovne
 3.750	mierny rez na fyzickÃ½ povrch	mierny povrchový rez najmä zárez ktorý byť vyrobený tak aby sa zhodovať
 3.250	spôsobiť aby to tak byť	spôsobiť pohyb byť v určitý poloha alebo stav
-4.000	stav uväznenie na malé priestor	čin ? sa alebo ? do alebo cez obmedzený priestor
+4.000	stav uväznenie na malé priestor	čin sa alebo do alebo cez obmedzený priestor
 4.000	uviesť alebo vysvetliť význam	uviesť definícia význam slovo
 1.250	spôsobiť pohyb zviera	venovať sa jedlo alebo šport ako divý zviera
 4.500	byť proti odolávať	konať proti alebo v rozpor s
@@ -255,7 +255,7 @@
 4.750	훾innos큐 predaj	všeobecný činnosť predaj
 4.500	rozdávať dovoliť mať	dovoli큐 ma큐
 4.750	stredný štátny škola ročník 9 12	verejný stredný škola zvyčajne vrátane ročník 9. až 12. ročník
-3.000	benjamín ? lekár a vodca americký revolúcia	lekár a vodca americký revolúcia signatár deklarácia nezávislosť 1745 1813
+3.000	benjamín lekár a vodca americký revolúcia	lekár a vodca americký revolúcia signatár deklarácia nezávislosť 1745 1813
 2.500	batožinový priestor automobil	britský výraz pre batožinový priestor v automobil
 4.500	mať monopol na plne ovládať	mať alebo využívať monopol na
 3.750	redukovať na jednoduchý molekulárny zlúčenina	redukcia ropa na jednoduchý zmes krakovanie
@@ -274,17 +274,17 @@
 4.000	veličina ktorý byť približný výpočet	približný výpočet množstvo alebo stupeň alebo hodnota
 4.000	otočiť sa na os točiť sa	zapnúť alebo okolo os alebo stred
 5.000	ponuka na sobáš	ponuka na sobáš
-3.500	pokúsiť sa získať priazeň lichotenie alebo prejav poddanosť alebo strach	ukázať ? alebo strach
+3.500	pokúsiť sa získať priazeň lichotenie alebo prejav poddanosť alebo strach	ukázať alebo strach
 4.250	verejný predloženie právny záznam	zápis právny dokument do verejný záznam
 4.000	kvetný vädnúť alebo nedokonale dozrievať ako kvet	scvrknúť alebo vädnúť alebo nedokonale dozrieť
 4.250	veriť byť staviť na	mať viera alebo dôvera v
-4.250	vzplanutie ?	začať horieť alebo vzplanúť
+4.250	vzplanutie	začať horieť alebo vzplanúť
 4.500	kognitívny proces a schopnosť pamätať	kognitívny proces vďaka ktorý sa pamätať na minulý skúsenosť
 4.000	mechanizmus ktorý riadiť hladina voda v časť kanál	uzáver pozostávajúci z časť kanál ktorý sa dať uzavrieť na kontrola hladina voda používať sa na zdvíhanie alebo spúšťanie plavidlo ktorý on prechádzať
 5.000	strašný starosť alebo starosť	ťažký alebo ťažký znepokojenie
 5.000	niekto alebo niečo čo byť agent plnenie želaný očakávanie	niekto alebo niečo na čo sa sústreďovať očakávanie
 3.333	ostrý strana predmet	ostrý strana tvorený priesečník dva povrch objekt
-2.750	razantný úder lopta	zasiahnutie vodič golfový loptička z ?
+2.750	razantný úder lopta	zasiahnutie vodič golfový loptička z
 3.500	jemný práškový materiál zvyšok niečo zničený alebo rozbitý	zvyšok niečo čo byť zničený alebo rozbitý
 2.000	hádzať sila	vysloviť sila úplne vehementne
 4.000	liečiť látka nejaký prostriedkom pridať agent do	liečiť agent pridať agent do
@@ -300,7 +300,7 @@
 3.500	spôsobiť nedôvera alebo odmietnutie poškodiť dobré meno spoločnosť	poškodiť dobré meno spoločnosť
 3.000	udeliť rovnaký právať ako volebný právo	dať rovnaký právať žena a menšina
 3.000	spôsobiť predĺženie alebo rozšírenie v čas alebo v nejaký abstraktný sféra	predĺžiť v čas spôsobiť alebo trvať dlho
-4.750	batoh zväzok na zadný strana	zväzok najmä jeden ? na zadný strana
+4.750	batoh zväzok na zadný strana	zväzok najmä jeden na zadný strana
 4.250	osoba ktorý dodávať informácia alebo tovar	osoba ktorý dopravovať prenášať alebo prenášať
 4.250	mať intuitívne porozumenie alebo ocenenie niečo	intuitívne pochopenie niečo
 5.000	dodržiavanie morálny zásada	dodržiavanie morálny zásada
@@ -327,7 +327,7 @@
 3.250	získať spätiť alebo nahradiť kvôli finančný strata	znovu získať alebo nahradiť
 4.750	duplikát zhoda	duplikát alebo zhoda
 4.250	nevýrazný hlasový artikulácia	nevýrazný artikulácia
-4.000	akt ? nie훾o pre훾	čin pôsobenie sila s cieľ niečo pohnúť
+4.000	akt nie훾o pre훾	čin pôsobenie sila s cieľ niečo pohnúť
 5.000	pohybovať alebo jazdiť razantne akoby úder	jazdiť nasilu akoby úder
 4.750	intenzívne prekvapenie často nepríjemný	nepríjemný alebo sklamanie prekvapenie
 4.250	robiť menej emocionálne nepriateľský zvíťaziť psychicky alebo emocionálne	urobiť menej nepriateľský zvíťaziť
@@ -382,26 +382,26 @@
 4.250	vložiť alebo uložiť do fľaša	skladovať kvapalina alebo plyn vo fľaša
 4.000	byť znak alebo označenie mať ako význam	byť znak alebo údaj o
 4.250	akt výber výber jeden z mnohý	akt výber alebo výber
-4.250	čin vzdialenosť ? sa od	akt vzdialeniÅ¥ sa
+4.250	čin vzdialenosť sa od	akt vzdialeniÅ¥ sa
 3.750	vziať do manželstvo vykonať svadobný obrad	vzia큐 do man탑elstvo
 4.500	ako spôsob pohyb môcť preskakovať skákať alebo sa pohybovať hora a dol alebo do strana	preskakovať skákať alebo sa pohybovať hora a dol alebo do strana
 3.250	vojenský opevnenie pevnosť	pevnosť
 3.250	módny elita daný komunita	módny elita
 4.500	charakteristický volanie zviera	charakteristický výrok zviera
-4.500	urobiť alebo stať sa ? alebo intenzívny	urobiť intenzívne silne alebo výrazne
+4.500	urobiť alebo stať sa alebo intenzívny	urobiť intenzívne silne alebo výrazne
 4.250	cesta za nejaký účel	cesta za nejaký účel zvyčajne vrátane návrat
 4.000	falošný alebo sfalšovaný kontrola podvodný spôsob	manipulovať podvodný spôsob
-3.250	ovocie uvarený s cukor džem	ovocie ? varenie s cukor
+3.250	ovocie uvarený s cukor džem	ovocie varenie s cukor
 4.000	čin vedenie alebo vedenie iný	훾innos큐 vedenie
-4.250	povlak používaný ako ? vlhkosť	na vylúčenie vlhkosť sa použiť vrchný náter
+4.250	povlak používaný ako vlhkosť	na vylúčenie vlhkosť sa použiť vrchný náter
 4.250	človek ktorý čistiť komín	niekto kto čistiť sadza z komín
 3.500	intenzívne svietiť vyžarovať rovnomerný svetlo zo zdroj	vyžarovať rovnomerný rovnomerný svetlo bez plameň
 3.500	správať sa určitý spôsob mať konkrétny účinok alebo výsledok	správať sa určitý spôsob
-4.500	komunikovať so ?	vyjadriť alebo vysloviť so ?
-3.750	mužský včela ktorý funkcia byť oplodniť kráľovná	neostré ? včela v kolónia spoločenský včela najmä včela medonosný ktorý jediný funkcia byť ? sa s kráľovná
+4.500	komunikovať so	vyjadriť alebo vysloviť so
+3.750	mužský včela ktorý funkcia byť oplodniť kráľovná	neostré včela v kolónia spoločenský včela najmä včela medonosný ktorý jediný funkcia byť sa s kráľovná
 3.750	športový zápas box	zápas v box alebo zápas
 4.500	spôsobiť reprodukcia rastlina alebo zviera	spôsobiť potomstvo zviera
-4.750	pocit mrzutosť z dôvod brzdenie alebo ?	pocit mrzutosť z dôvod prekážka alebo kritika
+4.750	pocit mrzutosť z dôvod brzdenie alebo	pocit mrzutosť z dôvod prekážka alebo kritika
 4.250	pohybovať sa po koliesko	pohybovať sa pozdĺž alebo akoby na koleso alebo na kolesový vozidlo
 3.750	zabezpečiť nový alebo iný miesto odpočinok	zabezpečiť nový sedadlo
 4.500	činnosť ťažba ruda alebo iný látka zo zem	čin ťažba ruda alebo uhlie atď. zo zem
@@ -416,14 +416,14 @@
 3.750	pohladenie pera	akt maznanie s pera alebo jeho príklad
 3.500	zabezpečiť koľajnica ako položenie	ležať s koľajnica
 4.500	tesný prístup jeden objekt k druhý	pohyb jeden objekt vo vzťah k druhý
-4.000	pomoc ? nástroj urobiť otvor	urobiť otvor najmä špicatý elektrický alebo ručný nástroj
+4.000	pomoc nástroj urobiť otvor	urobiť otvor najmä špicatý elektrický alebo ručný nástroj
 4.000	opraviť niečo stará s nový časť vylepšiť	kus niečo stará s nový časť
 4.250	čin niečo poškodiť a spôsobiť rozbitie	akt nie훾o rozbi큐
 3.750	úroveň terén viacpodlažný budova	poschodie budova ktorý byť na alebo blízko k úroveň terén okolo budova
 2.250	kvantita niečo	množstvo peniaze
 3.000	veľký izba	veľký miestnosť kaštieľ alebo hrad
 4.500	vynechať vynechať zabrániť vstup	zabrániť vstup držať sa ďalej
-4.000	spýtavo ?	spýtavo čuchať alebo čuchať
+4.000	spýtavo	spýtavo čuchať alebo čuchať
 4.750	poskytnúť ubytovanie pre	zabezpečiť bývanie pre
 4.750	zmeniť účel alebo fungovanie systém	zmeniť inherentný účel alebo funkcia niečo
 4.667	poskytnúť nástroj alebo predmet na konkrétny účel	poskytnúť niečo zvyčajne na konkrétny účel
@@ -449,7 +449,7 @@
 4.000	miestne oznámenie urobený v rámec verejnoprávny vysielanie	vysielanie miestne oznámenie vložený do sieťový program
 4.000	robiť skutočný alebo konkrétne	niečo čo byť skutočný alebo konkrétne
 4.000	zvuk ostré alebo prenikavý akoby bodavý	zvuk prudko alebo prenikavo
-4.000	čin úradný získanie vstup niekam	akt ? niekto na vstup
+4.000	čin úradný získanie vstup niekam	akt niekto na vstup
 4.000	tráviť čas vo väzenie	tráviť čas vo väzenie alebo v pracovný tábor
 4.750	držať obsahovať vnútri	obsahovať alebo zadržať mať vo vnútri
 4.750	akt ústny informovanie	akt informovanie ústny správa
@@ -462,7 +462,7 @@
 5.000	zničenie loď	zničiť loď
 3.500	ľudský čin výroba niečo nový	akt prvý založenie niečo predstavovať niečo nový
 4.500	jazda na bicykel alebo motorka	jazdiť na motorka
-5.000	hlavná činnosť ktorý sa človek zaoberať ? peniaze	hlavná činnosť vo váš život ktorý sa zaoberať ? peniaze
+5.000	hlavná činnosť ktorý sa človek zaoberať peniaze	hlavná činnosť vo váš život ktorý sa zaoberať peniaze
 4.750	udržiavať alebo zachovávať konkrétny stav stav alebo činnosť	pokračovať v určitý stav stav alebo činnosť
 3.750	hovorený alebo písomný odpoveď na otázka	vyhlásenie ústne alebo písomný ktorý sa urobiť ako odpoveď na otázka alebo žiadosť alebo kritika alebo obvinenie
 5.000	výbor s dozorný právomoc	výbor s dozorný právomoc
@@ -475,15 +475,15 @@
 3.500	formálne oznámiť ukončenie dohoda	oznamovať ukončenie zmluva
 4.000	rýchlo biť alebo búšiť	spôsobiť rýchle pulzovanúť alebo porážka
 4.000	na povrch urobiť čiara alebo značka skopírovať podľa riadok z	urobiť na povrch značka alebo čiara
-3.750	recitovať ako spev ?	recitovať s hudobný intonácia recitovať ako spev alebo žalm
+3.750	recitovať ako spev	recitovať s hudobný intonácia recitovať ako spev alebo žalm
 4.000	schopnosť počítač vymieňať byť medza on digitálne informácia a využívať ich	informatik schopnosť vymieňať byť a využívať informácia zvyčajne vo veľký heterogénny sieť zložený z niekoľký lokálny sieť
 4.500	akt pôsobenie sila	akt náhly pôsobenie sila
-5.000	proces ? alebo ?	proces ? alebo skracovanie
+5.000	proces alebo	proces alebo skracovanie
 4.250	veliť vykonávať autorita alebo kontrola nad	vykonávať autoritatívny kontrola alebo moc nad
 4.250	byť činiteľ alebo v niečo hrať rola	byť alebo hrať súčasť alebo v
 4.500	rozloha zem	rozšírený plocha pozemok
 3.500	posunúť náradie kruhový pohyb premiešať	presunúť stroj cez
-3.750	pozbaviť odvaha nádej alebo optimizmus	pozbavený odvaha alebo nádej odniesť nádej spôsobiť pocit ?
+3.750	pozbaviť odvaha nádej alebo optimizmus	pozbavený odvaha alebo nádej odniesť nádej spôsobiť pocit
 2.750	ozbrojený sila	sila ktorý byť zložka ozbrojený sila
 2.750	zariadiť kovový ostroha	vybaviť nosník
 3.250	z látka odstrániť voda	odstrániť voda z
@@ -496,7 +496,7 @@
 3.500	ústny alebo písomný žiadosť o prístup k niečo	ústny alebo písomný žiadosť o pomoc alebo zamestnanie alebo prijatie do škola
 4.750	mať logický výsledok	mať logický dôsledok
 4.750	cestovať pešo	kríž pešo
-4.500	akt ?	akt ?
+4.500	akt	akt
 4.250	kožený pás alebo povraz vyrobený na identifikácia zviera	pás koža alebo povraz ktorý byť umiestnený okolo krk zviera ako postroj alebo na jeho identifikácia
 4.750	nasadiť byť postroj	dať postroj
 4.750	zabezpečiť alebo konkrétne vybaviť nábytok	zabezpečiť alebo vybaviť nábytok
@@ -516,9 +516,9 @@
 5.000	otvorený pre príslušník všetok rasa a etnický skupina	otvorený miesto príslušník všetok rasa a etnický skupina
 5.000	rozdrviť alebo rozdrviť na malá kúsok	rozdrvenie alebo obrúsenie rozdrobiť na malá kúsok alebo častica
 4.000	trafiť mucha bejzbal	trafiť mucha
-3.750	rybolov výfuk umožňujúci ? za vlasec	výfuk povolenie potiahnutie za vlasec
+3.750	rybolov výfuk umožňujúci za vlasec	výfuk povolenie potiahnutie za vlasec
 3.750	byť alebo prísť do konflikt	byť nekompatibilný byť alebo prísť do konflikt
-3.250	produkovaÅ¥ ? kliknutie	vytvoriť kliknutie
+3.250	produkovaÅ¥ kliknutie	vytvoriť kliknutie
 5.000	uhnúť s háčik a vlasec a pretiahnuť cez voda	uhnúť s háčik a čiara vedený cez voda
 5.000	predný čelo budova	tvár alebo predný časť budova
 5.000	vyrobiť niečo rozmanito alebo rozmanito	vyrobiť niečo rozmanito a rozmanito
@@ -573,10 +573,10 @@
 4.750	vytvoriť špirála alebo sa pohybovať v špirála	pohybovať sa špirálový alebo cikcakový kurz
 4.250	pocit averzia nechuÅ¥ antipatia	pocit averzia alebo antipatia
 4.000	uvoľňovanie plyn alebo energia v dôsledok chemicky reakcia alebo fyzikálny rozklad možno v metaforický zmysel	uvoľňovanie plyn alebo energia v dôsledok chemicky reakcia alebo fyzikálny rozklad
-4.000	prekonaný úžas ?	prekonaný úžas
+4.000	prekonaný úžas	prekonaný úžas
 3.750	správať sa povýšenecky	správať sa povýšenecky a blahosklonne
 4.000	vziať do svoj rodina alebo skupina	vziať do svoj rodina
-5.000	prepojenie kontrakt sa vysoký ponuka stan nastavenie zmluva v počet trik ktorý musieť uchádzač vykonať	? ? sa vysoký ponuka stan zmluva ? počet trik ktorý musieť uchádzač vykonať
+5.000	prepojenie kontrakt sa vysoký ponuka stan nastavenie zmluva v počet trik ktorý musieť uchádzač vykonať	sa vysoký ponuka stan zmluva počet trik ktorý musieť uchádzač vykonať
 5.000	ísť na kampaň alebo do vojna	ísť do kampaň ísť do vojna
 4.250	reagovať alebo reagovať na volanie príkaz alebo podnet	reagovať na podnet alebo príkaz
 5.000	doslova zvuk s rezonancia	zvuk s rezonancia
@@ -593,7 +593,7 @@
 4.250	silne štrajkovať najmä päsť alebo náradie	silno udrieť najmä päsť alebo netopier
 4.750	budiť vnímavý alebo ochotný k akcia alebo viera	byť vnímavý alebo ochotný k akcia postoj alebo viera
 5.000	znova otvor znovu otvor	otvoriÅ¥ znovu alebo znovu
-4.000	koncepčný formulácia spôsob ? niečo	spôsob ? niečo
+4.000	koncepčný formulácia spôsob niečo	spôsob niečo
 5.000	pred opracovanie kov rozpáliť	pred opracovanie kov zahriať
 4.500	cítiť silný potreba jesť	cítiť potreba jesť
 3.667	byť v priamy fyzický kontakt s	byť v priamy fyzický kontakt s nadviazať kontakt
@@ -612,9 +612,9 @@
 5.000	medicína naniesť sadrový odliatok na	naniesť sadrový odliatok na
 5.000	zasahovať do činnosť niekto iný	zasahovať do činnosť niekto iný
 5.000	priradiť udalosť nový čas	prideliť nový čas a miesto udalosť
-4.750	hodnota ? ten čo sa musieť dať alebo urobiť aby sa niečo získať	hodnota ? ten čo sa musieť dať urobiť alebo podstúpiť aby sa niečo získať
+4.750	hodnota ten čo sa musieť dať alebo urobiť aby sa niečo získať	hodnota ten čo sa musieť dať urobiť alebo podstúpiť aby sa niečo získať
 4.500	dotknúť sa alebo sa držať ruka	sa dotknúť zdvihnúť alebo držať ruka
-5.000	zoškrabať alebo rozotrieť aby byť zmierniť ?	zoškrabať alebo rozotrieť akoby byť chcieť zmierniť ?
+5.000	zoškrabať alebo rozotrieť aby byť zmierniť	zoškrabať alebo rozotrieť akoby byť chcieť zmierniť
 4.750	podrobne vysvetliť	rozprávať alebo podrobne vysvetliť
 5.000	akýkoľvek činnosť ktorý byť získať pozornosť človek	akýkoľvek činnosť ktorý zaujímať pozornosť človek
 5.000	spôsobiť prebudenie alebo bdelosť	spôsobiť prebudenie alebo vedomie
@@ -655,9 +655,9 @@
 4.000	naznačiť pohŕdanie hlučný a energický dýchanie sprava	pohŕdanie naznačiť hlučný a razantný dýchanie nos
 5.000	uvedomiť byť prostredníctvo zmysel	uvedomiť byť prostredníctvo zmysel
 4.500	byť v streh alebo energický	byť ostražitý a energický
-4.500	odstrániť vymazanie alebo prečiarknutie akoby nakreslenie čiara	odstrániť vymazanie alebo ? alebo akoby nakreslenie čiara
+4.500	odstrániť vymazanie alebo prečiarknutie akoby nakreslenie čiara	odstrániť vymazanie alebo alebo akoby nakreslenie čiara
 5.000	pomaly povariť dlho v tekutina	pomaly a dlho variť v tekutina
-3.750	teplota pri ktorý tekutina vrieť ?	teplota pri ktorý kvapalina vrieť na úroveň mora
+3.750	teplota pri ktorý tekutina vrieť	teplota pri ktorý kvapalina vrieť na úroveň mora
 3.750	vytvoriť mapa ukázať alebo ustanoviť vlastnosť alebo podrobnosť preskúmať alebo vykonať prieskum na účel vytvorenie mapa	vytvoriť mapa ukázať alebo ustanoviť vlastnosť podrobnosť o
 5.000	sociálny sila ktorý spájať jeden s postup požadovaný táto sila	sociálny sila ktorý vy spájať s postup požadovaný táto sila
 4.250	vyhýbať sa plnenie odpovedanie alebo vystupovanie alebo sa on vyhýbať	vyhýbať sa alebo sa snažiť vyhýbať plnenie odpovedanie alebo plnenie povinnosť otázka alebo problém
@@ -672,7 +672,7 @@
 4.250	vybaviť poistka	vybavi큐 poistka vybavi큐 poistka
 4.750	koniec americký revolúcia	úspešný ukončenie americký revolúcia
 5.000	matematik malý celá číslo alebo číslica predstavujúci toto číslo	malý celá číslo alebo číslica predstavujúci toto číslo
-4.500	? alebo náročný faktor situácia	náročný alebo podnetný situácia
+4.500	alebo náročný faktor situácia	náročný alebo podnetný situácia
 4.500	fyzický časť celý prírodný objekt alebo jeho časť ktorý sa zhromaždiť a uchovať ako príklad svoj trieda alebo súčet	celý prírodný objekt alebo jeho časť ktorý byť zhromaždený a uchovaný ako príklad jeho trieda
 5.000	zosilniť elektrónový prúd tak že spôsobiť že časť výkon vo výstupný obvod byť pôsobiť na vstupný obvod	zosilniť elektrónový prúd tak že spôsobiť že časť výkon vo výstupný obvod byť pôsobiť na vstupný obvod
 3.250	človek vysloviť slovo nahlas a rázne	vyslovovať slovo nahlas a rázne
@@ -693,7 +693,7 @@
 5.000	teológia čin vyslobodenie z hriech alebo záchrana pred zlo	teológia čin vyslobodenie z hriech alebo záchrana pred zlo
 4.250	vyhlásiť alebo urobiť nevhodný alebo nevhodný	urobiť nevhodný alebo nevhodný
 4.000	variť na horúci povrch s tuk uvariť na olej	variť na horúci povrch s tuk
-4.500	zlepšiť ? alebo leštenie	vylepšiť alebo zdokonaliť ? alebo leštenie
+4.500	zlepšiť alebo leštenie	vylepšiť alebo zdokonaliť alebo leštenie
 4.500	oblasť ktorý byť centrálny v rámec nejaký veľký región	oblasť ktorý byť približne v stred nejaký veľký región
 5.000	začať náhle akoby od strach	začať náhle ako od strach
 3.750	budiť veľký čo do počet množstvo moc postavenie alebo dôležitosť bez ten aby byť osobne mať zvrchovaný moc	byť veľký čo do počet množstvo výkon stav alebo dôležitosť
@@ -705,18 +705,18 @@
 4.250	jazdiť nadmerný alebo nezákonný rýchlosť	cestovať nadmerný alebo nezákonný rýchlosť
 5.000	vojenský jednotka vzdušný sila malý ako letka	jednotka letectvo malý ako letka
 4.500	čin dať niekto práca niekto zamestnať	čin dať niekto práca
-3.500	akt ? niekto alebo niečo	čin ? alebo ? niekto
-4.000	znížiť sa ponoriť sa alebo sa usadiť z tlak alebo strata ? menej intenzívne	ovisnúť klesnúť alebo sa usadiť z tlak alebo strata napätie
+3.500	akt niekto alebo niečo	čin alebo niekto
+4.000	znížiť sa ponoriť sa alebo sa usadiť z tlak alebo strata menej intenzívne	ovisnúť klesnúť alebo sa usadiť z tlak alebo strata napätie
 5.000	citovať ako orgán uchýliť sa ako v argument	uviesť ako orgán uchýliť sa k
 4.500	prideliť alebo venovať vyčleniť alebo oddeliť na konkrétny účel alebo použitie	vyčleniť alebo oddeliť na konkrétny účel alebo použitie
-5.000	výroba komponent improvizačný spôsob	zložiť zo zložka často ? spôsob
+5.000	výroba komponent improvizačný spôsob	zložiť zo zložka často spôsob
 4.250	skúšať učiť sa opakovanie	učiť sa opakovanie
 5.000	mať v úmysel niečo smerovať k určitý cieľ	zamýšľať niečo smerovať k určitý cieľ
 4.600	zaregistrovať sa formálne ako účastník	zaregistrovať sa formálne ako účastník alebo člen
 5.000	písať akoby s tlač nie kurzíva	písať akoby s potlač nie kurzíva
 4.400	zostreliť vták	zostreliť vták
 5.000	menovať do administratívny funkcia	menovať do duchovná funkcia
-4.750	chémia podstúpiť ? vytvorenie stabilný zlúčenina s ión	podstúpiť ? vytvorenie stabilný zlúčenina s ión
+4.750	chémia podstúpiť vytvorenie stabilný zlúčenina s ión	podstúpiť vytvorenie stabilný zlúčenina s ión
 5.000	vybaviť on otvor ktorý umožňovať cirkulácia vzduch alebo únik plyn	vybaviť otvor ktorý umožniť cirkulácia vzduch alebo únik plyn
 5.000	postaviť sa so zdvihnutý ruka alebo predný končatina ktorý byť hrozivý	stáť so zdvihnutý ruka alebo predný končatina akoby byť hrozivý
 5.000	účtovný obdobie 12 mesiac	akýkoľvek účtovný obdobie 12 mesiac
@@ -729,22 +729,22 @@
 5.000	cestovanie urobiť prehliadka miesto	urobiť prehliadka určitý miesto
 4.750	politický šéf vláda mesto	vedúci mestský správa
 3.250	prenies큐 jazyk vzia큐 s jazyk	zaberaÅ¥ jazyk
-5.000	mesto na rieka Temža v ? v južný Anglicko	mesto na rieka Temža v ? v južný Anglicko
-4.750	graf alebo mapa zobrazujúci rozmer pohyb alebo pokrok v niečo	mapa alebo mapa ? pohyb alebo postup objekt
+5.000	mesto na rieka Temža v v južný Anglicko	mesto na rieka Temža v v južný Anglicko
+4.750	graf alebo mapa zobrazujúci rozmer pohyb alebo pokrok v niečo	mapa alebo mapa pohyb alebo postup objekt
 4.750	odniesť byť životne dôležitý alebo podstatný súčasť niečo	odniesť životne dôležitý alebo podstatný súčasť
 4.250	nedokonalosť nedostatočná alebo nedostatočná kvalita	kvalita nedostatočná alebo nedostatočná dokonalosť
 4.750	pohladkať alebo stlačiť najmä pod brada	potľapkať alebo stlačiť láskavo alebo hravo najmä pod brada
 4.750	vymyslieť niečo vymyslený alebo nepravdivý	vymyslieť niečo umelý alebo nepravdivý
 4.250	akt prehltnutie tekutina	akt prehltnutie
 4.500	mať nezákonný sex s prostitútka	mať nezákonný sex s kurva
-4.000	otočiť ? alebo krútenúť oddeliť spleť	zvrátiť ? alebo krútenúť
+4.000	otočiť alebo krútenúť oddeliť spleť	zvrátiť alebo krútenúť
 4.500	odplata alebo kompenzácia niekto pokiaľ ísť o strata alebo obeta	uhradiť alebo nahradiť niekto škoda
 3.250	naostriť žiletka remienok	nabrúsiť remienok
 4.500	dlhý telegrafický signál Morseová abeceda	dlhý z dva telegrafický signál použitý v morzeovka
 4.250	časť telo medza krk a nadlaktie alebo niektorý z jeho častý	časť telo medza krk a nadlaktie
 4.500	dážď krupobitie alebo silný sneženie a veľmi veterno často hrom a blesk silno fúkať	dážď krupobitie alebo silný sneženie a veľmi veterno často s hrom alebo blesk
 4.250	naplniť dobrý nálada	naplniť vysoká nálada naplniť optimizmus
-3.500	uvoľnenie tlak vytvorený počas ? spoluhláska	konečná vynútený uvoľnenie tlak vytvorený počas ? fáza ? spoluhláska
+3.500	uvoľnenie tlak vytvorený počas spoluhláska	konečná vynútený uvoľnenie tlak vytvorený počas fáza spoluhláska
 4.500	spôsobovať pokles kvapka	nechať alebo nechať padať po kvapka
 5.000	status šampión	status šampión
 3.750	výhoda čerpať z využiť	čerpať výhoda z

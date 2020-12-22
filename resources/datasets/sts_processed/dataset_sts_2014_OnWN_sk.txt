@@ -1,58 +1,58 @@
 4	činnosť učenia alebo školenia	postupný proces získavania vedomostí.
 3.8	tenké kovové pásy používané pri sadzbe	tenký kovový pásik používaný na oddeľovanie riadkov písma v tlači.
-4.2	sokol: opustiť zamýšľanú hru a prenasledovať menšiu korisť	opustiť zamýšľanú korisť, otočiť sa a prenasledovať podradnú korisť.
+4.2	sokol: opustiť zamýšľanú hru a prenasledovať menšiu korisť	opustiť zamýšľanú korisť otočiť sa a prenasledovať podradnú korisť.
 1.8	akt určenia roly niekomu	akt označenia alebo identifikácie niečoho.
 4	urobte čistý alebo slobodný od hriechu	urobte čistý alebo slobodný od hriechu alebo viny.
 4	nechať späť alebo vynechať	niečo neurobiť; nechať niečo nezrušené.
 3.6	sociálna sada alebo klika priateľov	neoficiálne združenie ľudí alebo skupín.
-4.4	Horná časť stĺpika.	horná časť stĺpa, ktorý podopiera kladie.
+4.4	Horná časť stĺpika.	horná časť stĺpa ktorý podopiera kladie.
 3	klesnúť na nižšiu úroveň; zostúpiť	klesnúť na nižšiu úroveň alebo vytvoriť depresiu.
-4.6	vytvárať kód alebo počítačové programy	vytvorte kód, napíšte počítačový program.
-3.2	oslobodenie od uväznenia, povinnosti alebo bremena	udeliť úľavu alebo výnimku z pravidla alebo požiadavky.
+4.6	vytvárať kód alebo počítačové programy	vytvorte kód napíšte počítačový program.
+3.2	oslobodenie od uväznenia povinnosti alebo bremena	udeliť úľavu alebo výnimku z pravidla alebo požiadavky.
 4.4	(Príčina) zhoršuje dobré meno a povesť spoločnosti.	účtovať falošne alebo so zlým úmyslom; útočiť na dobré meno a povesť niekoho.
-3.4	spoločnosť, ktorá poskytuje komodity verejnej služby	spoločnosť, ktorá vykonáva verejnú službu; podlieha nariadeniu vlády.
+3.4	spoločnosť ktorá poskytuje komodity verejnej služby	spoločnosť ktorá vykonáva verejnú službu; podlieha nariadeniu vlády.
 4.4	Fyzicky sa rozšíriť alebo rozšíriť smerom von od stredu alebo zaostriť alebo dovnútra smerom k stredu; fyzicky sa šíri z východiskového bodu.	predĺžiť alebo rozšíriť smerom von od stredu alebo zaostriť alebo dovnútra smerom k stredu.
 5	Distribuujte systematicky alebo strategicky; zasvätiť.	distribuovať systematicky alebo strategicky.
-3.6	vytvoriť niečo v mysli	utvárať mentálny obraz niečoho, čo nie je prítomné alebo tomu tak nie je.
+3.6	vytvoriť niečo v mysli	utvárať mentálny obraz niečoho čo nie je prítomné alebo tomu tak nie je.
 4.8	(spôsobiť) stať sa menej jasným alebo nevýrazným	aby boli menej zreteľné alebo jasné.
-3.8	oslobodené od bremena, cla alebo požiadavky	bez bremena, zla alebo utrpenia.
+3.8	oslobodené od bremena cla alebo požiadavky	bez bremena zla alebo utrpenia.
 4.2	rovná cesta alebo závodná dráha	priamy úsek dostihovej dráhy.
 4.2	(spôsobiť) krátke vyžarovanie svetla	vydať krátky záblesk svetla.
-3.2	natiahnite sa na maximum, čo môže spôsobiť stres alebo zranenie	meniť tvar (niečoho) stresom.
+3.2	natiahnite sa na maximum čo môže spôsobiť stres alebo zranenie	meniť tvar (niečoho) stresom.
 4.4	pohybovať sa v skupine alebo v stáde	pohybovať ako dav alebo v skupine.
-4.8	dočasné vylúčenie, odvolanie privilégia	dočasné vylúčenie (z privilégia alebo postavenia atď.)
+4.8	dočasné vylúčenie odvolanie privilégia	dočasné vylúčenie (z privilégia alebo postavenia atď.)
 4.8	Nedokonalosť; nedostatočná alebo nedostatočná kvalita.	kvalita nedostatočnej alebo nedostatočnej dokonalosti.
 4.6	vyčistiť hlien z krku	vyčistiť hlien alebo jedlo z hrdla.
-3.6	konzervovať, udržiavať v bezpečí, šetrne používať	uchovávajte v bezpečí a chráňte pred poškodením, rozpadom, stratou alebo zničením.
-4.6	adresa používaná na poštovú komunikáciu	adresa, na ktorej je možné komunikovať s osobou alebo organizáciou.
-4	Organizácia, ktorá sponzoruje veľké verejné podujatie	akákoľvek organizácia, ktorá poskytuje zdroje a vybavenie pre určitú funkciu alebo udalosť.
+3.6	konzervovať udržiavať v bezpečí šetrne používať	uchovávajte v bezpečí a chráňte pred poškodením rozpadom stratou alebo zničením.
+4.6	adresa používaná na poštovú komunikáciu	adresa na ktorej je možné komunikovať s osobou alebo organizáciou.
+4	Organizácia ktorá sponzoruje veľké verejné podujatie	akákoľvek organizácia ktorá poskytuje zdroje a vybavenie pre určitú funkciu alebo udalosť.
 4.2	legálne schváliť alebo ratifikovať osobu na pozíciu	podporovať človeka na danom mieste.
 5	Pokúste sa vyliečiť chorobu alebo úraz osobitnou starostlivosťou alebo liečbou; zaobchádzajte opatrne.	pokúste sa vyliečiť chorobu alebo úraz špeciálnou starostlivosťou o ošetrenie.
 1.4	čokoľvek vo forme tenkého prúžku	dlhé tenké náradie pripomínajúce dĺžku dreva.
-4	riadiaca zložka gramatickej zložky	(gramatika) slovo v gramatickej zložke, ktoré hrá rovnakú gramatickú úlohu ako celá zložka.
+4	riadiaca zložka gramatickej zložky	(gramatika) slovo v gramatickej zložke ktoré hrá rovnakú gramatickú úlohu ako celá zložka.
 3.6	dosiahnuť cieľ alebo cieľ	dosiahnuť cieľ; prísť pohybom alebo pokrokom.
-4.5	Kvetne, vädne alebo nedokonale dozrieva ako kvet.	scvrknúť alebo vädnúť alebo nedokonale dozrieť.
-4.8	Rozdeľte sa, prestaňte alebo prerušte vzťah s (niečím).	časť; ukončiť alebo prerušiť spoluprácu s.
-3.6	tágo poskytnuté niekomu za pomoc	narážka poskytnutá interpretovi (zvyčajne začiatok nasledujúceho riadku, ktorý sa má rozprávať).
-1.6	robiť bežnejšie, jednotnejšie alebo všeobecnejšie	čerpať z konkrétnych prípadov pre všeobecnejšie prípady.
-4.8	(spôsobiť) prasknutie alebo otvorenie, zvyčajne s ostrým zvukom	praskla s ostrým, výbušným zvukom.
-3.4	Urobte (nenáležité) nároky na vlastníctvo.	neoprávnene tvrdiť, že máte.
+4.5	Kvetne vädne alebo nedokonale dozrieva ako kvet.	scvrknúť alebo vädnúť alebo nedokonale dozrieť.
+4.8	Rozdeľte sa prestaňte alebo prerušte vzťah s (niečím).	časť; ukončiť alebo prerušiť spoluprácu s.
+3.6	tágo poskytnuté niekomu za pomoc	narážka poskytnutá interpretovi (zvyčajne začiatok nasledujúceho riadku ktorý sa má rozprávať).
+1.6	robiť bežnejšie jednotnejšie alebo všeobecnejšie	čerpať z konkrétnych prípadov pre všeobecnejšie prípady.
+4.8	(spôsobiť) prasknutie alebo otvorenie zvyčajne s ostrým zvukom	praskla s ostrým výbušným zvukom.
+3.4	Urobte (nenáležité) nároky na vlastníctvo.	neoprávnene tvrdiť že máte.
 4.8	politický šéf vlády mesta	vedúci mestskej správy.
 4.2	spôsobiť ticho	stíš sa alebo stíš; stíchni.
 4	Viac skokom alebo preskočením dopredu.	posuňte sa vpred míľovými krokmi.
 4.4	vzdať sa práva alebo držby inému	vzdať sa alebo súhlasiť s vzdaním sa moci alebo držby iného.
-4.6	logické dôsledky, možno vyvodiť	logickým dôsledkom; postupujte logicky.
+4.6	logické dôsledky možno vyvodiť	logickým dôsledkom; postupujte logicky.
 5	udalosť postupného miznutia z dohľadu	udalosť vyblednutia a postupného zmiznutia z dohľadu.
-4	cítiť znepokojený, znepokojený, znepokojený alebo sa obávať	mať strach alebo sa obávať možnej alebo pravdepodobnej situácie alebo udalosti.
+4	cítiť znepokojený znepokojený znepokojený alebo sa obávať	mať strach alebo sa obávať možnej alebo pravdepodobnej situácie alebo udalosti.
 3.8	cestovať dovnútra alebo byť tvarovaný ako cikcak	cestujte po kľukatej ceste.
 5	vytvoriť neporiadok alebo neporiadok	urobiť neporiadok alebo vytvoriť neporiadok v.
 5	stav zamestnania	stav zamestnania alebo zamestnania.
 4.8	súsošie človeka alebo zvieraťa	plastika predstavujúca človeka alebo zviera.
-1.75	(abstrakt) charakterizovať, pripomínať, ozvláštniť (alebo rešpektovať)	byť charakteristickým znakom, atribútom alebo vlastnosťou; niekedy vo veľmi pozitívnom zmysle.
+1.75	(abstrakt) charakterizovať pripomínať ozvláštniť (alebo rešpektovať)	byť charakteristickým znakom atribútom alebo vlastnosťou; niekedy vo veľmi pozitívnom zmysle.
 4	jazdu alebo jazdu cez vozidlo	cestovať alebo byť prepravovaný vo vozidle.
-4.2	(spôsobí) pokles alebo pokles na nižšie miesto, úroveň alebo hodnotu	spadnúť alebo zostúpiť na nižšie miesto alebo úroveň.
+4.2	(spôsobí) pokles alebo pokles na nižšie miesto úroveň alebo hodnotu	spadnúť alebo zostúpiť na nižšie miesto alebo úroveň.
 4	schopnosť vybaviť si veci	schopnosť vybaviť si minulé udalosti.
-3.4	Animovaný agent vydáva zvuk s pľuvaním, akoby v móde.	vysloviť s pľuvajúcim zvukom, akoby v zúrivosti.
+3.4	Animovaný agent vydáva zvuk s pľuvaním akoby v móde.	vysloviť s pľuvajúcim zvukom akoby v zúrivosti.
 3.2	hluk niečoho klepajúceho o povrch	zvuk klepania (napríklad na dvere alebo do motora alebo ložiska).
 2.6	Požiadajte a získajte niečo zadarmo.	požiadať a získať zadarmo; byť parazitom.
 1.6	všeobecný stav spoľahlivosti systému alebo stroja	všeobecný stav tela a mysle.
@@ -60,31 +60,31 @@
 4.4	zvýšenie stávok alebo stávky v hre o faktor 2	zvýšenie stávok v kartovej hre o faktor 2.
 3	akt odovzdania majetku	čin straty alebo odovzdania ako pokuta za chybu alebo chybu alebo zlyhanie pri plnení atď.
 2.8	chrániť alebo vystupovať proti kritike alebo opozícii	chrániť alebo bojovať za šampióna.
-4	Vzťah afinity alebo harmónie medzi ľuďmi.	vzťah spriaznenosti alebo harmónie medzi ľuďmi; čokoľvek ovplyvňuje jedno, zodpovedajúcim spôsobom ovplyvňuje druhé.
-4	ušetrite na zážitku, akcii alebo ujme	zachrániť alebo uľaviť od zážitku alebo konania.
+4	Vzťah afinity alebo harmónie medzi ľuďmi.	vzťah spriaznenosti alebo harmónie medzi ľuďmi; čokoľvek ovplyvňuje jedno zodpovedajúcim spôsobom ovplyvňuje druhé.
+4	ušetrite na zážitku akcii alebo ujme	zachrániť alebo uľaviť od zážitku alebo konania.
 4.8	ísť okolo okraja	beh okolo okraja.
-0.8	prijať (psychicky alebo fyzicky)	vezmite (plyn, svetlo alebo teplo) do roztoku.
-4.2	oddeliť (akoby) preosievaním cez sito	oddeliť prechodom cez sito alebo iným napínacím zariadením, aby sa oddelili hrubšie prvky.
-5	kultivovaná rastlina, ktorá teraz rastie divoko	rastlina pôvodne kultivovaná, ktorá však teraz rastie divoko.
+0.8	prijať (psychicky alebo fyzicky)	vezmite (plyn svetlo alebo teplo) do roztoku.
+4.2	oddeliť (akoby) preosievaním cez sito	oddeliť prechodom cez sito alebo iným napínacím zariadením aby sa oddelili hrubšie prvky.
+5	kultivovaná rastlina ktorá teraz rastie divoko	rastlina pôvodne kultivovaná ktorá však teraz rastie divoko.
 5	urýchliť proces	urýchliť postup; uľahčiť.
-4.8	Predložiť dôkazy pre; prejaviť svojím správaním, prístupom alebo vonkajšími vlastnosťami; stelesniť.	poskytnúť dôkazy; stáť ako dôkaz; prejavom, správaním, postojom alebo vonkajšími vlastnosťami človeka.
-4.2	počítačový program, ktorý vykonáva podporu systému	(informatika) program určený na všeobecnú podporu procesov počítača.
-4.4	dĺžka dočasného zastavenia	časový interval, počas ktorého je niečo dočasne zastavené.
+4.8	Predložiť dôkazy pre; prejaviť svojím správaním prístupom alebo vonkajšími vlastnosťami; stelesniť.	poskytnúť dôkazy; stáť ako dôkaz; prejavom správaním postojom alebo vonkajšími vlastnosťami človeka.
+4.2	počítačový program ktorý vykonáva podporu systému	(informatika) program určený na všeobecnú podporu procesov počítača.
+4.4	dĺžka dočasného zastavenia	časový interval počas ktorého je niečo dočasne zastavené.
 3.4	rytmické tlačenie nôh v plaveckom zdvihu	rytmický tlačný pohyb nôh ako pri plávaní alebo kalistenike.
-3.8	Vytvárajte miernejšie, prijateľnejšie alebo vhodnejšie.	urobiť miernejším, prijateľnejším alebo vhodnejším pridaním niečoho iného; mierny.
+3.8	Vytvárajte miernejšie prijateľnejšie alebo vhodnejšie.	urobiť miernejším prijateľnejším alebo vhodnejším pridaním niečoho iného; mierny.
 4.6	uväzniť alebo akoby vo väzení	uväzniť akoby vo väzení.
 4.2	robiť milostné alebo sexuálne pokroky smerom k	prístup s ponukou sexuálnych služieb.
-3.75	Potlačené násilím, zastrašovaním alebo autoritou ako osoba; napraviť trestom alebo disciplínou.	napraviť trestom alebo disciplínou.
-2.8	rozbiť pevnú látku, zvyčajne na roztok	spôsobiť riešenie.
+3.75	Potlačené násilím zastrašovaním alebo autoritou ako osoba; napraviť trestom alebo disciplínou.	napraviť trestom alebo disciplínou.
+2.8	rozbiť pevnú látku zvyčajne na roztok	spôsobiť riešenie.
 4.6	Pohyb (fyzický alebo abstraktný) späť od nárazu.	pohyb späť od nárazu.
 4.6	akt niečoho použiť.	činnosť uvedenia niečoho do prevádzky.
-0.4	(spôsobiť) relax, byť v pohode, predpokladať priateľské správanie	rozmotať a zdvihnúť vlákna.
-3.2	fyzický rámec priečnych pruhov, často drevený	kostra pozostávajúca z ornamentálneho vzoru z pásov dreva alebo kovu.
+0.4	(spôsobiť) relax byť v pohode predpokladať priateľské správanie	rozmotať a zdvihnúť vlákna.
+3.2	fyzický rámec priečnych pruhov často drevený	kostra pozostávajúca z ornamentálneho vzoru z pásov dreva alebo kovu.
 3.6	podrobný výpis dlžných peňazí	podrobný výkaz peňazí dlžných za dodaný tovar alebo poskytnuté služby.
 4.6	kladne nabitá stredná časť atómu	kladne nabitý hustý stred atómu.
-3.8	Udalosť, ktorá spôsobí smrť niekoho alebo niečoho.	udalosť, ktorá spôsobí, že niekto zomrie.
+3.8	Udalosť ktorá spôsobí smrť niekoho alebo niečoho.	udalosť ktorá spôsobí že niekto zomrie.
 0.8	naznačiť rozhodnutie alebo predpoveď	vyhlásiť ako rozhodca alebo rozhodca.
-4.6	stav aktívny, rušný okolo	vlastnosť byť aktívny; sa pohybuje alebo koná rýchlo a energicky.
+4.6	stav aktívny rušný okolo	vlastnosť byť aktívny; sa pohybuje alebo koná rýchlo a energicky.
 4	spôsobiť prebudenie alebo bdelosť	byť ostražití a energickí.
 4.6	Prezrite si knihu alebo iný písomný materiál (pre informáciu).	prezrieť si knihu alebo iný písomný materiál.
 5	uzavretie oznámenia	posledná časť oznámenia.
@@ -93,174 +93,174 @@
 3.6	podať medziriadkové vysvetlenie alebo citácie textu	poskytujú medziriadkový preklad slova alebo frázy.
 3.6	Po smrti niekoho prenechajte.	odísť alebo dať po vôli po smrti človeka.
 3	vibrovať v inom vzore	vibrovať v určitom vzore.
-3.8	prinútiť, presadiť alebo na niečom trvať	prinútiť sa správať určitým spôsobom.
+3.8	prinútiť presadiť alebo na niečom trvať	prinútiť sa správať určitým spôsobom.
 0.4	nad niečím nakreslite do vzduchu kríž	precestovať alebo prejsť.
-4.2	rozdať niečo, čo nie je potrebné	vzdať sa toho, čo nie je nevyhnutne potrebné.
-4.6	(Príčina) sa stáva menej zaujímavou, atraktívnou alebo energickou.	menej zaujímavé alebo atraktívne.
+4.2	rozdať niečo čo nie je potrebné	vzdať sa toho čo nie je nevyhnutne potrebné.
+4.6	(Príčina) sa stáva menej zaujímavou atraktívnou alebo energickou.	menej zaujímavé alebo atraktívne.
 4.4	mať kvôli niečomu nezhodu alebo sa pohádať	mať kvôli niečomu nezhodu.
 1.4	vydržať alebo zažiť bolestivú udalosť	podstúpiť (úrazy a choroby).
-4	spôsob, akým niečo alebo niečo funguje alebo funguje	proces alebo spôsob fungovania alebo fungovania.
-4	udalosť, kedy sa niekto zastaví, niečo skončí	udalosť, ktorá sa končí.
+4	spôsob akým niečo alebo niečo funguje alebo funguje	proces alebo spôsob fungovania alebo fungovania.
+4	udalosť kedy sa niekto zastaví niečo skončí	udalosť ktorá sa končí.
 4.4	návrat do predchádzajúceho stavu	návrat do pôvodného stavu.
-4.6	USA, najmä počas občianskej vojny na severe	USA (najmä severné štáty počas americkej občianskej vojny).
+4.6	USA najmä počas občianskej vojny na severe	USA (najmä severné štáty počas americkej občianskej vojny).
 4	(spôsobiť) preťaženie alebo prebitie	príliš zaťažovať.
 3.4	čin nahradenia jednej veci druhou	úkon vybavenia rovnocennej osoby alebo veci namiesto iného.
-3.4	predstavte si; utvárať si o niečom mentálny obraz	vytvoriť mentálny obraz niečoho, čo je neviditeľné alebo abstraktné.
+3.4	predstavte si; utvárať si o niečom mentálny obraz	vytvoriť mentálny obraz niečoho čo je neviditeľné alebo abstraktné.
 3.4	naznačiť rozhodnutie alebo predpoveď	uviesť rozhodnutie týkajúce sa.
-5	niesť bremeno, skutočné alebo metaforické	niesť bremeno, či už skutočné alebo metaforické.
-2.8	Úradná úloha alebo záväzok, zvyčajne financovaný	akákoľvek práca, ktorá sa uskutoční alebo sa o ňu pokúsite.
+5	niesť bremeno skutočné alebo metaforické	niesť bremeno či už skutočné alebo metaforické.
+2.8	Úradná úloha alebo záväzok zvyčajne financovaný	akákoľvek práca ktorá sa uskutoční alebo sa o ňu pokúsite.
 3.2	úplná haploidná sekvencia DNA organizmu	usporiadanie génov v haploidnej sade chromozómov konkrétneho organizmu; úplná sekvencia DNA organizmu.
 4.6	pečiatka alebo reliéf s blokom	opečiatkovať alebo vyraziť názov alebo dizajn na knihu blokom.
-3.8	(liek) schopnosť organizmu brániť sa proti chorobám.	(liek) stav, v ktorom môže organizmus odolávať chorobám.
+3.8	(liek) schopnosť organizmu brániť sa proti chorobám.	(liek) stav v ktorom môže organizmus odolávať chorobám.
 5	stádo oviec alebo kôz	skupina oviec alebo kôz.
 3.8	jednotka atmosférického tlaku	(meteorológia) jednotka tlaku rovnajúca sa miliónu dynov na centimeter štvorcový.
-3	víťazná strela v tenise proti podaniu súpera	(tenis) skóre pozostávajúce z víťazstva v zápase, keď súper podával.
+3	víťazná strela v tenise proti podaniu súpera	(tenis) skóre pozostávajúce z víťazstva v zápase keď súper podával.
 4.4	posol nasadený na misiu v mene niekoho iného	niekto vyslal na misiu zastupujúcu záujmy niekoho iného.
-4.6	akt prijatia ponuky	čin brania niečoho, čo sa ponúka.
-4.8	biť alebo sa vrátiť skôr, ako sa dotkne zeme	udrieť skôr, ako sa dotkne zeme.
-3.4	bodná zbraň ako meč	sečná alebo tlačná zbraň, ktorá má dlhú kovovú čepeľ a rukoväť s chráničom ruky.
+4.6	akt prijatia ponuky	čin brania niečoho čo sa ponúka.
+4.8	biť alebo sa vrátiť skôr ako sa dotkne zeme	udrieť skôr ako sa dotkne zeme.
+3.4	bodná zbraň ako meč	sečná alebo tlačná zbraň ktorá má dlhú kovovú čepeľ a rukoväť s chráničom ruky.
 3.8	miešať alebo chovať veci rôznych odrôd alebo kvalít	množiť zvieratá alebo rastliny pomocou rodičov rôznych rás a odrôd.
-3.8	Kráčajte ťažko a pevne (ako mačka), akoby ste unavení alebo po mäkkom teréne.	choďte ťažko a pevne, akoby ste boli unavení, alebo po blate.
+3.8	Kráčajte ťažko a pevne (ako mačka) akoby ste unavení alebo po mäkkom teréne.	choďte ťažko a pevne akoby ste boli unavení alebo po blate.
 3.4	venovať nevyžiadanú sexuálnu pozornosť	venovať nevyžiadanú a zvyčajne nechcenú sexuálnu pozornosť.
 4.4	Uvoľňovanie (plyn alebo energia) v dôsledku chemickej reakcie alebo fyzikálneho rozkladu (možno v metaforickom zmysle)	uvoľňovanie (plyn alebo energia) v dôsledku chemickej reakcie alebo fyzikálneho rozkladu.
 4.8	znova zobraziť hru alebo vysielanie	zopakujte napríklad predstavenie divadelnej hry.
-1.4	obrazná pozícia vo vzťahu k iným pozíciám, ako v argumentoch	poloha daná jeho polohou na stranu objektu.
+1.4	obrazná pozícia vo vzťahu k iným pozíciám ako v argumentoch	poloha daná jeho polohou na stranu objektu.
 3	stav pod kontrolou	štát pod kontrolou alebo vládou.
 4.8	preteky vozidiel na verejných komunikáciách	automobilové preteky bežiace po verejných komunikáciách.
-5	Množstvo, ktoré môže byť obsiahnuté	množstvo, ktoré môže obsahovať.
+5	Množstvo ktoré môže byť obsiahnuté	množstvo ktoré môže obsahovať.
 4.2	podniknúť právne kroky s cieľom domáhať sa náhrady škody	začať súdne konanie proti; podať žalobu proti.
 3	presunúť sa do určitej polohy a zostať v nej	vložiť na určité miesto alebo abstraktné miesto.
-4.4	úvodný výstrel v biliarde alebo v bazéne	úvodná strela, ktorá rozptýli gule v biliarde alebo v bazéne.
-3.8	nástroj mučenia aplikovaný na chodidlá a nohy	nástroj na mučenie, ktorý sa používa na zahriatie alebo rozdrvenie nohy a nohy.
+4.4	úvodný výstrel v biliarde alebo v bazéne	úvodná strela ktorá rozptýli gule v biliarde alebo v bazéne.
+3.8	nástroj mučenia aplikovaný na chodidlá a nohy	nástroj na mučenie ktorý sa používa na zahriatie alebo rozdrvenie nohy a nohy.
 4.91666666666667	(spôsobiť) oddelenie alebo pohyb v rôznych smeroch	spôsobiť rozchod a ísť rôznymi smermi.
-3	Zavedené alebo uznané právo, formálne alebo neformálne.	neformálne právo na niečo.
-2.8	načítanie niečoho zo zdroja	čin získania alebo odtoku niečoho, ako je elektrina alebo kvapalina, zo zdroja.
-4.6	komunikovať alebo dávať najavo gestami, konaním alebo znakmi	ticho a neverbálne komunikovať signálmi alebo znakmi.
-4.8	udierajte do hornej časti lopty a tým ju rotujte vpred	úder (horná časť lopty v golfe, bejzbale alebo v bazéne), ktorá jej umožní rotáciu vpred.
-5	akt výdavkov, vyplatenie finančných prostriedkov	utratenie alebo vyplatenie peňazí.
-0	nahrávanie hudobných stôp vytvorených na nejakom médiu	priekopa pripomínajúca brázdu, ktorá bola vyrobená eróziou alebo výkopom.
-3.6	vrodená schopnosť alebo talent	schopnosť, ktorá sa môže vyvinúť.
-4.6	Urobte liberálnym alebo liberálnejším, staňte sa liberálnejšími, zvyčajne v zmysle zákonov alebo pravidiel.	liberalizovať alebo viac liberalizovať zákony a pravidlá.
-3.6	bez záväzkov, služieb alebo obmedzenia	bez záväzkov alebo povinností.
-4.6	náhle vykrútte časť tela tak, aby sa vyvrtlo	náhle sa krútiť, aby sa vyvrtlo.
-3.2	príčina alebo zdroj nátlaku, starosti	ťažkosti, ktoré spôsobujú obavy alebo emočné napätie.
-3.6	stav orgánu, ktorý riadi alebo dominuje nad okolnosťou	činnosť riadenia alebo vykonávania kontroly nad niečím.
+3	Zavedené alebo uznané právo formálne alebo neformálne.	neformálne právo na niečo.
+2.8	načítanie niečoho zo zdroja	čin získania alebo odtoku niečoho ako je elektrina alebo kvapalina zo zdroja.
+4.6	komunikovať alebo dávať najavo gestami konaním alebo znakmi	ticho a neverbálne komunikovať signálmi alebo znakmi.
+4.8	udierajte do hornej časti lopty a tým ju rotujte vpred	úder (horná časť lopty v golfe bejzbale alebo v bazéne) ktorá jej umožní rotáciu vpred.
+5	akt výdavkov vyplatenie finančných prostriedkov	utratenie alebo vyplatenie peňazí.
+0	nahrávanie hudobných stôp vytvorených na nejakom médiu	priekopa pripomínajúca brázdu ktorá bola vyrobená eróziou alebo výkopom.
+3.6	vrodená schopnosť alebo talent	schopnosť ktorá sa môže vyvinúť.
+4.6	Urobte liberálnym alebo liberálnejším staňte sa liberálnejšími zvyčajne v zmysle zákonov alebo pravidiel.	liberalizovať alebo viac liberalizovať zákony a pravidlá.
+3.6	bez záväzkov služieb alebo obmedzenia	bez záväzkov alebo povinností.
+4.6	náhle vykrútte časť tela tak aby sa vyvrtlo	náhle sa krútiť aby sa vyvrtlo.
+3.2	príčina alebo zdroj nátlaku starosti	ťažkosti ktoré spôsobujú obavy alebo emočné napätie.
+3.6	stav orgánu ktorý riadi alebo dominuje nad okolnosťou	činnosť riadenia alebo vykonávania kontroly nad niečím.
 0.6	pohybovať (akoby) znížením	prísť akoby pádom.
-4.2	Spracujte alebo zjemnite v dozvukovej peci	upravovať, spracovávať, ohrievať, taviť alebo rafinovať v dozvučnej peci.
-4.8	ekonomický výraz: zvýšiť ekonomický dopyt, rozšíriť ponuku peňazí alebo zvýšiť ceny, aby sa prejavila reflácia	ekonomika: po období deflácie zvýšiť dopyt, rozšíriť ponuku peňazí alebo zvýšiť ceny.
-3	vyčistiť, očistiť alebo dať sa vyčistiť	očistite čistiacim prostriedkom, napríklad mydlom a vodou.
-2.4	Privolajte do činnosti alebo do existencie, často akoby mágiou; požiadať o pomoc alebo ochranu.	seriózne požiadať (niečo od niekoho); požiadať o pomoc alebo ochranu.
+4.2	Spracujte alebo zjemnite v dozvukovej peci	upravovať spracovávať ohrievať taviť alebo rafinovať v dozvučnej peci.
+4.8	ekonomický výraz: zvýšiť ekonomický dopyt rozšíriť ponuku peňazí alebo zvýšiť ceny aby sa prejavila reflácia	ekonomika: po období deflácie zvýšiť dopyt rozšíriť ponuku peňazí alebo zvýšiť ceny.
+3	vyčistiť očistiť alebo dať sa vyčistiť	očistite čistiacim prostriedkom napríklad mydlom a vodou.
+2.4	Privolajte do činnosti alebo do existencie často akoby mágiou; požiadať o pomoc alebo ochranu.	seriózne požiadať (niečo od niekoho); požiadať o pomoc alebo ochranu.
 3.6	akt hodenia bejzbalu	(bejzbal) akt hodenia bejzbalu džbánom na pálku.
 4.6	Zlomte pokožku (časti tela) zoškrabaním; vplyv niečo iné.	rozdrvte pokožku (časti tela) škrabaním.
 4.8	Prideliť alebo venovať; vyčleniť alebo oddeliť na konkrétny účel alebo použitie.	vyčleniť alebo oddeliť na konkrétny účel alebo použitie.
-2.8	(pokúsiť sa) presvedčiť o registrácii, pripojení sa alebo účasti	zaregistrujte sa formálne ako účastník alebo člen.
-3.4	podať konkrétny výklad	otáčať a otáčať tak, aby poskytoval zamýšľaný výklad.
-4.4	Usporiadajte znova, ako po neúspechu; zbierať alebo komponovať.	organizovať odznova, ako po neúspechu.
+2.8	(pokúsiť sa) presvedčiť o registrácii pripojení sa alebo účasti	zaregistrujte sa formálne ako účastník alebo člen.
+3.4	podať konkrétny výklad	otáčať a otáčať tak aby poskytoval zamýšľaný výklad.
+4.4	Usporiadajte znova ako po neúspechu; zbierať alebo komponovať.	organizovať odznova ako po neúspechu.
 4.6	chytiť do pasce alebo akoby do pasce; znehybniť	chytiť alebo akoby do pasce.
 4.8	exkluzívna privilegovaná skupina ľudí	exkluzívna skupina ľudí.
-4.4	prísť do konfliktu, stretnúť sa v opozícii	byť nekompatibilné; byť alebo prísť do konfliktu.
-4.6	reagovať alebo reagovať na volanie, príkaz alebo podnet	reagovať na podnet alebo príkaz.
+4.4	prísť do konfliktu stretnúť sa v opozícii	byť nekompatibilné; byť alebo prísť do konfliktu.
+4.6	reagovať alebo reagovať na volanie príkaz alebo podnet	reagovať na podnet alebo príkaz.
 3.4	poskytnúť zvukovú stopu alebo komentár	zabezpečiť (filmy) zvukovú stopu z cudzieho jazyka.
-4.4	páka, ktorá aktivuje strelecký mechanizmus, najmä so strelnou zbraňou	páka, ktorá aktivuje strelecký mechanizmus zbrane.
+4.4	páka ktorá aktivuje strelecký mechanizmus najmä so strelnou zbraňou	páka ktorá aktivuje strelecký mechanizmus zbrane.
 4.85	Vopred; prispievať k pokroku alebo rastu.	prispievať k pokroku alebo rastu.
-0	spôsobiť niečiu pozornosť, ciele, myšlienku, aby sa otočili iným smerom	zamestnať príjemným, zábavným alebo príjemným spôsobom.
-0	Ľudský čin výroby niečoho nového.	udalosť, ktorá sa stala na začiatku niečoho.
+0	spôsobiť niečiu pozornosť ciele myšlienku aby sa otočili iným smerom	zamestnať príjemným zábavným alebo príjemným spôsobom.
+0	Ľudský čin výroby niečoho nového.	udalosť ktorá sa stala na začiatku niečoho.
 4.6	presunúť alebo zhromaždiť v úli	pohybovať sa spolu v úli alebo akoby v úli.
-4	vypláchnuť si ústa ústnou vodou, kloktať	vypláchnite si ústa a hrdlo ústnou vodou.
+4	vypláchnuť si ústa ústnou vodou kloktať	vypláchnite si ústa a hrdlo ústnou vodou.
 4.6	Zabezpečte alebo konkrétne vybavte nábytkom.	zabezpečiť alebo vybaviť nábytkom.
 2	Vyrobte alebo vytvorte niečo pre konkrétnu funkciu.	zložiť zo zložiek (často improvizujúcim spôsobom).
-4.8	najnižší plat zamestnanca povolený zákonom	najnižšia mzda, ktorú môže zamestnávateľ platiť; určené zmluvou alebo zákonom.
+4.8	najnižší plat zamestnanca povolený zákonom	najnižšia mzda ktorú môže zamestnávateľ platiť; určené zmluvou alebo zákonom.
 4.2	vodnatá hniloba na plodinách spôsobených plesňami	mäkká vodnatá hniloba v ovocí a zelenine spôsobená hubami.
-4.4	miestnosť, kde sa vykonávajú práce alebo opravy	miestnosť, kde sa pracuje.
+4.4	miestnosť kde sa vykonávajú práce alebo opravy	miestnosť kde sa pracuje.
 4.4	Oddeľte alebo odstráňte zovretím alebo odseknutím; inklinovať rezaním.	oddeliť alebo odstrániť zovretím alebo odseknutím.
-2.8	zlisujte z tvaru alebo na malé kúsky	sa zrania, zlomia alebo zdeformujú tlakom.
-4.4	jediný vysoký kameň, napríklad obelisk alebo pomník	jediný veľký kameň (často vo forme stĺpu alebo obelisku).
-4.2	(spôsobujú) postupne slabnú	spôsobiť, že tenký alebo slabý.
+2.8	zlisujte z tvaru alebo na malé kúsky	sa zrania zlomia alebo zdeformujú tlakom.
+4.4	jediný vysoký kameň napríklad obelisk alebo pomník	jediný veľký kameň (často vo forme stĺpu alebo obelisku).
+4.2	(spôsobujú) postupne slabnú	spôsobiť že tenký alebo slabý.
 4.7	pohybovať sa alebo popravovať veľmi rýchlo alebo unáhlene	bežať alebo sa pohybovať veľmi rýchlo alebo unáhlene.
-4.8	Dokážte alebo navrhnite, že sú nepravdivé alebo nesprávne.	sa ukáže ako nepravdivý alebo nesprávny.
+4.8	Dokážte alebo navrhnite že sú nepravdivé alebo nesprávne.	sa ukáže ako nepravdivý alebo nesprávny.
 2.8	(spôsobiť) byť niečím prekrytý	zabezpečiť krytie alebo nechať sa zakryť.
-3.4	nosiť ako batoh, ísť na batohy	nosiť, ako na chrbte.
-3.2	(Príčina) sa rozdelí na zložky, oslabením alebo špecifickým zničením namočením.	rozdeliť na zložky namočením.
+3.4	nosiť ako batoh ísť na batohy	nosiť ako na chrbte.
+3.2	(Príčina) sa rozdelí na zložky oslabením alebo špecifickým zničením namočením.	rozdeliť na zložky namočením.
 4.6	GRAT ON: hrýzť sa emočne; rozčúliť alebo nahnevať.	hrýzť do; rozčúliť alebo nahnevať.
 4.6	oslnenie alebo štrajk s intenzitou	oslnenie alebo štrajk s veľkou intenzitou.
 4.2	oprávnená časť alebo podiel na niečom	(zákon) právo alebo zákonný podiel na niečom; finančná účasť na niečom.
-4.6	Byť lesklý; byť fyzickým alebo metaforickým zdrojom svetla.	jasne žiariť, ako hviezda alebo svetlo.
+4.6	Byť lesklý; byť fyzickým alebo metaforickým zdrojom svetla.	jasne žiariť ako hviezda alebo svetlo.
 3.6	rotačný pohyb objektu	rotačný pohyb objektu okolo vlastnej osi.
-4.4	romantický partner, priateľka alebo priateľ	(slang) priateľka alebo priateľ osoby.
-5	uchopte, vniknite alebo odtrhnite zubami alebo čeľusťami alebo akoby od nich odtrhnite	zvierať, odrezávať alebo trhať so zubami alebo čeľusťami alebo akoby s nimi.
-1.2	prekročiť alebo prekonať, ísť ďalej, byť väčší ako niečo	prechádzať okolo, ponad alebo pod nimi bez nadviazania kontaktu.
-4.2	krajná časť kolesa osobného alebo nákladného vozidla	vonkajšia časť kolesa, ku ktorej je pripevnená pneumatika.
-4.4	odovzdať, aby ste niečo dostali na výmenu	odovzdať (poukážky alebo kupóny) a niečo dostať výmenou.
+4.4	romantický partner priateľka alebo priateľ	(slang) priateľka alebo priateľ osoby.
+5	uchopte vniknite alebo odtrhnite zubami alebo čeľusťami alebo akoby od nich odtrhnite	zvierať odrezávať alebo trhať so zubami alebo čeľusťami alebo akoby s nimi.
+1.2	prekročiť alebo prekonať ísť ďalej byť väčší ako niečo	prechádzať okolo ponad alebo pod nimi bez nadviazania kontaktu.
+4.2	krajná časť kolesa osobného alebo nákladného vozidla	vonkajšia časť kolesa ku ktorej je pripevnená pneumatika.
+4.4	odovzdať aby ste niečo dostali na výmenu	odovzdať (poukážky alebo kupóny) a niečo dostať výmenou.
 5	akt vnímania vône	akt vnímania pachu niečoho.
 4.4	relatívna tmavosť farby	relatívna tmavosť alebo ľahkosť farby.
 2.8	vyjadriť alebo transformovať v novej podobe alebo jazyku	zmena z jednej formy alebo média na inú.
-3.6	osviežiť, pripraviť čerstvé; osviežiť	stať sa alebo znovu urobiť čerstvým.
-3.8	pracovná oblasť pre výrobné alebo opravárenské práce	malé pracovisko, kde sa vyrábajú remeselné výrobky alebo výroba.
+3.6	osviežiť pripraviť čerstvé; osviežiť	stať sa alebo znovu urobiť čerstvým.
+3.8	pracovná oblasť pre výrobné alebo opravárenské práce	malé pracovisko kde sa vyrábajú remeselné výrobky alebo výroba.
 4.6	patria medzi dve taxonomické skupiny	byť prostredníkom medzi dvoma taxonomickými skupinami.
 4.6	prebublávať s určitým pocitom	pretekať s určitým pocitom.
-4	nabrať, akoby naberačkou	nabrať ponorením ruky alebo naberačky pod hladinu.
+4	nabrať akoby naberačkou	nabrať ponorením ruky alebo naberačky pod hladinu.
 4.2	Akcia zameraná proti inej spoločenskej alebo vojenskej sile.	vojenská akcia brániaca sa postupu nepriateľa.
 2.4	Nakloňte sa alebo ohnite; konfigurácia meniča.	nakloniť alebo ohnúť zo zvislej polohy.
 4.6	nastriekajte alebo namočte s prúdom tekutiny	mokré s prúdom tekutiny.
 4.6	Pohybovať sa (hlava alebo telo) rýchlo dole alebo preč (od niečoho).	pohybovať sa (hlava alebo telo) rýchlo nadol alebo preč.
-3.8	určenú časť celku	jedna z niekoľkých častí alebo častí, ktoré zapadajú do iných, aby vytvorili celý objekt.
-4.4	Spojte alebo pripevnite (akoby) lepidlom, prípadne na pokrytie povrchu predmetu.	spojte alebo pripevnite lepidlom alebo akoby lepidlom.
+3.8	určenú časť celku	jedna z niekoľkých častí alebo častí ktoré zapadajú do iných aby vytvorili celý objekt.
+4.4	Spojte alebo pripevnite (akoby) lepidlom prípadne na pokrytie povrchu predmetu.	spojte alebo pripevnite lepidlom alebo akoby lepidlom.
 3.4	presunúť z jedného miesta na druhé	presun z jedného miesta alebo obdobia na druhé.
 4.8	vyvinúť veľké duševné alebo fyzické úsilie	vynaložiť veľké úsilie na duševnú alebo fyzickú úlohu.
 3.2	RYBOLOV - výfuk umožňujúci ťahanie za vlasec	výfuk povolením potiahnutia za vlasec.
 4.8	úplne vyčerpať zdroj	vyčerpať celú ponuku.
-4.4	zabezpečiť a chrániť životnú formu, udržiavať pred zranením alebo poškodením	udržiavajte v bezpečí pred zranením, poškodením alebo nebezpečenstvom.
-2.8	miestna nebytová škola ponúkajúca dva roky kurzov	nebytová vysoká škola, ktorá ponúka učebné osnovy prispôsobené potrebám komunity.
+4.4	zabezpečiť a chrániť životnú formu udržiavať pred zranením alebo poškodením	udržiavajte v bezpečí pred zranením poškodením alebo nebezpečenstvom.
+2.8	miestna nebytová škola ponúkajúca dva roky kurzov	nebytová vysoká škola ktorá ponúka učebné osnovy prispôsobené potrebám komunity.
 5	Hoď pohľad na; zbežne sa krátko pozri alebo preskúmaj.	hodiť pohľadom na; krátko sa pozri na.
-4.5	vojenská jednotka vzdušných síl, menšia ako letka	jednotka letectva menšia ako letka.
+4.5	vojenská jednotka vzdušných síl menšia ako letka	jednotka letectva menšia ako letka.
 0.4	zasahovať do činnosti niekoho iného	zničiť mier alebo pokoj.
 4.4	priradiť alebo usporiadať do kategórií	usporiadať alebo objednať podľa tried alebo kategórií.
-4.8	byť oprávnený alebo vhodný, spĺňať požiadavky na / ako	preukázať spôsobilosť alebo spôsobilosť; splniť požiadavky.
+4.8	byť oprávnený alebo vhodný spĺňať požiadavky na / ako	preukázať spôsobilosť alebo spôsobilosť; splniť požiadavky.
 4.6	Liečte látku nejakým prostriedkom; pridať agenta do.	liečiť agentom; pridať (agenta) do.
-4.8	stavať, vyrábať kombináciou materiálov alebo častí	vyrobiť kombináciou materiálov a dielov.
+4.8	stavať vyrábať kombináciou materiálov alebo častí	vyrobiť kombináciou materiálov a dielov.
 2.4	urobte chladnejšie alebo ľadovejšie pomocou ľadu	spôsobiť ľad alebo ľad.
 3.5	poskytnúť sedadlo alebo podstavec pre	ukázať na sedadlo; prideliť miesto pre.
-4.4	Vystavte vzduchu, aby ochladil, osviežil alebo umožnil únik.	vystavte chladnému alebo studenému vzduchu, aby sa ochladil alebo osviežil.
+4.4	Vystavte vzduchu aby ochladil osviežil alebo umožnil únik.	vystavte chladnému alebo studenému vzduchu aby sa ochladil alebo osviežil.
 5	čin spáchania trestného činu	čin spáchania trestného činu.
 5	podporu položením na alebo proti niečomu pevnému	podoprieť umiestnením proti niečomu pevnému alebo tuhému.
 0.2	neúspešne dosiahnuť nejakú abstraktnú vec	nezarobiť peniaze v podnikaní; dosiahnuť stratu alebo zlyhať v zisku.
-3.4	hrotitý nástroj na písanie, dotykové pero	zahrotený nástroj na písanie, kreslenie alebo gravírovanie.
+3.4	hrotitý nástroj na písanie dotykové pero	zahrotený nástroj na písanie kreslenie alebo gravírovanie.
 4.8	zúčastniť sa alebo usporiadať banket	zúčastniť sa na hostine alebo hostine.
-4.6	účastník, ktorý je začiatočníkom v nejakej činnosti	akýkoľvek nový účastník nejakej aktivity.
+4.6	účastník ktorý je začiatočníkom v nejakej činnosti	akýkoľvek nový účastník nejakej aktivity.
 3.4	upevnite prechodom lana cez alebo okolo niečoho	upevnite prechodom cez dieru alebo okolo niečoho.
-4.6	zoradiť alebo vytvoriť paralelne uviesť do správnej úpravy	umiestniť v rade alebo usporiadať tak, aby boli rovnobežné alebo rovné.
+4.6	zoradiť alebo vytvoriť paralelne uviesť do správnej úpravy	umiestniť v rade alebo usporiadať tak aby boli rovnobežné alebo rovné.
 2.8	úkon spočítania alebo sčítania súčtu	akt počítania; recitovanie čísel vzostupne.
 4.8	odstráňte látky z kvapaliny alebo roztoku	zložku odstráňte z kvapaliny.
-5	intenzívne študovať, akoby sa pripravoval na skúšku	študujte intenzívne, ako pred skúškou.
-4.6	rozhodnúť o sume, ktorá sa má zaplatiť z poistnej udalosti	rozhodnúť, koľko sa má zaplatiť z poistnej udalosti.
-2	úplatok, uskutočňujte platby výmenou za výhody	získať kúpou; získať prostredníctvom finančnej transakcie.
+5	intenzívne študovať akoby sa pripravoval na skúšku	študujte intenzívne ako pred skúškou.
+4.6	rozhodnúť o sume ktorá sa má zaplatiť z poistnej udalosti	rozhodnúť koľko sa má zaplatiť z poistnej udalosti.
+2	úplatok uskutočňujte platby výmenou za výhody	získať kúpou; získať prostredníctvom finančnej transakcie.
 2.2	zadržiavacie stredisko pre väzňov alebo opilcov	cela pre násilných väzňov.
 5	malý darček alebo suvenír venovaný hosťom na večierku	suvenír pozostávajúci z malého darčeka venovaného hosťovi na večierku.
-5	Beh vykonávajte mierne rýchlym tempom, čo sa týka cvičenia.	bežať mierne rýchlym tempom.
-4.6	Odpor alebo prístup, ako v nepriateľstve alebo konkurencii	oponovať, ako v nepriateľstve alebo v súťaži.
+5	Beh vykonávajte mierne rýchlym tempom čo sa týka cvičenia.	bežať mierne rýchlym tempom.
+4.6	Odpor alebo prístup ako v nepriateľstve alebo konkurencii	oponovať ako v nepriateľstve alebo v súťaži.
 3.6	techniky a princípy umeleckej kompozície s použitím farieb	vytvorenie obrázka farbami.
 3.6	vlastnené územie zvrchovanej vlády	územie okupované národom.
 5	(Príčina) prechodu z plynu na kvapalinu.	spôsobiť premenu plynu alebo pary na kvapalinu.
-4.4	operácia, ktorá zoskupuje položky podľa konkrétnych kritérií	operácia, ktorá rozdeľuje položky do skupín podľa špecifikovaného kritéria.
+4.4	operácia ktorá zoskupuje položky podľa konkrétnych kritérií	operácia ktorá rozdeľuje položky do skupín podľa špecifikovaného kritéria.
 4.4	Žmurkaním jedného oka prinútite odísť.	sila odísť blikaním.
-2.8	hmatovú (dotykovú) kvalitu, ktorú niečo má	pocit produkovaný tlakovými receptormi v koži.
+2.8	hmatovú (dotykovú) kvalitu ktorú niečo má	pocit produkovaný tlakovými receptormi v koži.
 3.2	S činnosťou niečo manipulujte alebo presuňte.	spôsobiť zapnutie alebo uvedenie do prevádzky alebo uvedenie do prevádzky.
-4.6	voľne ťahajte po povrchu, chodník	voľne potiahnite po povrchu; nechajte zamiesť zem.
+4.6	voľne ťahajte po povrchu chodník	voľne potiahnite po povrchu; nechajte zamiesť zem.
 4	Ovplyvňujte alebo ovládajte zručne a často skryto.	dômyselne alebo zjavne ovplyvňujte alebo ovládajte.
 5	Môže byť zmätený alebo duševne zmätený.	byť zmätený alebo zmätený.
-3.8	symbolizovať, slúžiť ako príklad	slúžia ako prostriedok na vyjadrenie niečoho.
+3.8	symbolizovať slúžiť ako príklad	slúžia ako prostriedok na vyjadrenie niečoho.
 1.6	činnosť odstránenia zdroja	akt niečoho výrazne zmenšiť.
-3.6	pretiahnite (vlákno) cez alebo do, na alebo akoby na strunu	niť na alebo akoby na šnúrke.
+3.6	pretiahnite (vlákno) cez alebo do na alebo akoby na strunu	niť na alebo akoby na šnúrke.
 4.6	zmena jednej veci za druhú	akt zmeny jednej veci za druhú.
-5	nedostatok dohody, nie harmonický	nedostatok dohody alebo harmónie.
-4	stavať, vyrábať kombináciou materiálov alebo častí	zostavené z umelých alebo prírodných komponentov alebo častí.
-4.2	čin alebo schopnosť vidieť	akt pozerania, videnia alebo pozorovania.
-4.2	tvrdenie ponúkané ako dôkaz, odôvodnenie	skutočnosť alebo tvrdenie ponúkané ako dôkaz toho, že niečo je pravda.
-4.2	škvrna od špinavej látky	škvrnu od znečistenej látky, ako sú sadze.
+5	nedostatok dohody nie harmonický	nedostatok dohody alebo harmónie.
+4	stavať vyrábať kombináciou materiálov alebo častí	zostavené z umelých alebo prírodných komponentov alebo častí.
+4.2	čin alebo schopnosť vidieť	akt pozerania videnia alebo pozorovania.
+4.2	tvrdenie ponúkané ako dôkaz odôvodnenie	skutočnosť alebo tvrdenie ponúkané ako dôkaz toho že niečo je pravda.
+4.2	škvrna od špinavej látky	škvrnu od znečistenej látky ako sú sadze.
 4.8	Vymenujte a vysvätte na duchovný post	menovať do duchovných funkcií.
-3.6	niečo očakávať, predvídať alebo predvídať v budúcnosti	urobiť predpoveď o; povedz vopred.
+3.6	niečo očakávať predvídať alebo predvídať v budúcnosti	urobiť predpoveď o; povedz vopred.
 4.4	uviesť alebo vysvetliť význam	uveďte definíciu významu slova.
-3.6	krátko ponorte do tekutiny alebo do nádoby	krátko ponorte do kvapaliny, aby ste ju navlhčili, natreli alebo nasýtili.
+3.6	krátko ponorte do tekutiny alebo do nádoby	krátko ponorte do kvapaliny aby ste ju navlhčili natreli alebo nasýtili.
 3.8	Zmluva poskytujúca užívanie alebo užívanie majetku za určitých podmienok.	zmluva poskytujúca užívanie alebo užívanie majetku počas stanoveného času za stanovenú platbu.
 4.4	prejsť alebo dať plavidlo cez plavebnú komoru do vodnej cesty	prejsť prostriedkami cez plavebnú komoru vo vodnej ceste.
 4	spôsobiť predpoklad	dať do určitého stavu; byť v určitom stave.
@@ -269,88 +269,88 @@
 5	Zvýšenie na vyššiu energetickú hladinu (ako vo fyzike)	zvýšiť na vyššiu energetickú hladinu.
 4.8	zabezpečiť zlyhanie alebo zničenie; predurčiť	uistiť sa o zlyhaní alebo zničení systému.
 1.8	pri pohybe fungujú určitým spôsobom	mať určité vlastnosti pri jazde.
-4.2	súbor tvorivých diel na premietanie	súbor zhromaždených tvorivých diel, ktoré sa majú ukázať potenciálnym zákazníkom alebo zamestnávateľom.
-4.2	človek, ktorý fotí, často profesionál	niekto, kto fotí profesionálne.
+4.2	súbor tvorivých diel na premietanie	súbor zhromaždených tvorivých diel ktoré sa majú ukázať potenciálnym zákazníkom alebo zamestnávateľom.
+4.2	človek ktorý fotí často profesionál	niekto kto fotí profesionálne.
 4.2	Vstúpiť do existencie; odhaliť jeho prítomnosť alebo vystúpiť.	odhaliť jeho prítomnosť alebo vystúpiť.
 4.66666666666667	Zdrobnite alebo rozdrvte na malé kúsky.	rozdrvením alebo obrúsením rozdrobte na malé kúsky alebo častice.
-1.2	rozoznať, identifikovať alebo vedieť vďaka predchádzajúcej skúsenosti	vykazujú rozpoznávanie pre (antigén alebo substrát).
+1.2	rozoznať identifikovať alebo vedieť vďaka predchádzajúcej skúsenosti	vykazujú rozpoznávanie pre (antigén alebo substrát).
 4.2	vykonávať rituál alebo nad ním dohliadať	vykonávať (cirkevnú sviatosť) rituálne.
 4.6	Predmet zhoršuje dýchanie niekoho alebo niečoho.	zhoršujú dýchanie alebo bránia priechodu vzduchu.
 2	tesný prístup jedného objektu k druhému	pohyb jedného objektu vo vzťahu k druhému.
-5	konajte v súlade s pravidlami, príkazmi alebo želaniami	konať v súlade s niečími pravidlami, príkazmi alebo želaniami.
+5	konajte v súlade s pravidlami príkazmi alebo želaniami	konať v súlade s niečími pravidlami príkazmi alebo želaniami.
 3	náklady alebo peňažná hodnota tovaru alebo služieb	vysoká hodnota alebo hodnota niečoho.
-4.4	fungujúca jednotka väčšej politickej organizácie, káder	malá jednotka slúžiaca ako súčasť alebo ako jadro väčšieho politického hnutia.
-2.8	Zúčastnite sa ako nevyhnutný sprievod alebo výsledok; mať logický dôsledok.	uložiť, zahrnúť alebo naznačiť ako potrebný sprievod alebo výsledok.
-4.6	ohľad s ohľaduplnosťou alebo rešpektom	ohľaduplnosť alebo ohľaduplnosť, rešpekt a úctu.
+4.4	fungujúca jednotka väčšej politickej organizácie káder	malá jednotka slúžiaca ako súčasť alebo ako jadro väčšieho politického hnutia.
+2.8	Zúčastnite sa ako nevyhnutný sprievod alebo výsledok; mať logický dôsledok.	uložiť zahrnúť alebo naznačiť ako potrebný sprievod alebo výsledok.
+4.6	ohľad s ohľaduplnosťou alebo rešpektom	ohľaduplnosť alebo ohľaduplnosť rešpekt a úctu.
 4	akt niečoho zdvihnúť	akt niečoho vychovať.
 3.4	Ležať pod uhlom; ohnúť pozdĺž cesty.	nakloniť alebo ohnúť zo zvislej polohy.
 3.2	brániť alebo zatajovať pokrok alebo výskyt	zabrániť pokroku alebo voľnému pohybu.
 0.8	Akt spočívajúci v odpočinku po plavbe.	akt zostupu na zem (alebo iný povrch).
 4.2	Položené násilím alebo úradom; nespravodlivým používaním právomocí zostúpiť alebo zostúpiť dole.	zostupovať alebo zostupovať nespravodlivým využitím svojej právomoci.
-5	odstráňte vlasy na tvári tak, že okolo nich previažete jemnú šnúrku a potiahnete	odstráňte vlasy na tvári tak, že okolo nich previažete jemnú šnúrku a potiahnete ju za šnúrku.
-4.6	niečo spravovať, vybavovať alebo ovládať	nasmerovať priebeh; spravovať alebo kontrolovať.
-3.8	fyzická sila, ktorá spája objekty	sila, ktorou jeden predmet priťahuje iný.
+5	odstráňte vlasy na tvári tak že okolo nich previažete jemnú šnúrku a potiahnete	odstráňte vlasy na tvári tak že okolo nich previažete jemnú šnúrku a potiahnete ju za šnúrku.
+4.6	niečo spravovať vybavovať alebo ovládať	nasmerovať priebeh; spravovať alebo kontrolovať.
+3.8	fyzická sila ktorá spája objekty	sila ktorou jeden predmet priťahuje iný.
 3.6	riešiť podľa rutiny alebo postupu	riešiť bežným spôsobom.
 4.4	Uzavrieť do ochranného krytu.	kryt s ochranným plášťom.
-4.8	obrátiť smer, postoj alebo postup, možno percepčne.	spiatočka (smer, postoj alebo postup).
+4.8	obrátiť smer postoj alebo postup možno percepčne.	spiatočka (smer postoj alebo postup).
 4.2	pevné vstupné do klubu alebo na miesto konania	pevný poplatok od reštaurácie alebo nočného klubu nad rámec poplatku za jedlo a pitie.
-1.2	akt umožnenia, udelenia niečoho	akt poskytnutia dotácie.
+1.2	akt umožnenia udelenia niečoho	akt poskytnutia dotácie.
 5	Nasajte a vytlačte vzduch pľúcami.	nasajte vzduch do pľúc a vytlačte ich z pľúc.
 5	úvodná stránka webu	úvodná stránka webu.
-4.6	(Baseball) Označte základného bežca, aby ho dostal von.	označte základného bežca, aby ste ho dostali von.
-2	(spôsobiť) náhly pohyb, často vydávajúci krátky, ostrý zvuk	zatvorte lusknutím.
+4.6	(Baseball) Označte základného bežca aby ho dostal von.	označte základného bežca aby ste ho dostali von.
+2	(spôsobiť) náhly pohyb často vydávajúci krátky ostrý zvuk	zatvorte lusknutím.
 3.6	ľudia sa zhromažďovali v rytmickom pohybe	partia ľudí zhromaždených na tanec.
-4.4	dopravný prostriedok alebo transportér, často kolesový	dopravný prostriedok na prepravu osôb alebo predmetov.
-4.6	365 dní od 1. januára do 31. decembra, gregoriánsky kalendár	rok (počíta sa od 1. januára do 31. decembra) podľa gregoriánskeho kalendára.
-5	Naneste kondicionér, aby bol hladký a lesklý.	naneste kondicionér, aby bol hladký a lesklý.
-3.8	hlasovanie, verejný a legálny výber úradníkov	hlasovanie o výbere víťaza funkcie alebo politického úradu.
-3.4	priblížiť sa k určitému meraniu, či už veku, rýchlosti, teploty atď.	priblížiť sa k určitému veku alebo rýchlosti.
+4.4	dopravný prostriedok alebo transportér často kolesový	dopravný prostriedok na prepravu osôb alebo predmetov.
+4.6	365 dní od 1. januára do 31. decembra gregoriánsky kalendár	rok (počíta sa od 1. januára do 31. decembra) podľa gregoriánskeho kalendára.
+5	Naneste kondicionér aby bol hladký a lesklý.	naneste kondicionér aby bol hladký a lesklý.
+3.8	hlasovanie verejný a legálny výber úradníkov	hlasovanie o výbere víťaza funkcie alebo politického úradu.
+3.4	priblížiť sa k určitému meraniu či už veku rýchlosti teploty atď.	priblížiť sa k určitému veku alebo rýchlosti.
 3.6	naplniť uhlím alebo olejom	naplňte (lodný bunker) uhlím alebo olejom.
 5	priradiť ku konkrétnej úlohe	priradiť ku konkrétnej úlohe.
 4.6	odísť izolovaný s malou nádejou na záchranu	odísť uviaznutý alebo izolovaný s malou nádejou na záchranu.
-3.4	organizmus infikovaný iným parazitickým organizmom alebo patogénom	zviera alebo rastlina, ktorá vyživuje a podporuje parazita; neprináša úžitok a združenie ho často poškodzuje.
+3.4	organizmus infikovaný iným parazitickým organizmom alebo patogénom	zviera alebo rastlina ktorá vyživuje a podporuje parazita; neprináša úžitok a združenie ho často poškodzuje.
 4	sa zhodujú v čase alebo prevádzke	synchrónne a prispôsobené v čase alebo spôsobom.
 5	uväzniť alebo akoby vo väzení	zamknúť alebo uzavrieť do väzenia alebo do väzenia.
 4.8	prudký výdych vzduchu z nosa alebo úst	prudký výdych nosom alebo ústami.
-4.4	sociálny systém výroby, distribúcie a spotreby	systém výroby a distribúcie a spotreby.
-4.2	udržiavať niečo neporušené, udržiavať nezmenený stav	uchovávajte v bezpečí a chráňte pred poškodením, rozpadom, stratou alebo zničením.
-2.8	výsledok alebo výsledok predchádzajúcej príčiny alebo stavu	výsledok udalosti, najmä vo vzťahu k jednotlivcovi.
+4.4	sociálny systém výroby distribúcie a spotreby	systém výroby a distribúcie a spotreby.
+4.2	udržiavať niečo neporušené udržiavať nezmenený stav	uchovávajte v bezpečí a chráňte pred poškodením rozpadom stratou alebo zničením.
+2.8	výsledok alebo výsledok predchádzajúcej príčiny alebo stavu	výsledok udalosti najmä vo vzťahu k jednotlivcovi.
 4.8	považovať za pravdepodobné alebo rozumné	považovať niečo za pravdepodobné alebo pravdepodobné.
 5	zväčšenie veľkosti merané za jednotku času	rýchlosť nárastu veľkosti za jednotku času.
-5	mať veľkú náklonnosť, záľubu alebo túžbu	majú veľkú náklonnosť alebo záľubu.
-2.8	mať niečo alebo niekoho pod kontrolou; zabrániť tomu, aby sa niečo stalo	na chvíľu sa zastavte, akoby z neistoty alebo opatrnosti.
-4.4	Zistite alebo zistite, možno po výpočte alebo vyšetrovaní.	zistiť, dozvedieť sa alebo určiť s určitosťou, zvyčajne dotazom alebo iným úsilím.
-3.75	Niečo, čo slúži na naznačenie určitej skutočnosti.	niečo, čo slúži na naznačenie alebo naznačenie.
+5	mať veľkú náklonnosť záľubu alebo túžbu	majú veľkú náklonnosť alebo záľubu.
+2.8	mať niečo alebo niekoho pod kontrolou; zabrániť tomu aby sa niečo stalo	na chvíľu sa zastavte akoby z neistoty alebo opatrnosti.
+4.4	Zistite alebo zistite možno po výpočte alebo vyšetrovaní.	zistiť dozvedieť sa alebo určiť s určitosťou zvyčajne dotazom alebo iným úsilím.
+3.75	Niečo čo slúži na naznačenie určitej skutočnosti.	niečo čo slúži na naznačenie alebo naznačenie.
 4.4	Poplatok za používanie ciest alebo mostov.	poplatok vyberaný za používanie ciest alebo mostov (používaný na údržbu).
 4.8	Získajte z úložného zariadenia informácie na počítači.	získavať alebo načítať z pamäťového zariadenia; informácie na počítači.
-4.25	opakovať; obnoviť alebo začať odznova	znovu založiť na novom, zvyčajne vylepšenom základe alebo vytvoriť nový alebo ako nový.
+4.25	opakovať; obnoviť alebo začať odznova	znovu založiť na novom zvyčajne vylepšenom základe alebo vytvoriť nový alebo ako nový.
 3	POČÍTAČE: získavajte údaje / obrázky z magnetických pások alebo pomocou lúča svetla	získavať údaje z magnetických pások.
-3.8	Vylepšite alebo zdokonalte leštením, prerezávaním alebo výstižnosťou.	vylepšiť alebo zdokonaliť prerezávaním alebo leštením.
+3.8	Vylepšite alebo zdokonalte leštením prerezávaním alebo výstižnosťou.	vylepšiť alebo zdokonaliť prerezávaním alebo leštením.
 5	znamenať alebo znamenať vyjadriť alebo vyjadriť	znamená alebo má v úmysle vyjadriť alebo vyjadriť.
-4.6	Silne štrajkujte, najmä päsťou alebo náradím.	silno udrieť, najmä päsťou alebo netopierom.
+4.6	Silne štrajkujte najmä päsťou alebo náradím.	silno udrieť najmä päsťou alebo netopierom.
 3.4	samohybný projektil poháňaný samostatným palivom	akékoľvek vozidlo s vlastným pohonom raketovým motorom.
 4.4	Náhle a rázne sa rozlomte alebo rozdeľte; odlúčiť alebo nechať odlúčiť; choď na kúsky.	oddeliť alebo spôsobiť náhle oddelenie.
 4.2	príčina zhody (nápady alebo činy); byť kompatibilný	sa zhodujú ako nápady alebo činy.
 4.4	(Príčina) musí byť pevne pripevnená alebo uzavretá.	byť pevne pripevnený.
-4	graf alebo mapa zobrazujúca rozmery, pohyby alebo pokrok v niečom	mapa alebo mapa znázorňujúca pohyby alebo postup objektu.
-3.4	Identifikujte, určte miesto alebo totožnosť	uznať ako; zistiť totožnosť niekoho alebo niečoho.
-2.8	vložiť alebo vložiť, medzi alebo medzi	dať alebo zaviesť do niečoho.
-4.2	osoba alebo vec v úlohe náhrady za niečo iné	osoba alebo vec, ktorá zaujme alebo môže zaujať miesto iného.
-4.6	rozdelenie univerzity, ktorá poskytuje tituly presahujúce bakalárske štúdium	škola na univerzite ponúkajúca štúdium vedúce k titulom presahujúcim bakalársky stupeň.
+4	graf alebo mapa zobrazujúca rozmery pohyby alebo pokrok v niečom	mapa alebo mapa znázorňujúca pohyby alebo postup objektu.
+3.4	Identifikujte určte miesto alebo totožnosť	uznať ako; zistiť totožnosť niekoho alebo niečoho.
+2.8	vložiť alebo vložiť medzi alebo medzi	dať alebo zaviesť do niečoho.
+4.2	osoba alebo vec v úlohe náhrady za niečo iné	osoba alebo vec ktorá zaujme alebo môže zaujať miesto iného.
+4.6	rozdelenie univerzity ktorá poskytuje tituly presahujúce bakalárske štúdium	škola na univerzite ponúkajúca štúdium vedúce k titulom presahujúcim bakalársky stupeň.
 4.8	Živte sa skromným príspevkom alebo zásobou.	živiť sa skromným príspevkom.
-4.4	poskytovať, získavať alebo dodávať finančné prostriedky spoločnosti	získať alebo poskytnúť peniaze na.
+4.4	poskytovať získavať alebo dodávať finančné prostriedky spoločnosti	získať alebo poskytnúť peniaze na.
 4.2	úradník zodpovedný za dohľad nad určitou oblasťou sociálnej činnosti	úradník zodpovedný za kontrolu a dohľad nad konkrétnou činnosťou alebo oblasťou verejného záujmu.
 4.6	Akt tvorby písomných prác.	činnosť uvedenia niečoho v písomnej podobe.
 5	vziať alebo zajať silou alebo autoritou	vziať alebo zajať silou.
 4.6	Choďte za tým s úmyslom nasledovať alebo chytiť.	choďte za tým s úmyslom chytiť.
-3.2	oficiálna kampaň proti vnímaniu spoločenskej ujmy	sústredená kampaň na ukončenie niečoho, čo je škodlivé.
-4.2	Odstráňte perie, jamy, mušle, pokožku, plevy	odstráňte škrupiny alebo plevy z.
-3.2	agresívna ochota bojovať, bojovnosť	agresívna vôľa súťažiť.
-4.8	Pohladkajte alebo stlačte, najmä pod bradou.	potľapkajte alebo stlačte láskavo alebo hravo, najmä pod bradou.
-4.9	dať úhľadný vzhľad, upravený	dať elegantný vzhľad.
-0	priestorový, geometrický obrys objektu	množina prvkov spoločných pre dve alebo viac množín.
+3.2	oficiálna kampaň proti vnímaniu spoločenskej ujmy	sústredená kampaň na ukončenie niečoho čo je škodlivé.
+4.2	Odstráňte perie jamy mušle pokožku plevy	odstráňte škrupiny alebo plevy z.
+3.2	agresívna ochota bojovať bojovnosť	agresívna vôľa súťažiť.
+4.8	Pohladkajte alebo stlačte najmä pod bradou.	potľapkajte alebo stlačte láskavo alebo hravo najmä pod bradou.
+4.9	dať úhľadný vzhľad upravený	dať elegantný vzhľad.
+0	priestorový geometrický obrys objektu	množina prvkov spoločných pre dve alebo viac množín.
 1.8	fyziologická aktivácia organizmu alebo orgánu	odolávajú imunologicky zavedeniu cudzieho tkaniva alebo orgánu.
-0.6	podporovateľ, zástanca niečoho alebo niekoho	akt najatia niečoho alebo niekoho.
+0.6	podporovateľ zástanca niečoho alebo niekoho	akt najatia niečoho alebo niekoho.
 4.8	vymyslieť niečo vymyslené alebo nepravdivé	vymyslieť niečo umelé alebo nepravdivé.
 0	regulovať alebo nastaviť čas (hodiny)	vzdúvať sa vo forme oblaku.
 0	čin nahradenia jednej veci druhou	akt niečoho testovať.
@@ -361,22 +361,22 @@
 4.4	Hýbte sa alebo spôsobte pohyb náhlym trhaným pohybom.	ťahať alebo sa pohybovať náhlym pohybom.
 5	záverečná časť oznámenia	posledná časť oznámenia.
 0.6	konečná fáza udalosti alebo činnosti	ustúpiť od predchádzajúceho záväzku alebo činnosti.
-0.4	akt riadenia, správy	akt oslobodenia niekoho alebo niečoho.
-0	akt pohybu, niečoho otočenia	akt udržania niečoho.
+0.4	akt riadenia správy	akt oslobodenia niekoho alebo niečoho.
+0	akt pohybu niečoho otočenia	akt udržania niečoho.
 0	stav zachovania	stav hnevu.
 0	držať v danom štáte alebo situácii	vytvárať a účtovať za úlohy alebo funkcie.
 1.2	akt prípravy niečoho.	vedenie niekoho alebo niečoho.
 0.4	Nasajte (akoby) špongiou.	vrhnúť akoby prakom.
 4.6	zaregistrujte sa formálne ako účastník	zaregistrujte sa formálne ako účastník alebo člen.
 0.2	Akt tvorby písomných prác.	čin oneskorenia alebo prerušenia kontinuity.
-0	stav možností, alternatív	akt pripustenia niekoho na vstup.
+0	stav možností alternatív	akt pripustenia niekoho na vstup.
 0	činnosť skúmania alebo posudzovania niečoho	akt udržania niečoho.
 0.6	akt predpovedania alebo predpovedania niečoho	akt zmenšovania alebo zmenšovania niečoho.
 0.2	skutok zatajovania alebo maskovania	stav nečinnosti po prerušení.
-0	akt poskytnutia pomoci alebo pomoci niekomu	akt pozerania, videnia alebo pozorovania.
+0	akt poskytnutia pomoci alebo pomoci niekomu	akt pozerania videnia alebo pozorovania.
 1	stav zachovania	črta dobrého správania.
 1.4	Poskytujte sexuálne uspokojenie pomocou orálnej stimulácie.	získajte sexuálne uspokojenie prostredníctvom vlastnej stimulácie.
-0.4	konať alebo niečo robiť v reakcii na niečo	zvyšky niečoho, čo bolo zničené alebo rozbité.
+0.4	konať alebo niečo robiť v reakcii na niečo	zvyšky niečoho čo bolo zničené alebo rozbité.
 0.6	kvalita užitočnosti pre niečo	akt zmeny jednej veci za druhú.
 0	chrániť štítom alebo akoby štítom	oddeliť s nástrojom alebo ako s nástrojom.
 4.6	Vyhlásiť za neplatné; odobrať právnu silu alebo urobiť neúčinným.	odobrať právnu silu alebo urobiť neúčinným.
@@ -384,44 +384,44 @@
 0.8	asimilovať sa do mysle alebo situácie	zdvihnite a resetujte v inej pôde alebo situácii.
 1.26666666666667	Ľudský čin výroby niečoho nového.	rečový akt niečoho evidentného.
 4.26666666666667	zmieriť sa s niečím nepríjemným	zmieriť sa s niečím alebo niekým nepríjemným.
-0	spôsob, akým niečo alebo niečo funguje alebo funguje	akt vytlačenia niečoho stlačením alebo stlačením.
+0	spôsob akým niečo alebo niečo funguje alebo funguje	akt vytlačenia niečoho stlačením alebo stlačením.
 0	miesto chránené pred vetrom	časť odstránená z celku.
-0.8	akt výberu alebo výberu	akt pozerania, videnia alebo pozorovania.
+0.8	akt výberu alebo výberu	akt pozerania videnia alebo pozorovania.
 5	Hýbte sa alebo spôsobte pohyb náhlym trhaným pohybom.	pohnúť alebo spôsobiť pohyb náhlym trhavým pohybom.
 0	akt úmyselného vynechania niečoho	mať príchuť; ochutnať niečo.
 1.2	hluk niečoho klepajúceho o povrch	akt nanášania farby na povrch.
 2.6	(Príčina) vytvára zhluk v abstraktnom alebo fyzickom priestore.	spôsobiť v abstraktnom alebo fyzickom zmysle.
 4.7	sklon zo zvislej polohy	nakloniť alebo ohnúť zo zvislej polohy.
-2.2	akt pohybu, niečoho otočenia	akt prechodu z jedného štátu alebo miesta do druhého.
+2.2	akt pohybu niečoho otočenia	akt prechodu z jedného štátu alebo miesta do druhého.
 0	urobte rez alebo rozchod	prijať opatrenia v rámci prípravy na.
 4.2	zavedená lineárna dráha pohybu	zavedená línia cestovania alebo prístupu.
-4.4	správať sa určitým spôsobom, usu. radostný	správať sa určitým spôsobom.
-0.2	urobiť čistejšie a intenzívnejšie, napríklad odstránením cudzích prvkov	urobte špinavé alebo škvrnité, napríklad vystavením vzduchu; použité aj metaforicky.
-0	priestorový, geometrický obrys objektu	rečový akt namietania.
+4.4	správať sa určitým spôsobom usu. radostný	správať sa určitým spôsobom.
+0.2	urobiť čistejšie a intenzívnejšie napríklad odstránením cudzích prvkov	urobte špinavé alebo škvrnité napríklad vystavením vzduchu; použité aj metaforicky.
+0	priestorový geometrický obrys objektu	rečový akt namietania.
 2.8	fyzická ťažkosť alebo prekážka	dostať napriek ťažkostiam alebo prekážkam.
-4.8	ABIDE BY: konajte v súlade s pravidlami, príkazmi alebo želaniami.	konať v súlade s niečími pravidlami, príkazmi alebo želaniami.
-0	chcieť, túžiť alebo radšej niečo robiť	nezhoda alebo hádka o niečom dôležitom.
+4.8	ABIDE BY: konajte v súlade s pravidlami príkazmi alebo želaniami.	konať v súlade s niečími pravidlami príkazmi alebo želaniami.
+0	chcieť túžiť alebo radšej niečo robiť	nezhoda alebo hádka o niečom dôležitom.
 2.4	pozerať sa alebo pozorovať niečo alebo niekoho	vizuálny vzhľad niečoho alebo niekoho.
-1.2	povaha, zloženie alebo konštitúcia niečoho	zmeniť povahu, účel alebo funkciu niečoho.
-5	dať zmysel, dať zmysel	dávať zmysel; priradiť význam.
-2	premiestniť, preložiť alebo previesť niečo alebo niekoho	prostriedok alebo prostriedok, ktorým sa niečo vyjadruje alebo oznamuje.
+1.2	povaha zloženie alebo konštitúcia niečoho	zmeniť povahu účel alebo funkciu niečoho.
+5	dať zmysel dať zmysel	dávať zmysel; priradiť význam.
+2	premiestniť preložiť alebo previesť niečo alebo niekoho	prostriedok alebo prostriedok ktorým sa niečo vyjadruje alebo oznamuje.
 0.4	stav zachovania	stav účinnosti alebo funkčnosti.
 0	akt poskytnutia pomoci alebo pomoci niekomu	akt vnímania pachu niečoho.
-4.2	FARM OUT: zariadiť, aby prácu na základe zmluvy vykonali iní.	zariadil, aby zmluvné práce vykonávali iní.
+4.2	FARM OUT: zariadiť aby prácu na základe zmluvy vykonali iní.	zariadil aby zmluvné práce vykonávali iní.
 0	Upevnite (akoby) nitom alebo nitmi.	vytvárať a účtovať za úlohy alebo funkcie.
 1.2	spôsobiť ponorenie do	byť pevne pripevnený.
-0	akt pohybu, niečoho otočenia	akt niečoho opísať.
-4.8	stavať, vyrábať kombináciou materiálov alebo častí	vyrobiť kombináciou materiálov a dielov.
+0	akt pohybu niečoho otočenia	akt niečoho opísať.
+4.8	stavať vyrábať kombináciou materiálov alebo častí	vyrobiť kombináciou materiálov a dielov.
 0.2	(spôsobiť sa) neskôr	kde žijete v konkrétnom čase.
 1	akt zachovania alebo ochrany niečoho	akt kolízie s niečím.
 0.2	akt zachovania alebo ochrany niečoho	akt odmietnutia niečoho.
-4.2	(Príčina) menej napätá; odpočívaj alebo si ľahni.	byť menej napätý, odpočívať alebo sa uvoľniť.
+4.2	(Príčina) menej napätá; odpočívaj alebo si ľahni.	byť menej napätý odpočívať alebo sa uvoľniť.
 0.8	čin príchodu na určité miesto	výskyt spojenia samostatných častí.
 0	akt uchopenia do náručia	vlastnosť plytvania zdrojmi.
 0	stav obkľúčenia	stav exkomunikácie.
 4.7	sklon zo zvislej polohy	nakloniť alebo ohnúť zo zvislej polohy.
 0	(dôvod) prekonať sa náhlymi obavami	priniesť alebo spojiť dohromady alebo s niečím iným.
-1.8	nechať späť alebo vynechať	ukončiť, ukončiť alebo uzavrieť.
+1.8	nechať späť alebo vynechať	ukončiť ukončiť alebo uzavrieť.
 4.8	zmena jednej veci za druhú	akt zmeny jednej veci alebo pozície za inú.
 4.66666666666667	Zdrobnite alebo rozdrvte na malé kúsky.	rozdrvením alebo obrúsením rozdrobte na malé kúsky alebo častice.
 0	vložiť alebo držať v stánku	uviesť do iného stavu.
@@ -436,19 +436,19 @@
 2.4	Zmeňte význam (niekoho) slov s úmyslom oklamať.	urobte kópiu s úmyslom oklamať.
 0.4	akt zachovania alebo ochrany niečoho	akt niečoho testovať.
 4.26666666666667	zmieriť sa s niečím nepríjemným	zmieriť sa s niečím alebo niekým nepríjemným.
-0.4	akt ocenenia, kritiky niečoho	akt chytenia predmetu rukami.
+0.4	akt ocenenia kritiky niečoho	akt chytenia predmetu rukami.
 3	(spôsobiť) sa objaviť náhle alebo krátko	spôsobiť alebo byť za ne zodpovedný.
 4.2	konať alebo sa správať určitým spôsobom	prinútiť sa správať určitým spôsobom.
 0.8	stav zachovania	stav bytia aktívny.
 0	Prípad alebo nesprávna činnosť.	preukázať ohľad na; vziať do úvahy.
-0.4	akt vyjadrenia súhlasu, podpora niečoho	akt niečoho výrazne zmenšiť.
+0.4	akt vyjadrenia súhlasu podpora niečoho	akt niečoho výrazne zmenšiť.
 0.6	akt niečoho použiť.	činnosť ochrany niečoho pred stratou alebo nebezpečenstvom.
 4.4	Odradiť alebo vystrašiť hrozbami alebo panovačným spôsobom; zastrašiť; byť voči niekomu panovačný.	odradiť alebo vystrašiť hrozbami alebo panovačným spôsobom; zastrašiť.
 0	na dosiahnutie niečoho je potrebná obeta alebo mýto	zhodnotenie hodnoty niečoho.
 0	akt obhajovania alebo propagácie niečoho	akt brania osoby násilím.
 0	stav zamestnania	stav exkomunikácie.
 1.8	kvalita užitočnosti pre niečo	kvalita nie je užitočná alebo pohodlná.
-0	osoba, ktorá si rýchlo pamätá alebo sa rýchlo učí	osoba, ktorá sa spája s ostatnými v nejakej činnosti alebo úsilí.
+0	osoba ktorá si rýchlo pamätá alebo sa rýchlo učí	osoba ktorá sa spája s ostatnými v nejakej činnosti alebo úsilí.
 0	stav podpory hmotnosti človeka	stav spojenia.
 0	akt predpovedania alebo predpovedania niečoho	akt niečoho vychovať.
 4.46666666666667	podrobne vysvetliť	rozprávať alebo podrobne vysvetliť.
@@ -460,70 +460,70 @@
 1.6	byť alebo prísť do konfliktu	vzniknúť alebo vzniknúť.
 2.4	urobiť alebo stať sa akútnejším alebo intenzívnejším	zúžiť alebo obmedziť.
 5	Pohybujte sa alebo sa usporiadajte (seba) v pohodlnej a útulnej polohe.	presunúť alebo zariadiť v pohodlnej a útulnej polohe.
-0	Doslova spôsobuje, že sa stáva nevidiacim.	zaviazať záväzkom; spôsobiť zadĺženie.
-0.8	prilákať; spôsobiť, že sa zaľúbi do (svojej) prirodzenosti.	hmota, ktorá bola uložená nejakým prírodným procesom.
+0	Doslova spôsobuje že sa stáva nevidiacim.	zaviazať záväzkom; spôsobiť zadĺženie.
+0.8	prilákať; spôsobiť že sa zaľúbi do (svojej) prirodzenosti.	hmota ktorá bola uložená nejakým prírodným procesom.
 2.8	vizuálne znázornenie načrtnuté ručne	vizuálne znázornenie niečoho.
-0.4	osoba, ktorá je členom senátu	osoba, ktorá je členom partnerstva.
+0.4	osoba ktorá je členom senátu	osoba ktorá je členom partnerstva.
 0	Zakryte alebo naspäť fóliou.	komunikovať alebo signalizovať vlajkou.
 0	Stav potešenia zo života.	stav spojenia alebo zjednotenia alebo prepojenia.
 0.4	pozerať sa alebo pozorovať niečo alebo niekoho	akt najatia niečoho alebo niekoho.
-4.9	dať úhľadný vzhľad, upravený	dať elegantný vzhľad.
+4.9	dať úhľadný vzhľad upravený	dať elegantný vzhľad.
 1	hojnosť alebo hojnosť niečoho	podozrenie alebo spochybnenie.
 3.6	požadovať alebo vyžadovať od niekoho odpoveď; vyzvať niekoho	podať niekomu požiadavku alebo dopyt.
-0.4	akt pohybu, niečoho otočenia	akt niečoho si vymyslíš.
+0.4	akt pohybu niečoho otočenia	akt niečoho si vymyslíš.
 0	stav zamestnania	stav vyčerpania.
-0	uvedené ako úvod alebo predslov	vzbudzujte pocity, emócie alebo pokoj.
+0	uvedené ako úvod alebo predslov	vzbudzujte pocity emócie alebo pokoj.
 0	skutok zatajovania alebo maskovania	akt poskytnutia dotácie.
 0	Akt začiatku niečoho nového.	akt odmietnutia niečoho.
 4.91666666666667	(spôsobiť) oddelenie alebo pohyb v rôznych smeroch	spôsobiť rozchod a ísť rôznymi smermi.
 0.2	žijú v kríkoch ako utečenec alebo guerilla	vyhlásiť ako rozhodca alebo rozhodca.
-0	Akt spätného odkúpenia niečoho, čo sa predtým predalo.	čin niečoho alebo niekoho poškodiť.
-5	Prineste, viesť alebo prinútiť opustiť zlú cestu alebo životný štýl a prijať správny postup.	prinútiť, viesť alebo prinútiť opustiť nesprávny alebo zlý spôsob života, správania a prijať ten správny.
+0	Akt spätného odkúpenia niečoho čo sa predtým predalo.	čin niečoho alebo niekoho poškodiť.
+5	Prineste viesť alebo prinútiť opustiť zlú cestu alebo životný štýl a prijať správny postup.	prinútiť viesť alebo prinútiť opustiť nesprávny alebo zlý spôsob života správania a prijať ten správny.
 4.2	(Príčina) beží mierne rýchlym tempom.	bežať mierne rýchlym tempom.
 0.4	(spôsobiť) stretnúť sa alebo pretínať	spôsobiť praskavý zvuk.
 0.8	urovnať alebo niečo vybaviť	dať alebo zaviesť do niečoho.
 0.6	spôsobiť prechod z jedného kurzu alebo na iný	posielať od jednej osoby alebo miesta k druhej.
 4	hľadať (ako dno vodnej plochy) niečo	hľadať (ako dno vodnej plochy) niečo cenné alebo stratené.
-0	uvedomiť si a ľutovať neprítomnosť niečoho alebo niekoho	zábrana, ktorá kontroluje pohyb niečoho.
+0	uvedomiť si a ľutovať neprítomnosť niečoho alebo niekoho	zábrana ktorá kontroluje pohyb niečoho.
 3.6	Choďte svojou alebo cudzou cestou	ísť vlastnou cestou; vzdialiť sa.
-0.4	stav kontaktu	stav alebo skutočnosť, že ste vlastníkom.
-5	čin alebo prostriedok, ako sa niečoho zbaviť.	čin odstránenia alebo zbavenia sa niečoho.
+0.4	stav kontaktu	stav alebo skutočnosť že ste vlastníkom.
+5	čin alebo prostriedok ako sa niečoho zbaviť.	čin odstránenia alebo zbavenia sa niečoho.
 0.8	uvedené ako úvod alebo predslov	nastaviť alebo požiadať o určitú cenu.
 2.2	odstupné od sociálneho vzťahu alebo kravaty	bez záväzkov alebo povinností.
 1.26666666666667	Ľudský čin výroby niečoho nového.	rečový akt niečoho evidentného.
 0.6	stav zachovania	stav odmietnutia.
-0.6	Prípad alebo nesprávna činnosť.	priestor, kde dochádza k rozdeleniu alebo rozchodu.
-4	DODÁVAJTE TOVAR: dosiahnite úspech, dosiahnite cieľ	dosiahnuť úspech alebo dosiahnuť požadovaný cieľ.
+0.6	Prípad alebo nesprávna činnosť.	priestor kde dochádza k rozdeleniu alebo rozchodu.
+4	DODÁVAJTE TOVAR: dosiahnite úspech dosiahnite cieľ	dosiahnuť úspech alebo dosiahnuť požadovaný cieľ.
 3.7	čin ublíženia alebo ublíženia niekomu	čin niečoho alebo niekoho poškodiť.
 4.46666666666667	podrobne vysvetliť	rozprávať alebo podrobne vysvetliť.
 0	pulzácia srdca	kus (niečo staré) s novou časťou.
 0	správať alebo sa pohybovať určitým spôsobom	byť hodný alebo mať určité hodnotenie.
 4.7	pohybovať sa alebo popravovať veľmi rýchlo alebo unáhlene	bežať alebo sa pohybovať veľmi rýchlo alebo unáhlene.
-4.8	vyvodzovať alebo veriť, že tomu tak je	verím, že je to tak.
-0	hranicu alebo hranicu objektu	plánovať, organizovať a uskutočňovať (udalosť).
+4.8	vyvodzovať alebo veriť že tomu tak je	verím že je to tak.
+0	hranicu alebo hranicu objektu	plánovať organizovať a uskutočňovať (udalosť).
 0.75	akt poskytnutia stimulu niekomu	čin straty niekoho alebo niečoho.
 0.4	Akt začiatku niečoho nového.	akt niečoho výrazne zmenšiť.
-4.5	spravovať alebo dávať ako porcie	spravujte alebo obdarúvajte, ako v malých dávkach.
+4.5	spravovať alebo dávať ako porcie	spravujte alebo obdarúvajte ako v malých dávkach.
 0.75	Prosiť; požiadať o nejaké informácie alebo akciu.	akt odovzdania niečoho inej osobe.
 0.4	Akt označovania alebo poukazovania na meno.	utratenie alebo vyplatenie peňazí.
 0.8	Akt začiatku niečoho nového.	akt niečoho zastaviť.
 4.8	presunúť z jedného miesta na druhé	presunúť sa z jedného miesta na druhé.
-0	uvedené ako úvod alebo predslov	vystavte chladnému alebo studenému vzduchu, aby sa ochladil alebo osviežil.
+0	uvedené ako úvod alebo predslov	vystavte chladnému alebo studenému vzduchu aby sa ochladil alebo osviežil.
 0	činnosť umiestnenia alebo umiestnenia objektu	akt výberu alebo výberu.
 0	akt prípravy niečoho.	akt niečoho rozbiť.
 1.3	stav zachovania	stav spojenia.
-0	následok, výsledok alebo výsledok niečoho	mať kvôli niečomu nezhodu.
-0	akt obmedzovania, prevencie alebo blokovania niečoho	akt zmeny jednej veci za druhú.
+0	následok výsledok alebo výsledok niečoho	mať kvôli niečomu nezhodu.
+0	akt obmedzovania prevencie alebo blokovania niečoho	akt zmeny jednej veci za druhú.
 0.4	akt zachovania alebo ochrany niečoho	akt pôsobenia sily na niečo poháňanie.
-5	znížiť platnosť, dopad alebo účinok	účinnosť alebo účinok.
+5	znížiť platnosť dopad alebo účinok	účinnosť alebo účinok.
 0	čin obviňovania niekoho alebo niečoho z viny	prísť do vlastníctva niečoho konkrétneho alebo abstraktného.
-2.8	zdôvodnenie alebo dôvod na niečo	vzťah, ktorý dáva základ niečomu.
+2.8	zdôvodnenie alebo dôvod na niečo	vzťah ktorý dáva základ niečomu.
 1.4	požadovať alebo vyžadovať od niekoho niečo	čin niečoho alebo niekoho poškodiť.
 4.6	zaregistrujte sa formálne ako účastník	zaregistrujte sa formálne ako účastník alebo člen.
-0.4	čin otáčania, otáčania predmetu	vlastnosť plytvania zdrojmi.
-3.6	definujúca, výrazná forma alebo tvar niečoho	výrazný atribút alebo aspekt niečoho.
+0.4	čin otáčania otáčania predmetu	vlastnosť plytvania zdrojmi.
+3.6	definujúca výrazná forma alebo tvar niečoho	výrazný atribút alebo aspekt niečoho.
 4.6	BEH ZBEHNÚŤ - (spôsobiť) prísť na zem	prídu na zem.
-5	Vytlačte alebo vysuňte (sliny, hlien, spúta alebo zvratky) z úst.	vypudiť alebo vylúčiť (sliny alebo hlien alebo spúta) z úst.
+5	Vytlačte alebo vysuňte (sliny hlien spúta alebo zvratky) z úst.	vypudiť alebo vylúčiť (sliny alebo hlien alebo spúta) z úst.
 0	súhrn vecí alebo ľudí	vizuálny vzhľad niečoho alebo niekoho.
 0.4	vysledovať formu alebo obrys	zmeniť usporiadanie alebo polohu.
 0.4	akt zachovania alebo ochrany niečoho	akt potvrdenia alebo tvrdenia alebo vyhlásenia niečoho.
@@ -531,10 +531,10 @@
 1.2	S činnosťou niečo manipulujte alebo presuňte.	konať alebo sa pohybovať vysokou rýchlosťou.
 0.4	proces zmenšovania alebo zmenšovania	telesný proces vypúšťania odpadových látok.
 1.2	stav zachovania	stav bytia skutočný alebo skutočný.
-4.8	Stúpajte alebo sa zdvíhajte nahor pod prirodzenou silou, ako je vlna.	stúpať alebo zdvíhať nahor pod vplyvom prírodnej sily, ako je vlna.
+4.8	Stúpajte alebo sa zdvíhajte nahor pod prirodzenou silou ako je vlna.	stúpať alebo zdvíhať nahor pod vplyvom prírodnej sily ako je vlna.
 1.4	podať návrh alebo predohru s konkrétnym cieľom	vytvoriť kanál pre; poskytnúť kanál.
 0	činnosť skúmania alebo posudzovania niečoho	utratenie alebo vyplatenie peňazí.
-4.6	kombinovať tak, aby vznikol zložitejší produkt	kombinovať tak, aby vytvorili celok; zmiešať.
+4.6	kombinovať tak aby vznikol zložitejší produkt	kombinovať tak aby vytvorili celok; zmiešať.
 5	Pochopte význam niečoho.	získať význam niečoho.
 0.4	chuťová kvalita niečoho	relatívne dlhý úzky kúsok niečoho.
 0.4	odhadnúť alebo vypočítať číselnú hodnotu niečoho	pozorovať alebo zakresľovať pohyblivú cestu niečoho.
@@ -544,20 +544,20 @@
 1	pridelenie alebo percento niečoho	zhodnotenie hodnoty niečoho.
 0	skutok zatajovania alebo maskovania	čin výbuchu alebo prasknutia.
 4.4	podať klamlivé vysvetlenie; zakryť	podať klamlivé vysvetlenie alebo ospravedlniť.
-0	podniknúť právne kroky proti, tak ako na súde	zaviazať alebo pripevniť na uzol.
+0	podniknúť právne kroky proti tak ako na súde	zaviazať alebo pripevniť na uzol.
 0	Akt hľadania alebo nákupu tovaru alebo služieb.	akt rozvetvenia alebo rozdelenia na vetvy.
 0	vyvinúť určitý tlak	priviesť do určitého duchovného stavu.
 5	preniknúť alebo rezať ostrým nástrojom	preniknite alebo prerezajte ostrým nástrojom.
 0.4	(Príčina) beží mierne rýchlym tempom.	spôsobiť telesné utrpenie a ochorieť alebo ochorieť.
-0	spôsob, akým sa niečo prispôsobuje tvaru	ako sa niečo robí alebo ako sa to deje.
+0	spôsob akým sa niečo prispôsobuje tvaru	ako sa niečo robí alebo ako sa to deje.
 0.4	uvedomiť si a ľutovať neprítomnosť niečoho alebo niekoho	úsudok o kvalitách niečoho alebo niekoho.
-4.8	Buďte vnímaví alebo ochotní k akcii alebo viere.	byť vnímavý alebo ochotný k akcii, postoju alebo viere.
-0	agent alebo spoločnosť, ktorá niečo poisťuje	energický pokus niečo dosiahnuť.
+4.8	Buďte vnímaví alebo ochotní k akcii alebo viere.	byť vnímavý alebo ochotný k akcii postoju alebo viere.
+0	agent alebo spoločnosť ktorá niečo poisťuje	energický pokus niečo dosiahnuť.
 0	udalosť niečo navrhnúť alebo dobrovoľníčiť	akt odmietnutia niečoho.
 1.2	odobrať z miesta alebo z kancelárie	odstrániť zo súťaže alebo závodu.
-4.2	(Príčina) menej napätá; odpočívaj alebo si ľahni.	byť menej napätý, odpočívať alebo sa uvoľniť.
-0	oslobodený (od obmedzenia), uvoľniť	hlasný rezonančný opakujúci sa zvuk.
-0.4	čin otáčania, otáčania predmetu	čin znepokojovania alebo otravovania niekoho.
+4.2	(Príčina) menej napätá; odpočívaj alebo si ľahni.	byť menej napätý odpočívať alebo sa uvoľniť.
+0	oslobodený (od obmedzenia) uvoľniť	hlasný rezonančný opakujúci sa zvuk.
+0.4	čin otáčania otáčania predmetu	čin znepokojovania alebo otravovania niekoho.
 2.8	premiestniť na miesto alebo zo situácie alebo z nej	odstrániť alebo vytlačiť z polohy.
 0.6	Akt začiatku niečoho nového.	akt niečoho rozbiť.
 0	kvalita zvýšeného svetla na plochách objektu	činnosť ochrany niekoho alebo niečoho.
@@ -567,62 +567,62 @@
 0	nad niečím nakreslite do vzduchu kríž	získať význam niečoho.
 2.6	čin násilného postavenia opozície	akt prinútenia nepriateľa k ústupu.
 0	akt výberu alebo výberu	čin navíjania alebo krútenia.
-5	Vyprovokujte niekoho, aby niečo urobil (často prehnanými alebo falošnými) sľubmi alebo presviedčaním.	vyprovokovať niekoho, aby niečo urobil (často falošnými alebo prehnanými) sľubmi alebo presviedčaním.
+5	Vyprovokujte niekoho aby niečo urobil (často prehnanými alebo falošnými) sľubmi alebo presviedčaním.	vyprovokovať niekoho aby niečo urobil (často falošnými alebo prehnanými) sľubmi alebo presviedčaním.
 0	Odmietnuť uznať niečo ako platné (nie osobu).	moc niečo alebo niekoho použiť.
-1.4	náznak niečoho, dôkaz	prezradenie niečoho tajného.
+1.4	náznak niečoho dôkaz	prezradenie niečoho tajného.
 0	čin zlepšenia kvality niečoho	akt niečoho začať.
 4.4	vytvoriť novú entitu spojením komponentov alebo členov	vytvoriť spojením komponentov alebo členov.
-0	malý kovový tanier na špičke tanečnej topánky	niečo, čo pláva na hladine vody.
+0	malý kovový tanier na špičke tanečnej topánky	niečo čo pláva na hladine vody.
 0.4	čin obviňovania niekoho alebo niečoho z viny	čin opätovného uvedenia niečoho do funkčného stavu.
 0	stav kontaktu	stav vylúčenia.
-5	Množstvo, ktoré môže byť obsiahnuté	množstvo, ktoré môže obsahovať.
-2.6	zbierka mien a adries, ktoré slúžia ako príjemcovia informačného obsahu	časť širokej verejnosti so záujmom o zdroj informácií alebo zábavy.
-0	otočte, otočte alebo pripevnite (akoby) skrutkou	vytiahnuť alebo hore alebo akoby naberačkou.
+5	Množstvo ktoré môže byť obsiahnuté	množstvo ktoré môže obsahovať.
+2.6	zbierka mien a adries ktoré slúžia ako príjemcovia informačného obsahu	časť širokej verejnosti so záujmom o zdroj informácií alebo zábavy.
+0	otočte otočte alebo pripevnite (akoby) skrutkou	vytiahnuť alebo hore alebo akoby naberačkou.
 3.8	akt predpovedania alebo predpovedania niečoho	akt vyčnievania z niečoho.
 1.2	stať sa alebo spôsobiť prekážku	stávajú mäkkými alebo tekutými.
-0	mať finančné prostriedky na získanie, kúpu alebo niečo urobiť	rám okolo dverí alebo okna.
+0	mať finančné prostriedky na získanie kúpu alebo niečo urobiť	rám okolo dverí alebo okna.
 0	čin násilného postavenia opozície	akt prasknutia niečoho.
 0.6	Ľudský čin výroby niečoho nového.	akt niečoho vychovať.
 4.26666666666667	zmieriť sa s niečím nepríjemným	zmieriť sa s niečím alebo niekým nepríjemným.
 0	(spôsobiť sa) neskôr	spôsobiť preskočenie povrchu.
-0.4	malá, neurčitá časť niečoho	rezivo použité pri stavbe niečoho.
-4.4	byť dané, dostať sa do vlastníctva	prísť do vlastníctva.
+0.4	malá neurčitá časť niečoho	rezivo použité pri stavbe niečoho.
+4.4	byť dané dostať sa do vlastníctva	prísť do vlastníctva.
 4.26666666666667	zmieriť sa s niečím nepríjemným	zmieriť sa s niečím alebo niekým nepríjemným.
-0.2	Vydajte drvivý zvuk, pravdepodobne v dôsledku lisovania alebo brúsenia.	mať rozsah; byť schopný vystreliť na určitú vzdialenosť ako zbraň.
+0.2	Vydajte drvivý zvuk pravdepodobne v dôsledku lisovania alebo brúsenia.	mať rozsah; byť schopný vystreliť na určitú vzdialenosť ako zbraň.
 1.4	umiestniť alebo položiť akoby na hromadu	uzavrieť alebo akoby do rámu.
 0.6	akt trenia povrchu	akt nanášania farby na povrch.
 5	Pohybujte sa alebo sa usporiadajte (seba) v pohodlnej a útulnej polohe.	presunúť alebo zariadiť v pohodlnej a útulnej polohe.
 0.6	Odmietnuť uznať niečo ako platné (nie osobu).	rečový akt niečoho evidentného.
-0	akt obmedzovania, prevencie alebo blokovania niečoho	akt postúpenia alebo konzultácie.
+0	akt obmedzovania prevencie alebo blokovania niečoho	akt postúpenia alebo konzultácie.
 0.4	akt výberu alebo výberu	akt niečoho začať.
 1	akt niečoho použiť.	akt niečoho umiestniť.
 0	stretnúť alebo stretnúť sa na sociálnej alebo profesionálnej úrovni	získať alebo vydierať (peniaze alebo iný majetok) od niekoho.
-0	kontext alebo prostredie, v ktorom sa niečo odohráva	akt niečoho začať.
+0	kontext alebo prostredie v ktorom sa niečo odohráva	akt niečoho začať.
 0	stav zachovania	akt niečoho rozbiť.
 4.85	Vopred; prispievať k pokroku alebo rastu.	prispievať k pokroku alebo rastu.
-1.8	spôsobiť alebo stať sa prístupným, sprístupniť alebo sprístupniť	spôsobiť alebo utrpieť alebo sa stať zodpovedným alebo zraniteľným voči.
+1.8	spôsobiť alebo stať sa prístupným sprístupniť alebo sprístupniť	spôsobiť alebo utrpieť alebo sa stať zodpovedným alebo zraniteľným voči.
 1	odobrať z miesta alebo z kancelárie	odstrániť z pamäti alebo existencie.
 0	akt zachovania alebo ochrany niečoho	akt niečoho vychovať.
 4.6	získať alebo nájsť späť; zotaviť sa	získať alebo nájsť späť; obnoviť použitie.
 0.2	považovať za pravdepodobné alebo rozumné	zmeniť smerom k niečomu menšiemu alebo nižšiemu.
 0	Predmet zhoršuje dýchanie niekoho alebo niečoho.	výhoda v prospech niekoho alebo niečoho.
 4.2	vykonávať alebo dokončiť činnosť	vykonať alebo vykonať akciu.
-4.4	Znížte sa, ponorte sa alebo sa usaďte z tlaku alebo straty napnutia; menej intenzívne.	ovisnúť, klesnúť alebo sa usadiť z tlaku alebo straty napätia
+4.4	Znížte sa ponorte sa alebo sa usaďte z tlaku alebo straty napnutia; menej intenzívne.	ovisnúť klesnúť alebo sa usadiť z tlaku alebo straty napätia
 0	spôsobiť prechod z jedného kurzu alebo na iný	spôsobiť (kvapalinu) vylúhovanie alebo perkoláciu.
-1.6	(spôsobiť) sa objaviť náhle alebo krátko	spôsobiť, že sa objavia v novej podobe.
+1.6	(spôsobiť) sa objaviť náhle alebo krátko	spôsobiť že sa objavia v novej podobe.
 0.4	čin ublíženia alebo ublíženia niekomu	akt kreslenia alebo ťahania niečoho.
-0	akt pohybu, niečoho otočenia	akt niečoho zostrojiť.
+0	akt pohybu niečoho otočenia	akt niečoho zostrojiť.
 0	akt zachovania alebo ochrany niečoho	nakreslite obrys alebo náčrt niečoho.
-1.4	(spôsobiť) sa rozdeliť, oddeliť alebo rozdeliť	spôsobiť rozrušenie, vzrušenie alebo prebudenie.
+1.4	(spôsobiť) sa rozdeliť oddeliť alebo rozdeliť	spôsobiť rozrušenie vzrušenie alebo prebudenie.
 1.2	odobrať z miesta alebo z kancelárie	odstrániť zo súťaže alebo závodu.
 4.46666666666667	podrobne vysvetliť	rozprávať alebo podrobne vysvetliť.
 0.8	akt prevrátenia predmetu do vzduchu	akt zapriahnutia alebo roztrhnutia alebo rozdelenia niečoho.
 0.2	akt zachovania alebo ochrany niečoho	akt výberu alebo výberu.
-0	akt protestu, nesúhlasu	akt niečoho rozbiť.
+0	akt protestu nesúhlasu	akt niečoho rozbiť.
 0	činnosť vydávania sa za niekoho alebo niečo iné	činnosť ochrany niekoho alebo niečoho.
 0	urobte obraz alebo zvuk jasnejším; zamerať	urobiť neporiadok alebo vytvoriť neporiadok v.
-0.2	čin otáčania, otáčania predmetu	akt chytenia predmetu rukami.
-1	akt ocenenia, kritiky niečoho	akt zmenšovania alebo zmenšovania niečoho.
+0.2	čin otáčania otáčania predmetu	akt chytenia predmetu rukami.
+1	akt ocenenia kritiky niečoho	akt zmenšovania alebo zmenšovania niečoho.
 4.2	(Príčina) beží mierne rýchlym tempom.	bežať mierne rýchlym tempom.
 0.4	tráviť čas na konkrétnom mieste alebo spôsobom	prideliť nový čas a miesto udalosti.
 0	(Pretože) byť niečím zakrytý.	dať niekomu za niečo úver.
@@ -631,44 +631,44 @@
 0	prudký stav nedôvery k niečomu	akt výberu alebo výberu.
 0.2	skutok zatajovania alebo maskovania	akt formovania alebo založenia niečoho.
 0	príčina alebo podnet na niečo	koniec alebo dokončenie niečoho.
-4.4	Stratte jasnosť alebo odbočte stranou, najmä pokiaľ ide o hlavný predmet pozornosti alebo priebeh hádky.	stratiť jasnosť alebo odbočiť stranou najmä od hlavného predmetu pozornosti alebo priebehu hádania pri písaní, premýšľaní alebo rozprávaní.
-0	kontext alebo situácia, ktorá bráni alebo prekáža	negatívny aspekt niečoho, čo je všeobecne pozitívne.
+4.4	Stratte jasnosť alebo odbočte stranou najmä pokiaľ ide o hlavný predmet pozornosti alebo priebeh hádky.	stratiť jasnosť alebo odbočiť stranou najmä od hlavného predmetu pozornosti alebo priebehu hádania pri písaní premýšľaní alebo rozprávaní.
+0	kontext alebo situácia ktorá bráni alebo prekáža	negatívny aspekt niečoho čo je všeobecne pozitívne.
 0	Vytvorte v niečom elektrický skrat.	hádať sa o niečom.
-3.2	Majte pleť so silnou jasnou farbou; odrážať emócie prostredníctvom vlastnej pleti.	majú pleť výraznej jasnej farby, napríklad červenej alebo ružovej.
+3.2	Majte pleť so silnou jasnou farbou; odrážať emócie prostredníctvom vlastnej pleti.	majú pleť výraznej jasnej farby napríklad červenej alebo ružovej.
 3	pripísať alebo umiestniť v spojení s	byť alebo konať v spojení s.
 0	Rastlinná štruktúra v hornej časti rastliny.	silný prúd vzduchu.
 0	akt trenia povrchu	úkon poskytnutia dočasnej pomoci.
 0.4	akt predpovedania alebo predpovedania niečoho	akt niečoho začať.
-5	Množstvo, ktoré môže byť obsiahnuté	množstvo, ktoré môže obsahovať.
+5	Množstvo ktoré môže byť obsiahnuté	množstvo ktoré môže obsahovať.
 0	zaoblený koniec kosti	dať niekomu do mysle.
 0	činnosť umiestnenia alebo umiestnenia objektu	stav života alebo stav bytia nažive.
-1.8	čin ublíženia alebo ublíženia niekomu	čin bránenia, bránenia alebo bránenia.
-4.5	spravovať alebo dávať ako porcie	spravujte alebo obdarúvajte, ako v malých dávkach.
-0	tvrdenie tvrdenia ponúkaného ako pravdivé	konanie proti niečomu, s čím nesúhlasíte alebo nesúhlasíte.
+1.8	čin ublíženia alebo ublíženia niekomu	čin bránenia bránenia alebo bránenia.
+4.5	spravovať alebo dávať ako porcie	spravujte alebo obdarúvajte ako v malých dávkach.
+0	tvrdenie tvrdenia ponúkaného ako pravdivé	konanie proti niečomu s čím nesúhlasíte alebo nesúhlasíte.
 0	akt vstupu do štruktúry	stav bytia skutočný alebo skutočný.
 0	akt zachovania alebo ochrany niečoho	akt niečoho ukončiť.
-4.8	Oblasť, ktorá je centrálna v rámci nejakého väčšieho regiónu.	oblasť, ktorá je približne v strede nejakého väčšieho regiónu.
+4.8	Oblasť ktorá je centrálna v rámci nejakého väčšieho regiónu.	oblasť ktorá je približne v strede nejakého väčšieho regiónu.
 0	znížiť cenu niečoho	miera nejakej opakujúcej sa udalosti.
-0	Prípad alebo nesprávna činnosť.	status alebo skutočnosť, že sú volení.
+0	Prípad alebo nesprávna činnosť.	status alebo skutočnosť že sú volení.
 0	stav bytia v prevádzkyschopnom stave	stav bytia skutočný alebo skutočný.
 1.3	stav zachovania	stav spojenia.
 1.2	činnosť umiestnenia alebo umiestnenia objektu	formácia ľudí alebo vecí vedľa seba.
 0.4	akt brannej služby vojakov pre armádu	čin súťaženia o zisk alebo cenu.
 0.4	akt predpovedania alebo predpovedania niečoho	akt zastavenia niečoho.
 0.8	stav zamestnania	stav vylúčenia.
-0	mať na pamäti ako plán alebo účel	utrite špongiou, aby ste vyčistili alebo navlhčili.
-0	akt protestu, nesúhlasu	akt prudkého zasiahnutia.
-5	trieda študentov učila spolu	skupina študentov, ktorí sa učia spoločne.
+0	mať na pamäti ako plán alebo účel	utrite špongiou aby ste vyčistili alebo navlhčili.
+0	akt protestu nesúhlasu	akt prudkého zasiahnutia.
+5	trieda študentov učila spolu	skupina študentov ktorí sa učia spoločne.
 4.85	Vopred; prispievať k pokroku alebo rastu.	prispievať k pokroku alebo rastu.
 0	Dať do pohybu alebo pohnúť konať; urobiť aktívnym alebo aktívnejším.	niečo slúžiace ako krytie alebo ochrana.
-0	akt skrátenia dĺžky, odrezania	akt tvorby alebo uzákonenia zákonov.
-0	akt pohybu, niečoho otočenia	akt niečoho lezenia.
+0	akt skrátenia dĺžky odrezania	akt tvorby alebo uzákonenia zákonov.
+0	akt pohybu niečoho otočenia	akt niečoho lezenia.
 4.91666666666667	(spôsobiť) oddelenie alebo pohyb v rôznych smeroch	spôsobiť rozchod a ísť rôznymi smermi.
 0.2	zakryte základnou farbou	pohybovať sa mlátiacim pohybom.
-0.6	stav možností, alternatív	akt pristátia po plavbe.
+0.6	stav možností alternatív	akt pristátia po plavbe.
 0.8	akt zachovania alebo ochrany niečoho	akt vnímania pachu niečoho.
 4	správať alebo sa pohybovať určitým spôsobom	správať sa určitým spôsobom.
-0	podstata alebo podstata niečoho	nevýhoda, ktorá vyplýva zo straty niečoho.
+0	podstata alebo podstata niečoho	nevýhoda ktorá vyplýva zo straty niečoho.
 4.4	pripraviť / uviesť do činnosti alebo použiť	pripravte sa na akciu alebo použitie.
 2.2	spôsobiť ponorenie do	spôsobiť záujem alebo zvedavosť.
 4.4	druh vojenského lietadla	jednotka vojenských lietadiel.
@@ -676,64 +676,64 @@
 0	hraničná oblasť alebo okraj niečoho	koncentrovaný príklad niečoho.
 4.4	činnosť skúmania alebo posudzovania niečoho	akt označenia alebo identifikácie niečoho.
 0.6	Akt začiatku niečoho nového.	akt niečoho ukončiť.
-0	kvalita zvýšeného svetla na plochách objektu	deň, keď musí byť záväzok splatený.
-0	spojiť; zlúčiť s niečím, čo už existuje	zmieriť sa s niečím alebo niekým nepríjemným.
-0.4	akt pohybu, niečoho otočenia	čin odstránenia alebo zbavenia sa niečoho.
+0	kvalita zvýšeného svetla na plochách objektu	deň keď musí byť záväzok splatený.
+0	spojiť; zlúčiť s niečím čo už existuje	zmieriť sa s niečím alebo niekým nepríjemným.
+0.4	akt pohybu niečoho otočenia	čin odstránenia alebo zbavenia sa niečoho.
 1	stav zachovania	stav podozrenia.
-0	akt riadenia, správy	rýchlosť pohybu (najmä chôdza alebo beh).
+0	akt riadenia správy	rýchlosť pohybu (najmä chôdza alebo beh).
 0.4	kvalita užitočnosti pre niečo	akt niečoho si vymyslíš.
 0	akt výberu alebo výberu	akt niečoho vychovať.
 5	byť v priamom fyzickom kontakte s	byť v priamom fyzickom kontakte s; nadviazať kontakt.
-0	miesto, v ktorom má orgán moc	akt pridania jednej veci k druhej.
+0	miesto v ktorom má orgán moc	akt pridania jednej veci k druhej.
 2.6	najdôležitejšia súčasť niečoho	najvyšší možný stupeň niečoho.
 2.8	označte alebo zakryte bodkami alebo akoby bodkami	zakryť alebo akoby plášťom.
 0.4	akt uvedenia niečoho do užívania.	akt niečoho začať.
-0	Zvracanie, kontrolovane alebo nekontrolovane.	niečo skopírované alebo odvodené od originálu.
+0	Zvracanie kontrolovane alebo nekontrolovane.	niečo skopírované alebo odvodené od originálu.
 0	akt prípravy niečoho.	všeobecný vonkajší vzhľad niečoho.
 2	akt obhajovania alebo propagácie niečoho	akt niečoho vychovať.
 4.91666666666667	(spôsobiť) oddelenie alebo pohyb v rôznych smeroch	spôsobiť rozchod a ísť rôznymi smermi.
 0	akt niečoho použiť.	cesta nasledovaná objektom pohybujúcim sa vesmírom.
-0	priestorový koniec alebo najvzdialenejšia hranica niečoho	vzťah, ktorý dáva základ niečomu.
+0	priestorový koniec alebo najvzdialenejšia hranica niečoho	vzťah ktorý dáva základ niečomu.
 0.8	čin nahradenia jednej veci druhou	čin kontaktu jednej veci s druhou.
 0.6	akt zachovania alebo ochrany niečoho	akt zmenšovania alebo zmenšovania niečoho.
 0.4	skutok zatajovania alebo maskovania	stav vylúčenia.
 0	akt nanášania farby na povrch	akt hodenia mincou.
 4.2	správať alebo sa pohybovať určitým spôsobom	správať sa určitým spôsobom.
 4.66666666666667	Zdrobnite alebo rozdrvte na malé kúsky.	rozdrvením alebo obrúsením rozdrobte na malé kúsky alebo častice.
-0	skutok zatajovania alebo maskovania	čin oslobodenia mesta alebo mesta, ktoré bolo obkľúčené.
-0	Nanášajte na krém, ako na tvár alebo telo.	nosiť, ako na chrbte.
-1	podporovateľ, zástanca niečoho alebo niekoho	vizuálny vzhľad niečoho alebo niekoho.
+0	skutok zatajovania alebo maskovania	čin oslobodenia mesta alebo mesta ktoré bolo obkľúčené.
+0	Nanášajte na krém ako na tvár alebo telo.	nosiť ako na chrbte.
+1	podporovateľ zástanca niečoho alebo niekoho	vizuálny vzhľad niečoho alebo niekoho.
 4.85	Vopred; prispievať k pokroku alebo rastu.	prispievať k pokroku alebo rastu.
-0	Noste alebo ukážte, ako na niečom alebo v časti odevu.	dôsledkom niekoho úsilia alebo konkrétnych okolností.
+0	Noste alebo ukážte ako na niečom alebo v časti odevu.	dôsledkom niekoho úsilia alebo konkrétnych okolností.
 2.6	presunúť sa do určitej polohy a zostať v nej	sústrediť sa na konkrétne miesto alebo miesto.
 4.2	(spôsobiť) pohybovať sa tam a späť alebo zo strany na stranu	pohybujte sa tam a späť alebo do strán.
 4	Predajte niečo podvodom alebo od neho niečo získajte.	predať niečo alebo z čoho niečo získať energickou a hlavne tajnou činnosťou.
-0	stav, keď ste neoblečení, nahí	akt niečoho lezenia.
+0	stav keď ste neoblečení nahí	akt niečoho lezenia.
 0	hluk niečoho klepajúceho o povrch	udalosť niečoho horiaceho (často deštruktívneho).
 0.2	akt predpovedania alebo predpovedania niečoho	akt udržania niečoho.
-4.4	Zásobovanie vodou pre plodiny, ako sú kanály, priekopy alebo potoky.	zásobovanie vodou, ako sú kanály, priekopy alebo potoky.
+4.4	Zásobovanie vodou pre plodiny ako sú kanály priekopy alebo potoky.	zásobovanie vodou ako sú kanály priekopy alebo potoky.
 0.8	vytrhnutie alebo zachytenie voľne sa pohybujúceho objektu	hľadanie alebo nákup tovaru alebo služieb.
 0	(Príčina) sa stane široko distribuovanou.	stať sa alebo spôsobiť prekážku.
 1.26666666666667	Ľudský čin výroby niečoho nového.	rečový akt niečoho evidentného.
 4	vysledovať formu alebo obrys	ukázať formu alebo obrys.
 0	Vydlabajte vo forme brázdy alebo drážky.	prechádzajte s alebo akoby s hrabľami.
-0	Akt spätného odkúpenia niečoho, čo sa predtým predalo.	akt vysvetlenia; urobiť niečo jasné alebo zrozumiteľné.
+0	Akt spätného odkúpenia niečoho čo sa predtým predalo.	akt vysvetlenia; urobiť niečo jasné alebo zrozumiteľné.
 1.2	činnosť skúmania alebo posudzovania niečoho	akt formovania alebo založenia niečoho.
 4.4	Sťažovať sa; rozprávať v slzách.	rozprávať v slzách.
-0	existujú určitým spôsobom, režimom alebo štýlom	posledný alebo najnižší v poradí alebo sérii.
+0	existujú určitým spôsobom režimom alebo štýlom	posledný alebo najnižší v poradí alebo sérii.
 0.4	čin ublíženia alebo ublíženia niekomu	akt výberu alebo výberu.
-4.6	zbierať alebo zbierať prírodné produkty	zhromažďovať, ako z prírodných produktov.
+4.6	zbierať alebo zbierať prírodné produkty	zhromažďovať ako z prírodných produktov.
 4.26666666666667	zmieriť sa s niečím nepríjemným	zmieriť sa s niečím alebo niekým nepríjemným.
 0.2	Nasýtiť alebo naočkovať látkou.	urobte na povrchu značku alebo čiary.
-0	čin otáčania, otáčania predmetu	akt pridania jednej veci k druhej.
+0	čin otáčania otáčania predmetu	akt pridania jednej veci k druhej.
 4.4	robiť stopy na povrchu	urobte na povrchu značku alebo čiary.
 0.8	akt niečoho použiť.	akt najatia niečoho alebo niekoho.
-0	identifikácia alebo realizácia niečoho	časové obdobie, ktoré sa považuje za najlepšie na začatie alebo dokončenie niečoho.
-4	pripraviť, vybaviť	pripravte sa na akciu alebo použitie.
+0	identifikácia alebo realizácia niečoho	časové obdobie ktoré sa považuje za najlepšie na začatie alebo dokončenie niečoho.
+4	pripraviť vybaviť	pripravte sa na akciu alebo použitie.
 0.8	akt úmyselného vynechania niečoho	akt zapriahnutia alebo roztrhnutia alebo rozdelenia niečoho.
 1.4	čin nahradenia jednej veci druhou	akt pridania jednej veci k druhej.
 3.8	Príčina pohybu silou dopredu.	meniť alebo sa pohybovať od pevného bodu alebo kurzu.
-0	spôsob, akým niečo alebo niečo funguje alebo funguje	množstvo, o ktoré niečo klesá.
+0	spôsob akým niečo alebo niečo funguje alebo funguje	množstvo o ktoré niečo klesá.
 1.8	zraniť otočením alebo otočením	pohybovať sa prevrátením alebo otočením.
 0.6	akt predpovedania alebo predpovedania niečoho	akt zmenšovania alebo zmenšovania niečoho.
 2.2	byť v stave alebo umiestnení	vložiť na určité miesto alebo abstraktné miesto.
@@ -741,10 +741,10 @@
 0.6	Ľudský čin výroby niečoho nového.	akt niečoho vychovať.
 5	záverečná časť oznámenia	posledná časť oznámenia.
 0	koruna kvitnúcej rastliny	zníženie hodnoty alebo hodnoty niečoho.
-4.6	chcieť, túžiť alebo radšej niečo robiť	uprednostniť alebo chcieť niečo urobiť.
+4.6	chcieť túžiť alebo radšej niečo robiť	uprednostniť alebo chcieť niečo urobiť.
 0.6	činnosť vydávania sa za niekoho alebo niečo iné	akt oslobodenia niekoho alebo niečoho.
-4.4	Zásobovanie vodou pre plodiny, ako sú kanály, priekopy alebo potoky.	zásobovanie vodou, ako sú kanály, priekopy alebo potoky.
-0.2	akt kombinovania, miešania, integrácie	(teológia) Boží akt uvedenia vesmíru do existencie.
+4.4	Zásobovanie vodou pre plodiny ako sú kanály priekopy alebo potoky.	zásobovanie vodou ako sú kanály priekopy alebo potoky.
+0.2	akt kombinovania miešania integrácie	(teológia) Boží akt uvedenia vesmíru do existencie.
 1	činnosť vydávania sa za niekoho alebo niečo iné	čin niečoho alebo niekoho poškodiť.
 3.7	čin ublíženia alebo ublíženia niekomu	čin niečoho alebo niekoho poškodiť.
 4.26666666666667	zmieriť sa s niečím nepríjemným	zmieriť sa s niečím alebo niekým nepríjemným.

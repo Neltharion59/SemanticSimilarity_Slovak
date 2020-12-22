@@ -1,17 +1,17 @@
 0.8	zmerať hĺbka vodný plocha	akýkoľvek veľký hlboký vodný plocha
 3	niekto kto hrať hlavná rola	herec ktorý hrať hlavná rola
 3.8	spôsobiť spočinúť na povrch	dosiahnuť alebo prísť k odpočinok
-2.2	akt ? alebo propagácia niečo	akt výber alebo výber
+2.2	akt alebo propagácia niečo	akt výber alebo výber
 3.8	alfanumerický sekvencia použitý na identifikácia	číslica alebo reťazec číslica ktorý sa používať na identifikácia
-2.6	stav ? alebo ?	v prípad že sa niečo zdvihnúť nahor
+2.6	stav alebo	v prípad že sa niečo zdvihnúť nahor
 0.6	akt niečo zdvihnúť	akt niečo lezenie
 0.2	zviazať alebo spojiť akoby cement	svietiť intenzívne akoby teplo
 1	konečne niečo urobiť alebo niekde byť	spôsobiť že niečo niekam prejsť alebo viesť
 3.2	bod ako opačný časť šíp kompas	značka v tvar v na jeden koniec ukazovateľ šípka
-0.4	akt zachovanie alebo ochrana niečo	akt ? alebo ? niečo
+0.4	akt zachovanie alebo ochrana niečo	akt alebo niečo
 4	nátlak násilie naplnený teror	nátlak násilie alebo vyhrážka
 1.6	spôsobiť pohyb spôsobiť pohyb	ukončiť činnosť alebo spôsobiť jej ukončenie
-0	vysoký oblasť oblasť niečo	akt ? alebo ? niečo
+0	vysoký oblasť oblasť niečo	akt alebo niečo
 0	dôležitý súčasť niečo	mať príchuť ochutnať niečo
 4.4	správať alebo sa pohybovať určitý spôsob	správať sa určitý spôsob
 3	reprodukcia alebo fyzický znázornenie niečo	vizuálne znázornenie niečo
@@ -27,39 +27,39 @@
 0	uvedenie odkaz alebo citácia niečo	zmeniť povaha účel alebo funkcia niečo
 3.8	predať niečo podvod alebo od on niečo získať	predať niečo alebo z čo niečo získať energický a hlaveň tajný činnosť
 0.2	akt určenie alebo objavenie poloha objekt	povrch tvoriaci časť vonkajší strana objekt
-4	pocit alebo stav spokojnosť úľava	stav uvoľnenie a ? bolesť
+4	pocit alebo stav spokojnosť úľava	stav uvoľnenie a bolesť
 4.2	fyzicky sa rozšíriť alebo rozšíriť smer von od stred alebo zaostriť alebo dovnútra smer k stred fyzicky sa šíriť z východiskový bod	predĺžiť alebo rozšíriť smer von od stred alebo zaostriť alebo dovnútra smer k stred
 2	miesto do pôda pre pestovanie	položiť alebo položiť na zem
 0.8	približný množstvo niečo	vizuálne znázornenie niečo
 4.4	stimulovať sexuálne získať sexuálne uspokojenie prostredníctvo vlastný stimulácia	získať sexuálne uspokojenie prostredníctvo vlastný stimulácia
-0.8	akt uznanie pravda niečo	akt ? z niečo
+0.8	akt uznanie pravda niečo	akt z niečo
 4.2	vyjadrovať počuteľne úplný zvuk nie nevyhnutne slovo naznačiť	vyjadrovať počuteľne úplný zvuk nie nevyhnutne slovo
 0.6	stav podozrenie	stav vylúčenie
-0	akt poskytnutie súhlas a podpor	akt ? a kontrola majetok
+0	akt poskytnutie súhlas a podpor	akt a kontrola majetok
 4.8	uvoľniť niekto z práca striedanie striedať sa v práca	odbremeniť niekto od práca striedanie
 0	strana alebo povrch niečo	krátky skúsenosť niečo
 1.4	vysloviť určitý spôsob	sa javiť určitý spôsob
-3	čin otáčanie otáčanie predmet	otáčanie alebo ? dookola na miesiť
+3	čin otáčanie otáčanie predmet	otáčanie alebo dookola na miesiť
 4	príčina zvýšenie rozsah alebo intenzita	zvýšenie rozsah alebo intenzita
 0.4	právny stav dlženiť peniaze	slovný akt ponúkaní
 4.6	da큐 zmysel da큐 zmysel	dávať zmysel priradiť význam
-1	akt začiatok niečo nový	akt ? niečo alebo niekto
+1	akt začiatok niečo nový	akt niečo alebo niekto
 4.2	tlačený verzia elektronický údaj z počítač	informatik hmota ktorý byť uložený v počítač a byť napísaný na stroj alebo vytlačený na papier
 5	obmedziť množstvo alebo kvalita	limit v kvalita alebo množstvo
 3.5	hľadať ako dno vodný plocha niečo	hľadať ako dno vodný plocha niečo cenný alebo stratený
-2.25	akt odovzdanie alebo strata niečo na hodnota	akt ? alebo ? niečo
+2.25	akt odovzdanie alebo strata niečo na hodnota	akt alebo niečo
 4.8	fyzický akt nasledovanie v snaha predbehnúť alebo zajať	čin prenasledovanie v snaha predbehnúť alebo zajať
 4.4	vytlačiť alebo vysunúť slina hlien spútať alebo zvratok z ústa	vypudiť alebo vylúčiť slina alebo hlien alebo spútať z ústa
 0	prirodzený vývoj alebo vývoj niečo	čin alebo prostriedok ako sa niečo zbaviť
 0	akt niečo zdvihnúť	akt niečo opísať
-0	vysvetlenie alebo alibizmus k niečo	názor ktorý vzniknúť ? niečo
+0	vysvetlenie alebo alibizmus k niečo	názor ktorý vzniknúť niečo
 4.8	zotaviť sa vrátiť sa do pôvodný stav	návrat do pôvodný stav
 3.6	konať bez povolenie alebo s príliš veľký dôvera	brať sloboda alebo konať s prílišný sebadôvera
 0.75	akt príprava niečo	akt nie훾o testova큐
 0	stať sa vlastník alebo držiteľ niečo	nie훾o spravi큐 film alebo fotografia
 0.4	akt pohyb nie훾o oto훾enie	akt odmietnutie niečo
 0.4	akt obmedzovanie prevencia alebo blokovanie niečo	akt nie훾o testova큐
-0.4	akt príprava niečo	akt ? alebo ? niečo
+0.4	akt príprava niečo	akt alebo niečo
 0.4	čin alebo prostriedok ako sa niečo zbaviť	fyzický poloha niečo
 0.4	tvar vlna v dan časový obdobie	obľúbený chutiť v dan čas
 0	osobitý štýl oblečenie	intuitívne pochopenie niečo
@@ -69,7 +69,7 @@
 3.8	zabrániť ten aby vy ostatný vidieť alebo vnímať	držať sa spätiť zabrániť ten aby vy ostatný vnímať
 3.4	dokument ktorý iný oprávňovať hlasovať v jeho mena	dokument o plný moc udelený akcionár spoločnosť ktorý oprávňovať na ich hlasovanie na konkrétny hlasovanie na zasadnutie spoločnosť
 0.8	akt niečo zdvihnúť	akt udr탑anie nie훾o
-0.8	akt ? miešanie integrácia	čin čipovanie niečo
+0.8	akt miešanie integrácia	čin čipovanie niečo
 4.5	cítiť pri vdýchnutie nos	vnímať vdýchnutie cez nos
 0.8	uzavretie oznámenie	zamýšľaný význam komunikácia
 3.8	spôsobiť prijať iný systém hodnota alebo hľadisko	spôsobiť nový alebo iný viera
@@ -77,7 +77,7 @@
 0.2	akt výber alebo výber	훾in strata niekto alebo nie훾o
 4	príbeh alebo správa myslený ako vecný správa	krátky prehľad novinka
 3.8	gravírovať pomoc bodka	gravírovať pomoc bodka a rýchly pohyb
-1.2	akt ? nie훾o pre훾	akt nie훾o vychova큐
+1.2	akt nie훾o pre훾	akt nie훾o vychova큐
 4.6	rozhodnúť o suma ktorý sa mať zaplatiť z poistný udalosť	rozhodnúť koľko sa mať zaplatiť z poistný udalosť
 3.8	robiť hluk ako zlý motor	vydávať zvuk typický pre motor bez mazivo
 4.8	byť v priamy fyzický kontakt s	byť v priamy fyzický kontakt s nadviazať kontakt
@@ -88,11 +88,11 @@
 3.8	obchod alebo dodávka niečo	obchod alebo dodávka niečo najmä jedlo alebo oblečenie alebo zbraň
 2.6	navrhnúť alebo predpísať riešenie	naznačovať nevyhnutnosť zásah v medicína
 0.6	osoba ktorý spravovať peniaz v stolový hra	osoba ktorý mať na starostiť
-0.6	akt trenie povrch	akt ? ? sila
+0.6	akt trenie povrch	akt sila
 0.6	akt rozdelenie alebo odpojenie	akt vylúčenie alebo projektovanie alebo vyhodenie z obeh
 1.2	akt overenie pravosť niečo	akt skrytie identita niečo úprava jeho vzhľad
 0.4	akt príprava niečo	čin vytlačenie niekto alebo niečo
-0	akt zachovanie alebo ochrana niečo	čin ? alebo ?
+0	akt zachovanie alebo ochrana niečo	čin alebo
 4.4	odpor alebo prístup ako v nepriateľstvo alebo konkurencia	oponovať ako v nepriateľstvo alebo v súťaž
 1.4	cestovaÅ¥ akoby cez voda	pohybovať sa akoby cez sito
 4	spravovať alebo dávať ako porcia	spravovať alebo obdarúvať ako v malá dávka
@@ -100,12 +100,12 @@
 4	vyvolať akcia pomoc šarm človek vyprovokovať niečo urobiť	navodiť do akcia použitie šarm človek
 4.6	prepojený podzemný tunel používaný králik	rad prepojený podzemný tunel obsadený králik
 4.6	pevne držať alebo objať	pevne držať
-2.6	tvar vlna v dan časový obdobie	tvar vlna graficky ? ? hodnota množstvo perióda proti čas
+2.6	tvar vlna v dan časový obdobie	tvar vlna graficky hodnota množstvo perióda proti čas
 0.2	dôležitý súčasť niečo	spodný časť čokoľvek
 0.2	akt kontrola ten že niekto alebo niečo obmedzovať	akt oslobodenie niekto alebo niečo
 2	akt plánovanie alebo rokovanie	činnosť uvedenie niečo do prevádzka
 0	byť umiestnený na niečo alebo na on	spôsobiť niekto niečo podstúpiť
-0	vôňa alebo vôňa niečo	akt ? alebo ? niečo
+0	vôňa alebo vôňa niečo	akt alebo niečo
 3.4	príčina vydať suchý praskavý zvuk pravdepodobne zmiešanie	vydať suchý praskavý zvuk
 4.2	naplniť pripevniť zafixovať alebo akoby guma	zakryť vyplniť zafixovať alebo potrieť guma alebo akoby guma
 1.2	akt rozprávanie o vlastnosť niečo	akt zdieľanie na činnosť skupina
@@ -113,7 +113,7 @@
 4.2	prirodzený rast rastlina zvyčajne strom	rast podobný rastlina zvyčajne strom v konkrétny oblasť
 0.2	akt plánovanie alebo rokovanie	akt prasknutie niečo
 0.4	fyzický rozloha vesmír	fyzický poloha niečo
-4.2	hraničný oblasť alebo okraj niečo	hranica ? koniec niečo
+4.2	hraničný oblasť alebo okraj niečo	hranica koniec niečo
 3.4	dosiahnuť cieliť alebo cieliť	dosiahnuť cieliť prísť pohyb alebo pokrok
 0.4	akt zachovanie alebo ochrana niečo	akt vylúčenie alebo projektovanie alebo vyhodenie z obeh
 4	argumentova큐 alebo prosi큐 v prospech	argumentova큐 alebo hovori큐 na obrana
@@ -123,15 +123,15 @@
 0.75	akt pretrhnutie roztrhnutie roztrhnutie	čin zníženie množstvo alebo počet
 4.8	vybavený ozbrojený a obrnený motorový vozidlo ako armáda	vybavený ozbrojený a obrnený motorový vozidlo
 2.8	obsah komunikácia	posledný časť oznámenie
-0	akt zmena kurz alebo vytočenie sa	akt označovanie alebo ? na meno
+0	akt zmena kurz alebo vytočenie sa	akt označovanie alebo na meno
 0	akt silný stlačenie	čin narušenie myseľ alebo telo
-0.6	stav alebo stav ? alebo ?	podmienka motivácia
+0.6	stav alebo stav alebo	podmienka motivácia
 0.4	presunúť do nízky poloha niečo ukončiť	znížiť výška tón nota
 0.4	čin ťahaniť bremeno	akt predloženie návrh
 0.4	spôsobiť sa objaviť náhle alebo krátko	náhle a rázne sa rozlomiť alebo rozdeliť
 0.8	ľudský čin výroba niečo nový	rečový akt niečo evidentný
-1	urobiť alebo stať sa ? alebo intenzívny	pripraviť sa na akcia alebo použitie
-4	činnosť lámanie alebo ? niečo	akt nie훾o rozbi큐
+1	urobiť alebo stať sa alebo intenzívny	pripraviť sa na akcia alebo použitie
+4	činnosť lámanie alebo niečo	akt nie훾o rozbi큐
 1.6	extrémny koncový bod niečo	získať význam niečo
 2.4	vykonať akcia s úmysel oklamať	urobiť kópia s úmysel oklamať
 4.6	z akýkoľvek príčina alebo zdroj veľký utrpenie	akýkoľvek utrpenie ktorý spôsobovať veľký utrpenie
@@ -143,7 +143,7 @@
 4.6	zakryť základný farba	pokryť základný náter naniesť základný náter na
 3.8	odhaliť logický alebo príčinný súvislosť spolupracovník	vytvoriť logický alebo príčinný súvislosť
 0.2	prepísať iný skript	predĺžiť iný smer
-0.6	akt uvažovanie ?	akt začiatok niečo nový
+0.6	akt uvažovanie	akt začiatok niečo nový
 0.4	akt prednes prejav	čin nepravdivý vzhľad
 0.4	byť umiestnený na niečo alebo na on	pozorovať alebo zakresľovať pohyblivý cesta niečo
 0.2	čin otáčanie otáčanie predmet	akt nie훾o rozbi큐
@@ -152,7 +152,7 @@
 0.2	kontext alebo prostredie v ktorý sa niečo odohrávať	akt rozrezanie niečo na časť
 3.4	tolerovať prijať alebo prevziať zodpovednosť	dať záruka alebo prevziať zodpovednosť
 5	presunúť z jeden miesto na druhý	presunúť sa z jeden miesto na druhý
-0.4	akt niečo testovanie	akt ? niečo
+0.4	akt niečo testovanie	akt niečo
 2.8	dať niečo performatívny afekt	poda큐 predstavenie nie훾o
 4	účastník ktorý byť začiatočník v nejaký činnosť	akýkoľvek nový účastník nejaký aktivita
 3.8	otočiť pádlo alebo veslo	otočiť pádlo v kanoe
@@ -170,30 +170,30 @@
 3.2	odniesť odniekiaľ niečo alebo niekto	zobra큐 niekam nie훾o alebo niekto so seba
 0.6	energia vo forma molekulárny pohyb	peniaz vo forma bankovka alebo minca
 0	stav vystavenie ujaÅ¥	stav extrémny chudoba
-1.4	akt príprava niečo	akt ? alebo ? niečo
+1.4	akt príprava niečo	akt alebo niečo
 0.4	akt niečo testovanie	akt odmietnutie niečo
 3.2	mať silný túžba niečo robiť	mať želanie alebo túžba niečo vedieť
 1.8	prijať psychicky alebo fyzicky	vziaÅ¥ plyn svetlo alebo teplo do roztok
 0.2	akt úmyselný vynechanie niečo	akt zapriahnutie alebo roztrhnutie alebo rozdelenie niečo
-2.4	vysloviť s nosový ?	vysloviť s počiatočný ?
+2.4	vysloviť s nosový	vysloviť s počiatočný
 4	sklon alebo sklon	stúpanie alebo stúpanie ako na cesta
 1	pridelenie alebo percento niečo	relatívne dlhý úzky kúsok niečo
 3.6	kvetný vädnúť alebo nedokonale dozrievať ako kvet	scvrknúť alebo vädnúť alebo nedokonale dozrieť
 4.4	identifikovať určiť miesto alebo totožnosť	uznať ako zistiť totožnosť niekto alebo niečo
-0.6	akt ? nie훾o pre훾	akt niečo začať
+0.6	akt nie훾o pre훾	akt niečo začať
 0	vysvetlenie alebo alibizmus k niečo	povinnosť zaplatiť alebo niečo urobiť
 4.2	sklon zo zvislÃ½ poloha	nakloniť alebo ohnúť zo zvislý poloha
 4.4	konzervovať v plechovka alebo zavárací pohár	zavárať v plechovka alebo plechovka
 1	správať alebo sa pohybovať určitý spôsob	obliecť sa určitý spôsob
 0.8	akt niečo testovanie	akt nie훾o vychova큐
 4.4	podať klamlivý vysvetlenie zakryť	podať klamlivý vysvetlenie alebo ospravedlniť
-4.2	hlavná činnosť ktorý sa človek zaoberať ? peniaze	hlavná činnosť vo váš život ktorý sa zaoberať ? peniaze
+4.2	hlavná činnosť ktorý sa človek zaoberať peniaze	hlavná činnosť vo váš život ktorý sa zaoberať peniaze
 0.2	akt rozdelenie alebo odpojenie	akt kreslenie alebo ťahaniť niečo
 0.4	akt plánovanie alebo rokovanie	akt vzdialeniÅ¥ sa
 0	akt niečo testovanie	akt udr탑anie nie훾o
 4.8	12. mesiac kalendárny rok	posledný 12. mesiac v rok
 0	činnosť skúmanie alebo posudzovanie niečo	činnosť ochrana niekto alebo niečo
-0.4	čin otáčanie otáčanie predmet	čin ? alebo ? niekto
+0.4	čin otáčanie otáčanie predmet	čin alebo niekto
 3.8	spoločnosť ktorý poskytovať komodita verejný služba	spoločnosť ktorý vykonávať verejný služba podliehať nariadenie vláda
 4.6	zapojiť sa alebo zmiešať	zapojiť sa alebo zmiešať s
 2.6	postupný znižovanie sila signál	postupný pokles veľkosť alebo sila alebo sila alebo počet
@@ -204,10 +204,10 @@
 0.2	uviesť stimul alebo dôvod na akcia	podať výklad alebo vydanie
 4	biť alebo sa vrátiť skôr ako sa dotknúť zem	udrieť skôr ako sa dotknúť zem
 0	čin alebo prostriedok ako sa niečo zbaviť	stav neistota niečo
-0	čin ? niekto alebo niečo z vina	činnosť uvedenie niečo do prevádzka
+0	čin niekto alebo niečo z vina	činnosť uvedenie niečo do prevádzka
 3.8	opraviť alebo nastaviť fyzický objekt bezpečne alebo hlboko	bezpečne alebo hlboko zafixovať alebo nastaviť
-3.8	dej plán schéma alebo hlavný príbeh literárny alebo dramatický dielo pravdivý alebo fiktívny	príbeh ktorý byť ? v román alebo v divadelný hra alebo vo film atď
-4.2	činnosť lámanie alebo ? niečo	akt zapriahnutie alebo roztrhnutie alebo rozdelenie niečo
+3.8	dej plán schéma alebo hlavný príbeh literárny alebo dramatický dielo pravdivý alebo fiktívny	príbeh ktorý byť v román alebo v divadelný hra alebo vo film atď
+4.2	činnosť lámanie alebo niečo	akt zapriahnutie alebo roztrhnutie alebo rozdelenie niečo
 4.2	maloobchod s tovar na predaj	obchodný prevádzka pre maloobchod s tovar alebo služba
 4	náhle vykrútiť časť telo tak aby sa vyvrtnúť	náhle sa krútiť aby sa vyvrtnúť
 4.2	odolávať imunologický cudzí tkanivo alebo orgán	odolávať imunologický zavedenie cudzí tkanivo alebo orgán
@@ -226,29 +226,29 @@
 0.4	pôsobenie smer von	vlastnosť plytvanie zdroj
 0.2	dôsledok alebo následok niečo	mať príchuť ochutnať niečo
 3.6	príčina nárast úzkosť	spôsobiť panika
-0	činnosť skúmanie alebo posudzovanie niečo	akt ? alebo ? niečo
+0	činnosť skúmanie alebo posudzovanie niečo	akt alebo niečo
 1.4	akt zachovanie alebo ochrana niečo	akt formovanie alebo zalo탑enie nie훾o
 3.6	otočiť sa na os točiť sa	spôsobiť zapnutie os alebo stred
-3.8	PLAY OFF pustený do opozícia alebo ?	postaviť do opozícia alebo ?
+3.8	PLAY OFF pustený do opozícia alebo	postaviť do opozícia alebo
 1	spracovanie alebo prevádzka niečo	fyzický poloha niečo
 0.4	čin ťahaniť bremeno	akt sluch pozorne
 0.6	akt vysvetlenie alebo obrana niečo	akt označenie alebo identifikácia niečo
 0	prísť zaútočiť alebo chytiť niekto alebo niečo nevedomý	akt oslobodenie niekto alebo niečo
-0.6	čin otáčanie otáčanie predmet	akt ? niečo
+0.6	čin otáčanie otáčanie predmet	akt niečo
 2.8	sociálny alebo ekonomický úpadok niekto alebo skupina	zlyhanie ktorý viesť k strata pozícia alebo reputácia
 1.6	primárny zložka komunikácia	posledný časť oznámenie
-4.2	proces ? alebo ?	proces alebo výsledok ? alebo ?
+4.2	proces alebo	proces alebo výsledok alebo
 4.2	záverečná časť oznámenie	posledný časť oznámenie
-4.2	? alebo rozdrviť na malá kúsok	rozdrvenie alebo obrúsenie rozdrobiť na malá kúsok alebo častica
+4.2	alebo rozdrviť na malá kúsok	rozdrvenie alebo obrúsenie rozdrobiť na malá kúsok alebo častica
 0	čin alebo schopnosť vidieť	rozsah záujem alebo činnosť ktorý možno očakávať
-0.8	čin ? niekto alebo niečo z vina	čin niečo alebo niekto poškodiť
+0.8	čin niekto alebo niečo z vina	čin niečo alebo niekto poškodiť
 3.2	podať konkrétny výklad	otáčať a otáčať tak aby poskytovať zamýšľaný výklad
 0.8	stav podozrenie	stav odmietnutie
 4.2	proces obrábanie pôda možno ako spôsob život	poľnohospodárstvo považovaný za zamestnanie alebo spôsob život
 3	vojenský lietadlo ktorý upúšťať od vyhláška	vojenský lietadlo ktorý počas let zhadzovať bomba
-0	čin ? niekto alebo niečo z vina	akt oslobodenie niekto alebo niečo
+0	čin niekto alebo niečo z vina	akt oslobodenie niekto alebo niečo
 4.6	prijať aklimatizovať alebo sa prispôsobiť kontext situácia	prispôsobiť sa alebo prispôsobiť sa nový alebo odlišný podmienka
-3.6	teplota pri ktorý tekutina vrieť ?	teplota pri ktorý kvapalina vrieť na úroveň mora
+3.6	teplota pri ktorý tekutina vrieť	teplota pri ktorý kvapalina vrieť na úroveň mora
 0.6	ľudský čin výroba niečo nový	akt prasknutie niečo
 0	bit alebo udierať akoby bič	udržiavať s alebo akoby so stávka
 0.2	akt niečo zdvihnúť	akt nie훾o zastavi큐
@@ -260,14 +260,14 @@
 4.8	kanál sociálny komunikácia	kanál pre komunikácia medza skupina
 4.2	pretože byť alebo vydržať dlho predlžovať sa trvanie alebo priestor	predĺžiť alebo predĺžiť trvanie alebo priestor
 3.4	hodnosť alebo pozícia vo vzťah k ostatné	zaujať pozícia alebo zaujať pozícia v porovnanie s ostatný
-0	vysoký oblasť oblasť niečo	akt ? niečo
+0	vysoký oblasť oblasť niečo	akt niečo
 0.2	zjavný stav alebo stav niečo	훾in strata niekto alebo nie훾o
 4.66666666666667	mierne zhorieť aby sa ovplyvniť farba	mierne a povrchovo horieť aby ovplyvniť farba
 3.2	všeobecný vlastnosť alebo charakteristika niečo	dať niečo určitý vlastnosť
 2.8	postavenie vo futbal ktorý hrať člen tím	americký futbal postavenie na hranica zápas
 2	akt spoločný usporiadanie prvok	akt spoločný spojenie vec
 4	spôsobiť ostrý alebo bodavý bolesť	spôsobiť ostrý alebo bodavý bolesť alebo nepohodlie
-0.8	akt výber alebo výber	akt ? niečo
+0.8	akt výber alebo výber	akt niečo
 4.2	podnecovať akcia spôsobiť udalosť	slúžiť ako podnetný príčina
 3.6	z kvapalina alebo plyn	prísť ako tekutina
 4.4	príčina menej napätý odpočívať alebo byť ľahnúť	byť menej napätý odpočívať alebo sa uvoľniť
@@ -283,11 +283,11 @@
 0.4	akt niečo zdvihnúť	akt prasknutie niečo
 4.4	spôsobiť jemný pohyb tam a spätiť	spôsobiť pohyb tam a spätiť
 1.2	stav kontakt	stav bytie aktívny
-0.4	akt niečo testovanie	akt ? alebo ? niečo
+0.4	akt niečo testovanie	akt alebo niečo
 0.2	akt vysvetlenie alebo obrana niečo	akt vylúčenie alebo projektovanie alebo vyhodenie z obeh
 4.6	pochopiť význam niečo	získať význam niečo
 4.6	riskovať alebo hádať v nádej na priaznivý výsledok	riskovať v nádej na priaznivý výsledok
-0.2	akt ? niekto alebo niečo	akt pôsobenie sila na niečo ?
+0.2	akt niekto alebo niečo	akt pôsobenie sila na niečo
 4.6	zmena dramaticky medza vysoká a nízky hodnota	dramaticky striedať vysoká a nízky hodnota
 2.4	činnosť skúmanie alebo posudzovanie niečo	akt označenie alebo identifikácia niečo
 0.4	spôsobiť byť úzkostlivý alebo zaneprázdnený	byť vyvážený alebo pozastavený
@@ -297,21 +297,21 @@
 4.2	mentálne pochopenie alebo pochopenie niečo	pochopenie podstata alebo zmysel alebo kvalita alebo veľkosť niečo
 4.6	urobiť niečo čo sa považovať za dôstojnosť človek	urobiť niečo čo človek považovať za niečo pod svoj dôstojnosť
 4.2	hra divízia počas ktorý byť dovolený hrať možno ako priestupok	šport divízia počas ktorý byť jeden tím v ofenzíva
-4.2	akt skrátenie dĺžka odrezanie	akt orezanie alebo ?
+4.2	akt skrátenie dĺžka odrezanie	akt orezanie alebo
 3.8	zvrchovaný režim a jeho zhromaždenie	panovník a jeho poradca ktorý byť riadiaci moc štát
-0.75	akt ? niekto alebo niečo	akt nie훾o vychova큐
+0.75	akt niekto alebo niečo	akt nie훾o vychova큐
 0.4	extrémny koncový bod niečo	čin alebo prostriedok ako sa niečo zbaviť
 2.6	by큐 alebo ma큐 kvalita bytie	kvalita významnosť
-4.4	zlepšiť ? alebo leštenie	vylepšiť alebo zdokonaliť ? alebo leštenie
-0	akt zachovanie alebo ochrana niečo	akt pôsobenie sila na niečo ?
+4.4	zlepšiť alebo leštenie	vylepšiť alebo zdokonaliť alebo leštenie
+0	akt zachovanie alebo ochrana niečo	akt pôsobenie sila na niečo
 4.4	zaregistrovať sa formálne ako účastník	zaregistrovať sa formálne ako účastník alebo člen
 4	páka ktorý aktivovať strelecký mechanizmus najmä so strelný zbraň	páka ktorý aktivovať strelecký mechanizmus zbraň
 0.8	akt začiatok niečo nový	akt niečo ukončiť
-0.2	akt ? niekto alebo niečo	akt oslobodenie niekto alebo niečo
+0.2	akt niekto alebo niečo	akt oslobodenie niekto alebo niečo
 0.6	vystrihnúť prípadne vytvoriť niečo nový	dôvod pre ktorý byť želať niečo urobiť
-3.6	neformálny hra ? loptička tam a spätiť	kooperatívny hra pri ktorý sa loptička rozohrávať tam a spätiť
+3.6	neformálny hra loptička tam a spätiť	kooperatívny hra pri ktorý sa loptička rozohrávať tam a spätiť
 0.2	z kvapalina alebo plyn	훾erpa큐 z dlh alebo platba
-0.4	spôsobiť ? do	byť zavesený alebo zavesený
+0.4	spôsobiť do	byť zavesený alebo zavesený
 3.75	čin nahradenie jeden vec druhá	akt zmena jeden vec za druhá
 0.6	akt niečo testovanie	spôsob alebo prostriedok ako niečo dosiahnuť
 0.8	akt overenie pravosť niečo	akt oslobodenie niekto alebo niečo
@@ -324,25 +324,25 @@
 0	pohyb švihnutie alebo akoby švihnutie	obložiť vločka alebo akoby vločka
 0.4	pozorovateľ proces alebo činnosť	príslušník policajný zbor
 4	adresa používaný na poštový komunikácia	adresa na ktorý byť možný komunikovať s osoba alebo organizácia
-4	nabádať popudiť alebo sa ? povzbudzovanie a krik	podnietiť alebo povzbudiť najmä na zdravie a pokrik
+4	nabádať popudiť alebo sa povzbudzovanie a krik	podnietiť alebo povzbudiť najmä na zdravie a pokrik
 2.8	náhradný v kvalita alebo množstvo	limit v kvalita alebo množstvo
-0.2	akt ? nie훾o pre훾	akt ? niečo alebo niekto
+0.2	akt nie훾o pre훾	akt niečo alebo niekto
 1.8	zjavný stav alebo stav niečo	udalosť pozostávajúci zo začiatok niečo
 4	vygravírovať tvarovať alebo rezať štiepkovanie na povrch	vygravírovať alebo vyrezať odštiepenie na povrch
 0.6	niečo považovaný za banálne ale zábavný	niečo spomenutý na myseľ
 1.6	akt niečo zdvihnúť	akt nie훾o zostroji큐
-3.8	konkrétne ? myšlienka alebo koncept	konkrétne znázornenie inak hmlistý koncept
+3.8	konkrétne myšlienka alebo koncept	konkrétne znázornenie inak hmlistý koncept
 0.8	zdvihnúť alebo vytiahnuť akoby s mechanizmus	postihnúť s kŕč alebo akoby s on
-4	príčina zmena z pevnieť látka na kvapalina	pri ? sa stať tekutý alebo tekutý
+4	príčina zmena z pevnieť látka na kvapalina	pri sa stať tekutý alebo tekutý
 1	akt výroba meranie niečo	akt niečo byť vymyslieť
 3.2	duplikát niečo slúžiaci ako záloha	niečo ďalší rovnaký druh
 0.4	akt výroba meranie niečo	čin odstránenie alebo zbavenie sa niečo
 4.2	reagovať alebo reagovať na volanie príkaz alebo podnet	reagovať na podnet alebo príkaz
 4.4	klub alebo združenie človek so spoločný záujem	formálne združenie človek s podobný záujem
 4.4	bez záväzok služba alebo obmedzenie	bez záväzok alebo povinnosť
-0	stupeň alebo množstvo niečo	akt ? niečo
+0	stupeň alebo množstvo niečo	akt niečo
 1.4	čin príchod na určitý miesto	akt vloženie niečo na určitý miesto
-3.4	výmenný prostriedok ? vláda	oficiálny mena vydaný vláda alebo národný banka
+3.4	výmenný prostriedok vláda	oficiálny mena vydaný vláda alebo národný banka
 4.8	vopred alebo pred súd	vopred alebo pred súd
 4	niečo byť urobiť písomne	urobiť byť písomný poznámka o
 0.2	akt vysvetlenie alebo obrana niečo	pridelenie určitý suma vydelenie niečo
@@ -353,13 +353,13 @@
 0.2	akt orezanie strihanie	akt niečo opísať
 4.2	fyzicky zdvihnúť z nízky poloha	zdvihnúť z nízky do vysoký poloha
 0.2	čin otáčanie otáčanie predmet	akt udr탑anie nie훾o
-4.6	zväčšenie veľkosť ? za jednotka čas	rýchlosť nárast veľkosť za jednotka čas
+4.6	zväčšenie veľkosť za jednotka čas	rýchlosť nárast veľkosť za jednotka čas
 0.6	predbežný varovanie alebo oznámenie o niečo	prvý časť alebo časť niečo
-0.6	akt ? alebo propagácia niečo	akt nie훾o zostroji큐
+0.6	akt alebo propagácia niečo	akt nie훾o zostroji큐
 3.8	zásobovanie voda pre plodina ako byť kanál priekopa alebo potok	zásobovanie voda ako byť kanál priekopa alebo potok
 0.4	udusiť potlačiť alebo zmierniť niečo	akt nie훾o testova큐
-1.8	spôsobiť ? do	spôsobiť záujem alebo zvedavosť
-0.6	ľudský čin výroba niečo nový	akt tvorba alebo ? zákon
+1.8	spôsobiť do	spôsobiť záujem alebo zvedavosť
+0.6	ľudský čin výroba niečo nový	akt tvorba alebo zákon
 4.4	zamýšľaný význam inštancia komunikácia	zamýšľaný význam komunikácia
 4.4	byť daný dostať sa do vlastníctvo	prísť do vlastníctvo
 1.2	vysloviť určitý spôsob	reagovať určitý spôsob
@@ -369,7 +369,7 @@
 0.4	byť v alebo nadviazať komunikácia s	presťahovať alebo založiť na nov miesiť
 4.8	prispôsobiť sa nový alebo iný podmienka	prispôsobiť sa alebo prispôsobiť sa nový alebo odlišný podmienka
 0	byť umiestnený na niečo alebo na on	povinnosť zaplatiť alebo niečo urobiť
-2.4	zbierka niečo často veľký množstvo	zbierka vec ? spoločný atribút
+2.4	zbierka niečo často veľký množstvo	zbierka vec spoločný atribút
 0	šľahať alebo akoby šľahač	naliehaÅ¥ s alebo akoby s podnet
 4.4	dysfunkcia alebo ochorenie srdce	choroba srdce
 3.8	ozdobiť rukopis červená farba	zdobiť rukopis písmeno maľovaný červená farba
@@ -379,16 +379,16 @@
 4	dať topánka na topánka	nasadiť nový opätok
 0.8	akt zachovanie alebo ochrana niečo	akt nie훾o vychova큐
 2.4	aby obrázok alebo zvuk byť menej ostré	urobiť obrázok alebo zvuk ostré alebo ostro
-4.4	vytlačiť alebo vytlačiť slina ? alebo predmet z ústa	vypudiť alebo vylúčiť slina alebo hlien alebo spútať z ústa
+4.4	vytlačiť alebo vytlačiť slina alebo predmet z ústa	vypudiť alebo vylúčiť slina alebo hlien alebo spútať z ústa
 3.2	zmerať hĺbka vodný plocha	zmerať hĺbka vodný plocha znejúci čiara
 4.4	podrobne vysvetliť	rozprávať alebo podrobne vysvetliť
-3	? sa umelecký téma alebo vzor	téma ktorý sa opakovať alebo byť rozpracovaný v hudba
+3	sa umelecký téma alebo vzor	téma ktorý sa opakovať alebo byť rozpracovaný v hudba
 0.8	akt výber alebo výber	akt pozeranie videnie alebo pozorovanie
 4.8	mať silný túžba niečo robiť	mať silný túžba alebo nutkanie niečo robiť
 0.2	činnosť dôkladný hľadanie s cieľ nájsť niečo alebo niekto	čin odstránenie alebo zbavenie sa niečo
 3.6	osoba ktorý byť sociálny spoločník	priateliť ktorý byť často v spoločnosť iný
 4.6	držať alebo umiestniť do rovnováha	držať alebo nosiť v rovnováha
-0.4	čin ? niekto alebo niečo z vina	vedenie niekto alebo niečo
+0.4	čin niekto alebo niečo z vina	vedenie niekto alebo niečo
 3.8	pracovať ako drotár opravovať hrniec a panvica	pracovať ako drotár alebo drotár
 0.6	akt umo탑nenie udelenie nie훾o	akt formovanie alebo zalo탑enie nie훾o
 5	ukon훾enie a ukon훾enie stretnutie	ukončenie stretnutie
@@ -397,7 +397,7 @@
 4.2	vyvodzovať alebo veriť že ten tak byť	veriť že byť to tak
 4	pohybovať sa tak aby sa zabrániť	urobiť náhly pohyb nový smer aby byť sa vyhnúť
 0	stav neprítomnosť	akt niečo lezenie
-4.4	odstrániť ? alebo ?	oddeliť alebo odstrániť ? alebo ?
+4.4	odstrániť alebo	oddeliť alebo odstrániť alebo
 0	príčina sa stan prášok alebo prach	všeobecne znať
 2	pripraviť zariadiť vytvárať alebo organizovať na konkrétny účel	akýkoľvek oblasť vyčlenený na konkrétny účel
 0.2	čin človek ktorý mať sex	akt niečo lezenie
@@ -410,22 +410,22 @@
 2.2	činnosť skúmanie alebo posudzovanie niečo	akt skúmanie podobnosť
 3.8	robiť značka na povrch	urobiť malá stop na povrch
 0	vytvoriť kópia s úmysel oklamať	zaberaÅ¥ jazyk
-0.4	akt výber alebo výber	akt orezanie alebo ?
+0.4	akt výber alebo výber	akt orezanie alebo
 1.2	náhradný v kvalita alebo množstvo	sa musieť rovnať kvalita alebo schopnosť
 5	návrat k myšlienka alebo reč	návrat v myšlienka alebo reč k niečo
 0	akt niečo testovanie	akt niečo lezenie
 4.4	spôsob vybavovanie riadenie niekto alebo niečo	vedenie niekto alebo niečo
-1	akt výber alebo výber niečo	akt ? alebo ? niečo
+1	akt výber alebo výber niečo	akt alebo niečo
 4.2	LAY OFF ukončenie stav alebo činnosť	ukončiť štát alebo činnosť
 3.8	posunúť telo dozadu a dol do pohodlný odpočinkový poloha	presunúť alebo zariadiť v pohodlný a útulný poloha
 2.8	intenzívne svietiť vyžarovať rovnomerný svetlo zo zdroj	vyžarovať rovnomerný rovnomerný svetlo bez plameň
 0.2	akt spätný odkúpenie niečo čo sa predtým predať	akt niečo začať
 0.2	dosiahnuť alebo spôsobiť dosiahnutie vysoký bod dobre niečo	čin alebo nekonanie ktorý niekto sklamať
 3.8	druh vojenský lietadlo	jednotka vojenský lietadlo
-0.2	akt príprava niečo	stav prijatie alebo ?
+0.2	akt príprava niečo	stav prijatie alebo
 3.8	osoba ktorý zasadiť alebo odpáliť výbušnina	človek ktorý sadiť bomba
 4.2	vhodný na konkrétny účel	oblek na zvláštny účel
-3.8	štrajkovať s hrôza prekvapenie ?	štrajkovať s hrôza alebo hrôza
+3.8	štrajkovať s hrôza prekvapenie	štrajkovať s hrôza alebo hrôza
 2.2	mať rovnaký hodnota byť rovnocenný alebo rovnocenný niečo iný	ustanoviť niečo ako skorý vo vzťah k niečo iný
 3.4	stav zmätenosť alebo porucha	uvrhnúť do veľký zmätok alebo porucha
 4	verejný ohradenie pre zviera ako pes	verejný ohradenie pre túlavý alebo nelicencovaný pes
@@ -438,18 +438,18 @@
 0.6	negatívny alebo nežiaduci aspekt niečo	považovať za súčasť niečo
 4.6	vybaviť alebo vyvinúť niečo na konkrétny účel	oblek na zvláštny účel
 0.6	identifikovať alebo vybrať niekto alebo niečo	훾in strata niekto alebo nie훾o
-0.2	stav ?	stav vyčerpanie
+0.2	stav	stav vyčerpanie
 4.4	čítať alebo zodpovedať metrický vzorec z	zodpovedať metrický vzor
 1.4	hlavná vetva strom	malý tenký konár strom
 0.8	akt niečo zdvihnúť	akt niečo začať
-4.8	príčina sa stan tekutina ako keď sa zahrievať	aby sa tuhý látka stať tekutý napríklad ?
+4.8	príčina sa stan tekutina ako keď sa zahrievať	aby sa tuhý látka stať tekutý napríklad
 4.4	formulovať schéma tajne	utvárať intriga pre nenápadný spôsob
 1	identifikovať alebo vybrať niekto alebo niečo	čin vytlačenie niekto alebo niečo
 3	čin mučenie chodidlo a noha	forma mučenie noha pri ktorý byť chodidlo zaliaty železo a pomaly drvený
 4	pohybovať sa akoby byť nedokázať ovládať svoj smer alebo smer pohyb	chodiť akoby byť nedokázať ovládať svoj pohyb
 3.8	dohoda o správa majetok v mena príjemca	niečo ako majetok v držba jeden strana správca v prospech iný oprávnený osoba
 4	vhodný na konkrétny účel	poskytnúť niečo zvyčajne na konkrétny účel
-0.6	akt niečo zdvihnúť	čin ? alebo ?
+0.6	akt niečo zdvihnúť	čin alebo
 1.6	spôsobiť pohyb spôsobiť pohyb	spôsobiť sklon k bok
 1.8	náznak niečo dôkaz	náznak nejaký skrytý aktivita
 0.6	stav neprítomnosť	stav podozrenie
@@ -459,11 +459,11 @@
 4.2	akt útek útek	čin únik fyzicky
 4	stavať vyrábať kombinácia materiál alebo častý	vyrobiť kombinácia materiál a diel
 0.6	vytvoriť na niečo náter	poda큐 predstavenie nie훾o
-0	vytvoriť na niečo náter	akt ? z niečo
+0	vytvoriť na niečo náter	akt z niečo
 4.8	obmedzi큐 alebo obmedzi큐 rozsah	obmedziť rozsah alebo rozsah
-0.2	akt ? niekto alebo niečo	akt nie훾o odhodi큐
+0.2	akt niekto alebo niečo	akt nie훾o odhodi큐
 0	akt uznanie pravda niečo	akt vnímanie pach niečo
-1.8	akt poskytnutie stimul niekto	akt ? niečo alebo niekto
+1.8	akt poskytnutie stimul niekto	akt niečo alebo niekto
 3.2	argument ktorý odôvodňovať alebo odôvodňovať pozícia	odôvodnenie nejaký čin alebo viera
 5	prezentácia hudobný téma	hudba predstavenie hudobný téma
 2.8	spôsobiť alebo dovoliť spadnúť na zem	nechať alebo nechať padať po kvapka
@@ -473,7 +473,7 @@
 2.6	skupina človek menovaný do výbor	výbor menovaný na posudzovanie výberový konanie
 1.4	intuícia tušenie alebo cit	udržiavať teória myšlienka alebo pocit
 3.4	situovať položiť odpočívať	usadi큐 sa do poloha zvy훾ajne na povrch alebo na zem
-3.8	oddeliť alebo odstrániť ? alebo ? inklinovať rezanie	oddeliť alebo odstrániť ? alebo ?
+3.8	oddeliť alebo odstrániť alebo inklinovať rezanie	oddeliť alebo odstrániť alebo
 0	akt niečo zdvihnúť	čin niečo alebo niekto poškodiť
 4.4	stanoviť limit tvoriť hranica s on alebo sused	tvoriť hranica byť susediaci s
 3	hodnota prepočet mena na iný mena	poplatok za výmena mena jeden krajina za mena iný krajina
@@ -495,43 +495,43 @@
 2.8	približný množstvo niečo	zhodnotenie hodnota niečo
 3.6	úplne zakryť vytvoriť kryt rozširovať sa	tvoriÅ¥ koberec nad
 4.2	miestnosť kde sa vykonávať práca alebo oprava	miestnosť kde sa pracovať
-0.6	akt ? nie훾o pre훾	akt nie훾o testova큐
+0.6	akt nie훾o pre훾	akt nie훾o testova큐
 3.6	zmocniť sa zákonný orgán kvôli bezpečnosť	dočasne prevziať ako záruka zákonný orgán
 0.2	odovzdať alebo vložiť	požiadať o posúdenie alebo zváženie
 2.4	spôsobiť prechod z jeden kurz alebo na iný	posielať od jeden osoba alebo miesto k druhá
 0	čin ťahaniť bremeno	čin obydlie na dan miesiť
-0.2	akt ? niekto alebo niečo	akt ? z niečo
-1	akt rozprávanie o vlastnosť niečo	akt ? z niečo
+0.2	akt niekto alebo niečo	akt z niečo
+1	akt rozprávanie o vlastnosť niečo	akt z niečo
 3.6	otočiť zo zvislý normálny poloha	spôsobiť prevrátenie zo zvislý alebo normálny poloha
 0.2	akt niečo zdvihnúť	akt nie훾o odhodi큐
 1	identifikácia alebo realizácia niečo	koniec alebo dokon훾enie nie훾o
-0.6	skutok ? alebo maskovanie	akt ? z niečo
+0.6	skutok alebo maskovanie	akt z niečo
 3.8	dokument ktorý udeľovať vynálezca právo alebo privilégium	dokument ktorý pôvodca poskytovať výlučný právať na vynález
 4.6	stredný oblasť objekt	stred objekt
 0.6	akt niečo zdvihnúť	akt kolízia s niečo
-0.4	akt niečo zdvihnúť	akt ? alebo ? niečo
+0.4	akt niečo zdvihnúť	akt alebo niečo
 0.4	akt príprava niečo	akt zastavenie niečo
-0.6	akt ? alebo propagácia niečo	akt zapriahnutie alebo roztrhnutie alebo rozdelenie niečo
+0.6	akt alebo propagácia niečo	akt zapriahnutie alebo roztrhnutie alebo rozdelenie niečo
 4	mať výrazný alebo charakteristický chutiť ktorý vnímať skúsený	mať výrazný alebo charakteristický chutiť
 4.2	byť znak alebo označenie mať ako význam	byť znak alebo údaj o
 4.4	celkový dojem alebo vzhľad niečo	všeobecný vonkajší vzhľad niečo
 4.8	vedieť uvedomiť byť a pochopiť význam	poznať a pochopiť podstata alebo význam slovo
 4	vyrobiť alebo vytvoriť niečo pre konkrétny funkcia	niečo vyrobiť zvyčajne pre konkrétny funkcia
-3	zbaviť sa akoby voda metaforicky	zbaviť sa akoby ?
+3	zbaviť sa akoby voda metaforicky	zbaviť sa akoby
 0.6	akt uznanie pravda niečo	akt výber alebo výber
 4.4	zmeniť alebo prispôsobiť nový alebo iný podmienka	prispôsobiť sa alebo prispôsobiť sa nový alebo odlišný podmienka
-0	akt poskytnutie stimul niekto	čin ? alebo ? niekto
-4	hodinka s ? vek na ochrana tvár	hodinka s ? kovový vek na ochrana kryštál
+0	akt poskytnutie stimul niekto	čin alebo niekto
+4	hodinka s vek na ochrana tvár	hodinka s kovový vek na ochrana kryštál
 4	podporovať udržiavať niesť alebo niesť za on zodpovednosť	organizovať alebo byť za on zodpovedný
 3.2	usilovať sa proti druhý alebo iný dosiahnuť cieliť	súťažiť o niečo zapojiť sa do súťaž merať sa proti ostatné
 0.6	akt niečo testovanie	akt prasknutie niečo
 1.6	zhromaždiť alebo odstrániť z určitý miesto na použitie	odstrániť z funkcia alebo kancelária
 0.2	akt smerovanie pozornosť zdroj k niečo	akt kolízia s niečo
 4	jazda niekto na plece alebo chrbát podpora na chrbát alebo rameno	jazdiť na niečí plece alebo chrbát
-3.4	akt ? miešanie integrácia	akt zmiešanie
+3.4	akt miešanie integrácia	akt zmiešanie
 3.2	pevný 3D objekt s obdĺžnikový strana	pevný kúsok niečo zvyčajne majúci plochý obdĺžnikový strana
 0.2	preklad opus z jeden jazyk do druhý	akt presun z jeden miesto na druhý
-0	akt ? niekto alebo niečo	akt ? niekto na vstup
+0	akt niekto alebo niečo	akt niekto na vstup
 4.4	písať inak alebo pozmeniť kus alebo písanie aby vyhovovať iný účel	prepísať tak aby vyhovovať nový alebo iný účel
 4.25	osobnosť alebo zabávač ktorý priťahovať veľký publikum	zabávač ktorý priťahovať veľký publikum
 4	zlikvidovať niečo ako nepotrebný a stará fyzicky roztrhnúť	zlikvidovať niečo zbytočný alebo stará
@@ -540,7 +540,7 @@
 0	premožený údiv alebo nedôvera	napraviť trest alebo disciplína
 3.8	znížiť platnosť alebo účinok obmedziť oslabiť	účinnosť alebo účinok
 0	akt úmyselný vynechanie niečo	akt niečo lezenie
-2.2	akt ? alebo propagácia niečo	akt potvrdenie alebo tvrdenie alebo vyhlásenie niečo
+2.2	akt alebo propagácia niečo	akt potvrdenie alebo tvrdenie alebo vyhlásenie niečo
 4.6	zoznam položka ktorý byť potrebný prehliadnuť a označiť	zoznam položka meno alebo úloha atď. ktorý sa mať skontrolovať alebo prehliadnuť
 0.6	akt niečo testovanie	akt nie훾o zastavi큐
 3.2	čin niečo poškodiť a spôsobiť rozbitie	čin niečo alebo niekto poškodiť

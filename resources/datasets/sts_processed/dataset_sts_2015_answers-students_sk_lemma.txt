@@ -8,13 +8,13 @@
 0.80	pretože v žiarovka byť medzera b	svorka 1 2 a 3 byť oddelený od kladný pól batéria medzera
 0.80	byť poškodená žiarovka	svorka 6 byť oddelený medzera od záporný svorka batéria
 3.20	cesta musieť byť uzavretý aby žiarovka môcť svietiť	ak byť žiarovka a spínač v rovnaký smer spínač ovplyvňovať žiarovka
-3.20	žiarovka a a ? byť oddelený	a B a C byť rôzne
+3.20	žiarovka a a byť oddelený	a B a C byť rôzne
 4.20	batéria byť chemický reakcia ktorý sa nespoliehať na to či byť obvod úplný alebo nie	batéria využívať chemický reakcia na udržanie rôzny elektrický stav na svorka
 4.20	dostať byť sa do bod keď svorka nie byť navzájom spojený	svorka nie byť pripojený
-3.00	žiarovka a a ? nie byť v uzavretý dráha s žiarovka b	žiarovka B byť oddelený
+3.00	žiarovka a a nie byť v uzavretý dráha s žiarovka b	žiarovka B byť oddelený
 3.00	keď bola spínač s uzavretý žiarovka a bola v úplný obvod	žiarovka a byť stále v uzavretý dráha s batéria a spínač z
 3.00	mať uzavretý cesta k batéria	žiarovka a bola stále v tá istý uzavretý cesta s batéria
-4.60	prepínač ? nie byť v cesta k batéria	žiarovka a byť stále v batéria v uzavretý dráha
+4.60	prepínač nie byť v cesta k batéria	žiarovka a byť stále v batéria v uzavretý dráha
 4.60	medza svorka 6 a kladný svorka nebyť medzera	medza svorka 6 a kladný pól nie byť medzera
 2.83	nie byť obsiahnutý v uzavretý cesta	žiarovka C nebyť v uzavretý cesta
 3.60	svorka batéria mať rôzne elektrický stav	batéria využívať chemický reakcia na udržanie rôzny elektrický stav na svorka
@@ -25,13 +25,13 @@
 1.60	ak to narušiť dráha žiarovka a batéria	ak byť spínač a žiarovka v rovnaký cesta
 1.60	ak byť spínač v uzavretý dráha ovplyvňovať to žiarovka	ak byť žiarovka a spínač v rovnaký smer spínač ovplyvňovať žiarovka
 1.60	batéria byť k seba pripojený uzavretý cesta	batéria byť uzatvorený tak aby neobsahovať žiaden ďalší komponent
-1.60	prepínač ? nie byť v rovnaký dráha žiarovka a	žiarovka a byť stále v batéria v uzavretý dráha
+1.60	prepínač nie byť v rovnaký dráha žiarovka a	žiarovka a byť stále v batéria v uzavretý dráha
 3.00	kde byť spínač v cesta určovať či ovplyvňovať žiarovka	ak byť žiarovka a spínač v rovnaký smer spínač ovplyvňovať žiarovka
 3.00	keď byť spínač otvorený obvod už nie byť dokončený	byť neúplný obvod
 1.00	žiarovka spôsobovať rozdiel v elektrický stav	Nenulová napätie znamenať že svorka nie byť pripojený
 1.00	batéria musieť byť pripojený k žiarovka	byÅ¥ tam komplet obvod
-1.00	napätie medza svorka 1 a kladný svorka byť 1,5 v	svorka 1 a kladný pól byť oddelený medzera
-1.00	pretože kladný obvod mať napätie 1,5 volt	svorka 1 a kladný pól byť oddelený medzera
+1.00	napätie medza svorka 1 a kladný svorka byť 15 v	svorka 1 a kladný pól byť oddelený medzera
+1.00	pretože kladný obvod mať napätie 15 volt	svorka 1 a kladný pól byť oddelený medzera
 0.60	obvod nie byť dokončený keď byť spínač otvorený	byť neúplný obvod
 0.60	žiarovka byť pripojený iba pri záporný pripojenie	batéria byť v otvorený cesta
 1.40	energia pretekať cesta takže ak existovať medzera nie byť tam žiaden energia	ak byť žiarovka a spínač v rovnaký smer spínač ovplyvňovať žiarovka
@@ -41,8 +41,8 @@
 5.00	medza kladný svorka batéria a svorka 5 nie byť medzera	medza svorka 5 a kladný pól nie byť medzera
 1.00	prerušovať prúd z batéria	cesta nie byť uzavretý
 5.00	medzera medza svorka 3 a kladný pól batéria	svorka 3 a kladný pól byť oddelený medzera
-5.00	oba žiarovka a a ? byť uzavretý v uzavretý dráha	a a C byť na rovnaký uzavretý cesta
-5.00	žiarovka a a žiarovka ? byť stále obsiahnutý v uzavretý dráha s batéria	žiarovka a a C byť stále uzavretý v uzavretý dráha s batéria
+5.00	oba žiarovka a a byť uzavretý v uzavretý dráha	a a C byť na rovnaký uzavretý cesta
+5.00	žiarovka a a žiarovka byť stále obsiahnutý v uzavretý dráha s batéria	žiarovka a a C byť stále uzavretý v uzavretý dráha s batéria
 1.60	pretože medzera vytvárať rozdiel v elektrický stav	batéria využívať chemický reakcia na udržanie rôzny elektrický stav na svorka
 4.60	batéria byť uzavretý v cesta bez akýkoľvek zariadenie	batéria byť uzatvorený tak aby neobsahovať žiaden ďalší komponent
 2.40	stále byť tu uzavretý cesta	ak žiarovka a vyhorieť žiarovka B a C byť stále v uzavretý dráha
@@ -53,11 +53,11 @@
 4.00	pretože merač bola pripojený až na dva strana batéria	svorka 1 a kladný pól byť oddelený medzera
 4.00	v cesta nie byÅ¥ medzera	svorka 1 a kladný pól byť oddelený medzera
 4.00	vybratie alebo poškodenie jeden žiarovka nebyť mať na druhá vplyv	a a C sa líšiť od batéria
-4.00	ak byť medza svorka medzera napätie byť odlišný	? napätie ukazovať či byť dva svorka oddelený medzera
+4.00	ak byť medza svorka medzera napätie byť odlišný	napätie ukazovať či byť dva svorka oddelený medzera
 2.60	pretože chemický reakcia nie byť ovplyvnený medzera	batéria využívať chemický reakcia na udržanie rôzny elektrický stav na svorka
 2.60	medza svorka žiarovka a svorka batéria nie byť spojenie	medza svorka nie byÅ¥ medzera
 2.60	že byť pripojený k záporný svorka	medza svorka nie byÅ¥ medzera
-2.60	svorka 1 byť pripojený k 1,5 voltový batéria	svorka 1 byť pripojený k záporný svorka batéria
+2.60	svorka 1 byť pripojený k 15 voltový batéria	svorka 1 byť pripojený k záporný svorka batéria
 3.40	robiť to otvorený cesta skôr ako uzavretý	byť tu otvorený cesta
 3.40	pretože a a C mať stále pripojenie k batéria	žiarovka a a C byť stále s batéria v uzavretý dráha
 3.20	batéria byť na uzavretý cesta	batéria byť obsiahnutý v uzavretý cesta v ktorý nie byť žiarovka
@@ -68,7 +68,7 @@
 2.40	bola tam negatívny medzera	svorka 4 byť oddelený medzera od záporný svorka batéria
 4.20	ak byť žiarovka v uzavretý dráha so spínač	ak byť spínač a žiarovka v rovnaký cesta
 4.20	kladný pól batéria byť oddelený medzera od svorka 6	medza svorka 6 a kladný pól nie byť medzera
-4.20	pretože spínač z byť v uzavretý cesta žiarovka ?	existovať cesta obsahujúci z aj C
+4.20	pretože spínač z byť v uzavretý cesta žiarovka	existovať cesta obsahujúci z aj C
 5.00	žiarovka a a B byť stále obsiahnutý v uzavretý dráha	žiarovka a a B byť v uzavretý cesta
 1.40	batéria mať vždy napätie pokiaľ nie byť poškodená	batéria využívať chemický reakcia na udržanie rôzny elektrický stav na svorka
 1.40	svorka 6 byť pripojený k kladný pól batéria	svorka 1 a 6 nie byť pripojený
@@ -93,7 +93,7 @@
 1.80	svorka 4 byť pripojený k žiarovka B	svorka 4 a kladný svorka batéria byť v rovnaký elektrický stav
 1.80	pretože medzera nemať vplyv na napätie batéria	svorka 1 2 a 3 byť oddelený od kladný pól batéria medzera
 1.40	kladný pól byť pripojený k žiarovka	svorka 1 a kladný pól byť oddelený medzera
-0.80	pretože 1,5 v mínus 0 v sa rovnať 1,5 v	svorka 1 a kladný pól byť oddelený medzera
+0.80	pretože 15 v mínus 0 v sa rovnať 15 v	svorka 1 a kladný pól byť oddelený medzera
 3.60	spínač musieť byť v rovnaký cesta ako žiarovka a batéria	spínač a žiarovka musieť byť v rovnaký smer
 4.80	žiarovka byť obsiahnutý v rôzny cesta s batéria	a a C sa líšiť od batéria
 4.80	batéria a uzavretý okruh	žiarovka a batéria byť v uzavretý dráha
@@ -103,29 +103,29 @@
 1.00	v cesta byÅ¥ medzera	ak žiarovka a vyhorieť ani B ani C nie byť v uzavretý dráha
 1.00	pretože tam bola uzavretý okruh	svorka 1 a kladný pól byť oddelený medzera
 1.00	ak byť žiarovka v dráha	spínač a žiarovka musieť byť v rovnaký smer
-1.00	a a ? obidva vytvárať obvod s batéria	žiarovka a a C byť stále s batéria v uzavretý dráha
+1.00	a a obidva vytvárať obvod s batéria	žiarovka a a C byť stále s batéria v uzavretý dráha
 1.00	kladný batéria byť medza svorka 1 oddelený medzera	svorka 1 a kladný pól byť oddelený medzera
-1.00	kladný svorka a svorka 1 zobrazovať 1,5 v pretože rozdiel medza svorka byť 1,5 v	svorka 1 a kladný pól byť oddelený medzera
+1.00	kladný svorka a svorka 1 zobrazovať 15 v pretože rozdiel medza svorka byť 15 v	svorka 1 a kladný pól byť oddelený medzera
 1.00	svorka 4 byť pripojený k kladný svorka batéria	svorka 5 a kladný pól byť spojený
 1.00	pretože byť pripojený k žiarovka ktorý byť uzavretý cesta	batéria byť v otvorený cesta
 4.40	pretože medza svorka 1 a svorka 6 byť medzera	medza svorka 1 a 6 byÅ¥ medzera
 4.60	terminál 1 bola pripojený k záporný terminál 4	svorka 1 a 4 byť spojený
-4.60	pretože ? a z by sa dať zavrieť a byť to fungovať	stále existovať uzavretý cesta obsahujúci spínač z spínač X žiarovka a a C a batéria
+4.60	pretože a z by sa dať zavrieť a byť to fungovať	stále existovať uzavretý cesta obsahujúci spínač z spínač X žiarovka a a C a batéria
 4.60	spínač byť v cesta s žiarovka	ak byť spínač a žiarovka v rovnaký cesta
 4.60	žiarovka a a C nie byť na rovnaký uzavretý cesta	a a C nie byť na rovnaký cesta
 4.00	ak byť žiarovka b poškodená nerobiť celý obvod	byť neúplný obvod
 4.00	žiarovka a a B byť stále v uzavretý dráha a byť pripojený k batéria	ak C zhorieť pot byť batéria a a B stále v uzavretý dráha
-4.80	hodnota meranie označovať či byť žiarovka ?	? napätie označovať miesto kde sa meniť elektrický stav v dôsledok poškodená žiarovka
-4.80	žiarovka b a ? byť na uzavretý cesta s batéria	žiaden dráha obsahujúci tak spínač X ako aj žiarovka B alebo žiarovka C.
+4.80	hodnota meranie označovať či byť žiarovka	napätie označovať miesto kde sa meniť elektrický stav v dôsledok poškodená žiarovka
+4.80	žiarovka b a byť na uzavretý cesta s batéria	žiaden dráha obsahujúci tak spínač X ako aj žiarovka B alebo žiarovka C.
 4.80	žiarovka a byť uzavretý v dráha a nie byť ovplyvnený spínač Y	spínač Y a žiarovka a nie byť v rovnaký uzavretý poloha
-4.80	elektrický stav dva svorka po pripojenie určiť medzera a pomôcť nájsť ? žiarovka	? napätie označovať miesto kde sa meniť elektrický stav v dôsledok poškodená žiarovka
+4.80	elektrický stav dva svorka po pripojenie určiť medzera a pomôcť nájsť žiarovka	napätie označovať miesto kde sa meniť elektrický stav v dôsledok poškodená žiarovka
 4.80	medza batéria a žiarovka a bola uzavretý cesta	žiarovka a bola stále v tá istý uzavretý cesta s batéria
 4.80	cesta 5 byÅ¥ skrat	batéria byť obsiahnutý v cesta ktorý neobsahovať žiaden ďalší komponent
 4.80	elektrický stav môcť nájsť medzera	meranie napätie označovať miesto kde sa meniť elektrický stav v dôsledok medzera
-4.80	pretože žiarovka a byť v uzavretý okruh s batéria a spínač ?	žiarovka a byť stále v uzavretý cesta s batéria a spínač X.
+4.80	pretože žiarovka a byť v uzavretý okruh s batéria a spínač	žiarovka a byť stále v uzavretý cesta s batéria a spínač X.
 3.20	žiarovka byť na rovnaký cesta s batéria	a a C byť na rovnaký cesta
 2.20	záporný pól batéria byť oddelený medzera od svorka 6 ktorý vytvárať napätie 0	svorka 6 byť oddelený medzera od záporný svorka batéria
-2.20	záporný pól batéria byť pripojený iba k pól 1,2 a 3 žiarovka	svorka 4 5 a 6 nie byť pripojený k pól záporný batéria
+2.20	záporný pól batéria byť pripojený iba k pól 12 a 3 žiarovka	svorka 4 5 a 6 nie byť pripojený k pól záporný batéria
 2.20	že byť tu medzera	medza svorka nie byÅ¥ medzera
 4.60	žiarovka a byť uzavretý v uzavretý dráha s batéria	žiarovka a byť stále v uzavretý cesta s batéria
 5.00	súčasť batéria	byÅ¥ tam komplet obvod
@@ -157,7 +157,7 @@
 1.60	medza batéria byť uzavretý cesta	žiarovka a bola stále v tá istý uzavretý cesta s batéria
 3.60	pretože mať úplný obvod bez medzera v batéria	žiarovka a byť stále v uzavretý cesta s batéria
 3.60	pretože prvý 3 svorka byť pripojený k záporný strana batéria	svorka 1 2 a 3 byť pripojený k pól záporný batéria
-3.60	žiarovka b a ? byť na rovnaký cesta ako batéria	žiarovka B a C byť stále s akumulátor v uzavretý dráha
+3.60	žiarovka b a byť na rovnaký cesta ako batéria	žiarovka B a C byť stále s akumulátor v uzavretý dráha
 3.60	v súvislosť byť medzera	medza svorka 6 a kladný pól nie byť medzera
 3.60	terminál mať rovnaký elektrický stav	svorka 1 a 2 byť pripojený a v rovnaký elektrický stav
 1.60	ak byť spínač v cesta môcť to mať vplyv na žiarovka	ak byť žiarovka a spínač v rovnaký smer spínač ovplyvňovať žiarovka
@@ -170,19 +170,19 @@
 3.60	svorka 1 byť pripojený k záporný svorka a svorka 6 byť pripojený k kladný svorka	svorka 1 a 6 nie byť pripojený
 3.60	batéria nie byť v uzavretý cesta	batéria v 2 nie byť v uzavretý cesta
 3.00	pretože vytvárať medzera ktorý zase vytvoriť otvorený cesta	otvorený spínač vytvárať medzera
-0.80	záporný pól batéria byť oddelený medzera od pól 6 a žiarovka ? byť poškodená	svorka 6 byť oddelený medzera od záporný svorka batéria
+0.80	záporný pól batéria byť oddelený medzera od pól 6 a žiarovka byť poškodená	svorka 6 byť oddelený medzera od záporný svorka batéria
 0.80	keď to narušiť úplný cesta	ak byť spínač a žiarovka v rovnaký cesta
 4.80	medza svorka 1 a kladný pól byť spojenie	svorka 1 byť pripojený k záporný svorka batéria
 4.80	svorka 1 byť pripojený k svorka 4	svorka 1 a 4 byť spojený
 1.40	v okruh nie byÅ¥ medzera	žiarovka a byť stále v uzavretý cesta s batéria
-3.60	existovať uzavretý cesta ktorý obsahovať žiarovka a a neobsahovať prepínač ?	žiarovka a byť stále v batéria v uzavretý dráha
+3.60	existovať uzavretý cesta ktorý obsahovať žiarovka a a neobsahovať prepínač	žiarovka a byť stále v batéria v uzavretý dráha
 3.60	žiarovka a a žiarovka C byť v uzavretý dráha s batéria	žiarovka B a C byť stále obsiahnutý v tá istý uzavretý cesta s batéria
 3.40	žiarovka a a b byť stále v uzavretý dráha s batéria	ak C zhorieť pot byť a a B stále v uzavretý dráha s batéria
 2.00	pretože to nebyť spojený so záporný koncom terminál	svorka 1 byť pripojený k záporný svorka batéria
 2.00	pretože medza kladný pól batéria nebyť medzera	svorka 1 a kladný pól byť oddelený medzera
 1.00	medza svorka žiarovka a svorka batéria byť zlé spojenie	medza svorka nie byÅ¥ medzera
 1.00	pretože stále zachytávať prúd z oba svorka	spínač Y a žiarovka a nie byť v rovnaký uzavretý poloha
-3.60	žiarovka b a ? nie byť v uzavretý dráha s žiarovka a	každý žiarovka byť vo svoj vlastný cesta
+3.60	žiarovka b a nie byť v uzavretý dráha s žiarovka a	každý žiarovka byť vo svoj vlastný cesta
 3.60	poškodená žiarovka a vytvárať v obvod medzera	ak žiarovka a vyhorieť ani B ani C nie byť v uzavretý dráha
 3.60	prúd spôsobiť skrat batéria	dôjsť ku skrat
 2.40	svorka prechádzať od nepripojenie k vzájomný prepojenie	svorka nie byť pripojený
@@ -195,10 +195,10 @@
 1.60	mať svoj vlastný cesta ktorý byť pripojený k batéria	každý žiarovka byť vo svoj vlastný cesta
 1.60	medza svorka 6 a kladný pól batéria byť medzera	medza svorka 6 a kladný pól nie byť medzera
 1.60	ak cesta nie byť prerušený výhybka pot výhybka nebyť mať žiaden vplyv	ak byť žiarovka a spínač v rovnaký smer spínač ovplyvňovať žiarovka
-1.60	žiarovka a a ? byť zapojený v uzavretý cesta	a a C byť na rovnaký uzavretý cesta
+1.60	žiarovka a a byť zapojený v uzavretý cesta	a a C byť na rovnaký uzavretý cesta
 1.60	pretože to byť stále pripojený k terminál batéria	žiarovka a byť stále v uzavretý cesta s batéria
 3.00	neexistovať žiaden medzera takže nie byť žiaden rozdiel v napätie	medza svorka nie byÅ¥ medzera
-1.00	nie byť uzavretý cesta ktorý obsahovať batéria a žiarovka b a žiarovka ?	ak žiarovka a vyhorieť už neexistovať uzavretý cesta obsahujúci B C a batéria
+1.00	nie byť uzavretý cesta ktorý obsahovať batéria a žiarovka b a žiarovka	ak žiarovka a vyhorieť už neexistovať uzavretý cesta obsahujúci B C a batéria
 1.00	napätie zostávať v batéria rovnaký	batéria využívať chemický reakcia na udržanie rôzny elektrický stav na svorka
 1.40	pretože v jeden z cesta byť žiarovka	batéria neobsahovať uzavretý cesta
 4.20	keď byť spínač a žiarovka v uzavretý dráha	ak byť spínač a žiarovka v rovnaký cesta
@@ -217,18 +217,18 @@
 2.40	byť na rovnaký cesta	a a C byť na rovnaký cesta
 2.20	kladný pól batéria byť oddelený medzera od svorka 2	svorka 2 a kladný pól byť oddelený medzera
 2.20	svorka 2 a kladný svorka mať odlišný elektrický stav	svorka 2 a kladný pól byť oddelený medzera
-2.20	? z byť obsiahnutý v uzavretý cesta	existovať cesta obsahujúci z aj C
+2.20	z byť obsiahnutý v uzavretý cesta	existovať cesta obsahujúci z aj C
 2.60	batéria byť mať iný elektrický stav ako obvod	batéria využívať chemický reakcia na udržanie rôzny elektrický stav na svorka
 0.60	ak odstrániť jeden žiarovka ostatné prestať fungovať	a a C byť na rovnaký uzavretý cesta
 4.60	svorka 4 5 a 6 byť pripojený iba ku kladný svorka batéria	svorka 4 5 a 6 byť pripojený ku kladný svorka batéria
 3.80	kladný batéria byť od svorka 2 oddelený medzera	svorka 2 a kladný pól byť oddelený medzera
-1.40	pretože vyhorenie žiarovka ? by nepoškodiť celý obvod	ak C zhorieť pot a a B byť stále v uzavretý cesta
+1.40	pretože vyhorenie žiarovka by nepoškodiť celý obvod	ak C zhorieť pot a a B byť stále v uzavretý cesta
 1.40	pretože žiarovka a a b byť stále obsiahnutý v uzavretý dráha s batéria	ak C zhorieť pot byť a a B stále v uzavretý dráha s batéria
 1.40	pretože existovať dva negatívne súvislosť	svorka 1 a 2 byť spojený
 3.60	všetok byť na samostatný cesta	a a C byť rôzne
-1.20	pretože spínač ? nie byť obsiahnutý v uzavretý dráha žiarovka a a batéria	žiarovka a byť stále v batéria v uzavretý dráha
+1.20	pretože spínač nie byť obsiahnutý v uzavretý dráha žiarovka a a batéria	žiarovka a byť stále v batéria v uzavretý dráha
 3.20	žiarovka a a žiarovka B a batéria byť v uzavretý dráha	ak C zhorieť pot byť batéria a a B stále v uzavretý dráha
-5.00	povedať byť že žiarovka a a ? byť spojený s batéria	žiarovka a a C byť stále s batéria v uzavretý dráha
+5.00	povedať byť že žiarovka a a byť spojený s batéria	žiarovka a a C byť stále s batéria v uzavretý dráha
 5.00	žiarovka a byť obsiahnutý v ich uzavretý dráha	ak žiarovka a vyhorieť ani B ani C nie byť v uzavretý dráha
 5.00	ak byť spínač a žiarovka v rovnaký cesta	ak byť spínač a žiarovka v rovnaký cesta
 4.20	poškodená žiarovka vytvárať medzera v cesta	poškodená žiarovka vytvárať medzera
@@ -259,10 +259,10 @@
 1.60	batéria byť mať vždy napätie	batéria využívať chemický reakcia na udržanie rôzny elektrický stav na svorka
 0.60	vypnúť všetok žiarovka	otvorený spínač vytvárať medzera
 1.40	napätie byť 1 5 pretože žiarovkový svorka byť pripojený k svorka batéria	svorka 1 byť pripojený k záporný svorka batéria
-4.40	pretože a a ? byť stále v uzavretý okruh	žiarovka a a C byť uzavretý
+4.40	pretože a a byť stále v uzavretý okruh	žiarovka a a C byť uzavretý
 3.20	stále byť tu uzavretý cesta	žiarovka a a C byť uzavretý
 3.20	kladný pól batéria nie byť pripojený k záporný pól batéria	batéria využívať chemický reakcia na udržanie rôzny elektrický stav na svorka
-3.20	žiarovka ? nie byť na rovnaký dráha ako žiarovka a alebo žiarovka b	žiarovka C byť v samostatný cesta
+3.20	žiarovka nie byť na rovnaký dráha ako žiarovka a alebo žiarovka b	žiarovka C byť v samostatný cesta
 3.20	svorka byť pripojený k záporný pól batéria	svorka 1 2 a 3 byť pripojený k pól záporný batéria
 2.40	pretože tento svorka byť pripojený k kladný pól batéria	svorka 4 5 a 6 byť pripojený ku kladný svorka batéria
 3.60	k batéria byť pripojený žiarovka	batéria byť v otvorený cesta
@@ -275,9 +275,9 @@
 1.00	v spoj byÅ¥ medzera	medza svorka nie byÅ¥ medzera
 4.20	byť tu uzavretý cesta v ktorý nie byť žiaden žiarovka	batéria byť obsiahnutý v cesta v ktorý nie byť žiarovka
 4.80	poškodenie žiarovka a sa vytvoriť medzera	ak žiarovka a vyhorieť ani B ani C nie byť v uzavretý dráha
-4.80	žiarovka a byť v rovnaký dráha ako žiarovka b a ?	ak žiarovka a vyhorieť B a C už nie byť s batéria v uzavretý dráha
-4.80	žiarovka a a ? byť stále uzavretý v uzavretý dráha s batéria	žiarovka a a C byť stále s batéria v uzavretý dráha
-4.90	žiarovka b nevytvoriť medzera v dráha pre žiarovka b alebo ?	žiarovka a a C byť stále v uzavretý dráha
+4.80	žiarovka a byť v rovnaký dráha ako žiarovka b a	ak žiarovka a vyhorieť B a C už nie byť s batéria v uzavretý dráha
+4.80	žiarovka a a byť stále uzavretý v uzavretý dráha s batéria	žiarovka a a C byť stále s batéria v uzavretý dráha
+4.90	žiarovka b nevytvoriť medzera v dráha pre žiarovka b alebo	žiarovka a a C byť stále v uzavretý dráha
 4.90	svorka 1 nie byť pripojený k kladný svorka batéria	svorka 1 a kladný pól nie byť pripojený
 4.00	pretože byť tu medzera	svorka 1 a kladný pól byť oddelený medzera
 4.00	batéria byť obsiahnutý v obvod a žiarovka nie	batéria byť obsiahnutý v cesta v ktorý nie byť žiarovka
@@ -288,12 +288,12 @@
 4.60	pretože bola obsiahnutý v rovnaký cesta ako batéria	žiarovka a bola stále v tá istý uzavretý cesta s batéria
 4.60	svorka 4 svorka 5 a svorka 6 byť pripojený k kladný pól	svorka 4 5 a 6 byť pripojený ku kladný svorka batéria
 4.80	svorka 4 byť oddelený medzera od záporný svorka	svorka 4 byť oddelený medzera od záporný svorka batéria
-4.80	žiarovka b a ? byť obsiahnutý v rovnaký cesta s batéria	B a C byť v rovnaký smer s batéria
+4.80	žiarovka b a byť obsiahnutý v rovnaký cesta s batéria	B a C byť v rovnaký smer s batéria
 5.00	byť to v uzavretý cesta s batéria	žiarovka a bola stále v tá istý uzavretý cesta s batéria
 5.00	záporný pól batéria byť oddelený medzera od svorka 4	svorka 4 byť oddelený medzera od záporný svorka batéria
 4.00	pretože cesta medza batéria a žiarovka nie byť uzavretý	cesta nie byť uzavretý
 4.00	medza žiarovka a svorka batéria byť medzera	medza svorka nie byÅ¥ medzera
-4.00	žiarovka a a žiarovka b ? na rôzny cesta s batéria	a a C sa líšiť od batéria
+4.00	žiarovka a a žiarovka b na rôzny cesta s batéria	a a C sa líšiť od batéria
 4.00	že svorka nie byť navzájom spojený	svorka nie byť pripojený
 0.60	pretože rozdiel v napätie byť spôsobený medzera	Nenulová napätie znamenať že existovať medzera
 0.60	bola pripojený k kladný pól	svorka 1 a kladný pól byť oddelený medzera
@@ -301,9 +301,9 @@
 1.40	pretože cesta bola uzavretý	žiarovka a byť stále v uzavretý cesta s batéria
 2.80	kladný pól batéria byť oddelený medzera	svorka 1 a kladný pól byť oddelený medzera
 2.40	ak byť žiarovka v uzavretý okruh s batéria a spínač spínač ovplyvniť žiarovka	ak byť spínač a žiarovka v rovnaký cesta
-3.40	žiarovka ? nie byť v rovnaký dráha batéria	ak C zhorieť pot byť a a B stále v uzavretý dráha s batéria
-3.40	? vydávať prúd dostať on	svorka 4 5 a 6 byť pripojený ku kladný svorka batéria
-3.40	pretože pre žiarovka ? už nie byť uzavretý obvod	žiarovka C už nebyť v batéria v uzavretý dráha
+3.40	žiarovka nie byť v rovnaký dráha batéria	ak C zhorieť pot byť a a B stále v uzavretý dráha s batéria
+3.40	vydávať prúd dostať on	svorka 4 5 a 6 byť pripojený ku kladný svorka batéria
+3.40	pretože pre žiarovka už nie byť uzavretý obvod	žiarovka C už nebyť v batéria v uzavretý dráha
 5.00	svorka 5 byť pripojený k kladný svorka batéria	svorka 5 a kladný pól byť spojený
 1.00	elektrický stav nie byť pripojený k volt	Nenulová napätie znamenať že svorka nie byť pripojený
 1.00	prerušiť obvod	žiarovka B vytvárať medzera
@@ -315,7 +315,7 @@
 2.40	cesta na ktorÃ½ bola	existovať cesta obsahujúci z aj C
 1.40	pretože terminál 1 mať kladný aj záporný náboj	svorka 1 a kladný pól byť oddelený medzera
 1.40	svorka 1 nie byť pripojený k kladný svorka batéria	svorka 1 a kladný pól nie byť pripojený
-1.40	žiarovka b a žiarovka ? byť stále obsiahnutý v uzavretý dráha s batéria	žiarovka B a C byť stále obsiahnutý v tá istý uzavretý cesta s batéria
+1.40	žiarovka b a žiarovka byť stále obsiahnutý v uzavretý dráha s batéria	žiarovka B a C byť stále obsiahnutý v tá istý uzavretý cesta s batéria
 1.40	že svorka žiarovka byť pripojený iba k jeden zo svorka batéria	medza svorka nie byÅ¥ medzera
 4.60	žiarovka a a C byť stále obsiahnutý na uzavretý cesta s batéria	žiarovka a a C byť stále uzavretý v uzavretý dráha s batéria
 5.00	svorka pätiť byť pripojený k kladný svorka batéria	svorka 5 a kladný pól byť spojený
@@ -324,7 +324,7 @@
 5.00	môcť byť budiť zatvorený alebo otvorený	ak byť žiarovka a spínač v rovnaký smer spínač ovplyvňovať žiarovka
 5.00	terminál 6 mať medzera	terminál 1 a 6 byť oddelený medzera
 5.00	svorka jeden byť pripojený k záporný svorka batéria	svorka 1 byť pripojený k záporný svorka batéria
-3.60	medza svorka 1 a kladný svorka byť rozdiel 1,5 volt	svorka 1 a kladný pól byť oddelený medzera
+3.60	medza svorka 1 a kladný svorka byť rozdiel 15 volt	svorka 1 a kladný pól byť oddelený medzera
 3.60	napätie batéria pochádzať z chemicky reakcia ktorý prebiehať v samotný batéria	batéria využívať chemický reakcia na udržanie rôzny elektrický stav na svorka
 3.60	keď byť spínač na uzavretý cesta s žiarovka	ak byť spínač a žiarovka v rovnaký cesta
 1.80	vybratie jeden žiarovka sa druhá vypnúť	a a C byť na rovnaký uzavretý cesta
@@ -337,7 +337,7 @@
 1.40	ak byť žiarovka B poškodená okruh už nie byť uzavretý	neexistovať uzavretý cesta
 4.40	batéria a žiarovka musieť byť navzájom uzavretý	žiarovka a batéria byť v uzavretý dráha
 4.40	poškodená žiarovka vytvárať medzera v cesta	poškodená žiarovka vytvárať medzera
-4.40	žiarovka ? a spínač z byť v rovnaký uzavretý dráha	existovať cesta obsahujúci z aj C
+4.40	žiarovka a spínač z byť v rovnaký uzavretý dráha	existovať cesta obsahujúci z aj C
 3.80	prepínač sa vytvoriť prerušenie uzavretý cesta	otvorený spínač vytvárať medzera
 2.00	pretože batéria mať elektrina a medzera nie	batéria využívať chemický reakcia na udržanie rôzny elektrický stav na svorka
 2.60	musieť to byť v uzavretý cesta	žiarovka a batéria byť v uzavretý dráha
@@ -347,7 +347,7 @@
 3.00	žiarovka a a B byť stále pripojený k uzavretý okruh obsahujúci batéria	ak C zhorieť pot byť a a B stále v uzavretý dráha s batéria
 4.40	žiarovka a a C byť stále v batéria uzavretý v uzavretý dráha	žiarovka a a C byť stále s batéria v uzavretý dráha
 3.00	odstránenie poškodenie ktorýkoľvek z žiarovka sa ostatné žiarovka vypnúť	a a C byť na rovnaký uzavretý cesta
-3.00	stále mať cesta pre pripojenie medza žiarovka a a ? a batéria	byť neúplný obvod
+3.00	stále mať cesta pre pripojenie medza žiarovka a a a batéria	byť neúplný obvod
 3.00	terminál byť pripojený k batéria	svorka 1 2 a 3 byť pripojený k pól záporný batéria
 0.00	myslieť byť že červená X znamenať že byť to nebezpečný a nikdy by sa to nemať stať pokiaľ niečo nie byť vážne v poriadok	dôjsť ku skrat
 5.00	svorka 1 byť pripojený k svorka 4	svorka 1 a 4 byť spojený
@@ -365,26 +365,26 @@
 2.00	ak byť cesta uzavretý batéria spínač to neovplyvniť	ak byť žiarovka a spínač v rovnaký smer spínač ovplyvňovať žiarovka
 5.00	nepoškodzovať batéria	batéria neobsahovať uzavretý cesta
 5.00	svorka 3 a kladný pól nie byť pripojený	svorka 3 a kladný pól nie byť pripojený
-3.40	pretože žiarovka ? nie byť zahrnutý v uzavretý cesta	existovať uzavretý cesta s a a B v ktorý C nie byť
+3.40	pretože žiarovka nie byť zahrnutý v uzavretý cesta	existovať uzavretý cesta s a a B v ktorý C nie byť
 2.60	kladný pól batéria byť oddelený medzera	medza svorka 6 a kladný pól nie byť medzera
 2.60	svorka 1 a kladný svorka mať odlišný elektrický stav	svorka 1 a kladný pól byť oddelený medzera
 3.60	okruh bola kompletný až do medzera	svorka 1 a kladný pól byť oddelený medzera
 3.60	medzera v terminál 2 byť pozitívny	svorka 2 a kladný pól byť oddelený medzera
-3.60	žiarovka a a ? byť s batéria oddelene uzavretý	a a C sa líšiť od batéria
+3.60	žiarovka a a byť s batéria oddelene uzavretý	a a C sa líšiť od batéria
 3.20	pretože svorka jeden byť pripojený k pól kladný batéria	svorka 1 byť pripojený k záporný svorka batéria
 3.20	žiarovka batéria a spínač byť v uzavretý poloha	ak byť spínač a žiarovka v rovnaký cesta
 5.00	svorka 4 5 a 6 byť pripojený k kladný svorka batéria	svorka 4 5 a 6 byť pripojený ku kladný svorka batéria
 3.60	vypínač otvoriť cesta	ak byť spínač a žiarovka v rovnaký cesta
 3.60	svorka 5 a kladný svorka batéria byť v rovnaký stav	svorka 5 a kladný pól byť spojený
-4.80	žiarovka a a ? byť obsiahnutý v rôzny cesta s batéria	a a C sa líšiť od batéria
+4.80	žiarovka a a byť obsiahnutý v rôzny cesta s batéria	a a C sa líšiť od batéria
 4.00	pretože batéria nie byť v uzavretý cesta	batéria v 4 nie byť v uzavretý cesta
 1.40	žiarovka a vytvárať medzera	každý žiarovka byť vo svoj vlastný cesta
 4.90	svorka 6 byť pripojený k kladný svorka batéria	svorka 6 a kladný svorka byť pripojený
-3.40	vypálený žiarovka nájsť nájdenie napätie medza rôzny svorka	? napätie označovať miesto kde sa meniť elektrický stav v dôsledok poškodená žiarovka
+3.40	vypálený žiarovka nájsť nájdenie napätie medza rôzny svorka	napätie označovať miesto kde sa meniť elektrický stav v dôsledok poškodená žiarovka
 3.20	medzera medza poškodená vodič žiarovka b vytvárať medzera v cesta	žiarovka B vytvárať medzera
 3.20	terminál nie byť pripojený k pól kladný batéria	svorka 2 a kladný svorka nie byť pripojený
 3.20	svorka byť na tá istý strana ako záporný strana batéria	svorka 1 2 a 3 byť pripojený k pól záporný batéria
-1.60	spínač ? neovplyvňovať žiarovka a	neexistovať žiaden cesta obsahujúci spínač Y aj žiarovka a
+1.60	spínač neovplyvňovať žiarovka a	neexistovať žiaden cesta obsahujúci spínač Y aj žiarovka a
 1.60	pretože to byť v uzavretý cesta	žiarovka a byť stále v uzavretý cesta s batéria
 1.60	kladný pól batéria oddelený medzera od svorka 4	svorka 4 a kladný svorka batéria byť v rovnaký elektrický stav
 3.40	keď bola spínač z uzavretý žiarovka a bola v úplný obvod pripojený k batéria	žiarovka a byť stále v uzavretý dráha s batéria a spínač z
@@ -404,34 +404,34 @@
 2.20	žiarovka C bola vypnutý keď bola spínač z otvorený pretože žiarovka C bola priamo v otvorený cesta	žiarovka C nebyť v žiaden uzavretý cesta
 2.20	pretože napätie byť rozdiel v elektrický stav medza dva svorka	batéria využívať chemický reakcia na udržanie rôzny elektrický stav na svorka
 2.20	pretože rozbitý žiarovka vytvoriť medzera ktorý neumožňovať prúdiť prúd cez oba	svorka 4 5 a 6 byť od svorka záporný batéria oddelený medzera
-2.20	pretože a a b byť v séria a a a ? byť paralelný	ak C zhorieť pot a a B byť stále v uzavretý cesta
+2.20	pretože a a b byť v séria a a a byť paralelný	ak C zhorieť pot a a B byť stále v uzavretý cesta
 1.40	prijímať prúd z prepínač z	existovať cesta obsahujúci a C z a X
 4.80	kladný pól batéria nemať medzera od svorka 4	svorka 4 a kladný pól nie byť oddelený medzera
 3.80	byť tu medzera spôsobený žiarovka a	ak žiarovka a vyhorieť ani B ani C nie byť v uzavretý dráha
-3.80	žiarovka a a ? nie byť obsiahnutý v uzavretý cesta	a a C nie byť na rovnaký cesta
-5.00	žiarovka a prísť pred prepínač ?	spínač Y a žiarovka a nie byť v rovnaký uzavretý poloha
-5.00	žiarovka b a ? sa nachádzať na rovnaký cesta s batéria	B a C byť v rovnaký smer s batéria
+3.80	žiarovka a a nie byť obsiahnutý v uzavretý cesta	a a C nie byť na rovnaký cesta
+5.00	žiarovka a prísť pred prepínač	spínač Y a žiarovka a nie byť v rovnaký uzavretý poloha
+5.00	žiarovka b a sa nachádzať na rovnaký cesta s batéria	B a C byť v rovnaký smer s batéria
 1.40	veľkosť napätie byť 0	svorka 1 2 a 3 byť oddelený od kladný pól batéria medzera
 1.40	rovnaký cesta s batéria	B a C byť v rovnaký smer s batéria
-1.40	ak byť ? a z zatvorený vytvoriť sa uzavretý cesta	existovať cesta obsahujúci a C z a X
+1.40	ak byť a z zatvorený vytvoriť sa uzavretý cesta	existovať cesta obsahujúci a C z a X
 1.00	pretože napätie byť 0 a medza 3 a 4 byť medzera	svorka 1 2 a 3 byť pripojený k pól záporný batéria
 1.00	svorka byť pripojený k záporný svorka	medza svorka nie byÅ¥ medzera
 1.00	B a C nie byť v rovnaký okruh ako a	každý žiarovka byť vo svoj vlastný cesta
 0.40	žiarovka b vytvoriť medzera	svorka 4 a kladný svorka batéria byť v rovnaký elektrický stav
 1.33	batéria nie byť pripojený k žiarovka	žiarovka nie byť v uzavretý dráha obsahujúci batéria
 1.33	poškodená žiarovka a vytvárať medzera	ak žiarovka a vyhorieť ani B ani C nie byť v uzavretý dráha
-1.33	žiarovka b a ? vytvárať medzera v cesta	žiarovka B byť oddelený
+1.33	žiarovka b a vytvárať medzera v cesta	žiarovka B byť oddelený
 2.40	medza svorka byÅ¥ medzera	batéria využívať chemický reakcia na udržanie rôzny elektrický stav na svorka
 2.40	pretože v žiarovka byť medzera	v okruh byÅ¥ medzera
 2.40	nie byť v rovnaký smer so žiarovka a batéria	žiarovka a byť stále v batéria v uzavretý dráha
-4.40	b a ? byť na vlastný uzavretý cesta s batéria	žiarovka B a C byť stále s akumulátor v uzavretý dráha
+4.40	b a byť na vlastný uzavretý cesta s batéria	žiarovka B a C byť stále s akumulátor v uzavretý dráha
 1.20	byť pripojený ku kladný pól	svorka 1 a kladný pól byť oddelený medzera
 1.20	prepínač blokovať batéria ovplyvňovať ona ak nie na ten nezáležať	ak byť žiarovka a spínač v rovnaký smer spínač ovplyvňovať žiarovka
 1.20	ak byť spínač zapnutý a vytvárať medza medzera a batéria medzera	ak byť spínač a žiarovka v rovnaký cesta
 1.20	Y nie byť potrebný pre žiarovka a na svetlo	žiarovka a byť stále v batéria v uzavretý dráha
 4.80	svorka 1 byť pripojený k záporný pól	svorka 1 a 6 nie byť pripojený
 4.80	žiarovka byť na rôzny uzavretý cesta	a a C sa líšiť od batéria
-4.80	pretože spínač ? nie byť zahrnutý v uzavretý cesta žiarovka a	spínač Y a žiarovka a nie byť v rovnaký uzavretý poloha
+4.80	pretože spínač nie byť zahrnutý v uzavretý cesta žiarovka a	spínač Y a žiarovka a nie byť v rovnaký uzavretý poloha
 4.80	keď byť spínač v dráha žiarovka	ak byť spínač a žiarovka v rovnaký cesta
 2.20	kladný pól batéria byť oddelený medzera od svorka 4	svorka 4 a kladný svorka batéria byť v rovnaký elektrický stav
 1.00	cesta môcť dokončiť zatvorenie z	existovať cesta obsahujúci a C z a X
@@ -456,13 +456,13 @@
 2.80	batéria byť uzavretý v uzavretý dráha	stále byť tu uzavretý cesta
 4.40	v cesta byÅ¥ medzera	svorka 6 byť oddelený medzera od záporný svorka batéria
 4.40	pretože existovať rozdiel medza elektrický stav tento dva svorka	batéria využívať chemický reakcia na udržanie rôzny elektrický stav na svorka
-4.40	v obvod byť medzera ktorý spôsobovať medzera medza svorka 1,2 a 3 a 4,5 a 6	svorka 4 5 a 6 byť od svorka záporný batéria oddelený medzera
+4.40	v obvod byť medzera ktorý spôsobovať medzera medza svorka 12 a 3 a 45 a 6	svorka 4 5 a 6 byť od svorka záporný batéria oddelený medzera
 4.40	žiarovka B a C byť stále v cesta s batéria	žiarovka B a C byť stále s akumulátor v uzavretý dráha
 1.60	spínač z byť uzavretý v cesta k batéria	stále existovať uzavretý cesta obsahujúci spínač z spínač X žiarovka a a C a batéria
 1.60	žiarovka a a B byť stále uzavretý v uzavretý dráha batéria	ak C zhorieť pot byť batéria a a B stále v uzavretý dráha
 1.60	v cesta byť dva zložka	batéria byť v otvorený cesta
 1.60	a a B byť stále v uzavretý kanál s batéria	ak C zhorieť pot byť a a B stále v uzavretý dráha s batéria
-1.60	žiarovka a nebyť vytvárať medzera pre žiarovka b a ?	ak žiarovka a vyhorieť žiarovka B a C byť stále v uzavretý dráha
+1.60	žiarovka a nebyť vytvárať medzera pre žiarovka b a	ak žiarovka a vyhorieť žiarovka B a C byť stále v uzavretý dráha
 1.60	dráha žiarovka a obsahovať iba spínač z	spínač Y a žiarovka a nie byť v rovnaký uzavretý poloha
 5.00	neúplný obvod nemať vplyv na napätie	batéria využívať chemický reakcia na udržanie rôzny elektrický stav na svorka
 5.00	medzera oddeľovať kladný pól batéria od svorka 2	svorka 2 a kladný pól byť oddelený medzera
@@ -475,7 +475,7 @@
 2.20	pretože to nebyť obsiahnutý v uzavretý cesta	neexistovať cesta obsahujúci spínač Y aj žiarovka a
 1.80	žiarovka a a B byť na iný uzavretý cesta	ak byť C poškodená a a B byť stále v uzavretý dráha
 1.80	pretože to nie byť na rovnaký cesta	žiarovka a byť stále v batéria v uzavretý dráha
-1.80	žiarovka b a ? mať v uzavretý okruh samostatný cesta	ak žiarovka a vyhorieť B a C už nie byť s batéria v uzavretý dráha
+1.80	žiarovka b a mať v uzavretý okruh samostatný cesta	ak žiarovka a vyhorieť B a C už nie byť s batéria v uzavretý dráha
 3.80	ak cesta nie byť uzavretý spínač nebyť mať vplyv na žiarovka	ak byť žiarovka a spínač v rovnaký smer spínač ovplyvňovať žiarovka
 1.60	medza kladný svorka batéria a svorka 4 byť medzera	svorka 4 a kladný svorka batéria byť v rovnaký elektrický stav
 1.00	batéria byť v konštantný stav elektrický energia	batéria využívať chemický reakcia na udržanie rôzny elektrický stav na svorka
@@ -485,26 +485,26 @@
 1.00	napätie byť rozdiel medza kladný a záporný pól batéria	svorka 1 a kladný pól byť oddelený medzera
 5.00	svorka 6 byť pripojený k kladný svorka batéria	svorka 6 a kladný svorka byť pripojený
 5.00	medza svorka 3 a kladný pól byť medzera	svorka 3 a kladný pól byť oddelený medzera
-4.00	žiarovka ? nebyť pripojený k batéria	žiarovka C už nebyť v batéria v uzavretý dráha
+4.00	žiarovka nebyť pripojený k batéria	žiarovka C už nebyť v batéria v uzavretý dráha
 3.60	pretože svorka 4 byť pripojený k kladný svorka ale nie k záporný svorka	svorka 4 a kladný svorka byť pripojený
 4.80	pretože to byť stále na uzavretý cesta	žiarovka a byť stále v uzavretý cesta s batéria
 4.80	medzera oddeľovať kladný pól batéria od svorka 1	svorka 1 a kladný pól byť oddelený medzera
-3.00	žiarovka a a ? byť pripojený k batéria rovnaký cesta	žiarovka a a C byť stále uzavretý v uzavretý dráha s batéria
+3.00	žiarovka a a byť pripojený k batéria rovnaký cesta	žiarovka a a C byť stále uzavretý v uzavretý dráha s batéria
 3.00	okruh 2 nie byť skrat pretože batéria nie byť v uzavretý cesta sám so seba	batéria v 2 nie byť v uzavretý cesta
 1.20	svorka 1 bola pripojený k kladný svorka	svorka 1 a kladný pól byť oddelený medzera
 4.00	vybratie jeden žiarovka sa druhá vypnúť	a a C byť na rovnaký uzavretý cesta
 4.00	poškodenie jeden sa vypnúť druhý	a a C byť na rovnaký cesta
-4.00	žiarovka a b a ? byť na paralelný dráha	a a C byť rôzne
+4.00	žiarovka a b a byť na paralelný dráha	a a C byť rôzne
 4.00	bez a neexistovať uzavretý cesta	ak žiarovka a vyhorieť ani B ani C nie byť v uzavretý dráha
 2.83	pretože batéria mať chemický reakcia ktorý spôsobovať napätie	batéria využívať chemický reakcia na udržanie rôzny elektrický stav na svorka
 2.83	ak ponechávať medzera v cesta s batéria	ak byť spínač a žiarovka v rovnaký cesta
 2.83	medza svorka batéria a svorka bublina byť medzera	svorka byť oddelený medzera
 2.83	vytvárať medzera ktorý neumožňovať tok elektrický prúd do ostatný žiarovka	poškodená žiarovka vytvárať medzera
 2.83	pretože batéria nie byť v uzavretý okruh	batéria v 2 nie byť v uzavretý cesta
-5.00	žiarovka a byť obsiahnutý v úplný obvod keď byť spínač ? ?	žiarovka a byť stále v uzavretý cesta s batéria a spínač X.
+5.00	žiarovka a byť obsiahnutý v úplný obvod keď byť spínač	žiarovka a byť stále v uzavretý cesta s batéria a spínač X.
 5.00	uzavretý cesta s batéria a žiarovka	existovať uzavretý cesta obsahujúci žiarovka aj batéria
 1.20	pól žiarovka a pól záporný batéria byť oddelený medzera	medza svorka nie byÅ¥ medzera
-2.20	žiarovka ? nevytvárať medzera	stále byť tu uzavretý cesta
+2.20	žiarovka nevytvárať medzera	stále byť tu uzavretý cesta
 2.20	žiarovka a vytvoriť medzera v cesta	ak žiarovka a vyhorieť B a C už nie byť s batéria v uzavretý dráha
 4.60	žiarovka byť na rovnaký cesta	a a C byť na rovnaký cesta
 4.60	všetok komponent byť v uzavretý okruh	svorka 1 a kladný pól byť oddelený medzera
@@ -532,25 +532,25 @@
 1.20	ak nie byť cesta obvod úplný žiarovka nebyť napájaný	byť neúplný obvod
 1.20	batéria obsahovať iba záporný náboj	spínač Y a žiarovka a nie byť v rovnaký uzavretý poloha
 5.00	terminál byť pripojený k žiarovka	svorka 1 byť pripojený k záporný svorka batéria
-5.00	a byť v uzavretý okruh keď byť ? zatvorený	žiarovka a byť stále v uzavretý cesta s batéria a spínač X.
-5.00	žiarovka a a žiarovka ? byť stále v uzavretý dráha s batéria	žiarovka a a C byť stále uzavretý v uzavretý dráha s batéria
+5.00	a byť v uzavretý okruh keď byť zatvorený	žiarovka a byť stále v uzavretý cesta s batéria a spínač X.
+5.00	žiarovka a a žiarovka byť stále v uzavretý dráha s batéria	žiarovka a a C byť stále uzavretý v uzavretý dráha s batéria
 5.00	ak žiarovka a vyhorieť žiarovka B a C už nebyť v uzavretý dráha	ak žiarovka a vyhorieť ani B ani C nie byť v uzavretý dráha
 3.80	svorka 5 byť pripojený iba k kladný svorka batéria	svorka 5 a kladný pól byť spojený
 2.60	táto medzera oddeľovať kladný a záporný náboj	svorka 1 2 a 3 byť oddelený od kladný pól batéria medzera
-2.60	žiarovka a byť obsiahnutý na dráha oddelený od uzavretý dráha žiarovka b a ?	a a C sa líšiť od batéria
+2.60	žiarovka a byť obsiahnutý na dráha oddelený od uzavretý dráha žiarovka b a	a a C sa líšiť od batéria
 2.60	nie byť pripojený k kladný batéria	svorka 2 a kladný svorka nie byť pripojený
 5.00	pretože sa batéria nepoškodiť prichádzať do úplný kontakt jeden koniec s žiarovka	batéria neobsahovať uzavretý cesta
 5.00	svorka 1 byť pripojený k záporný svorka batéria	svorka 1 byť pripojený k záporný svorka batéria
-4.60	žiarovka a a ? byť obsiahnutý v rôzny dráha spolu s batéria	a a C sa líšiť od batéria
+4.60	žiarovka a a byť obsiahnutý v rôzny dráha spolu s batéria	a a C sa líšiť od batéria
 0.40	pretože tam byť žiarovka	batéria v 2 nie byť v uzavretý cesta
-1.80	žiarovka b a ? byť kontikovaný rovnaký cesta ako batéria	a a C nie byť v rovnaký smer s batéria
+1.80	žiarovka b a byť kontikovaný rovnaký cesta ako batéria	a a C nie byť v rovnaký smer s batéria
 4.80	každý žiarovka obsahovať svoj vlastný uzavretý cesta	žiarovka a a C byť stále v uzavretý dráha
 4.80	kladný terminál a terminál 1 byť oddelený medzera	svorka 1 a kladný pól byť oddelený medzera
-3.80	b a ? byť obidva časť úplný obvod k batéria	žiarovka B a C byť stále s akumulátor v uzavretý dráha
+3.80	b a byť obidva časť úplný obvod k batéria	žiarovka B a C byť stále s akumulátor v uzavretý dráha
 1.40	ak byť poškodená žiarovka na rovnaký uzavretý cesta s batéria	poškodená žiarovka a druhá žiarovka musieť byť v rovnaký smer
 1.40	pokiaľ byť X a z zatvorený byť a svietiť	existovať cesta obsahujúci a C z a X
 1.40	ak byť súčasť obvod ktorý obsahovať žiarovka a batéria	ak byť spínač a žiarovka v rovnaký cesta
-4.60	pretože žiarovka ? nie byť na rovnaký cesta	existovať uzavretý cesta s a a B v ktorý C nie byť
+4.60	pretože žiarovka nie byť na rovnaký cesta	existovať uzavretý cesta s a a B v ktorý C nie byť
 4.60	spínač byť zatvorený aby sa vytvoriť uzavretý cesta	spínač a žiarovka musieť byť v rovnaký smer
 4.60	žiarovka a a b byť stále v uzavretý dráha s batéria	ak C zhorieť pot byť a a B stále v uzavretý dráha s batéria
 4.60	pretože žiarovka a byť stále v uzavretý cesta k batéria	žiarovka a byť stále v batéria v uzavretý dráha
@@ -561,7 +561,7 @@
 2.60	poškodená žiarovka nevytvárať pripojenie k obvod nie byť dokončený	byť neúplný obvod
 4.80	ak byť žiarovka B poškodená nie byť tam žiaden cesta	neexistovať uzavretý cesta
 4.80	pretože žiarovka B a C byť stále s batéria v uzavretý dráha	žiarovka B a C byť stále obsiahnutý v tá istý uzavretý cesta s batéria
-5.00	žiarovka b a ? zostávať uzavretý s batéria	žiarovka B a C byť stále s akumulátor v uzavretý dráha
+5.00	žiarovka b a zostávať uzavretý s batéria	žiarovka B a C byť stále s akumulátor v uzavretý dráha
 4.00	žiarovka B a C byť obsiahnutý v rovnaký uzavretý cesta s batéria	B a C byť v rovnaký smer s batéria
 4.00	Vyhoren žiarovka označovať medzera v spojenie medza protiľahlý koniec pól batéria	meranie napätie označovať miesto kde sa meniť elektrický stav v dôsledok medzera
 4.00	žiarovka a žiarovka C a batéria byť v uzavretý dráha	ak C zhorieť pot byť batéria a a B stále v uzavretý dráha
@@ -576,7 +576,7 @@
 0.80	terminál byť prepínať dookola	svorka 1 a kladný pól byť oddelený medzera
 1.80	žiarovka a vytvoriť medzera	ak žiarovka a vyhorieť ani B ani C nie byť v uzavretý dráha
 3.60	žiarovka musieť obsahovať batéria v cesta bez medzera	poškodená žiarovka a druhá žiarovka musieť byť v rovnaký smer
-3.60	žiarovka a byť v úplný okruh s batéria keď byť spínač z ?	žiarovka a byť stále v uzavretý dráha s batéria a spínač z
+3.60	žiarovka a byť v úplný okruh s batéria keď byť spínač z	žiarovka a byť stále v uzavretý dráha s batéria a spínač z
 3.80	spínač Y nebyť na dráha žiarovka a	neexistovať žiaden cesta obsahujúci spínač Y aj žiarovka a
 0.80	pretože ani jeden zo zložka nie byť spojený sám so seba	okruh 4 nemať uzavretý cesta
 0.80	kladný batéria byť pripojený k svorka 4	svorka 4 a kladný svorka byť pripojený
@@ -586,7 +586,7 @@
 2.60	batéria nie byť uzavretý v uzavretý cesta	okruh 4 nemať uzavretý cesta
 0.80	byť to na rovnaký uzavretý cesta	byť tu otvorený cesta
 3.40	pretože merač napätie bola pripojený na kladný a záporný strana	svorka 1 a kladný pól byť oddelený medzera
-3.40	pretože žiarovka a nie byť v cesta spínač ?	existovať cesta obsahujúci a C z a X
+3.40	pretože žiarovka a nie byť v cesta spínač	existovať cesta obsahujúci a C z a X
 3.40	žiarovka a a B nie byť v tá istý dráha ako žiarovka C.	žiarovka C byť v samostatný cesta
 2.00	musieť existovať uzavretý cesta	existovať uzavretý cesta obsahujúci žiarovka aj batéria
 2.00	v okruh 5 byť batéria v uzavretý cesta	batéria byť obsiahnutý v uzavretý cesta v ktorý nie byť žiarovka
@@ -601,8 +601,8 @@
 0.40	nedôjsť k skrat k batéria	batéria využívať chemický reakcia na udržanie rôzny elektrický stav na svorka
 1.00	pretože žiarovka a stále dostávať kladný a záporný prúd	žiarovka a byť stále v uzavretý cesta s batéria
 1.00	medza svorka 1 a 2 od kladný pól batéria byť medzera	svorka 1 a 2 byť pripojený a v rovnaký elektrický stav
-3.80	pretože žiarovka b a ? byť stále s batéria v uzavretý dráha	žiarovka B a C byť stále obsiahnutý v tá istý uzavretý cesta s batéria
-3.40	pretože žiarovka a nie byť na rovnaký dráha ako žiarovka b a ?	ak žiarovka a vyhorieť žiarovka B a C byť stále v uzavretý dráha
+3.80	pretože žiarovka b a byť stále s batéria v uzavretý dráha	žiarovka B a C byť stále obsiahnutý v tá istý uzavretý cesta s batéria
+3.40	pretože žiarovka a nie byť na rovnaký dráha ako žiarovka b a	ak žiarovka a vyhorieť žiarovka B a C byť stále v uzavretý dráha
 3.40	žiarovka byť v dráha obvod	batéria neobsahovať uzavretý cesta
 3.40	žiarovka a a spínač z byť v uzavretý dráha	žiarovka a byť stále v uzavretý dráha s batéria a spínač z
 0.40	žiarovka mať stále cesta k batéria	ak žiarovka a vyhorieť B a C už nie byť s batéria v uzavretý dráha
@@ -615,24 +615,24 @@
 2.60	oba byť na rovnaký uzavretý cesta	B a C byť v rovnaký smer s batéria
 1.40	keď vytvoriť otvorený cesta	ak byť spínač a žiarovka v rovnaký cesta
 2.80	medza žiarovka byť medzera	v okruh byÅ¥ medzera
-2.80	pomáhať to pretože nájsť medzera v miesiť odpojenie svorka	? napätie ukazovať či byť dva svorka oddelený medzera
+2.80	pomáhať to pretože nájsť medzera v miesiť odpojenie svorka	napätie ukazovať či byť dva svorka oddelený medzera
 4.60	pretože žiarovka a bola v uzavretý cesta	žiarovka a byť stále v uzavretý cesta s batéria
 4.60	pretože záporný koniec merač napätie bola pripojený k kladný obvod	svorka 4 a kladný svorka batéria byť v rovnaký elektrický stav
-4.60	žiarovka a a ? byť na uzavretý cesta s batéria	žiarovka a a C byť stále s batéria v uzavretý dráha
+4.60	žiarovka a a byť na uzavretý cesta s batéria	žiarovka a a C byť stále s batéria v uzavretý dráha
 2.20	pripojený k záporný svorka	svorka 1 a 2 byť spojený
 1.80	pretože batéria byť v uzavretý dráha ale žiarovka nie	batéria byť obsiahnutý v uzavretý cesta v ktorý nie byť žiarovka
 1.80	nebyť to v kompletný okruh	žiarovka C nebyť v uzavretý cesta
 1.80	medza svorka jeden a dva a kladný pól batéria byť medzera	svorka 1 a 2 byť v rovnaký elektrický stav
 4.80	žiarovka a svietiť pretože bola obsiahnutý v uzavretý cesta	žiarovka a bola stále v tá istý uzavretý cesta s batéria
-4.80	žiarovka ? nie byť v rovnaký dráha ako žiarovka a a b	a a B mať svoj vlastný cesta
+4.80	žiarovka nie byť v rovnaký dráha ako žiarovka a a b	a a B mať svoj vlastný cesta
 4.80	žiarovka B byť na iný cesta	žiarovka B byť oddelený
 4.80	svorka 6 byť pripojený k kladný svorka batéria	svorka 6 a kladný svorka byť pripojený
 4.80	svorka záporný pól batéria byť oddelený medzera od svorka 6	medza svorka 6 a kladný pól nie byť medzera
-4.80	ak byť C poškodená žiarovka a a B ? byť uzavretý	ak byť C poškodená a a B byť stále v uzavretý dráha
-1.40	žiarovka b a ? byť v rovnaký uzavretý smer s batéria	B a C byť v rovnaký smer s batéria
+4.80	ak byť C poškodená žiarovka a a B byť uzavretý	ak byť C poškodená a a B byť stále v uzavretý dráha
+1.40	žiarovka b a byť v rovnaký uzavretý smer s batéria	B a C byť v rovnaký smer s batéria
 1.40	byť sa vytvoriť medzera	ak žiarovka a vyhorieť ani B ani C nie byť v uzavretý dráha
 2.80	žiarovka musieť byť v uzavretý okruh s batéria	existovať uzavretý cesta obsahujúci žiarovka aj batéria
-2.80	žiarovka a b a ? byť na cesta s batéria	a a C byť na rovnaký cesta
+2.80	žiarovka a b a byť na cesta s batéria	a a C byť na rovnaký cesta
 3.00	pól kladný batéria a svorka 6 byť pripojený	svorka 6 a kladný svorka byť pripojený
 3.00	žiarovka a žiarovka B a žiarovka C byť v rôzny uzavretý dráha	a a C byť rôzne
 4.80	k dispozícia byť žiarovka a batéria	batéria v 2 nie byť v uzavretý cesta
@@ -645,23 +645,23 @@
 3.40	musieť existovať uzavretý cesta a batéria	existovať uzavretý cesta obsahujúci žiarovka aj batéria
 4.80	pretože otvorený spínač vytvárať medzera	otvorený spínač vytvárať medzera
 3.60	v obvod byť žiarovka	batéria neobsahovať uzavretý cesta
-3.60	a a ? byť na rovnaký uzavretý cesta s batéria	a a C byť na rovnaký uzavretý cesta
+3.60	a a byť na rovnaký uzavretý cesta s batéria	a a C byť na rovnaký uzavretý cesta
 3.40	žiarovka a a B byť stále pripojený k uzavretý cesta obsahujúci batéria	ak C zhorieť pot byť a a B stále v uzavretý dráha s batéria
 1.60	žiarovka C a a byť obsiahnutý v rovnaký cesta s batéria	a a C byť rôzne
 4.80	spínač otvárať uzavretý okruh	byť tu otvorený cesta
 4.80	pretože každý žiarovka mať svoj vlastný dráha	každý žiarovka byť vo svoj vlastný cesta
-4.00	spínač ? a žiarovka a nie byť v tá istý uzavretý dráha	spínač Y a žiarovka a nie byť v rovnaký uzavretý poloha
+4.00	spínač a žiarovka a nie byť v tá istý uzavretý dráha	spínač Y a žiarovka a nie byť v rovnaký uzavretý poloha
 4.00	poškodená žiarovka poškodzovať cesta ku ktorý byť pripojený	poškodená žiarovka vytvárať medzera
-4.00	pretože môcť mať kompletný obvod ak byť ? zatvorený a Y byť otvorený	existovať cesta obsahujúci a C z a X
-4.00	svorka 1,2 a 3 byť pripojený k záporný pól batéria	svorka 1 2 a 3 byť pripojený k pól záporný batéria
-4.00	pretože to vytvoriť ? v obvod	poškodená žiarovka vytvárať medzera
+4.00	pretože môcť mať kompletný obvod ak byť zatvorený a Y byť otvorený	existovať cesta obsahujúci a C z a X
+4.00	svorka 12 a 3 byť pripojený k záporný pól batéria	svorka 1 2 a 3 byť pripojený k pól záporný batéria
+4.00	pretože to vytvoriť v obvod	poškodená žiarovka vytvárať medzera
 4.00	keď byť spínač v uzavretý dráha s žiarovka	ak byť spínač a žiarovka v rovnaký cesta
 4.40	kladný pól batéria byť oddelený medzera od svorka 4	svorka 4 a kladný svorka batéria byť v rovnaký elektrický stav
 4.40	C neovplyvňovať ostatný ich cesta byť stále uzavretý	ak C zhorieť pot a a B byť stále v uzavretý cesta
 4.40	žiarovka a žiarovka B a žiarovka C byť obsiahnutý v rôzny uzavretý dráha	a a C byť rôzne
-4.40	pretože svorka 4,5 a 6 byť spojený s kladný pól batéria	svorka 4 5 a 6 byť pripojený ku kladný svorka batéria
+4.40	pretože svorka 45 a 6 byť spojený s kladný pól batéria	svorka 4 5 a 6 byť pripojený ku kladný svorka batéria
 4.80	a a b byť stále uzavretý v uzavretý cesta s batéria	ak C zhorieť pot byť batéria a a B stále v uzavretý dráha
-4.80	žiarovka b a ? byť v uzavretý prostredie s batéria	žiarovka B a C byť stále obsiahnutý v tá istý uzavretý cesta s batéria
+4.80	žiarovka b a byť v uzavretý prostredie s batéria	žiarovka B a C byť stále obsiahnutý v tá istý uzavretý cesta s batéria
 3.00	batéria byť v uzavretý cesta	batéria byť obsiahnutý v cesta v ktorý nie byť žiarovka
 3.00	keď jeden žiarovka zhasnúť ostatné zhasnúť	každý žiarovka byť vo svoj vlastný cesta
 3.00	otvorený spínač znamenať že obvod nie byť uzavretý cesta	cesta nie byť uzavretý
@@ -676,7 +676,7 @@
 4.50	žiarovka a a žiarovka C byť obsiahnutý v rôzny cesta s batéria	a a C sa líšiť od batéria
 3.83	spínač musieť byť v uzavretý cesta so žiarovka a batéria	spínač a žiarovka musieť byť v rovnaký smer
 3.50	batéria nie byť v samotný uzavretý kúpeľ	batéria v 2 nie byť v uzavretý cesta
-4.67	? byť obsiahnutý v uzavretý cesta	stále byť tu uzavretý cesta
+4.67	byť obsiahnutý v uzavretý cesta	stále byť tu uzavretý cesta
 4.67	klub a a žiarovka C byť obsiahnutý v rôzny cesta s rovnaký batéria	a a C sa líšiť od batéria
 5.00	terminál 1 a 4 pripojený	svorka 1 a 4 byť spojený
 2.83	namiesto ten byť možný spínač z uzavrieť	stále existovať uzavretý cesta obsahujúci spínač z spínač X žiarovka a a C a batéria
@@ -684,7 +684,7 @@
 2.83	svorka 1 a 2 byť na tá istý strana	svorka 1 a 2 byť spojený
 5.00	pretože byť tu medzera	ak žiarovka a vyhorieť ani B ani C nie byť v uzavretý dráha
 5.00	každý žiarovka ovplyvňovať ostatné žiarovka	a a C byť na rovnaký cesta
-5.00	pretože spínač ? môcť byť zatvorený a ? môcť byť otvorený a a byť svietiť	existovať cesta obsahujúci a
+5.00	pretože spínač môcť byť zatvorený a môcť byť otvorený a a byť svietiť	existovať cesta obsahujúci a
 5.00	terminál 4 mať medzera	svorka 4 a kladný svorka batéria byť v rovnaký elektrický stav
 5.00	žiarovka C nie byť obsiahnutý v uzavretý cesta s batéria	žiarovka C už nebyť v batéria v uzavretý dráha
 5.00	že nie byť rozdiel medza elektrický stav svorka žiarovka a svorka batéria	terminál byť v rovnaký stav
@@ -701,7 +701,7 @@
 5.00	žiarovka nie byť pripojený k kladný pripojenie batéria	nie byť tam žiaden uzavretý cesta
 5.00	otvorený spínač bola v cesta	existovať cesta obsahujúci z aj C
 5.00	batéria byť v okruh s žiarovka	batéria neobsahovať uzavretý cesta
-5.00	pretože žiarovka ? vytvoriť medzera mala pot kladný aj záporný náboj	svorka 1 a kladný pól byť oddelený medzera
+5.00	pretože žiarovka vytvoriť medzera mala pot kladný aj záporný náboj	svorka 1 a kladný pól byť oddelený medzera
 5.00	kladný pól byť pripojený k pól 4	svorka 4 a kladný svorka byť pripojený
 4.33	žiarovka a a C byť stále s batéria na uzavretý cesta	žiarovka a a C byť stále uzavretý v uzavretý dráha s batéria
 2.83	prepínač Y bola v iný cesta	spínač Y a žiarovka a nie byť v rovnaký uzavretý poloha
@@ -731,17 +731,17 @@
 4.67	oba svorka batéria nie byť pripojený	batéria v 2 nie byť v uzavretý cesta
 4.67	svorka jeden nie byť pripojený k pól kladný batéria	svorka 1 a kladný pól nie byť pripojený
 0.83	čítanie napätie 0 volt naznačovať medzera v obvod	medza svorka nie byÅ¥ medzera
-1.67	žiarovka a a ? byť obsiahnutý na rovnaký cesta s batéria	a a C nie byť v rovnaký smer s batéria
-4.50	žiarovka ? byť na samostatný cesta od a a b ktorý byť stále pripojený k batéria	ak C zhorieť pot byť batéria a a B stále v uzavretý dráha
+1.67	žiarovka a a byť obsiahnutý na rovnaký cesta s batéria	a a C nie byť v rovnaký smer s batéria
+4.50	žiarovka byť na samostatný cesta od a a b ktorý byť stále pripojený k batéria	ak C zhorieť pot byť batéria a a B stále v uzavretý dráha
 4.50	že neexistovať elektrický pripojenie	medza svorka nie byÅ¥ medzera
 4.50	batéria byť v uzavretý cesta ale nespájať sa s nič iný	batéria byť uzatvorený tak aby neobsahovať žiaden ďalší komponent
 1.83	svorka musieť mať rozdiel v elektrický stav aby mať napätie	batéria využívať chemický reakcia na udržanie rôzny elektrický stav na svorka
 3.33	obidva zložka byť oddelený	svorka 1 a kladný pól byť oddelený medzera
 1.83	žiarovka a byť pripojený k batéria	žiarovka a bola stále v tá istý uzavretý cesta s batéria
 1.83	pretože kladný náboj byť pred medzera	svorka 1 a kladný pól byť oddelený medzera
-4.33	prepínač ? byť na iný cesta ako žiarovka a	spínač Y a žiarovka a nie byť v rovnaký uzavretý poloha
+4.33	prepínač byť na iný cesta ako žiarovka a	spínač Y a žiarovka a nie byť v rovnaký uzavretý poloha
 4.33	spínač Y nie byť na dráha žiarovka a	neexistovať žiaden cesta obsahujúci spínač Y aj žiarovka a
-4.17	žiarovka b a žiarovka ? byť v uzavretý dráha a žiarovka a byť v samostatný uzavretý dráha	ak C zhorieť pot a a B byť stále v uzavretý cesta
+4.17	žiarovka b a žiarovka byť v uzavretý dráha a žiarovka a byť v samostatný uzavretý dráha	ak C zhorieť pot a a B byť stále v uzavretý cesta
 4.17	byť tam kompletný obvod s batéria a žiarovka	žiarovka a byť stále v uzavretý cesta s batéria
 4.17	žiarovka byť uzavretý v cesta s batéria	poškodená žiarovka a druhá žiarovka musieť byť v rovnaký smer
 4.17	medza dva svorka žiarovka byť medzera	svorka byť oddelený medzera
@@ -777,10 +777,10 @@
 0.67	ak byť žiarovka B poškodená dôjsť k prerušenie prúd	v okruh byÅ¥ medzera
 0.67	napätie byť rozdiel medza kladný a záporný koncom batéria	svorka 1 a kladný pól byť oddelený medzera
 3.50	terminál byť stále pripojený k elektrický stav batéria	batéria využívať chemický reakcia na udržanie rôzny elektrický stav na svorka
-3.50	žiarovka a b a ? nie byť obsiahnutý v tá istý uzavretý cesta	a a C nie byť na rovnaký cesta
+3.50	žiarovka a b a nie byť obsiahnutý v tá istý uzavretý cesta	a a C nie byť na rovnaký cesta
 3.50	v obvod byť okrem batéria aj ďalší komponent	batéria v 2 nie byť v uzavretý cesta
 3.50	spínač Y neovplyvňovať žiarovka a	spínač Y a žiarovka a nie byť v rovnaký uzavretý poloha
-4.00	žiarovka b a ? byť v uzavretý dráha	B a C byť na rovnaký cesta
+4.00	žiarovka b a byť v uzavretý dráha	B a C byť na rovnaký cesta
 2.50	batéria byť obsiahnutý v žiarovka	batéria byť obsiahnutý v cesta ktorý neobsahovať žiaden ďalší komponent
 1.67	žiarovka byť uzavretý v uzavretý cesta	žiarovka a a C byť stále v uzavretý dráha
 1.67	batéria byť obsiahnutý v cesta	žiarovka a byť stále v uzavretý cesta s batéria
@@ -799,7 +799,7 @@
 4.17	v spoj nie byÅ¥ medzera	svorka nie byť oddelený medzera
 1.20	žiarovka C nie byť v tá istý uzavretý cesta ako batéria	ak C zhorieť pot byť a a B stále v uzavretý dráha s batéria
 1.20	pretože byť tu medzera	svorka 1 a kladný pól byť oddelený medzera
-1.20	neobsahovaÅ¥ cesta ? ?	a a B mať svoj vlastný cesta
+1.20	neobsahovaÅ¥ cesta	a a B mať svoj vlastný cesta
 1.20	prepínač určovať či byť cesta otvorený alebo uzavretý	ak byť žiarovka a spínač v rovnaký smer spínač ovplyvňovať žiarovka
 3.00	spínač ovplyvniť žiarovka ktorý byť žiarovka a vypínač v cesta ako batéria	ak byť spínač a žiarovka v rovnaký cesta
 0.80	obvod 5 mať iba 1 svorka	batéria byť obsiahnutý v cesta ktorý neobsahovať žiaden ďalší komponent
@@ -811,11 +811,11 @@
 1.60	druhá žiarovka nebyť svietiť	poškodená žiarovka a druhá žiarovka musieť byť v rovnaký smer
 4.40	kladný batéria byť od svorka 3 oddelený medzera	svorka 2 nie byť oddelený od záporný svorka batéria
 4.40	uzavretý okruh medza batéria a žiarovka	žiarovka a batéria byť v uzavretý dráha
-4.40	pretože žiarovka b a ? byť s batéria na uzavretý cesta	žiarovka B a C byť stále obsiahnutý v tá istý uzavretý cesta s batéria
+4.40	pretože žiarovka b a byť s batéria na uzavretý cesta	žiarovka B a C byť stále obsiahnutý v tá istý uzavretý cesta s batéria
 1.00	medza svorka nie byÅ¥ medzera	svorka 1 byť pripojený k záporný svorka batéria
 0.60	pretože existovať pozitívne a negatívne súvislosť	svorka 1 a 6 nie byť pripojený
 0.80	pretože medza svorka nemať medzera	žiarovka a byť stále v uzavretý cesta s batéria
-2.20	žiarovka b a žiarovka ? byť stále uzavretý v uzavretý dráha s batéria	ak žiarovka a vyhorieť B a C už nie byť s batéria v uzavretý dráha
+2.20	žiarovka b a žiarovka byť stále uzavretý v uzavretý dráha s batéria	ak žiarovka a vyhorieť B a C už nie byť s batéria v uzavretý dráha
 2.20	žiarovka b byť medzera	svorka 4 5 a 6 byť od svorka záporný batéria oddelený medzera
 2.20	batéria nie byť zatvorený žiarovka byť	batéria v 2 nie byť v uzavretý cesta
 5.00	pretože byť v uzavretý okruh sám so seba a žiarovka nie byť i uzavretý obvod	batéria byť obsiahnutý v cesta v ktorý nie byť žiarovka
@@ -823,7 +823,7 @@
 5.00	svorka 1 nie byť pripojený k kladný pól	svorka 1 a kladný pól nie byť pripojený
 1.40	k svorka záporný batéria byť pripojený svorka	svorka nie byť pripojený
 5.00	kladný svorka batéria a svorka 1 nie byť pripojený	svorka 1 a kladný pól nie byť pripojený
-0.40	demontáž žiarovka a ovplyvniť žiarovka ?	a a C byť na rovnaký uzavretý cesta
+0.40	demontáž žiarovka a ovplyvniť žiarovka	a a C byť na rovnaký uzavretý cesta
 0.40	byť rozdiel v elektrický stav	svorka byť oddelený medzera
 1.60	pretože byť stále v uzavretý okruh	žiarovka a bola stále v tá istý uzavretý cesta s batéria
 3.60	v obvod by bola medzera	v okruh byÅ¥ medzera
@@ -838,7 +838,7 @@
 4.60	pretože kladný terminál byť oddelený medzera od terminál 3	svorka 3 a kladný pól byť oddelený medzera
 1.00	nie byť to na rovnaký cesta	žiarovka a byť stále v batéria v uzavretý dráha
 5.00	poškodená žiarovka vytvárať medzera	poškodená žiarovka vytvárať medzera
-2.40	napätie byť blízko k ? žiarovka	? napätie označovať miesto kde sa meniť elektrický stav v dôsledok poškodená žiarovka
+2.40	napätie byť blízko k žiarovka	napätie označovať miesto kde sa meniť elektrický stav v dôsledok poškodená žiarovka
 3.20	ak byť z zatvorený a byť stále súčasť celý obvod	žiarovka a byť stále v batéria v uzavretý dráha
 3.20	nie byť v uzavretý cesta	batéria v 2 nie byť v uzavretý cesta
 3.20	umožňovať merať elektrický stav medza svorka	meranie napätie označovať miesto kde sa meniť elektrický stav v dôsledok medzera
@@ -847,15 +847,15 @@
 2.00	ak byť svorka na oba koniec žiarovka rovnaký pot byť poškodená	Nenulová napätie znamenať že svorka nie byť pripojený
 2.00	obvod 5 byť v uzavretý cesta	batéria byť obsiahnutý v uzavretý cesta v ktorý nie byť žiarovka
 4.60	B a C byť stále obsiahnutý v uzavretý okruh s batéria	žiarovka B a C byť stále obsiahnutý v tá istý uzavretý cesta s batéria
-3.20	pomôcť to zistiť kde byť medzera v okruh	? napätie ukazovať či byť dva svorka oddelený medzera
-1.80	ak žiarovka a vyhorieť ak ovplyvňovať žiarovka b a ?	a a C byť na rovnaký uzavretý cesta
+3.20	pomôcť to zistiť kde byť medzera v okruh	napätie ukazovať či byť dva svorka oddelený medzera
+1.80	ak žiarovka a vyhorieť ak ovplyvňovať žiarovka b a	a a C byť na rovnaký uzavretý cesta
 1.80	žiarovka nie byť obsiahnutý v dráha	batéria byť obsiahnutý v cesta ktorý neobsahovať žiaden ďalší komponent
-1.80	medza dráhový žiarovka a a ? nie byť žiaden vzťah	a a C byť rôzne
+1.80	medza dráhový žiarovka a a nie byť žiaden vzťah	a a C byť rôzne
 1.80	keď byť spínač otvorený	ak byť spínač a žiarovka v rovnaký cesta
-1.80	svorka batéria sa ? bez akýkoľvek zariadenie	batéria byť v otvorený cesta
+1.80	svorka batéria sa bez akýkoľvek zariadenie	batéria byť v otvorený cesta
 3.20	svorka byť pripojený na kladný koniec batéria	svorka 4 5 a 6 byť pripojený ku kladný svorka batéria
 3.60	batéria byť mať vždy napätie pretože elektrický stav kladný a záporný svorka byť vždy odlišný	batéria využívať chemický reakcia na udržanie rôzny elektrický stav na svorka
-3.60	žiarovka b a žiarovka ? byť obsiahnutý v rovnaký uzavretý cesta	B a C byť v rovnaký smer s batéria
+3.60	žiarovka b a žiarovka byť obsiahnutý v rovnaký uzavretý cesta	B a C byť v rovnaký smer s batéria
 3.60	pretože otvárať obvod preto okruh nie byť uzavretý	cesta nie byť uzavretý
 3.60	pretože batéria byť v uzavretý cesta	batéria byť obsiahnutý v uzavretý cesta v ktorý nie byť žiarovka
 2.60	batéria byť pripojený iba k jeden strana žiarovka a do ona prúdiť iba elektrina	batéria byť v otvorený cesta
@@ -871,7 +871,7 @@
 2.60	bola to uzavretý cesta	žiarovka a bola stále v tá istý uzavretý cesta s batéria
 1.60	pretože žiarovka a bola obsiahnutý v uzavretý cesta s batéria	žiarovka a bola stále v tá istý uzavretý cesta s batéria
 1.60	medza terminál 2 byť rozdiel	svorka 2 a kladný pól byť oddelený medzera
-1.60	žiarovka ? vytvárať medzera	ak C zhorieť pot byť batéria a a B stále v uzavretý dráha
+1.60	žiarovka vytvárať medzera	ak C zhorieť pot byť batéria a a B stále v uzavretý dráha
 5.00	svorka 4 svorka 5 a svorka 6 byť pripojený k kladný svorka batéria	svorka 4 5 a 6 byť pripojený ku kladný svorka batéria
 3.60	existovať uzavretý cesta ktorý nezahŕňať žiarovka a	každý žiarovka byť vo svoj vlastný cesta
 3.60	pretože po žiarovka b byť uzavretý okruh	svorka 4 5 a 6 byť pripojený ku kladný svorka batéria
@@ -885,7 +885,7 @@
 1.40	a a B byť stále uzavretý v cesta s batéria	ak C zhorieť pot byť a a B stále v uzavretý dráha s batéria
 1.40	pretože v terminál bola medzera	neexistovať cesta obsahujúci spínač Y aj žiarovka a
 3.60	svorka kladný akumulátor byť od svorka jeden oddelený medzera	svorka 2 a kladný pól byť oddelený medzera
-3.60	žiarovka ? nevytvárať medzera v dráha pre žiarovka b a a	ak byť C poškodená a a B byť stále v uzavretý dráha
+3.60	žiarovka nevytvárať medzera v dráha pre žiarovka b a a	ak byť C poškodená a a B byť stále v uzavretý dráha
 1.60	ak druhá žiarovka už nie byť v akumulátor uzavretý v uzavretý dráha	poškodená žiarovka a druhá žiarovka musieť byť v rovnaký smer
 0.60	po žiarovka b byť medzera	svorka 1 a kladný pól byť oddelený medzera
 0.60	oba byť na rovnaký strana obvod	svorka 1 2 a 3 byť pripojený k pól záporný batéria
@@ -895,7 +895,7 @@
 1.40	batéria byť uzavretý v uzavretý dráha	batéria byť obsiahnutý v uzavretý cesta v ktorý nie byť žiarovka
 1.40	batéria mať svoj vlastný chemický reakcia	batéria využívať chemický reakcia na udržanie rôzny elektrický stav na svorka
 1.40	pretože terminál 1 nemať žiaden medzera	svorka 1 a kladný pól byť oddelený medzera
-0.40	žiarovka a a ? byť na iný cesta s batéria	a a C nie byť v rovnaký smer s batéria
+0.40	žiarovka a a byť na iný cesta s batéria	a a C nie byť v rovnaký smer s batéria
 0.40	zastavovať tok elektrický energia	byť tu otvorený cesta
 2.80	pretože blokovať náboj obvod	byť neúplný obvod
 2.80	byť to otvorený okruh	svorka 4 a kladný svorka batéria byť v rovnaký elektrický stav
@@ -906,7 +906,7 @@
 1.00	batéria byť v uzavretý dráha a nie byť pripojený k žiarovka	batéria byť obsiahnutý v cesta v ktorý nie byť žiarovka
 1.00	prepínač z byť obsiahnutý na uzavretý cesta	existovať cesta obsahujúci a C z a X
 1.00	napätie mať rovnaký elektrický stav medza ľubovoľný dva svorka	svorka 1 2 a 3 byť oddelený od kladný pól batéria medzera
-3.50	môcť nájsť medzera v spojenie	? napätie ukazovať či byť dva svorka oddelený medzera
+3.50	môcť nájsť medzera v spojenie	napätie ukazovať či byť dva svorka oddelený medzera
 3.50	batéria v obvod 5 byť obsiahnutý v uzavretý cesta	batéria byť obsiahnutý v cesta v ktorý nie byť žiarovka
 3.50	obvod byť tak neúplný	byť neúplný obvod
 1.00	pretože na terminál 1 nie byť medzera	svorka 1 byť pripojený k záporný svorka batéria
@@ -916,10 +916,10 @@
 3.20	ak byť spínač a žiarovka v rovnaký dráha byť mať vplyv na žiarovka	ak byť spínač a žiarovka v rovnaký cesta
 4.80	pretože žiarovka a a C byť obsiahnutý v rôzny cesta s batéria	a a C sa líšiť od batéria
 1.80	cesto byť v uzavretý cesta bez akýkoľvek ďalší komponent	batéria byť uzatvorený tak aby neobsahovať žiaden ďalší komponent
-1.80	? z byť obsiahnutý v uzavretý cesta	stále existovať uzavretý cesta obsahujúci spínač z spínač X žiarovka a a C a batéria
+1.80	z byť obsiahnutý v uzavretý cesta	stále existovať uzavretý cesta obsahujúci spínač z spínač X žiarovka a a C a batéria
 1.80	áno žiarovka a bola zapnutý	žiarovka a bola stále v tá istý uzavretý cesta s batéria
 4.60	prepínač z obsahovať uzavretý cesta s batéria	stále existovať uzavretý cesta obsahujúci spínač z spínač X žiarovka a a C a batéria
-4.60	žiarovka a a žiarovka ? byť obsiahnutý v rôzny dráha spolu s batéria	a a C sa líšiť od batéria
+4.60	žiarovka a a žiarovka byť obsiahnutý v rôzny dráha spolu s batéria	a a C sa líšiť od batéria
 3.00	pretože svorka batéria nebyť oddelený medzera od svorka	svorka 4 a kladný pól nie byť oddelený medzera
 2.00	ak byť dráha otvorený žiarovka byť vypnutý	ak byť žiarovka a spínač v rovnaký smer spínač ovplyvňovať žiarovka
 0.20	byť to nájsť medzera	Nenulová napätie znamenať že svorka nie byť pripojený
@@ -927,22 +927,22 @@
 3.60	svorka nie byť navzájom spojený	svorka 1 a kladný pól nie byť pripojený
 3.60	pretože to byť v uzavretý cesta s batéria	žiarovka a bola stále v tá istý uzavretý cesta s batéria
 3.60	medzera spôsobiť chemický reakcia	Nenulová napätie znamenať že svorka nie byť pripojený
-3.60	prepínač ? nie byť v rovnaký dráha ako žiarovka a	žiarovka a byť stále v batéria v uzavretý dráha
+3.60	prepínač nie byť v rovnaký dráha ako žiarovka a	žiarovka a byť stále v batéria v uzavretý dráha
 3.60	žiarovka a byť v uzavretý cesta	žiarovka a bola stále v tá istý uzavretý cesta s batéria
 4.60	nie byť uzavretý cesta batéria	batéria neobsahovať uzavretý cesta
 4.60	spínač z byť uzavretý v žiarovka a s batéria	existovať cesta obsahujúci a C z a batéria
-4.60	pretože žiarovka a byť v uzavretý cesta a žiarovka ? byť v uzavretý cesta	žiarovka a a C byť stále v uzavretý dráha
+4.60	pretože žiarovka a byť v uzavretý cesta a žiarovka byť v uzavretý cesta	žiarovka a a C byť stále v uzavretý dráha
 5.00	žiarovka a a C byť obsiahnutý v rôzny cesta s batéria	a a C sa líšiť od batéria
-1.40	prepínač ? nie byť na rovnaký cesta k batéria	žiarovka a byť stále v batéria v uzavretý dráha
+1.40	prepínač nie byť na rovnaký cesta k batéria	žiarovka a byť stále v batéria v uzavretý dráha
 1.40	a a B byť vypnutý	byť neúplný obvod
 3.00	ak byť spínač X a z zatvorený dokončiť to uzavretý obvod pre žiarovka a	stále existovať uzavretý cesta obsahujúci spínač z spínač X žiarovka a a C a batéria
 4.40	pretože žiarovka a môcť prechádzať druhá cesta	žiarovka a byť stále v batéria v uzavretý dráha
-4.40	umožňovať identifikovať prípadný medzera	? napätie ukazovať či byť dva svorka oddelený medzera
+4.40	umožňovať identifikovať prípadný medzera	napätie ukazovať či byť dva svorka oddelený medzera
 4.40	žiarovka a bola v uzavretý cesta s batéria	žiarovka a byť stále v uzavretý cesta s batéria
 2.00	otvorený spínač zastaviť tok energia	cesta nie byť uzavretý
 4.40	keď vytvárať medzera na určitý cesta	ak byť spínač a žiarovka v rovnaký cesta
-4.40	žiarovka b a ? byť uzavretý v uzavretý cesta s batéria	žiarovka B a C byť stále obsiahnutý v tá istý uzavretý cesta s batéria
-3.00	žiarovka a a ? sa navzájom ovplyvňovať	a a C byť na rovnaký cesta
+4.40	žiarovka b a byť uzavretý v uzavretý cesta s batéria	žiarovka B a C byť stále obsiahnutý v tá istý uzavretý cesta s batéria
+3.00	žiarovka a a sa navzájom ovplyvňovať	a a C byť na rovnaký cesta
 3.00	k batéria byť uzavretý cesta	žiarovka a a C byť stále uzavretý v uzavretý dráha s batéria
 2.60	pretože medza svorka 1 a svorka 6 byť medzera	medza svorka 1 a 6 byÅ¥ medzera
 2.60	kontrolovať elektrický stav medza dva svorka	meranie napätie označovať miesto kde sa meniť elektrický stav v dôsledok medzera
@@ -971,29 +971,29 @@
 5.00	pripojený k záporný svorka	svorka 1 2 a 3 byť pripojený k pól záporný batéria
 5.00	kladný pól batéria byť pripojený k pól 6	svorka 6 a kladný svorka byť pripojený
 0.80	kvôli medzera v žiarovka b	svorka 4 5 a 6 nie byť pripojený k pól záporný batéria
-3.00	keď byť spínač ?	ak byť spínač a žiarovka v rovnaký cesta
+3.00	keď byť spínač	ak byť spínač a žiarovka v rovnaký cesta
 3.00	pretože žiarovka a a C byť v samostatný uzavretý cesta	žiarovka a a C byť stále v uzavretý dráha
-3.00	žiarovka a žiarovka b a žiarovka ? byť obsiahnutý v rôzny uzavretý dráha	a a C sa líšiť od batéria
+3.00	žiarovka a žiarovka b a žiarovka byť obsiahnutý v rôzny uzavretý dráha	a a C sa líšiť od batéria
 1.80	cesta obsahovať žiarovka a cesta nie byť uzavretý	nie byť tam žiaden uzavretý cesta
-2.80	žiarovka b a žiarovka ? byť uzavretý v uzavretý dráha	B a C byť v rovnaký smer s batéria
+2.80	žiarovka b a žiarovka byť uzavretý v uzavretý dráha	B a C byť v rovnaký smer s batéria
 2.00	pretože batéria a žiarovka nie byť v uzavretý dráha	batéria v 4 nie byť v uzavretý cesta
 2.60	ak byť poškodená žiarovka obsiahnutý v uzavretý okruh	poškodená žiarovka a druhá žiarovka musieť byť v rovnaký smer
 1.40	terminál byť pripojený k terminál 6	svorka 1 a 6 nie byť pripojený
 4.00	batéria nie byť uzavretý v uzavretý dráha	batéria v 4 nie byť v uzavretý cesta
 4.00	musieť byť pripojený k batéria	existovať uzavretý cesta obsahujúci žiarovka aj batéria
 4.00	žiarovka a a C nie byť obsiahnutý v tá istý uzavretý cesta	a a C nie byť na rovnaký cesta
-1.60	meranie napätie medza kladný pól batéria a pól žiarovka určovať medzera v pripojenie	? napätie ukazovať či byť dva svorka oddelený medzera
+1.60	meranie napätie medza kladný pól batéria a pól žiarovka určovať medzera v pripojenie	napätie ukazovať či byť dva svorka oddelený medzera
 1.60	Vyhoren žiarovka B spôsobiť medzera v uzavretý dráha	žiarovka B vytvárať medzera
 1.60	pretože svorka 4 byť pripojený k záporný svorka	svorka 4 a kladný svorka batéria byť v rovnaký elektrický stav
 1.80	ostatné svorka byť pripojený iba k kladný svorka batéria	svorka 4 5 a 6 byť pripojený ku kladný svorka batéria
-1.80	spínač ? byť obsiahnutý v rovnaký dráha ako žiarovka a	žiarovka a byť stále v uzavretý cesta s batéria a spínač X.
+1.80	spínač byť obsiahnutý v rovnaký dráha ako žiarovka a	žiarovka a byť stále v uzavretý cesta s batéria a spínač X.
 1.80	žiarovka a batéria byť pripojený	batéria byť v otvorený cesta
 1.20	neúplný obvod by neovplyvniť elektrický stav medza svorka	batéria využívať chemický reakcia na udržanie rôzny elektrický stav na svorka
 1.20	pretože žiarovka C sa pri otvorenie spínač vybrať z uzavretý dráha	žiarovka C už nebyť v batéria v uzavretý dráha
 1.20	pretože to pretrhnúť obvod	nie byť tu uzavretý cesta
 1.20	svorka byť pripojený k záporný batéria	svorka 1 a 2 byť spojený
 1.20	žiarovka a a žiarovka C byť rovnaký	a a C byť na rovnaký cesta
-1.20	pretože ? a z môcť byť zatvorený a žiarovka a byť fungovať	stále existovať uzavretý cesta obsahujúci spínač z spínač X žiarovka a a C a batéria
+1.20	pretože a z môcť byť zatvorený a žiarovka a byť fungovať	stále existovať uzavretý cesta obsahujúci spínač z spínač X žiarovka a a C a batéria
 1.20	existovať cesta k žiarovka a batéria	batéria byť v otvorený cesta
 1.20	pretože spínač bola pripojený k uzavretý okruh	neexistovať cesta obsahujúci spínač Y aj žiarovka a
 5.00	žiarovka a a žiarovka C nie byť obsiahnutý v tá istý uzavretý cesta	a a C nie byť na rovnaký cesta
@@ -1005,7 +1005,7 @@
 1.00	stále existovať napätie na rôzny svorka	batéria využívať chemický reakcia na udržanie rôzny elektrický stav na svorka
 1.00	napätie byť rozdiel medza elektrický stav svorka	svorka 1 a kladný pól byť oddelený medzera
 4.80	terminál 1 bola pripojený k pozitívny terminál 6	terminál 1 a 6 byť oddelený medzera
-4.80	zistiť ktorý žiarovka byť ?	? napätie označovať miesto kde sa meniť elektrický stav v dôsledok poškodená žiarovka
+4.80	zistiť ktorý žiarovka byť	napätie označovať miesto kde sa meniť elektrický stav v dôsledok poškodená žiarovka
 4.80	nie byť rozdiel v elektrický stav	svorka 1 a 2 byť pripojený a v rovnaký elektrický stav
 4.80	pretože medza svorka 4 a kladný svorka nie byť medzera	medza svorka 4 a kladný pól nie byť medzera
 3.20	existovať uzavretý cesta so spínač z ktorý obsahovať žiarovka a a batéria	existovať cesta obsahujúci a C z a batéria
@@ -1017,7 +1017,7 @@
 1.00	ak byť žiarovka B poškodená cesta byť mať medzera	žiarovka B vytvárať medzera
 1.00	medza svorka záporný batéria a svorka 4 byť medzera	svorka 4 byť oddelený medzera od záporný svorka batéria
 1.00	jediný komponent v uzavretý cesta byť batéria	batéria neobsahovať uzavretý cesta
-1.00	žiarovka a a ? byť obsiahnutý v uzavretý cesta	žiarovka a a C byť stále v uzavretý dráha
+1.00	žiarovka a a byť obsiahnutý v uzavretý cesta	žiarovka a a C byť stále v uzavretý dráha
 1.00	obvod 4 nemať uzavretý cesta	okruh 4 nemať uzavretý cesta
 1.00	medzera v obvod pri žiarovka B spôsobiť že hodnota napätie byť 0	svorka 4 byť oddelený medzera od záporný svorka batéria
 1.80	a byť na rovnaký cesta	ak žiarovka a vyhorieť ani B ani C nie byť v uzavretý dráha
@@ -1033,21 +1033,21 @@
 4.60	žiarovka byť ovplyvnený spínač ktorý byť v cesta	ak byť žiarovka a spínač v rovnaký smer spínač ovplyvňovať žiarovka
 1.20	vypnúť to	ak byť spínač a žiarovka v rovnaký cesta
 1.20	pretože žiarovka už nie byť v uzavretý okruh	byť neúplný obvod
-1.20	batéria nie byť pripojený v cesta ?	batéria v 2 nie byť v uzavretý cesta
+1.20	batéria nie byť pripojený v cesta	batéria v 2 nie byť v uzavretý cesta
 1.20	a obvod byť uzavretý	a a C byť na rovnaký uzavretý cesta
 3.20	ak byť cesta pripojený k spínač typ OEN žiarovka byť vypnutý	ak byť žiarovka a spínač v rovnaký smer spínač ovplyvňovať žiarovka
 1.20	musieť to byť v uzavretý okruh	žiarovka a batéria byť v uzavretý dráha
 1.20	žiarovka B a a byť stále v uzavretý dráha s batéria	ak C zhorieť pot byť a a B stále v uzavretý dráha s batéria
 1.20	žiarovka a B a C byť na rovnaký cesta	a a C byť na rovnaký cesta
-1.20	nie byť uzavretý cesta ktorý obsahovať batéria žiarovka b a žiarovka ?	ak žiarovka a vyhorieť už neexistovať uzavretý cesta obsahujúci B C a batéria
+1.20	nie byť uzavretý cesta ktorý obsahovať batéria žiarovka b a žiarovka	ak žiarovka a vyhorieť už neexistovať uzavretý cesta obsahujúci B C a batéria
 1.20	všetok žiarovka byť na paralelný dráha	a a C byť rôzne
 5.00	svorka 6 byť pripojený k kladný svorka	svorka 6 a kladný svorka byť pripojený
-3.40	ak byť spínač ? otvorený	ak byť spínač a žiarovka v rovnaký cesta
+3.40	ak byť spínač otvorený	ak byť spínač a žiarovka v rovnaký cesta
 3.40	svorka byť pripojený na opačný strana batéria	svorka byť oddelený medzera
 3.40	pretože ak existovať napätie znamenať to že existovať medzera	meranie napätie označovať miesto kde sa meniť elektrický stav v dôsledok medzera
 4.00	žiarovka nie byť uzavretý v uzavretý dráha	žiarovka nie byť v uzavretý dráha obsahujúci batéria
 4.00	pretože medza svorka kladný akumulátor a svorka 1 byť medzera	svorka 1 a kladný pól byť oddelený medzera
-4.00	žiarovka a byť v rovnaký cesta spínač ?	žiarovka a byť stále v uzavretý cesta s batéria a spínač X.
+4.00	žiarovka a byť v rovnaký cesta spínač	žiarovka a byť stále v uzavretý cesta s batéria a spínač X.
 4.00	svorka 4 byť pripojený k pól kladný batéria a svorka 4 nie byť oddelený medzera	svorka 4 a kladný svorka byť pripojený
 5.00	1 2 a 3 byť spojený so záporný pól	svorka 1 2 a 3 byť pripojený k pól záporný batéria
 5.00	pretože od batéria k žiarovka byť uzavretý cesta	žiarovka a byť stále v uzavretý cesta s batéria
@@ -1055,7 +1055,7 @@
 5.00	žiarovka a a B byť stále v uzavretý dráha s batéria	ak C zhorieť pot byť a a B stále v uzavretý dráha s batéria
 5.00	svorka jeden byť pripojený k záporný pól	svorka 1 a 2 byť spojený
 5.00	svorka 5 byť pripojený k kladný svorka batéria	svorka 5 a kladný pól byť spojený
-4.40	pretože žiarovka ? neovplyvňovať ostatné uzavretý cesta	ak byť C poškodená a a B byť stále v uzavretý dráha
+4.40	pretože žiarovka neovplyvňovať ostatné uzavretý cesta	ak byť C poškodená a a B byť stále v uzavretý dráha
 4.40	kladný pól batéria byť oddelený medzera od svorka 1	svorka 3 a kladný pól byť oddelený medzera
 4.40	pretože žiarovka a bola v uzavretý okruh s batéria	žiarovka a byť stále v uzavretý cesta s batéria
 1.00	cesta musieť byť uzavretý a musieť obsahovať batéria	spínač a žiarovka musieť byť v rovnaký smer
@@ -1063,17 +1063,17 @@
 2.00	oddelený cesta pripojený k batéria	ak žiarovka a vyhorieť B a C už nie byť s batéria v uzavretý dráha
 3.40	cesta sa nezatvárať	batéria byť v otvorený cesta
 2.40	žiarovka a a C byť stále na svoj vlastný kompletný obvod	žiarovka a a C byť uzavretý
-1.80	žiarovka b a žiarovka ? byť v uzavretý okruh s batéria	žiarovka B a C byť stále obsiahnutý v tá istý uzavretý cesta s batéria
+1.80	žiarovka b a žiarovka byť v uzavretý okruh s batéria	žiarovka B a C byť stále obsiahnutý v tá istý uzavretý cesta s batéria
 1.80	svorka 1 byť pripojený k záporný svorka batéria	svorka 1 byť pripojený k záporný svorka batéria
 1.80	žiarovka B a žiarovka C byť stále s batéria na uzavretý dráha	žiarovka a a B byť stále s akumulátor v uzavretý dráha
 1.00	terminál nie byť pripojený k pól kladný batéria	svorka 1 a 2 byť spojený
 3.80	pretože meranie napätie nájsť medzera kde byť rozdiel v elektrický stav	meranie napätie označovať miesto kde sa meniť elektrický stav v dôsledok medzera
 3.60	kladný terminál nie byť oddelený medzera od terminál 4	svorka 4 a kladný pól nie byť oddelený medzera
 3.60	medzera spôsobovať rozdiel v elektrický stav	batéria využívať chemický reakcia na udržanie rôzny elektrický stav na svorka
-3.60	žiarovka b nie byť v rovnaký smer s žiarovka a a ?	žiarovka B byť oddelený
+3.60	žiarovka b nie byť v rovnaký smer s žiarovka a a	žiarovka B byť oddelený
 1.80	spínač byť obsiahnutý v uzavretý cesta	ak byť spínač a žiarovka v rovnaký cesta
 1.80	žiarovka nie byť uzavretý v uzavretý dráha	batéria byť obsiahnutý v cesta ktorý neobsahovať žiaden ďalší komponent
-5.00	stále existovať uzavretý cesta ktorý obsahovať batéria a žiarovka a a žiarovka ?	žiarovka a a C byť stále uzavretý v uzavretý dráha s batéria
+5.00	stále existovať uzavretý cesta ktorý obsahovať batéria a žiarovka a a žiarovka	žiarovka a a C byť stále uzavretý v uzavretý dráha s batéria
 0.80	dráha určovať iba to či byť žiarovka vypnutý keď byť spínač otvorený	ak byť žiarovka a spínač v rovnaký smer spínač ovplyvňovať žiarovka
 0.80	pretože rozdiel v napätie zistiť zmeranie medzera	meranie napätie označovať miesto kde sa meniť elektrický stav v dôsledok medzera
 0.80	keď vytvoriť medzera	ak byť spínač a žiarovka v rovnaký cesta
@@ -1084,23 +1084,23 @@
 3.20	terminál 1 a terminál 2 nemať žiaden rozdiel	svorka 1 a 2 byť pripojený a v rovnaký elektrický stav
 1.60	existovať ďalší uzavretý cesta bez žiarovka B	žiarovka a a C byť uzavretý
 4.40	pretože svorka kladný batéria a svorka 6 byť spojený	svorka 6 a kladný svorka byť pripojený
-5.00	žiarovka ? nebyť obsiahnutý v uzavretý cesta s batéria	žiarovka C už nebyť v batéria v uzavretý dráha
+5.00	žiarovka nebyť obsiahnutý v uzavretý cesta s batéria	žiarovka C už nebyť v batéria v uzavretý dráha
 5.00	žiarovka musieť byť kvôli fungovanie v uzavretý cesta s batéria	ak byť žiarovka a spínač v rovnaký smer spínač ovplyvňovať žiarovka
-5.00	žiarovka a a spínač ? byť v rovnaký uzavretý dráha	žiarovka a byť stále v uzavretý cesta s batéria a spínač X.
-5.00	b a ? byť v uzavretý cesta s batéria	ak žiarovka a vyhorieť žiarovka B a C byť stále v uzavretý dráha
+5.00	žiarovka a a spínač byť v rovnaký uzavretý dráha	žiarovka a byť stále v uzavretý cesta s batéria a spínač X.
+5.00	b a byť v uzavretý cesta s batéria	ak žiarovka a vyhorieť žiarovka B a C byť stále v uzavretý dráha
 5.00	v obvod nebyÅ¥ medzera	svorka 1 a kladný pól byť oddelený medzera
 5.00	pretože ak byť žiarovka b poškodená pot cez žiarovka nie byť žiaden cesta ktorý vytvárať neúplný obvod	byť neúplný obvod
 5.00	žiarovka B a C byť na rovnaký cesta ako batéria	B a C byť v rovnaký smer s batéria
 1.60	svorka byť pripojený k kladný obvod	svorka 1 byť pripojený k záporný svorka batéria
 1.60	kladný pól batéria byť pripojený k pól 6	svorka 6 a kladný svorka byť pripojený
-1.60	žiarovka b a ? byť obsiahnutý v tá istý uzavretý dráha	B a C byť na rovnaký cesta
+1.60	žiarovka b a byť obsiahnutý v tá istý uzavretý dráha	B a C byť na rovnaký cesta
 1.60	no byť mať nulový napätie ak to byť to čo sa pýtať	batéria využívať chemický reakcia na udržanie rôzny elektrický stav na svorka
 1.60	mať iba 1 pripojenie	batéria byť v otvorený cesta
 1.60	cibuľovina byť obsiahnutý v otvorený cesta	žiarovka nie byť v uzavretý dráha obsahujúci batéria
 1.60	batéria byť v uzavretý dráha	žiarovka a batéria byť v uzavretý dráha
 1.60	rozdiel v elektrický stav vy povedať kde byť medzera	meranie napätie označovať miesto kde sa meniť elektrický stav v dôsledok medzera
 1.60	svorka 1 byť pripojený k svorka 6	terminál 1 a 6 byť oddelený medzera
-0.80	žiarovka by môcť byť ? zapnutie spínač X a spínač z	stále existovať uzavretý cesta obsahujúci spínač z spínač X žiarovka a a C a batéria
+0.80	žiarovka by môcť byť zapnutie spínač X a spínač z	stále existovať uzavretý cesta obsahujúci spínač z spínač X žiarovka a a C a batéria
 0.80	pretože svorka nie byť pripojený	batéria využívať chemický reakcia na udržanie rôzny elektrický stav na svorka
 3.00	pretože ostatné svorka byť pripojený k kladný svorka batéria	svorka 4 5 a 6 byť pripojený ku kladný svorka batéria
 1.00	pretože terminál 1 nie byť oddelený žiaden medzera	svorka 1 byť pripojený k záporný svorka batéria
@@ -1110,14 +1110,14 @@
 1.00	v okruh byÅ¥ medzera	v obvod byÅ¥ medzera
 1.00	pretože vytvárať medzera medza batéria a ostatný cesta	ak žiarovka a vyhorieť žiarovka B a C byť stále v uzavretý dráha
 2.80	ak spínač spôsobiť medzera v uzavretý dráha žiarovka sa nezapnúť	ak byť spínač a žiarovka v rovnaký cesta
-2.80	spínač ? byť v uzavretý dráha s žiarovka a	žiarovka a byť stále v uzavretý cesta s batéria a spínač X.
-1.60	cez ? z byť iný cesta	stále existovať uzavretý cesta obsahujúci spínač z spínač X žiarovka a a C a batéria
+2.80	spínač byť v uzavretý dráha s žiarovka a	žiarovka a byť stále v uzavretý cesta s batéria a spínač X.
+1.60	cez z byť iný cesta	stále existovať uzavretý cesta obsahujúci spínač z spínač X žiarovka a a C a batéria
 1.60	obsiahnutý v tá istý uzavretý cesta	a a C byť na rovnaký uzavretý cesta
 1.60	v jeden okamih byť medzera a dôjsť k pokles napätie aby byť to vedieť	Nenulová napätie znamenať že svorka byť oddelený medzera
 1.60	žiarovka a a B byť uzavretý v uzavretý dráha spolu s batéria	ak C zhorieť pot byť batéria a a B stále v uzavretý dráha
 1.60	otvorený spínač zasiahnuť obvod pretože spôsobiť uzavretie cesta preto sa nedať nadviazať spojenie	cesta nie byť uzavretý
 1.60	ak byť budova B poškodená vytvoriť sa medzera	žiarovka B vytvárať medzera
-1.60	žiarovka b a žiarovka ? byť obsiahnutý v rovnaký cesta s batéria	B a C byť v rovnaký smer s batéria
+1.60	žiarovka b a žiarovka byť obsiahnutý v rovnaký cesta s batéria	B a C byť v rovnaký smer s batéria
 1.60	pretože byť tam medzera kvôli poškodená žiarovka	svorka 1 2 a 3 byť oddelený od kladný pól batéria medzera
 3.80	chemický reakcia vo vnútri batéria spôsobovať že sa elektrický stav kladný a záporný vývod vždy líšiť	batéria využívať chemický reakcia na udržanie rôzny elektrický stav na svorka
 1.40	kladný terminál nie byť oddelený medzera	svorka 1 byť pripojený k záporný svorka batéria
@@ -1129,7 +1129,7 @@
 2.80	byť otvorený cesta	batéria byť v otvorený cesta
 5.00	svorka 6 byť priamo spojený s kladný pól	svorka 6 a kladný svorka byť pripojený
 3.60	žiarovka a B a C byť na rôzny cesta	a a C byť rôzne
-3.60	ak žiarovka ? vyhorieť a a b obidva vytvoriť obvod s batéria	žiarovka a a B byť stále s akumulátor v uzavretý dráha
+3.60	ak žiarovka vyhorieť a a b obidva vytvoriť obvod s batéria	žiarovka a a B byť stále s akumulátor v uzavretý dráha
 3.60	keď byť spínač pripojený medza žiarovka a batéria	ak byť spínač a žiarovka v rovnaký cesta
 2.20	batéria byť v držiak	byÅ¥ tam komplet obvod
 2.20	byť pripojený k kladný pól	svorka 1 byť pripojený k záporný svorka batéria
@@ -1147,9 +1147,9 @@
 1.40	vždy existovať napätie aj keď existovať medzera	batéria využívať chemický reakcia na udržanie rôzny elektrický stav na svorka
 1.40	žiarovka a byť mŕtva	svorka 4 5 a 6 byť pripojený ku kladný svorka batéria
 1.40	žiarovka C bola na neúplný cesta	žiarovka C nebyť v uzavretý cesta
-1.40	pretože spínač ? nemať vplyv na obvod v ktorý byť zapnutý žiarovka a	spínač Y a žiarovka a nie byť v rovnaký uzavretý poloha
+1.40	pretože spínač nemať vplyv na obvod v ktorý byť zapnutý žiarovka a	spínač Y a žiarovka a nie byť v rovnaký uzavretý poloha
 1.40	svorka 1 byť pripojený k svorka 2	svorka 1 a 4 byť spojený
-1.00	pretože žiarovka a byť pripojený k spínač ? a batéria byť v uzavretý cesta	žiarovka a bola stále v tá istý uzavretý cesta s batéria
+1.00	pretože žiarovka a byť pripojený k spínač a batéria byť v uzavretý cesta	žiarovka a bola stále v tá istý uzavretý cesta s batéria
 1.00	terminál byť pripojený k žiarovka	svorka 1 2 a 3 byť oddelený od kladný pól batéria medzera
 1.80	pretože žiarovka a byť spojený s iný cesta	žiarovka a byť stále v batéria v uzavretý dráha
 1.80	rozdiel v elektrický stav medza dva svorka batéria	batéria využívať chemický reakcia na udržanie rôzny elektrický stav na svorka
@@ -1171,7 +1171,7 @@
 1.20	pretože to nie byť na rovnaký cesta	ak žiarovka a vyhorieť žiarovka B a C byť stále v uzavretý dráha
 3.60	batéria by sa mala k žiarovka pripájať uzavretý spôsob	žiarovka a batéria byť v uzavretý dráha
 1.60	terminál nie byť pripojený k pól kladný batéria	svorka 1 a kladný pól nie byť pripojený
-1.60	žiarovka a mať vlastný uzavretý cesta s batéria žiarovka b a ? nie	existovať cesta obsahujúci a a iný cesta obsahujúci B a C
+1.60	žiarovka a mať vlastný uzavretý cesta s batéria žiarovka b a nie	existovať cesta obsahujúci a a iný cesta obsahujúci B a C
 1.60	svorka 1 a kladný pól byť spojený	svorka 1 a kladný pól byť oddelený medzera
 3.00	pretože medza svorka nie byť medzera	svorka 1 nie byť oddelený od záporný svorka batéria
 3.40	svorka 1 a 2 byť pripojený k záporný pól batéria	svorka 1 a 2 byť spojený
@@ -1194,35 +1194,35 @@
 1.20	pretože rozbitie jeden žiarovka pot ovplyvňovať schopnosť ostatný rozsvietiť sa	a a C byť na rovnaký uzavretý cesta
 4.80	pretože svorka 1 byť priamo spojený so svorka 4	svorka 1 a 4 byť spojený
 5.00	batéria byť mať vždy napätie	batéria využívať chemický reakcia na udržanie rôzny elektrický stav na svorka
-5.00	oba žiarovka a a ? mať stále uzavretý cesta	žiarovka a a C byť stále v uzavretý dráha
-1.00	pretože svorka 1 byť pripojený k záporný svorka ktorý mať rozdiel 1,5 volt od kladný svorka	svorka 1 byť pripojený k záporný svorka batéria
+5.00	oba žiarovka a a mať stále uzavretý cesta	žiarovka a a C byť stále v uzavretý dráha
+1.00	pretože svorka 1 byť pripojený k záporný svorka ktorý mať rozdiel 15 volt od kladný svorka	svorka 1 byť pripojený k záporný svorka batéria
 1.00	a a B byť s batéria na uzavretý cesta	ak C zhorieť pot byť a a B stále v uzavretý dráha s batéria
 1.00	batéria sa pripájať k žiarovka	batéria byť v otvorený cesta
 1.00	napätie byť rozdiel medza kladný a záporný koncom batéria	svorka 1 byť pripojený k záporný svorka batéria
 3.40	svorka byť oddelený od kladný pól	svorka 1 a 2 byť v rovnaký elektrický stav
-3.40	žiarovka a a žiarovka ? nie byť na rovnaký dráha ako žiarovka B	a B a C byť rôzne
+3.40	žiarovka a a žiarovka nie byť na rovnaký dráha ako žiarovka B	a B a C byť rôzne
 5.00	svorka byť oddelený od kladný pól batéria medzera	svorka 1 a 2 byť v rovnaký elektrický stav
-5.00	žiarovka a ovplyvňovať žiarovka ?	a a C byť na rovnaký uzavretý cesta
+5.00	žiarovka a ovplyvňovať žiarovka	a a C byť na rovnaký uzavretý cesta
 5.00	žiarovka a bola v uzavretý cesta s batéria	žiarovka a byť stále v uzavretý cesta s batéria
 5.00	pól kladný batéria a svorka 5 byť spojený	svorka 5 a kladný pól byť spojený
 1.60	neprijímať ani zo záporný ani z kladný terminál	medza svorka nie byÅ¥ medzera
-5.00	meranie nájsť medzera ktorý vy ukázať ktorý žiarovka byť ?	? napätie ukazovať či byť dva svorka oddelený medzera
+5.00	meranie nájsť medzera ktorý vy ukázať ktorý žiarovka byť	napätie ukazovať či byť dva svorka oddelený medzera
 5.00	poškodená žiarovka spôsobiť medzera v klub	poškodená žiarovka vytvárať medzera
 5.00	svorka 4 byť pripojený k kladný svorka batéria	svorka 4 a kladný svorka byť pripojený
 2.60	ak byť žiarovka a spínač v rovnaký uzavretý dráha spínač ovplyvňovať žiarovka	ak byť spínač a žiarovka v rovnaký cesta
 4.80	žiarovka byť obsiahnutý vo vaňa	poškodená žiarovka a druhá žiarovka musieť byť v rovnaký smer
-4.80	žiarovka ? byť vo svoj vlastný dráha	žiarovka C byť v samostatný cesta
+4.80	žiarovka byť vo svoj vlastný dráha	žiarovka C byť v samostatný cesta
 4.60	žiarovka B a C byť stále uzavretý cesta	ak žiarovka a vyhorieť B a C už nie byť s batéria v uzavretý dráha
 4.60	žiarovka a a C mať stále uzavretý cesta s batéria	žiarovka a a C byť stále uzavretý v uzavretý dráha s batéria
 2.20	batéria mať vždy napätie pretože existovať kladný pól a záporný pól	batéria využívať chemický reakcia na udržanie rôzny elektrický stav na svorka
-0.80	kladný pól mať 1,5 v	svorka 1 a kladný pól byť oddelený medzera
-2.20	pretože spínač ? byť otvorený	existovať cesta obsahujúci a C z a X
+0.80	kladný pól mať 15 v	svorka 1 a kladný pól byť oddelený medzera
+2.20	pretože spínač byť otvorený	existovať cesta obsahujúci a C z a X
 2.20	vidieť kde byť medzera	meranie napätie označovať miesto kde sa meniť elektrický stav v dôsledok medzera
 0.40	žiarovka byť v uzavretý okruh	batéria byť v otvorený cesta
 2.20	neoddelený medzera	svorka 6 a kladný pól nie byť oddelený medzera
 1.40	terminál nie byť pripojený k pól záporný batéria	svorka 1 a 6 nie byť pripojený
 3.40	1 byť pripojený k svorka 2	svorka 1 a 4 byť spojený
-3.40	žiarovka a b a ? byť všetok na rovnaký cesta	a a C byť na rovnaký cesta
+3.40	žiarovka a b a byť všetok na rovnaký cesta	a a C byť na rovnaký cesta
 1.40	svorka byť navzájom spojený	svorka 1 a 2 byť v rovnaký elektrický stav
 1.40	ak dráha obsahovať spínač byť to ovplyvnený žiarovka	ak byť žiarovka a spínač v rovnaký smer spínač ovplyvňovať žiarovka
 1.40	ak B vyhorieť pre ďalší 2 byť stále uzavretý cesta	žiarovka a a C byť uzavretý
@@ -1231,12 +1231,12 @@
 1.40	žiarovka a byť na uzavretý cesta s batéria	existovať cesta obsahujúci a a iný cesta obsahujúci B a C
 3.80	batéria a žiarovka musieť byť navzájom uzavretý	žiarovka a batéria byť v uzavretý dráha
 1.40	byť tu uzavretý cesta	ak C zhorieť pot a a B byť stále v uzavretý cesta
-1.40	rozdiel medza elektrický stav byť 1,5 volt	svorka 1 a kladný pól byť oddelený medzera
+1.40	rozdiel medza elektrický stav byť 15 volt	svorka 1 a kladný pól byť oddelený medzera
 0.80	žiarovka odoberať cesta	byť tu otvorený cesta
 4.80	keď byť na rovnaký cesta ako batéria	ak byť spínač a žiarovka v rovnaký cesta
 4.80	medza kladný pól a svorka 1 nie byť medzera	svorka 1 byť pripojený k záporný svorka batéria
 4.80	medza kladný svorka batéria a svorka 4 nie byť medzera	medza svorka 5 a kladný pól nie byť medzera
-4.80	žiarovka b a žiarovka ? byť stále v uzavretý dráha s batéria	ak žiarovka a vyhorieť B a C už nie byť s batéria v uzavretý dráha
+4.80	žiarovka b a žiarovka byť stále v uzavretý dráha s batéria	ak žiarovka a vyhorieť B a C už nie byť s batéria v uzavretý dráha
 4.80	určovať či sa žiarovka zapnúť alebo nie	ak byť žiarovka a spínač v rovnaký smer spínač ovplyvňovať žiarovka
 4.80	žiarovka C bola na otvorený cesta	žiarovka C nebyť v uzavretý cesta
 2.40	oba žiarovka B a C byť v rovnaký smer ako žiarovka a	ak žiarovka a vyhorieť ani B ani C nie byť v uzavretý dráha
@@ -1244,12 +1244,12 @@
 5.00	žiarovka a a spínač Y nie byť na rovnaký cesta	spínač Y a žiarovka a nie byť v rovnaký uzavretý poloha
 4.80	žiarovka a nie byť na tá istý cesta ako žiarovka B a žiarovka C.	existovať cesta obsahujúci a a iný cesta obsahujúci B a C
 2.80	prichytávať sa na nesprávny strana	medza svorka nie byÅ¥ medzera
-2.80	pretože 1,5 v byť rozdiel medza kladný pól a svorka 1	svorka 1 a kladný pól byť oddelený medzera
-2.80	červená X znamenať že batéria byť ?	dôjsť ku skrat
+2.80	pretože 15 v byť rozdiel medza kladný pól a svorka 1	svorka 1 a kladný pól byť oddelený medzera
+2.80	červená X znamenať že batéria byť	dôjsť ku skrat
 3.20	ak byť spínač otvorený v cesta s batéria a žiarovka	ak byť spínač a žiarovka v rovnaký cesta
 4.80	žiarovka b a nie byť v uzavretý dráha s žiarovka a	ak žiarovka a vyhorieť ani B ani C nie byť v uzavretý dráha
 4.80	žiarovka a a žiarovka b byť stále v uzavretý dráha s batéria	žiarovka a a B byť stále s akumulátor v uzavretý dráha
-3.40	žiarovka a a ? nie byť v rovnaký uzavretý dráha ako žiarovka b	žiarovka B byť oddelený
+3.40	žiarovka a a nie byť v rovnaký uzavretý dráha ako žiarovka b	žiarovka B byť oddelený
 1.40	ak byť žiarovka zhasnutý ovplyvňovať to celý systém a všetko byť blokovaný batéria	každý žiarovka byť vo svoj vlastný cesta
 1.00	pretože svorka byť v rovnaký stav	svorka 1 byť pripojený k záporný svorka batéria
 4.20	pretože to byť obsiahnutý v batéria ktorý mať uzavretý cesta	žiarovka a bola stále v tá istý uzavretý cesta s batéria
@@ -1264,20 +1264,20 @@
 1.20	cesta byť mať medzera	každý žiarovka byť vo svoj vlastný cesta
 3.00	pretože ich byť teraz rozdiel medza a a C.	byť neúplný obvod
 3.60	terminál 1 a terminál 4 byť rovnaký	svorka 1 a 4 byť pripojený a v rovnaký elektrický stav
-1.80	červená ? znamenať že obvod nie byť bezpečný	dôjsť ku skrat
+1.80	červená znamenať že obvod nie byť bezpečný	dôjsť ku skrat
 4.60	batéria sa pripájať k žiarovka a a b	žiarovka a a B byť stále s akumulátor v uzavretý dráha
 4.60	okruh 2 nie byť skrat pretože nejsť o uzavretý okruh	batéria v 2 nie byť v uzavretý cesta
 4.60	keď byť spínač otvorený vytvárať medzera v cesta	ak byť žiarovka a spínač v rovnaký smer spínač ovplyvňovať žiarovka
 4.60	stále existovať uzavretý cesta obsahujúci batéria žiarovka B a žiarovka C.	žiarovka B a C byť stále s akumulátor v uzavretý dráha
 4.40	poškodená žiarovka b vytvárať medzera	žiarovka B vytvárať medzera
-4.40	pretože môcť cestovať žiarovka ?	existovať cesta obsahujúci a C z a X
-4.40	k žiarovka b a ? byť stále uzavretý cesta k batéria	žiarovka B a C byť stále s akumulátor v uzavretý dráha
+4.40	pretože môcť cestovať žiarovka	existovať cesta obsahujúci a C z a X
+4.40	k žiarovka b a byť stále uzavretý cesta k batéria	žiarovka B a C byť stále s akumulátor v uzavretý dráha
 4.40	4 5 a 6 nie byť pripojený k záporný pól batéria	svorka 4 5 a 6 nie byť pripojený k pól záporný batéria
 2.20	prelomiť uzavretý cesta	otvorený spínač vytvárať medzera
 4.20	ak byť súčasť séria s iný žiarovka	poškodená žiarovka a druhá žiarovka musieť byť v rovnaký smer
 4.20	žiarovka byť na rovnaký uzavretý cesta	a a C byť na rovnaký uzavretý cesta
 4.20	B a C už nebyť obsiahnutý v uzavretý cesta k batéria	ak žiarovka a vyhorieť B a C už nie byť s batéria v uzavretý dráha
-4.20	žiarovka b a ? byť na rovnaký uzavretý cesta s batéria ale oddelene od žiarovka a	existovať cesta obsahujúci a a iný cesta obsahujúci B a C
+4.20	žiarovka b a byť na rovnaký uzavretý cesta s batéria ale oddelene od žiarovka a	existovať cesta obsahujúci a a iný cesta obsahujúci B a C
 0.40	pretože to nespôsobiť medzera	každý žiarovka byť vo svoj vlastný cesta
 2.80	terminál byť pripojený k batéria	svorka 1 byť pripojený k záporný svorka batéria
 0.60	vypnutie jeden žiarovka nevypnúť iný žiarovka	a a C byť rôzne
@@ -1287,7 +1287,7 @@
 2.80	žiarovka a byť uzavretý v uzavretý dráha s batéria	žiarovka a byť stále v uzavretý cesta s batéria
 2.80	ostatné svorka byť spojený s kladný svorka	svorka 4 5 a 6 byť pripojený ku kladný svorka batéria
 4.60	pretože neexistovať uzavretý cesta	cesta nie byť uzavretý
-3.80	? spínač robiť obvod neúplný	byť neúplný obvod
+3.80	spínač robiť obvod neúplný	byť neúplný obvod
 3.80	pretože vytvárať medzera v obvod	poškodená žiarovka vytvárať medzera
 3.40	pretože žiarovka a a C byť na batéria na rôzny uzavretý cesta	žiarovka a a C byť stále uzavretý v uzavretý dráha s batéria
 3.40	a byť na vybitý batéria	žiarovka a byť stále v uzavretý cesta s batéria
@@ -1295,9 +1295,9 @@
 5.00	svorka 5 byť pripojený k kladný svorka batéria	svorka 5 a kladný pól byť spojený
 2.40	pretože rozhodovať o ten či žiarovka byť alebo nebyť svietiť	cesta nie byť uzavretý
 2.40	ak byť spínač otvorený okruh už nie byť zatvorený	cesta nie byť uzavretý
-4.80	žiarovka b a ? byť stále v uzavretý dráha s batéria	žiarovka B a C byť stále s akumulátor v uzavretý dráha
+4.80	žiarovka b a byť stále v uzavretý dráha s batéria	žiarovka B a C byť stále s akumulátor v uzavretý dráha
 4.20	koncovka nie byť pripojený k kladný svorka batéria	svorka 1 a kladný pól nie byť pripojený
-2.20	žiarovka b nevytvoriť medzera v dráha pre žiarovka a a ?	žiarovka a a C byť stále v uzavretý dráha
+2.20	žiarovka b nevytvoriť medzera v dráha pre žiarovka a a	žiarovka a a C byť stále v uzavretý dráha
 5.00	batéria byť pripojený k žiarovka	batéria byť v otvorený cesta
 5.00	pól kladný batéria a svorka 4 byť pripojený	svorka 4 a kladný svorka byť pripojený
 3.20	pretože tam nebyť žiaden rozdiel	svorka 1 a 2 byť pripojený a v rovnaký elektrický stav
@@ -1314,7 +1314,7 @@
 2.80	svorka 1 byť pripojený k svorka 6	terminál 1 a 6 byť oddelený medzera
 2.80	svorka 1 bola pripojený k kladný svorka batéria	svorka 1 a kladný pól byť oddelený medzera
 3.40	cesta nemusieť spájať žiarovka so spínač	spínač a žiarovka musieť byť v rovnaký smer
-3.40	môcť určiť že byť rozbitý žiarovka pred medzera alebo po ona	? napätie označovať miesto kde sa meniť elektrický stav v dôsledok poškodená žiarovka
+3.40	môcť určiť že byť rozbitý žiarovka pred medzera alebo po ona	napätie označovať miesto kde sa meniť elektrický stav v dôsledok poškodená žiarovka
 3.40	svorka 1 byť pripojený k záporný svorka	svorka 1 byť pripojený k záporný svorka batéria
 3.40	terminál nie byť pripojený k pól kladný batéria	svorka 1 a 6 nie byť pripojený
 3.40	ak byť prepínač uzavretý v uzavretý cesta	ak byť žiarovka a spínač v rovnaký smer spínač ovplyvňovať žiarovka
@@ -1324,13 +1324,13 @@
 2.80	bola obsiahnutý v uzavretý cesta	žiarovka a bola stále v tá istý uzavretý cesta s batéria
 2.80	otvorený spínač otvárať cesta	byť tu otvorený cesta
 3.00	kladný pól batéria byť pripojený k pól 6	svorka 6 a kladný svorka byť pripojený
-3.00	žiarovka a b a ? byť na uzavretý cesta	a a C byť na rovnaký uzavretý cesta
+3.00	žiarovka a b a byť na uzavretý cesta	a a C byť na rovnaký uzavretý cesta
 3.20	pretože všetok svorka byť pripojený k iný svorka prerušený spínač to narušiť	otvorený spínač vytvárať medzera
 5.00	v žiarovka B bola medzera	svorka 1 a kladný pól byť oddelený medzera
 5.00	svorka 1 byť pripojený k svorka 4	svorka 1 a 4 byť spojený
 5.00	kladný terminál nie byť oddelený medzera od terminál 5	svorka 5 a kladný pól nie byť oddelený medzera
-3.00	cesto byť obsiahnutý v prepínač ?	spínač Y a žiarovka a nie byť v rovnaký uzavretý poloha
-3.00	rozdiel elektrický stav ukázať spálený žiarovka	? napätie označovať miesto kde sa meniť elektrický stav v dôsledok poškodená žiarovka
+3.00	cesto byť obsiahnutý v prepínač	spínač Y a žiarovka a nie byť v rovnaký uzavretý poloha
+3.00	rozdiel elektrický stav ukázať spálený žiarovka	napätie označovať miesto kde sa meniť elektrický stav v dôsledok poškodená žiarovka
 3.00	medza svorka žiarovka a svorka batéria nie byť žiaden spojenie	svorka nie byť pripojený
 3.80	batéria nie byť v uzavretý cesta	batéria v 4 nie byť v uzavretý cesta
 3.60	záležať na ten či byť pred alebo po žiarovka	ak byť žiarovka a spínač v rovnaký smer spínač ovplyvňovať žiarovka
@@ -1341,7 +1341,7 @@
 1.40	pretože merať rozdiel v elektrický stav medza dva svorka	batéria využívať chemický reakcia na udržanie rôzny elektrický stav na svorka
 1.40	kvôli medzera pri žiarovka b	svorka 1 2 a 3 byť oddelený od kladný pól batéria medzera
 4.00	spínač Y neovplyvňovať uzavretý obvod žiarovka a	spínač Y a žiarovka a nie byť v rovnaký uzavretý poloha
-4.20	elektrický stav určiť či byť v obvod medzera alebo spojenie	? napätie ukazovať či byť dva svorka oddelený medzera
+4.20	elektrický stav určiť či byť v obvod medzera alebo spojenie	napätie ukazovať či byť dva svorka oddelený medzera
 2.40	pretože sa vytvoriť uzavretý okruh	žiarovka a bola stále v tá istý uzavretý cesta s batéria
 4.20	ak byť cesta uzavretý žiarovka zostať zapnutý	ak byť žiarovka a spínač v rovnaký smer spínač ovplyvňovať žiarovka
 4.20	pretože napätie byť rovnaký	svorka 1 2 a 3 byť oddelený od kladný pól batéria medzera
@@ -1351,10 +1351,10 @@
 0.80	svorka 5 byť pripojený k kladný svorka batéria	svorka 5 a kladný pól byť spojený
 0.80	pretože žiarovka a bola stále obsiahnutý v uzavretý cesta	žiarovka a bola stále v tá istý uzavretý cesta s batéria
 0.80	pretože výsledok žiarovka sa navzájom neovplyvniť	a a C nie byť v rovnaký smer s batéria
-2.60	batéria byť ?	dôjsť ku skrat
-2.60	môcť zistiť kde byť medzera	? napätie ukazovať či byť dva svorka oddelený medzera
+2.60	batéria byť	dôjsť ku skrat
+2.60	môcť zistiť kde byť medzera	napätie ukazovať či byť dva svorka oddelený medzera
 2.40	pretože stále existovať 2 uzavretý cesta cez ktorý batéria prenášať volt	žiarovka B a C byť stále s akumulátor v uzavretý dráha
-2.40	pretože všetok tento terminál mať hodnota 0,0 volt	svorka 1 2 a 3 byť oddelený od kladný pól batéria medzera
+2.40	pretože všetok tento terminál mať hodnota 00 volt	svorka 1 2 a 3 byť oddelený od kladný pól batéria medzera
 2.40	v spoj byÅ¥ medzera	meranie napätie označovať miesto kde sa meniť elektrický stav v dôsledok medzera
 2.40	byť v uzavretý cesta s batéria	existovať cesta obsahujúci a C z a batéria
 4.60	žiarovka a a B byť uzavretý v uzavretý dráha s batéria	ak C zhorieť pot byť a a B stále v uzavretý dráha s batéria
@@ -1364,7 +1364,7 @@
 5.00	pretože batéria mať vždy napätie pokiaľ nie byť vybitý	batéria využívať chemický reakcia na udržanie rôzny elektrický stav na svorka
 5.00	batéria byť uzavretý v uzavretý okruh a v cesta jej nie byť nič	batéria byť uzatvorený tak aby neobsahovať žiaden ďalší komponent
 2.80	pretože mať v seba dva elektrický stav	batéria využívať chemický reakcia na udržanie rôzny elektrický stav na svorka
-2.80	žiarovka b a ? byť v uzavretý cesta s batéria	žiarovka B a C byť stále obsiahnutý v tá istý uzavretý cesta s batéria
+2.80	žiarovka b a byť v uzavretý cesta s batéria	žiarovka B a C byť stále obsiahnutý v tá istý uzavretý cesta s batéria
 2.80	žiarovka a a žiarovka b byť stále uzavretý v uzavretý dráha batéria	ak C zhorieť pot byť a a B stále v uzavretý dráha s batéria
 0.00	myslieť že preto lebo byť v stred	žiarovka B byť oddelený
 2.40	pretože dva koniec batéria sa navzájom nespájať	batéria byť v otvorený cesta
@@ -1372,9 +1372,9 @@
 4.60	prepínač spôsobiť žiarovka ak byť v uzavretý cesta k batéria	ak byť spínač a žiarovka v rovnaký cesta
 4.60	medza kladný pól batéria a pól žiarovka byť medzera	medza svorka nie byÅ¥ medzera
 4.60	okruh 2 nie byť uzavretý obvod pretože byť pripojený batéria a žiarovka	batéria v 2 nie byť v uzavretý cesta
-4.60	svorka 4,5 a 6 byť spojený s kladný pól	svorka 4 5 a 6 byť pripojený ku kladný svorka batéria
+4.60	svorka 45 a 6 byť spojený s kladný pól	svorka 4 5 a 6 byť pripojený ku kladný svorka batéria
 1.40	kladný pól batéria nie byť pripojený	medza svorka 6 a kladný pól nie byť medzera
-0.80	pretože žiarovka ? bola obsiahnutý v otvorený cesta s batéria	už neexistovať uzavretý cesta obsahujúci žiarovka C a batéria
+0.80	pretože žiarovka bola obsiahnutý v otvorený cesta s batéria	už neexistovať uzavretý cesta obsahujúci žiarovka C a batéria
 0.80	veľký ak byť zatvorený rozsvietiť sa ale ak byť otvorený nebyť	ak byť žiarovka a spínač v rovnaký smer spínač ovplyvňovať žiarovka
 4.00	žiarovka a byť na uzavretý obvod	žiarovka a bola stále v tá istý uzavretý cesta s batéria
 3.40	žiarovka byť pripojený iba k tá strana svorka batéria	medza svorka nie byÅ¥ medzera
@@ -1396,7 +1396,7 @@
 2.00	cez žiarovka a byť žiarovka B stále uzavretý v cesta k batéria	ak C zhorieť pot byť a a B stále v uzavretý dráha s batéria
 3.20	batéria byť uzavretý v uzavretý dráha	batéria byť obsiahnutý v cesta v ktorý nie byť žiarovka
 3.20	ak byť vypínač a žiarovka obsiahnutý v tá istý uzavretý cesta	ak byť spínač a žiarovka v rovnaký cesta
-5.00	žiarovka ? nemať vplyv na dráha a a b	ak byť C poškodená a a B byť stále v uzavretý dráha
+5.00	žiarovka nemať vplyv na dráha a a b	ak byť C poškodená a a B byť stále v uzavretý dráha
 5.00	žiarovka B a C byť ešte stále uzavretý v cesta s batéria	žiarovka B a C byť stále obsiahnutý v tá istý uzavretý cesta s batéria
 4.60	pretože kladný pól batéria nie byť od svorka 6 oddelený medzera	svorka 6 a kladný pól nie byť oddelený medzera
 4.00	medzera medza 3 a kladný batéria	svorka 3 a kladný pól byť oddelený medzera
@@ -1409,14 +1409,14 @@
 2.20	existovať chemický reakcia	batéria využívať chemický reakcia na udržanie rôzny elektrický stav na svorka
 2.20	žiarovka B a C nebyť s batéria v uzavretý dráha	ak žiarovka a vyhorieť B a C už nie byť s batéria v uzavretý dráha
 2.20	stále pripojený k batéria	ak žiarovka a vyhorieť B a C už nie byť s batéria v uzavretý dráha
-2.20	žiarovka a a ? byť uzavretý v uzavretý dráha s batéria	žiarovka a byť stále v batéria v uzavretý dráha
+2.20	žiarovka a a byť uzavretý v uzavretý dráha s batéria	žiarovka a byť stále v batéria v uzavretý dráha
 2.20	žiarovka musieť byť s batéria uzavretý v uzavretý dráha	poškodená žiarovka a druhá žiarovka musieť byť v rovnaký smer
-3.00	žiarovka a byť v uzavretý okruh s batéria bez spínač ?	žiarovka a byť stále v batéria v uzavretý dráha
-4.80	žiarovka b a ? byť obsiahnutý v tá istý cesta	B a C byť na rovnaký cesta
-4.80	žiarovka a a ? byť obsiahnutý v rôzny cesta s batéria	a a C sa líšiť od batéria
+3.00	žiarovka a byť v uzavretý okruh s batéria bez spínač	žiarovka a byť stále v batéria v uzavretý dráha
+4.80	žiarovka b a byť obsiahnutý v tá istý cesta	B a C byť na rovnaký cesta
+4.80	žiarovka a a byť obsiahnutý v rôzny cesta s batéria	a a C sa líšiť od batéria
 3.60	spínač z byť v rovnaký smer ako žiarovka a	žiarovka a byť stále v uzavretý dráha s batéria a spínač z
 1.00	nie byť obsiahnutý v tá istý cesta	ak C zhorieť pot a a B byť stále v uzavretý cesta
-2.80	žiarovka b a ? byť na uzavretý cesta k batéria	ak žiarovka a vyhorieť žiarovka B a C byť stále v uzavretý dráha
+2.80	žiarovka b a byť na uzavretý cesta k batéria	ak žiarovka a vyhorieť žiarovka B a C byť stále v uzavretý dráha
 4.00	stále existovať úplný cesta k batéria pre B a C.	žiarovka B a C byť stále s akumulátor v uzavretý dráha
 3.00	pretože byť obidva svorka spojený	svorka 1 a 4 byť spojený
 1.80	v terminál bola medzera	spínač Y a žiarovka a nie byť v rovnaký uzavretý poloha
@@ -1434,14 +1434,14 @@
 3.00	medzera spôsobiť strata spojenie	Nenulová napätie znamenať že svorka nie byť pripojený
 1.80	žiarovka byť mŕtva a nie byť pripojený ku svorka batéria	medza svorka nie byÅ¥ medzera
 1.80	byť rušený elektrický stav	Nenulová napätie znamenať že svorka nie byť pripojený
-4.60	pretože žiarovka ? bola v otvorený cesta	žiarovka C nebyť v uzavretý cesta
+4.60	pretože žiarovka bola v otvorený cesta	žiarovka C nebyť v uzavretý cesta
 4.60	žiarovka a byť na uzavretý cesta s batéria	žiarovka a byť stále v batéria v uzavretý dráha
 4.20	batéria mať svoj vlastný chemický reakcia medza kladný a záporný svorka ktorý obsahovať	batéria využívať chemický reakcia na udržanie rôzny elektrický stav na svorka
 4.00	svorka byť pripojený k kladný pól batéria	svorka 5 a kladný pól byť spojený
 2.20	žiarovka a sa rozsvietiť keď byť v uzavretý cesta s batéria	existovať cesta obsahujúci a C z a X
 2.20	v cesta byť prepínač	spínač a žiarovka musieť byť v rovnaký smer
 2.20	kladný pól batéria byť oddelený medzera od svorka 3	svorka 3 a kladný pól byť oddelený medzera
-2.20	pretože žiarovka a a ? mať svoj uzavretý cesta	žiarovka a a C byť uzavretý
+2.20	pretože žiarovka a a mať svoj uzavretý cesta	žiarovka a a C byť uzavretý
 2.20	žiarovka vytvárať medzera v uzavretý dráha	ak žiarovka a vyhorieť ani B ani C nie byť v uzavretý dráha
 2.20	otvorený vypínač a rozbitý žiarovka byť rovnaký	poškodená žiarovka a druhá žiarovka musieť byť v rovnaký smer
 2.20	terminál byť pripojený k iný terminál	svorka 4 5 a 6 byť pripojený ku kladný svorka batéria
@@ -1449,12 +1449,12 @@
 4.40	keď byť spínač v rovnaký cesta ako žiarovka	ak byť spínač a žiarovka v rovnaký cesta
 4.00	pretože každý žiarovka mať svoj vlastný úplný cesta	každý žiarovka byť vo svoj vlastný cesta
 5.00	batéria nie byť uzavretý v uzavretý dráha	batéria v 4 nie byť v uzavretý cesta
-5.00	stále existovať uzavretý cesta obsahujúci batéria žiarovka b a žiarovka ?	žiarovka B a C byť stále s akumulátor v uzavretý dráha
+5.00	stále existovať uzavretý cesta obsahujúci batéria žiarovka b a žiarovka	žiarovka B a C byť stále s akumulátor v uzavretý dráha
 5.00	batéria obsahovať žiarovka a a b na uzavretý dráha	žiarovka a a C byť stále uzavretý v uzavretý dráha s batéria
 5.00	kladný pól batéria nebyť od svorka 4 oddelený medzera	svorka 4 a kladný pól nie byť oddelený medzera
 2.20	svorka 6 byť pripojený k svorka 1	terminál 1 a 6 byť oddelený medzera
-1.40	žiarovka ? vytvárať medzera v uzavretý dráha	ak C zhorieť pot byť batéria a a B stále v uzavretý dráha
-1.40	žiarovka a a žiarovka ? byť zapojený paralelne	a a C byť rôzne
+1.40	žiarovka vytvárať medzera v uzavretý dráha	ak C zhorieť pot byť batéria a a B stále v uzavretý dráha
+1.40	žiarovka a a žiarovka byť zapojený paralelne	a a C byť rôzne
 1.20	že pripojenie batéria nefungovať	dôjsť ku skrat
 1.00	skrat alebo zlo batéria	dôjsť ku skrat
 1.00	ak by큐 v okruh medzera 탑iarovka sa nerozsvieti큐	Nenulová napätie znamenať že svorka nie byť pripojený
@@ -1479,7 +1479,7 @@
 3.20	pretože ich bola prepojený obvod	svorka 1 byť pripojený k záporný svorka batéria
 3.20	oba byť pripojený k záporný svorka batéria	svorka 1 a 2 byť spojený
 3.60	byť rozdiel v elektrický stav	svorka 1 a 4 byť pripojený a v rovnaký elektrický stav
-3.60	žiarovka b a ? byť obsiahnutý v tá istý uzavretý cesta	a a C nie byť v rovnaký smer s batéria
+3.60	žiarovka b a byť obsiahnutý v tá istý uzavretý cesta	a a C nie byť v rovnaký smer s batéria
 3.60	stále byť tu uzavretý cesta	stále existovať uzavretý cesta obsahujúci spínač z spínač X žiarovka a a C a batéria
 3.60	obidva terminál byť mať hodnota 0	terminál byť v rovnaký stav
 1.20	tento svorka byť pripojený k záporný strana obvod	svorka 1 2 a 3 byť pripojený k pól záporný batéria
@@ -1494,6 +1494,6 @@
 2.80	nie rovnakÃ½ cesta	žiarovka C byť v samostatný cesta
 2.80	svorka nie byť pripojený	svorka 1 a kladný pól nie byť pripojený
 4.60	žiarovka a batéria musieť byť uzavretý v uzavretý dráha	žiarovka a batéria byť v uzavretý dráha
-4.60	pretože žiarovka b a ? byť v uzavretý dráha s batéria	žiarovka B a C byť stále obsiahnutý v tá istý uzavretý cesta s batéria
+4.60	pretože žiarovka b a byť v uzavretý dráha s batéria	žiarovka B a C byť stále obsiahnutý v tá istý uzavretý cesta s batéria
 2.00	pretože existovať pozitívny a negatívny súvislosť	svorka 1 byť pripojený k záporný svorka batéria
 3.80	to byť oddelený medzera od terminál 3	svorka 3 a kladný pól byť oddelený medzera

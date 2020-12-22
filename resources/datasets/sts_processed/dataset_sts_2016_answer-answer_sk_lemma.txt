@@ -1,4 +1,4 @@
-3	jeho ? byť jediný spoľahlivý spôsob	to ako to mať byť v poriadok
+3	jeho byť jediný spoľahlivý spôsob	to ako to mať byť v poriadok
 3	myslieť že to asi záležať od vaši peniaze	závisieť to od vaša krajina
 3	musieť veľa čítať aby byť vedieť čo sa vy páčiť a čo nie	nemusieť to vedieť
 3	byť zrejmý že dobrý kniha pre vy závisieť veľa od ten čo hľadať	odpoveď byť samozrejme závisieť od ten čo hľadať na dovolenka
@@ -6,7 +6,7 @@
 3	ak byť nie byť istiť ako na to nerobiť to vôbec	ak tiež zomrieť nemusieť splácať nevedieť či to pomôcť
 3	rozhodovať mnoho čo by byť mať robiť a čo by byť mať prinútiť ostatný	čo môcť robiť a čo by byť mať robiť aby byť mnoho rásť
 3	toto byť musieť pridať do životopis pretože byť to jediný vaša pozícia	možno to byť chcieť ale musieť dostať do proces ktorý vy byť daný
-3	zostať byť pod ? a bola byť vyčerpaný každodenný rituál ? muž každý dva hodina	zostať byť pod ? a vyčerpaný každodenný rituál ? mačka každý dva hodina
+3	zostať byť pod a bola byť vyčerpaný každodenný rituál muž každý dva hodina	zostať byť pod a vyčerpaný každodenný rituál mačka každý dva hodina
 3	existovať veľa ďalší príklad online	existovať veľa premenná
 3	to ako to mať byť v poriadok	byť to na vy
 3	myslieť že by byť mať urobiť oboje	myslieť byť že nepotrebovať podvojný účtovníctvo
@@ -31,7 +31,7 @@
 0	ak chcieť aby byť použiť určitý technika byť to súčasť tréningový proces	stačiť byť teda skontrolovať či existovať konkrétny časť vlak do ktorý musieť ísť
 0	závisieť to od ten čo chcieť ďalej robiť a kde to chcieť urobiť	ak sa to naozaj chcieť naučiť chcieť to čas a práca
 0	veľa z ten súvisieť s marketing	veľa to mať spoločný s vaši programovanie
-0	uistiť sa že používať kvalitný lepidlo na drevo ako byť ? II.	vyzerať ako céder to byť dobré drevo na použitie
+0	uistiť sa že používať kvalitný lepidlo na drevo ako byť II.	vyzerať ako céder to byť dobré drevo na použitie
 0	naznačovať tiež že nemusieť dostávať platba ak vy nemôcť umiestniť u klient	dokázať to ale nemusieť byť profesor
 2	nie nemyslieť byť že by byť mať kontaktovať redaktor	myslieť že sa ten veľa robiť nedať
 2	myslieť byť že neexistovať všeobecný odpoveď	myslieť byť že toto byť jednoduchý odpoveď
@@ -43,7 +43,7 @@
 5	môcť to tiež použiť	môcť použiť cesnakový prášok a vynechať
 5	ak byť nie byť istiť ako na to nerobiť to vôbec	ak to neurobiť nenútiť to
 5	ja byÅ¥ bola na ten podobne	nedávno byť mať veľmi podobný situácia
-5	navrhovať aby byť sa pozrieť na ? čí	zoznámiť sa s tento
+5	navrhovať aby byť sa pozrieť na čí	zoznámiť sa s tento
 5	nevedieť či to mama povedať ale ak vy vaša práca znepokojovať	naozaj nevedieť pomôcť vy to ale robiť toto
 5	nemusieť sa báť	nemusieť sa báť
 3	ma큐 by by큐 to urobi큐	Mali by byť urobiť čo hovoriť
@@ -56,7 +56,7 @@
 2	dovoliť by byť byť dokonca povedať že byť to tá otázka	navrhovať by byť že odpoveď byť že to nie byť bežný
 2	v prvý prípad byť myslieť že to nepotrebovať	ak vy nevadiť extra váha povedať by byť že určite chodiť do ten
 2	toto vy umožniť ako prvý a dôležite umiestniť ich veľa	prvý vec ktorý musieť urobiť byť samozrejme zavrieť ich
-2	ak byť váš dlhodobý vízum do Švajčiarsko platný nebyť potrebovať tranzitný vízum	ak váš ? vízum byť stále platný nebyť musieť požiadať o nový vízum
+2	ak byť váš dlhodobý vízum do Švajčiarsko platný nebyť potrebovať tranzitný vízum	ak váš vízum byť stále platný nebyť musieť požiadať o nový vízum
 2	ak byť nie byť istiť ako na to nerobiť to vôbec	ak to chcieť urobiť mať by byť to urobiť úplne
 2	myslieť že by byť mať urobiť oboje	čo by byť mať urobiť
 2	Mali by byť sa len spýtať svoj šéf čo chcieť aby byť robiť	Mali by byť počúvať svoj šéf pretože nemať zaplatený za to aby byť šéf hovoriť čo mať robiť
@@ -79,7 +79,7 @@
 2	nevedieť či to mama povedať ale ak vy vaša práca znepokojovať	ak to stáť za to najímať byť ich a ak nie nie
 2	myslieť že to asi záležať od vaši peniaze	závisieť to od váš prostredie
 2	závisieť to od ten čo chcieť mať v nádrž	myslieť že záležať na ten čo chcieť
-5	byť tu úplne názor ale musieť súhlasiť s odpoveď ? vysoko	súhlasiť so všetok vysoko uvedený ale tu byť ďalší
+5	byť tu úplne názor ale musieť súhlasiť s odpoveď vysoko	súhlasiť so všetok vysoko uvedený ale tu byť ďalší
 5	závisieť to od teplota miestnosť kde žiť	závisieť to od zamestnávateľ
 5	odpoveď závisieť od ten kde sa nachádzať	závisieť to od ten kde sa nachádzať
 5	musieť veľa čítať aby byť vedieť čo sa vy páčiť a čo nie	vyzerať to že aby byť môcť robiť to čo potrebovať musieť sa naučiť dostatok anglický syntax
@@ -93,7 +93,7 @@
 1	ma큐 by by큐 to urobi큐	dokázať to tiež
 4	dúfať že to byť to čo hľadať	zdravý súťaž byť to čarovný slovo ktorý hľadať
 4	Áno. na všetko vysoko uvedený	všetok vysoko uvedený odpoveď byť dobré
-4	môcť vyskúšať ?	môcť vyskúšať ?
+4	môcť vyskúšať	môcť vyskúšať
 4	musieť sa rozhodnúť čo z ten chcieť mať	byť musieť zistiť aký vzťah mať so šéf aby byť zistiť aký byť vhodný
 4	pokiaľ vedieť taký zákon neexistovať	takýto index neexistovať
 4	ako to robiť	urobiť to pre svoj dieťa
@@ -102,7 +102,7 @@
 4	súhlasiť s ostatný komentár	súhlasiť s ostatný odpoveď
 4	musieť sa rozhodnúť čo z ten chcieť mať	musieť vedieť čo chcieť robiť
 4	ak chcieť byť manažér byť to iný príbeh	keď čítať fiktívny príbeh mať by byť byť vedieť predstaviť o čo ísť
-4	musieť len založiť svoj odpoveď na ten čo vedieť čo chcieť	? čo chcieť v zásada robiť byť FINE
+4	musieť len založiť svoj odpoveď na ten čo vedieť čo chcieť	čo chcieť v zásada robiť byť FINE
 4	mať problém	ak mať papier
 4	nemyslieť byť že by to malo nejaký obrovský rozdiel	v dnešný doba byť naozaj nemyslieť že by to malo nejaký vplyv
 4	mama pre vy niekoľko návrh	mama pre vy dva návrh
@@ -111,7 +111,7 @@
 1	chcieť začať v miestnosť ktorý byť veľký aby byť sa uistiť že mať ten dobrý štart	byť musieť začať s klinika a možno prejsť k poisťovňa
 1	byť to dosť na vy	už to nie byť na ona čo robiť
 1	závisieť od pôžička	závisieť to od spôsob výroba syr
-1	nie byť proti ten nijaký pravidlo	proti ? naozaj nie byť dôvod
+1	nie byť proti ten nijaký pravidlo	proti naozaj nie byť dôvod
 1	odpoveď závisieť od ten kde sa nachádzať	závisieť od právny prostredie v ktorý sa nachádzať
 1	záležať na ten aký byť	určite to závisieť od oblasť o ktorý hovoriť
 1	ak nechcieť stretnutie vykoľajiť ale kľúčový byť ozvať sa	kľúčový vec ktorý musieť na tento stretnutie urobiť byť počúvať
@@ -122,21 +122,21 @@
 4	čo najskôr	začať ich čo najskôr
 1	osobne by byť nebyť	osobne byť byť to overiť
 1	odpoveď závisieť od ten kde sa nachádzať	v Thajsko záležať kam pôjsť
-1	dúfať že to byť to čo hľadať	to čo hľadať byť hardvér lenivý ?
+1	dúfať že to byť to čo hľadať	to čo hľadať byť hardvér lenivý
 1	na cesta von nezabudnúť zbierať referencia	uistiť sa že byť dostať svoj peniaz
 1	myslieť byť že byť v poriadok položiť byť táto otázka	takže byť myslieť že byť to na vy
 1	musieť veľa čítať aby byť vedieť čo sa vy páčiť a čo nie	pamätať že toto byť váš titul o ktorý hovoriť byť len na vy čo chcieť robiť
 1	nemusieť to vedieť	nemusieť byť ani o vy
 1	aký deň chcieť aby byť začať	chcieť vedieť odpoveď
 1	áno byť dôvod neurobiť to čo navrhovať	áno mať to svoj dôvod
-1	môcť vyskúšať ?	môcť vyskúšať ? ? ión
+1	môcť vyskúšať	môcť vyskúšať ión
 1	musieť len založiť svoj odpoveď na ten čo vedieť čo chcieť	závisieť to od ten čo chcieť ďalej robiť a kde to chcieť urobiť
 5	závisieť to od ten čo chcieť mať v nádrž	skutočne záležať na ten koľko čas mať na príprava
 5	a ak držať Róth IRA dostať táto daň zadarmo	zvážiť daňový skupina v ktorý by byť sa nachádzať keby byť svoj tradičný IRA prevrátiť na Róth IRA
 5	musieť veľa čítať aby byť vedieť čo sa vy páčiť a čo nie	rozhodovať mnoho čo by byť mať robiť a čo by byť mať prinútiť ostatný
 5	odpoveď na oba otázka znieť áno	odpoveď na oba váš otázka byť áno
 4	to byÅ¥ naozaj jeden	na ten by až tak nemať záležať
-4	vyskúšať niečo v nasledujúci formát ? ? ?	vyskúšať niektorý z nasledujúci možnosť
+4	vyskúšať niečo v nasledujúci formát	vyskúšať niektorý z nasledujúci možnosť
 4	ak chcieť dať odpoveď	odpovedať na táto otázka
 4	v prvý prípad byť myslieť že to nepotrebovať	takže byť myslieť že v článok nemusieť výslovne uvádzať autorský právať
 4	odpoveď na vaša otázka bohužiaľ jednoducho nepoznať	prepáčiť nepoznať odpoveď na vaša otázka
@@ -149,7 +149,7 @@
 4	v prvý prípad byť myslieť že to nepotrebovať	AFAIK lepidlo ani nepotrebovať aj keď asi by byť on použiť sám
 4	nevedieť či to mama povedať ale ak vy vaša práca znepokojovať	urobiť to iba ak vedieť že vaša práca byť bezpečný
 4	myslieť že by byť mať urobiť oboje	myslieť že by byť nemať
-4	domnievať sa že hľadaný film byť ? 3	veriť že hľadať lístok do celý svet
+4	domnievať sa že hľadaný film byť 3	veriť že hľadať lístok do celý svet
 4	všetok predchádzajúci odpoveď byť dobré	všetok vysoko uvedený odpoveď byť dobré
 4	to nie byť dobrý nápad	toto byť ťažký
 4	nemusieť vedieť všetko	nie nemusieť robiť nič zvláštne
@@ -178,7 +178,7 @@
 0	angličtina byť skutočne veľmi rozšírený takže to by byť váš dobre riešenie	dobre urobiť keď urobiť prieskum
 0	niektorý vec ktorý by byť môcť zvážiť	byť potrebný zvážiť niekoľko vec
 0	áno v Kanada musieť podať daňový priznanie	áno musieť podať daňový priznanie
-0	film ktorý hľadať byť pravdepodobne zamorený	myslieť že film ktorý hľadať byť ?
+0	film ktorý hľadať byť pravdepodobne zamorený	myslieť že film ktorý hľadať byť
 0	byť byť myslieť že sa chcieť trápiť nie oveľa ťažko ako skutočne potrebovať	ak byť stále chcieť pripraviť vlastný chlieb môcť byť kúpiť pekárny
 0	nevedieť či to mama povedať ale ak vy vaša práca znepokojovať	Mali by byť vždy odpovedať aj keď len povedať že sa na tento čas nepozerať
 0	niekedy ak to naozaj chcieť možno byť musieť zaplatiť agentúra aby byť dostať miesto	ak chcieť skutočne nájsť svoj štýl musieť preň pracovať
@@ -186,7 +186,7 @@
 0	musieť veľa čítať aby byť vedieť čo sa vy páčiť a čo nie	neuviesť byť celkom aký práca by byť chcieť robiť
 0	mať auto	mať veľký plastový nádoba
 0	možno byť musieť zakročiť a mentorovať on ako niečo robiť	musieť byť zvoliť ako a kam chcieť umiestniť noha a urobiť to
-0	navrhovať aby byť vyskúšať ?	navrhovať by byť aby byť neporušovať FERPA
+0	navrhovať aby byť vyskúšať	navrhovať by byť aby byť neporušovať FERPA
 0	byť to dosť na vy	byť oveľa dobre pýtať sa
 1	ak chcieť povedať nie urobiť to tak ako to robiť tu	ak mať sklon povedať nie musieť mať dobré dôvod
 1	závisieť od ten čo spôsobovať kŕč	záležať na ten aký byť váš cieliť
@@ -197,7 +197,7 @@
 4	takže byť myslieť že to netreba dávať na obal	takže ak poznať adresa byť dobre ona zapísať
 4	zatiaľ sa príliš netrápiť hudobný teória	byť to iba všeobecný usmernenie netrápiť sa ten príliš
 4	myslieť že by byť	myslieť že to byť robiť ťažko
-4	existovať veľmi dobro kniha ? McGeý s názov o jedlo a varenie	na úvod jedlo varenie ? McGeý
+4	existovať veľmi dobro kniha McGeý s názov o jedlo a varenie	na úvod jedlo varenie McGeý
 4	nemusieť sa báť	rozhodne nemusieť
 4	mama pre vy niekoľko návrh	mama pre vy tri odporúčanie
 4	skúšať byť sa spýtať svoj zamestnancov	skúsiť byť sa opýtať
@@ -230,7 +230,7 @@
 2	čo mnoho to byť robiť ten rýchle byť	čo mnoho ich mať ten menej byť pravdepodobný že byť hora noha
 2	byť byť istý že tu už bola položený táto otázka ale nemôcť nájsť odpoveď	táto otázka už bola položený myslieť byť že táto odpoveď nemôcť vylepšiť
 2	áno byť dôvod neurobiť to čo navrhovať	áno musieť urobiť oboje
-2	môcť byť on kúpiť na Amazon za 5 dolár	môcť byť on kúpiť na ? od 25 dolár a mnoho
+2	môcť byť on kúpiť na Amazon za 5 dolár	môcť byť on kúpiť na od 25 dolár a mnoho
 1	nie nemyslieť byť že by byť mať kontaktovať redaktor	myslieť že by byť mať urobiť oboje
 1	áno existovať pravidlo proti ten	áno byť to skutočný problém
 1	nie byť byť stopercentne istý ale zdať sa že hovoriť o prieskumník	nie byť byť stopercentne istý že rozumieť tvoj otázka ale aj tak sa na ona pokúsiť odpovedať
@@ -261,7 +261,7 @@
 2	musieť len založiť svoj odpoveď na ten čo vedieť čo chcieť	v taký prípad by byť mať mať dosť silný kontrola nad ten čo chcieť robiť
 2	myslieť byť že neexistovať všeobecný odpoveď	myslieť byť že tu neexistovať jediný odpoveď
 2	ak byť nie byť istiť ako na to nerobiť to vôbec	takže sa nemusieť trápiť ak nemôcť ale skúsiť to zapracovať
-2	film ktorý hľadať byť pravdepodobne zamorený	domnievať sa že hľadaný film byť ? 3
+2	film ktorý hľadať byť pravdepodobne zamorený	domnievať sa že hľadaný film byť 3
 2	ak byť on chcieť nainštalovať sám super	ak chcieť v niečo vylepšiť svoj schopnosť identifikovať to
 2	zaujímavý článok ďakovať za odkaz	ďakovať za návrh
 2	niekedy ak to naozaj chcieť možno byť musieť zaplatiť agentúra aby byť dostať miesto	ak sa sústrediť na to čo chcieť robiť nájsť zamestnávateľ ktorý to potrebovať
@@ -276,17 +276,17 @@
 2	ak s on stážovať byť pravdepodobný že po ukončenie štúdia pre on byť chcieť pracovať	ak sa nepýtať na to čo chcieť pravdepodobne to nedostať
 2	čo byť to za izolácia	čo byť to za kameň
 2	to by malo pomôcť nie byť to úplne presný ale pravdepodobne to odtiaľto zistiť	môcť vy povedať odkiaľ to pochádzať ale nie prečo byť to tak ako to byť
-2	môcť vyskúšať ?	môcť vyskúšať ? ?
+2	môcť vyskúšať	môcť vyskúšať
 2	mať byť rovnaký problém ako ty	mať byť rovnaký situácia ako ty
-2	veriť že by byť byť DQ ? ak by byť on mať používať	myslieť by byť byť že byť schopný
+2	veriť že by byť byť DQ ak by byť on mať používať	myslieť by byť byť že byť schopný
 2	posledný vec ktorý by byť sa pozrieť bližšie byť tá na ktorý sa vlastne pýtať	hlavná vec ktorý by byť vy odporučiť očakávať byť nečakaný
 2	ako rýchlo používať vajce	používať nový Basecamp
 2	nemyslieť byť že existovať nejaký znateľný rozdiel	nemyslieť byť že to robiť veľký rozdiel
-2	môcť vyskúšať ?	môcť vyskúšať ?
+2	môcť vyskúšať	môcť vyskúšať
 2	nie nepotrebovať pekárnička	nie nemať by byť sa obávať
 2	povedať by byť že to závisieť predovšetkým od dva vec	povedať by byť že to závisieť od konečný výsledok ktorý chcieť
 1	niekedy ak to naozaj chcieť možno byť musieť zaplatiť agentúra aby byť dostať miesto	ak sa chystať do Thajsko kvôli práca môcť sa pokúsiť o jeho schválenie
-1	nie byť byť istý či byť toto miesto správne pre táto otázka	byť byť istý že toto byť mnoho ? a etický otázka ako sa zdať
+1	nie byť byť istý či byť toto miesto správne pre táto otázka	byť byť istý že toto byť mnoho a etický otázka ako sa zdať
 1	aký byť váš cieľ	áno môcť to urobiť ale záležať na ten aký byť váš cieľ
 1	znieť to akoby byť ich práve nedovariť	znieť to akoby byť možno potrebovať mnoho múka
 1	niektorý z tento možnosť	okrem ten nemôcť urobiť veľa
@@ -296,7 +296,7 @@
 0	niekedy ak to naozaj chcieť možno byť musieť zaplatiť agentúra aby byť dostať miesto	ak chcieť vedieť prečo chcieť kópia potrebovať ona pre svoj osobný záznam
 0	závisieť to od ten čo chcieť ďalej robiť a kde to chcieť urobiť	závisieť to od ten čo chcieť mať v nádrž
 0	byť zrejmý že dobrý kniha pre vy závisieť veľa od ten čo hľadať	skutočne záležať na ten čo hľadať
-0	odpoveď byť zatiaľ dobré ale chcieť by byť pridať mapa Švajčiarsko	mať už veľa odpoveď ale chcieť by byť pridať ? ako ďalší riešenie
+0	odpoveď byť zatiaľ dobré ale chcieť by byť pridať mapa Švajčiarsko	mať už veľa odpoveď ale chcieť by byť pridať ako ďalší riešenie
 5	ak byť nie byť istiť ako na to nerobiť to vôbec	nebáť sa zvládnuť to
 5	koľko to pomôcť závisieť od teplota voda a prostredie v ktorý sa nádrž nachádzať	to ako to byť fungovať byť veľa závisieť od teplota miestnosť v ktorý sa nachádzať
 5	existovať tri možnosť	tu byť dva možnosť
@@ -338,7 +338,7 @@
 0	musieť len založiť svoj odpoveď na ten čo vedieť čo chcieť	náplň jeho práca byť vidieť že mať to čo potrebovať pre výkon svoj práca
 3	povedať by byť to takto	toto by byť urobiť
 3	ja mam to iste	mama úplne rovnaký problém
-3	veriť že hľadaný výraz byť ?	slovo ktorý hľadať byť ?
+3	veriť že hľadaný výraz byť	slovo ktorý hľadať byť
 3	musieť veľa čítať aby byť vedieť čo sa vy páčiť a čo nie	musieť urobiť to čo byť pre vy to pravý
 3	s ten sa nedať veľa urobiť	existovať niekoľko praktický vec ktorý vy môcť pomôcť
 3	s veľký pravdepodobnosť sa jednať o záležať	to byť spravodlivý spôsob ako to urobiť
@@ -388,7 +388,7 @@
 2	myslieť byť že byť to len zvyk	byť to asi iba pokazený vypínač
 2	môcť urobiť niekoľko vec	byť potrebný vziať do úvaha dva vec
 2	záležať na ten aký byť	závisieť to od ten čo hodnotiť a ako
-2	? byť to	kde byť sa pozrieť
+2	byť to	kde byť sa pozrieť
 2	s ten sa nedať veľa urobiť	so štartér z kvások ten nie byť toľko čo by byť môcť urobiť
 5	ak to neurobiť byť zlý nadriadený a neslúžiť on dobre	ak vy neprepustiť teraz mať pracovný čas ktorý sa vy páčiť
 5	myslieť že by byť mať urobiť oboje	myslieť byť že by byť to mať tajiť alebo nie
@@ -410,7 +410,7 @@
 2	to nie byť dobrý nápad	toto byť naozaj dobro otázka
 2	to nie byť dobrý nápad	to asi nie byť dobrý nápad ale aj tak to navrhnúť
 0	dobre čo môcť urobiť byť vedieť svoj vec	môj odporúčanie byť aby byť nič nehovoriť a robiť to dobre ako vedieť
-2	mať auto	mať tím spoločnosť ?
+2	mať auto	mať tím spoločnosť
 2	závisieť to od ten čo chcieť ďalej robiť a kde to chcieť urobiť	ak to urobiť určite byť prečítať čo podpisovať
 2	byť potrebný vziať do úvaha dva vec	pravdepodobne treba zvážiť dva hlavná vec
 2	povedať by byť že to závisieť predovšetkým od dva vec	povedať by byť že záležať aký mať podmienka
@@ -420,7 +420,7 @@
 0	samozrejme ich môcť skladovať v chladnička	môcť on samozrejme napísať riadok so správny odpoveď
 0	v prvý prípad byť myslieť že to nepotrebovať	ale myslieť byť že to v reštaurácia nenájsť
 0	závisieť to od ten ako sa používať	závisieť to od ten ako on použiť
-0	môcť vyskúšať ?	môcť vyskúšať ?
+0	môcť vyskúšať	môcť vyskúšať
 0	nevedieť či to mama povedať ale ak vy vaša práca znepokojovať	nevedieť či sa od vy vyžadovať aby byť sa na ten stretnutie zúčastniť ale predpokladať že áno
 0	ak byť nehnuteľnosť dobro chodiť do ten	ísť by byť do ten
 0	s veľký pravdepodobnosť ísť o lodný doprava	prvý a pravdepodobný byť jednoducho historický
@@ -436,7 +436,7 @@
 1	nemusieť to vedieť	spoločnosť vy nebyť kompenzovať ak nemať čo ponúknuť
 1	to neodpovedať na vaša otázka ale	toto byť čiastočný odpoveď na vaša otázka
 4	niekedy ak to naozaj chcieť možno byť musieť zaplatiť agentúra aby byť dostať miesto	možno to byť chcieť ale musieť dostať do proces ktorý vy byť daný
-4	v ? byť bola už mnohokrát	mnohokrát byť naniesť ? na farba
+4	v byť bola už mnohokrát	mnohokrát byť naniesť na farba
 4	toto byť musieť pridať do životopis pretože byť to jediný vaša pozícia	náplň jeho práca byť vidieť že mať to čo potrebovať pre výkon svoj práca
 4	povedať by byť že áno ale zázrak nečakať	povedať by byť že to zvládnuť ale neradiť by sa to
 4	dúfať že to byť to čo hľadať	byť to to čo hľadať
@@ -457,7 +457,7 @@
 2	moja odpoveď na vaša otázka byť pravdepodobne nie	takmer univerzálny odpoveď na táto otázka byť porozprávať sa so svoj poradca
 2	v prvý prípad byť myslieť že to nepotrebovať	nemyslieť byť však že s ten môcť tiež veľa urobiť
 2	nemusieť to vedieť	musieť ich robiť pomaly a pomaly
-2	nakoniec byť to všetko o ten ako to prezentovať ak byť ? v rozhovor	nebyť to problém ak sa o ten môcť porozprávať na pohovor
+2	nakoniec byť to všetko o ten ako to prezentovať ak byť v rozhovor	nebyť to problém ak sa o ten môcť porozprávať na pohovor
 2	nepodávať by byť on podrobnosť o ten čo byť robiť pre kto alebo kde	vlastne to nechcieť predpokladať a iba vy povedať čo byť myslieť že by byť povolený nepovolený
 2	myslieť že by byť mať urobiť oboje	myslieť že to byť robiť ťažko
 2	to záležať na ten kto sa pýtať	to závisieť od škola a dieťa
@@ -507,30 +507,30 @@
 0	áno byť to presne tak	áno to byť prívodný vedenie
 0	študovať na vysoká škola a bývať v jej ubytovňa	bývať byť v hostel vo Švajčiarsko
 0	myslieť že to asi záležať od vaši peniaze	myslieť že to naozaj závisieť od vaši vlastný presvedčenie a situácia
-0	odpoveď na vaša otázka byť ? ? ? ?	odpoveď na vaša otázka nie byť v skutočnosť
+0	odpoveď na vaša otázka byť	odpoveď na vaša otázka nie byť v skutočnosť
 0	závisieť to od ten čo chcieť ďalej robiť a kde to chcieť urobiť	ak chcieť skutočne nájsť svoj štýl musieť preň pracovať
 0	tu byť váš postup	tu byť jednoduchý odpoveď
 0	takže byť myslieť že to netreba dávať na obal	myslieť byť že lístok vo vlastný vlak nemôcť overiť
-0	niekedy ak to naozaj chcieť možno byť musieť zaplatiť agentúra aby byť dostať miesto	chcieť vy zaručiť že ak dostať ? byť mať naozaj krušný chvíľa
+0	niekedy ak to naozaj chcieť možno byť musieť zaplatiť agentúra aby byť dostať miesto	chcieť vy zaručiť že ak dostať byť mať naozaj krušný chvíľa
 0	myslieť že by byť mať urobiť oboje	myslieť byť že by byť mať urobiť toto
 0	skúmať rok	hľadať byť ich
 0	dobre čo môcť urobiť byť vedieť svoj vec	dobre urobiť keď rozruch prekonať
-2	môcť to byť th ? od rok 2000	môcť to byť archa
+2	môcť to byť th od rok 2000	môcť to byť archa
 2	môcť urobiť niekoľko vec	nechápať niekoľko vec
 2	povedať by byť že to zvládnuť ale neradiť by sa to	nepovedať by byť že byť to nevyhnutne nesprávne ale byť by to trocha čudný
 2	závisieť to od ten čo chcieť ďalej robiť a kde to chcieť urobiť	ak dobre priľnúť pot vedieť čo byť musieť urobiť
 2	závisieť to od jedlo a od ten ako byť prístupný vo fáza keď urobiť chyba	závisieť to od omáčka a výsledok ktorý chcieť
-2	domnievať sa že hľadaný film byť ? 3	odpoveď ktorý hľadať byť v názov budova
+2	domnievať sa že hľadaný film byť 3	odpoveď ktorý hľadať byť v názov budova
 2	aký daň musieť zaplatiť	musieť to legálne zaplatiť
 2	áno mať to svoj dôvod	áno byť to skutočný problém
 2	čo mnoho vážiť ten ťažko to mať na chrbát	čo byť veľký ten mnoho ten chcieť robiť
 2	závisieť to od ten ako sa používať	závisieť to od ten koľko kalória skonzumovať
-2	myslieť že hľadať Mikey 1992	myslieť že hľadať ? 2012
+2	myslieť že hľadať Mikey 1992	myslieť že hľadať 2012
 2	líšiť sa to podľa situácia	líšiť sa to veľa a podľa typ písanie
 2	nemusieť to vedieť	ak nevedieť vyhľadať elektrikár
 2	ako to mama urobiť	čo by byť mať urobiť
 2	musieť veľa čítať aby byť vedieť čo sa vy páčiť a čo nie	vedieť do aký rola sa chcieť uberať v porovnanie s ten ktorý nemať
-2	na tento problém byť už použiť ? a fungovať to celkom dobre	zdať sa že fungovať dosť dobre aj keď byť to väčšina používať na rezanie
+2	na tento problém byť už použiť a fungovať to celkom dobre	zdať sa že fungovať dosť dobre aj keď byť to väčšina používať na rezanie
 2	myslieť byť že neexistovať všeobecný odpoveď	nemyslieť byť že existovať všeobecne akceptovaný definícia
 2	ale všeobecne platiť že čo dlhý úryvok chcieť znova použiť ten horšiť byť myšlienka	všeobecne platiť že čo veľký ťažko položka ten mnoho stáť bez ohľad na to ako ich poslať
 2	musieť len založiť svoj odpoveď na ten čo vedieť čo chcieť	musieť urobiť to čo byť pre vy to pravý
@@ -552,11 +552,11 @@
 3	myslieť byť že to záležať od program	závisieť to od program a stav FF
 3	odpoveď závisieť od ten kde sa nachádzať	čiastočne záležať na ten kam mať namierený
 3	krátky odpoveď vlhkosť a soľ	krátky odpoveď líšiť sa to
-3	byť veľký fanúšik kombinácia vinobraný sklenený misa a ?	byť veľký fanúšik vesmírny pera ?
+3	byť veľký fanúšik kombinácia vinobraný sklenený misa a	byť veľký fanúšik vesmírny pera
 3	nemyslieť byť že môcť kosť znova použiť a očakávať že získať dobrý produkt nie	ale za to byť myslieť že ich ráno robiť nemusieť
 3	zaujímavý otázka ale nakoniec odpoveď znieť nie	jednoduchý odpoveď byť nie
 3	dobrý vec ktorý sa týkať batoľa pokiaľ ísť o jedlo byť prestať sa starať	dobrý spôsob ako sa naučiť byť robiť to
-3	nie byť fanúšik testovací súprava	byť veľký fanúšik vesmírny pera ?
+3	nie byť fanúšik testovací súprava	byť veľký fanúšik vesmírny pera
 3	ak byť to váš prípad naozaj sa steak nemusieť obávať	s ten nemusieť robiť nič
 3	skúmať rok	polyuretán používať už 40 a mnoho rok
 3	myslieť že tu sa dať ujsť	tak nízko ako sa dať ujsť
@@ -577,7 +577,7 @@
 5	nemyslieť byť že nejaký existovať	nemyslieť byť že to byť fungovať veľmi dobre
 5	ako to robiť	môcť to urobiť
 5	nemyslieť byť že nejaký existovať	naozaj byť nemyslieť že by to malo nejaký význam
-5	súhlasiť s Jolenealasko	súhlasiť s ? vysoko
+5	súhlasiť s Jolenealasko	súhlasiť s vysoko
 5	ak byť nie byť istiť ako na to nerobiť to vôbec	ak chcieť zdieľať on ak nechcieť nezdieľať on
 5	myslieť byť že byť v poriadok položiť byť táto otázka	myslieť byť že byť v poriadok položiť otázka
 4	byť tu veľmi priamy	byť tupý tu ty nie
@@ -587,7 +587,7 @@
 0	nemyslieť byť že to slovo znamenať to čo byť myslieť že to znamenať	nemyslieť byť že to robiť veľký rozdiel
 0	čo byť to za izolácia	čo byť to za forma
 0	takže byť myslieť že to netreba dávať na obal	myslieť že by byť nemať
-0	súhlasiť so všetok čo povedať ?	súhlasiť s Jolenealasko
+0	súhlasiť so všetok čo povedať	súhlasiť s Jolenealasko
 0	nemyslieť byť že nejaký existovať	nemyslieť byť že byť nevyhnutne problém s pripojenie
 0	áno mať by byť spomenúť svoj skúsenosť	áno mať by byť zahrnúť všetok svoj relevantný skúsenosť
 0	záležať na ten aký byť	závisieť to od vaša krajina
@@ -596,10 +596,10 @@
 0	zaujímavý séria otázka ale obávať sa že na všetok nemať odpoveď	obávať sa že nemať odpoveď na soľný otázka
 0	mať byť rovnaký problém ako ty	rovnaký otázka byť mať aj ja
 0	musieť veľa čítať aby byť vedieť čo sa vy páčiť a čo nie	možno byť musieť experimentovať a nájsť to čo sa vy páčiť
-0	to znamenať že hádam odpoveď znieť nie	byť trocha zmätený z otázka typ bez ? ktorý to byť
+0	to znamenať že hádam odpoveď znieť nie	byť trocha zmätený z otázka typ bez ktorý to byť
 0	ma큐 by by큐 to urobi큐	Mali by byť to najskôr pripraviť
 5	povedať byť jej že áno ak on chcieť uveriť	môj záver bola že keby ona chcieť zabiť bola by mať
-5	nie byť to veľkosť šálka ale množstvo káva v ona	byť to poradie ? nie to ako nápoj vyzerať
+5	nie byť to veľkosť šálka ale množstvo káva v ona	byť to poradie nie to ako nápoj vyzerať
 5	v prvý prípad byť myslieť že to nepotrebovať	nerobiť by byť to zvlášť prvý deň
 5	s ten sa nedať veľa urobiť	obávať sa že ten naozaj nemôcť urobiť veľa
 0	ak byť nie byť istiť ako na to nerobiť to vôbec	ak byť však nemyslieť že práca zvládnuť neprihlásiť sa
@@ -612,7 +612,7 @@
 4	závisieť to od ten čo chcieť mať v nádrž	pravdepodobne záležať na ten v aký tvar ich chcieť skladovať
 4	musieť len založiť svoj odpoveď na ten čo vedieť čo chcieť	závisieť to od ten čo chcieť mať v nádrž
 4	iste mať poradca ale môcť len hádať čo byť	ale myslieť byť že naozaj jediný voľba ktorý mať byť byť dobrý človek aký môcť byť
-4	ako spomenúť Derrík ? byť pravdepodobne vaša dobrý stávka	dobre urobiť keď urobiť prieskum
+4	ako spomenúť Derrík byť pravdepodobne vaša dobrý stávka	dobre urobiť keď urobiť prieskum
 4	závisieť to úplne od vaša spoločnosť a vaša zmluva	myslieť že to závisieť od povaha vaša zmluva
 5	odpovedať byť na svoj vlastný otázka	už byť odpovedať na svoj vlastný otázka
 3	súhlasiť s ostatný komentár	súhlasiť s mnohý z vysoko uvedený komentár
@@ -642,7 +642,7 @@
 2	ten veriť	áno veriť že byť to dobrý nápad
 1	dúfať že to byť to čo hľadať	to by큐 to 훾o chcie큐
 1	ak byť nie byť istiť ako na to nerobiť to vôbec	ak nie nerobiť to a stráviť ten čas niečo čo robiť rád
-0	navrhovať by byť ?	namiesto ten by byť navrhnúť činkový muška
+0	navrhovať by byť	namiesto ten by byť navrhnúť činkový muška
 0	s tento byť nikdy nerobiť starostiť	nikdy to nepoužívať
 0	myslieť byť že by byť mať urobiť niekoľko vec	myslieť že by byť mať urobiť oboje
 0	pozrieť by byť sa na toto u s	zoznámiť sa s tento
@@ -667,7 +667,7 @@
 3	môcť to tiež použiť	dokázať to tiež
 5	ak nemať mať by byť	ak mať papier
 5	myslieť že to asi záležať od vaši peniaze	záležať na ten aký byť váš cieliť
-5	myslieť že hľadať Mikey 1992	byť byť istý že hľadať ? ? 1991
+5	myslieť že hľadať Mikey 1992	byť byť istý že hľadať 1991
 5	z hlava ja napadať niekoľko možnosť	existovať dva dôvod ktorý ja napadnúť z hlava
 5	môj názor byť že byť nemyslieť že by byť mať tento problém presadiť	myslieť že by byť mať urobiť oboje
 5	obávať sa že ten nemôcť veľa urobiť	okrem ten nemôcť urobiť veľa
@@ -676,32 +676,32 @@
 5	ako to robiť	ako to urobiť
 3	teraz nemusieť byť dokonalý pri každý odpoveď	nemusieť sa báť
 3	čo mnoho to byť robiť ten rýchle byť	čo mnoho to urobiť ten to byť jednoducho
-3	vyhľadať byť článok ktorý by môcť pomôcť ?	nájsť byť nejaký odkaz ktorý by vy môcť pomôcť
+3	vyhľadať byť článok ktorý by môcť pomôcť	nájsť byť nejaký odkaz ktorý by vy môcť pomôcť
 2	závisieť to od ten čo chcieť mať v nádrž	závisieť to od ten čo mať na myseľ pod pojem dostatočná
 2	mať byť rovnaký problém	nikdy byť nemať problém s plný pas
 2	existovať mnoho spôsob ako štruktúrovať úvod	existovať mnoho synonymum k ten ale
 2	povedať by byť že to zvládnuť ale neradiť by sa to	povedať by byť že sa to nedať vedieť tak to neriskovať
 1	odpoveď na vaša otázka bohužiaľ jednoducho nepoznať	odpoveď na vaša otázka nie byť v skutočnosť
 1	ak byť nie byť istiť ako na to nerobiť to vôbec	ty nie nebyť to fungovať
-5	závisieť to od ten čo chcieť ďalej robiť a kde to chcieť urobiť	pozrieť chápať že to musieť urobiť rýchlo a vedieť že byť zlé obliecť byť ?
-5	film ktorý hľadať byť pravdepodobne zamorený	film ktorý hľadať byť pravdepodobne ?
+5	závisieť to od ten čo chcieť ďalej robiť a kde to chcieť urobiť	pozrieť chápať že to musieť urobiť rýchlo a vedieť že byť zlé obliecť byť
+5	film ktorý hľadať byť pravdepodobne zamorený	film ktorý hľadať byť pravdepodobne
 5	myslieť byť že to záležať od program	myslieť byť že odpoveď silne závisieť od ten odkiaľ peniaz pochádzať
 5	aký deň chcieť aby byť začať	čo chcieť aby byť povedať
 5	nemyslieť byť že nejaký existovať	nemyslieť byť že by sa malo niečo vymazávať
 5	byť musieť urobiť určitý úprava ale nenechať sa ten zastaviť	Mali by byť ale nemusieť
 5	myslieť že to asi záležať od vaši peniaze	skutočne to závisieť od váš publikum a nastavenie
 5	myslieť byť že to záležať od program	myslieť že by byť
-5	nie byť dôvod na obava	proti ? naozaj nie byť dôvod
+5	nie byť dôvod na obava	proti naozaj nie byť dôvod
 5	byÅ¥ to aj vec vkus	byť to určite iba otázka preferencia
 1	nie byť to dobrý nápad	byť dobrý nápad robiť oboje
-2	háv ? trieda ? ?	skúšať byť sa spýtať svoj zamestnancov
+2	háv trieda	skúšať byť sa spýtať svoj zamestnancov
 2	nie nemôcť	nie nebyť to problém
 2	myslieť že byť na dobrý cesta	myslieť že to dobre vyhovovať ty a tvoj veža
 2	môcť byť on kúpiť na Amazon za 5 dolár	samostatne byť on môcť kúpiť online za 12 dolár
 2	nepovažovať to za poistenie pre prípad že by byť nemôcť platiť	v prvý prípad byť myslieť že to nepotrebovať
 2	ak neodpovedať na poďakovanie byť to neutrálne nedôjsť k žiaden škoda	ak byť to určený na pohovor tak nie nie
-2	môcť vyskúšať ?	môcť vyskúšať niečo ako kurací stehno
-2	existovať veľmi dobro kniha ? McGeý s názov o jedlo a varenie	? ? o ten diskutovať v dokument o jedlo a varenie
+2	môcť vyskúšať	môcť vyskúšať niečo ako kurací stehno
+2	existovať veľmi dobro kniha McGeý s názov o jedlo a varenie	o ten diskutovať v dokument o jedlo a varenie
 2	táto odpoveď byť založený na moji skúsenosť s vysokoškolský učenie matematika v USA	táto odpoveď byť založený na skúsenosť ktorý byť neskúmať pre referencia
 4	myslieť byť že by byť mať urobiť niekoľko vec	existovať niekoľko vec ktorý by byť musieť urobiť
 0	závisieť to od ten čo chcieť mať v nádrž	závisieť to od ten čo chcieť ďalej robiť a kde to chcieť urobiť
@@ -715,7 +715,7 @@
 2	kúpať byť nový kúsok aby sa zmestiť	môcť byť kúpiť nový Fluidmaster
 2	vo väčšina prípad byť účel kontrola kredit zistiť či existovať náznak problém s charakter	ak byť práca vo vaša oblasť záujem odborný znalosť vždy existovať potenciál pre konflikt záujem
 2	aj keď tvrdiť že ísť o pôžička nemusieť ona IRS považovať za nevyhnutný	možno to dieťa nebyť jasne chápať ako učebný nástroj ale byť to tak
-2	môcť vyskúšať niečo ako ? ?	môcť vyskúšať niečo ako kurací stehno
+2	môcť vyskúšať niečo ako	môcť vyskúšať niečo ako kurací stehno
 2	závisieť to od ten čo chcieť mať v nádrž	závisieť to od ten čo chcieť dosiahnuť
 1	nie byÅ¥ tam maximum	správny odpoveď neexistovať
 1	povedať by byť že to zvládnuť ale neradiť by sa to	povedať by byť že pokiaľ nevedieť že byť bezpečný pre mačka ktorý predpokladať že byť jedovatý
@@ -730,16 +730,16 @@
 1	používať nesprávny typ skrutka	uvažovať o ten zle
 1	uistiť sa že nie byť príliš veľký na to aby byť sa môcť pohybovať	keď sa narodiť dieťa nebyť už schopný nakupovať oblečenie
 1	nechápať prečo by s ten mať byť nejaký problém	nechápať prečo by mať byť problém
-1	ak sa vy spis dostať do ruka môcť skrutka upraviť tak aby bola ? samovoľne	môcť to byť tona ak nepoužívať odpočet ktorý môcť
+1	ak sa vy spis dostať do ruka môcť skrutka upraviť tak aby bola samovoľne	môcť to byť tona ak nepoužívať odpočet ktorý môcť
 1	riskovať že byť pôsobiť asociálne a neproduktívne	ten riskovať že byť pôsobiť asociálne a neproduktívne
 1	závisieť to od ten čo chcieť mať v nádrž	záležať na ten ako dobre chcieť byť
-1	nie byť fanúšik testovací súprava	byť veľký fanúšik začínajúci online stránka ? čí
+1	nie byť fanúšik testovací súprava	byť veľký fanúšik začínajúci online stránka čí
 1	občan Vietnam potrebovať na návšteva USA vízum	nepálsky občan potrebovať na návšteva spojený kráľovstvo vízum
 1	závisieť to od ten ako sa používať	závisieť to od ten ako dlho byť vonku
 5	vždy môcť ísť na glycemicindex čí	skúsiť vždy ísť
 5	dva vec ktorý môcť urobiť aby byť tu skutočne pomôcť byť	tu byť niekoľko vec ktorý môcť urobiť aby byť úder zmierniť
 5	závisieť to od ten čo chcieť ďalej robiť a kde to chcieť urobiť	nevedieť čo byť dobre ale myslieť byť že to závisieť od ten kde chcieť publikovať
-5	s veľký pravdepodobnosť by byť mať byť schopný nastúpiť na let	webový stránka ? by vy mala byť schopný pomôcť
+5	s veľký pravdepodobnosť by byť mať byť schopný nastúpiť na let	webový stránka by vy mala byť schopný pomôcť
 5	nechápať prečo by s ten mať byť nejaký problém	nechápať prečo by to môcť byť problém
 5	s ten sa nedať veľa urobiť	naozaj byť nemyslieť že s ten môcť urobiť veľa
 5	môcť to urobiť	niektorý z tento možnosť
@@ -784,7 +784,7 @@
 5	na koniec deň on musieť prinútiť aby za vy pracovať	v prvý rad byť položiť otázka či naozaj chcieť pre spoločnosť pracovať z dlhodobý hľadisko
 5	byť potrebný vziať do úvaha dva vec	byť potrebný zvážiť niekoľko vec
 3	aký by bola dobrý spôsob ako to urobiť	aký by musieť byť drevár aby sa z táto myšlienka urobiť dobrý príbeh
-3	mať byť rovnaký problém ? byť sa a nájsť byť tento riešenie	práve byť mať rovnaký problém
+3	mať byť rovnaký problém byť sa a nájsť byť tento riešenie	práve byť mať rovnaký problém
 3	závisieť to úplne od vaša spoločnosť a vaša zmluva	závisieť to od vaša spoločnosť
 3	myslieť že by byť	neodporúčať by byť to lepiť
 3	takže byť myslieť že to netreba dávať na obal	takže byť myslieť že byť to na vy
@@ -794,7 +794,7 @@
 3	závisieť od pôžička	závisieť to od ten aký zlý byť mura
 3	myslieť že by byť	takže byť myslieť že byť to na vy
 3	mama podozrenie že ísť o urýchlenie nástup na paluba	byť to na vy
-3	musieť veľa čítať aby byť vedieť čo sa vy páčiť a čo nie	musieť sa naučiť používať komponent v ? robiť presne to čo chcieť
+3	musieť veľa čítať aby byť vedieť čo sa vy páčiť a čo nie	musieť sa naučiť používať komponent v robiť presne to čo chcieť
 3	súhlasiť s ostatný komentár	súhlasiť s ostatný
 3	ocot robiť para vec	para dobrý dôvod
 3	čo za IRA	čo byť to za domáca úloha
@@ -802,7 +802,7 @@
 3	nemyslieť byť že nejaký existovať	nemyslieť byť že to robiť veľký rozdiel
 3	myslieť byť že by byť mať urobiť niekoľko vec	nemyslieť byť že nejaký existovať
 3	závisieť to od ten čo chcieť mať v nádrž	záležať na ten aký byť váš cieliť
-3	odpoveď na vaša otázka byť ? ? ? ?	moja odpoveď na vaša otázka byť pravdepodobne nie
+3	odpoveď na vaša otázka byť	moja odpoveď na vaša otázka byť pravdepodobne nie
 3	myslieť že to asi záležať od vaši peniaze	všetko závisieť od váš cieľ
 3	drevo asi nie byť prehnitý iba opotrebovaný	byť to len opotrebovaný a nie bezpečný
 4	musieť sa rozhodnúť čo z ten chcieť mať	mať rôzne vlastnosť a byť sa chcieť rozhodnúť čo byť pre vy dôležitý
@@ -815,7 +815,7 @@
 4	ak nie nerobiť to a stráviť ten čas niečo čo robiť rád	nemať to nič spoločný s intelekt alebo vedomie že v skutočnosť míňať peniaz
 4	ďalší vec na ktorý sa treba pozrieť byť vaša obuv	ďalší vec ktorý byť potrebný zvážiť byť soliť
 4	ak nie nerobiť to a stráviť ten čas niečo čo robiť rád	ak byť však nemyslieť že práca zvládnuť neprihlásiť sa
-4	navrhovať aby byť vyskúšať ?	navrhovať by byť ?
+4	navrhovať aby byť vyskúšať	navrhovať by byť
 4	závisieť to od ten čo chcieť ďalej robiť a kde to chcieť urobiť	pot sa rozhodnúť či sa naozaj chcieť zapojiť a ako k ten chcieť pristupovať
 4	nemusieť sa báť	nemusieť ty to hovoriť
 4	myslieť byť že byť to dobré riešenie	myslieť byť že na vaša otázka neexistovať dobro odpoveď
@@ -843,7 +843,7 @@
 0	niektorý vec ktorý by byť môcť zvážiť	niektorý z vec ktorý robiť
 0	byť to ten typ človek s ktorý chcieť obchodovať	čo byť to za práca ktorý chcieť robiť
 0	odpoveď na oba otázka znieť áno	odpoveď na táto otázka byť áno
-0	veriť že hľadaný výraz byť ?	myslieť že hľadať film
+0	veriť že hľadaný výraz byť	myslieť že hľadať film
 0	závisieť to od ten ako sa používať	závisieť to od vaša krajina
 0	nemusieť to vedieť	ak ešte nevedieť aký dôveryhodnosť on musieť povedať
 0	môcť to tiež použiť	áno môcť to použiť
@@ -855,10 +855,10 @@
 0	odpoveď na oba otázka znieť áno	priamo odpovedať na dva otázka z váš názov
 2	áno byť dôvod neurobiť to čo navrhovať	platný dôvod na to aby byť sa cítiť tak ako sa cítiť ale nie dôvod na rezignácia
 2	toto byť musieť pridať do životopis pretože byť to jediný vaša pozícia	byť byť musieť vrátiť dôvera v seba pretože to za vy nikto neurobiť
-2	mať byť šťastie v ? 3D	mať byť šťastie v tyč ? ? ? ?
+2	mať byť šťastie v 3D	mať byť šťastie v tyč
 2	pokiaľ vedieť taký zákon neexistovať	pokiaľ vedieť v práčovňa nie byť vyžadovaný žiaden aktívny ventilátor
 2	nevedieť či to mama povedať ale ak vy vaša práca znepokojovať	nevedieť či táto otázka stále sledovať takže byť stručný
-2	súhlasiť s odpoveď ? a dovoliť ja pridať ešte jeden vec	súhlasiť s Odedová odpoveď a chcieť by byť pridať jeden dôležitý krok
+2	súhlasiť s odpoveď a dovoliť ja pridať ešte jeden vec	súhlasiť s Odedová odpoveď a chcieť by byť pridať jeden dôležitý krok
 2	myslieť byť že to záležať od program	závisieť to od ten ako sa ten termín podľa ja používať
 5	môcť to urobiť	takže môcť to urobiť
 4	ďakovať za návrh	ďakovať za všetok návrh
@@ -879,7 +879,7 @@
 0	nemyslieť byť že to bola hamburger ale skôr košíček	pri kúpa automobil to nepovažovať za investícia ale skôr za luxus
 0	myslieť byť že by byť mať urobiť niekoľko vec	nechápať niekoľko vec
 2	nemusieť to vedieť	vedieť že to nie byť môj dôvod
-2	trocha sóda bikarbóna vyrovnať ? paradajka	moja mama ja vždy hovoriť trocha sóda bikarbóna
+2	trocha sóda bikarbóna vyrovnať paradajka	moja mama ja vždy hovoriť trocha sóda bikarbóna
 2	spáliť mnoho kalória tráviaci bielkovina ako sacharid a tuk	čo mnoho sa potiť ten rýchle spáliť kalória a tuk
 1	byť zmätený z ten prečo by byť on nechcieť mať ako spoluautor	musieť sa spýtať prečo by byť chcieť dolievať voda
 1	pracovať byť na takýto projekt	pracovať byť na podobný projekt
@@ -924,7 +924,7 @@
 1	toto byť veľký problém	problém byť nástroj
 1	odpovedať táto stránka na vaša otázka	odpovedať na táto otázka
 1	ak nemať mať by byť	Mali by byť ale nemusieť
-3	zvažovať byť že byť vyrobiť svoj vlastný	zva탑ova큐 by큐 ?
+3	zvažovať byť že byť vyrobiť svoj vlastný	zva탑ova큐 by큐
 3	myslieť byť že by byť mať urobiť niekoľko vec	nie nemyslieť byť že by byť mať kontaktovať redaktor
 3	áno pomôcť	zlepšiť sa to
 3	byÅ¥ to aj vec vkus	tiež byť myslieť že nejsť o to aby byť bola junior
@@ -980,9 +980,9 @@
 1	ak mať na myseľ to čo myslieť mať na myseľ hebrejčina	ak to mať na myseľ pod parketa nenavrhovať to
 1	ak byť nie byť istiť ako na to nerobiť to vôbec	ak byť to tak nemusieť pridávať cukor vôbec
 1	nemyslieť byť že existovať nejaký znateľný rozdiel	nemyslieť byť že byť tam nejaký rozdiel
-1	súhlasiť s ostatný komentár	súhlasiť s ? vysoko
+1	súhlasiť s ostatný komentár	súhlasiť s vysoko
 1	Mali by byť sa len spýtať svoj šéf čo chcieť aby byť robiť	váš priateliť by mať požiadať svoj šéf aby písomne potvrdiť čo chcieť robiť
-1	nie byť postgraduálny študent doktorandský program byť práca na plný úväzok	postdoktorand byť časovo obmedzený akademický zamestnanie ? byť pozícia študent vo výskum
+1	nie byť postgraduálny študent doktorandský program byť práca na plný úväzok	postdoktorand byť časovo obmedzený akademický zamestnanie byť pozícia študent vo výskum
 1	mať byť rovnaký problém a ukázať sa že to bola vzduch v systém	Mali byť rovnaký problém a ukázať sa to kvôli teplotný zmena v chladnička
 1	nemusieť sa báť	nebáť sa Nemec byť väčšina slušný
 1	musieť len založiť svoj odpoveď na ten čo vedieť čo chcieť	takže ak byť to to čo potrebovať musieť o ten naozaj byť výslovný
@@ -992,7 +992,7 @@
 2	to byÅ¥ naozaj jeden	možno nie
 2	tento číslo by vy nemať vôbec ovplyvniť	nemať by byť cítiť vôbec žiaden povinnosť
 2	ak nemať mať by byť	ak byť byť neurobiť domáca úloha nemať by byť byť na schôdza
-2	dúfať že to byť to čo hľadať	myslieť že to hľadať ?
+2	dúfať že to byť to čo hľadať	myslieť že to hľadať
 2	myslieť byť že to záležať od program	myslieť že to asi záležať od vaši peniaze
 2	toto byť hrozný nápad	znieť to ako veľmi zlý nápad
 2	odpoveď znieť nie	dobrý informácia na ktorý sa ja podariť nájsť odpoveď byť nie
@@ -1000,7 +1000,7 @@
 0	v prvý prípad byť myslieť že to nepotrebovať	ak byť myslieť že produkt nie byť to čo chcieť nekupovať on
 0	áno byť to bežný	aký byť to osamelý
 0	nemusieť to vedieť	nemusieť odchádzať aby byť vidieť čo vy zaplatiť ostatný
-0	musieť veľa čítať aby byť vedieť čo sa vy páčiť a čo nie	pozrieť chápať že to musieť urobiť rýchlo a vedieť že byť zlé obliecť byť ?
+0	musieť veľa čítať aby byť vedieť čo sa vy páčiť a čo nie	pozrieť chápať že to musieť urobiť rýchlo a vedieť že byť zlé obliecť byť
 0	myslieť že by byť	myslieť byť že byť to len zvyk
 0	závisieť to úplne od vaša spoločnosť a vaša zmluva	závisieť to od ten kde žiť a aký byť vaša situácia
 0	napadať ja dva návrh	dva možnosť ktorý ja napadať
@@ -1008,7 +1008,7 @@
 0	myslieť byť že neexistovať všeobecný odpoveď	nemyslieť byť že existovať presný výklad kurzíva
 0	myslieť že to asi záležať od vaši peniaze	myslieť že záležať na ten čo chcieť
 0	ak to neurobiť byť zlý nadriadený a neslúžiť on dobre	ak nenadväzovať byť niekto kto povedať jeden vec a neurobiť to
-0	myslieť že hľadať Mikey 1992	? ? ? ? čí ? FlightRating ? do myslieť že to byť to čo hľadať
+0	myslieť že hľadať Mikey 1992	čí FlightRating do myslieť že to byť to čo hľadať
 0	nemyslieť byť že nejaký existovať	na zoznam nevidieť žiaden škrob
 0	nemusieť to vedieť	okrem ten nemať daňový problém
 1	áno existovať pravidlo proti ten	nie byť proti ten nijaký pravidlo
@@ -1029,7 +1029,7 @@
 2	ja byÅ¥ bola na ten podobne	mama 13 rok a byť v táto situácia
 2	musieť veľa čítať aby byť vedieť čo sa vy páčiť a čo nie	ak sa nič nestať musieť byť sadnúť a premýšľať čo chcieť robiť ďalej
 2	mať nejaký cieľ	mať flexibilita v práca
-2	niekedy ak to naozaj chcieť možno byť musieť zaplatiť agentúra aby byť dostať miesto	ak sa chystať ísť na výborná môcť zvážiť ?
+2	niekedy ak to naozaj chcieť možno byť musieť zaplatiť agentúra aby byť dostať miesto	ak sa chystať ísť na výborná môcť zvážiť
 2	nie nemyslieť byť že by byť mať kontaktovať redaktor	myslieť že nemôcť
 2	všetok vysoko uvedený odpoveď byť dobré	vysoko uvedený odpoveď byť správne
 2	musieť veľa čítať aby byť vedieť čo sa vy páčiť a čo nie	musieť len založiť svoj odpoveď na ten čo vedieť čo chcieť
@@ -1050,7 +1050,7 @@
 2	nerobiť by byť to z dôvod na ktorý byť sa pýtať	odporučiť by byť vy aby byť s ten urobiť tri vec
 2	odpoveď závisieť od ten kde sa nachádzať	závisieť od miesto o ktorý sa uchádzať
 2	existovať dva možný príčina	pre tento typ vec existovať zátvorka
-2	ak byť váš dlhodobý vízum do Švajčiarsko platný nebyť potrebovať tranzitný vízum	nepotrebovať tranzitný vízum ale na vstup do ? byť potrebovať vízum
+2	ak byť váš dlhodobý vízum do Švajčiarsko platný nebyť potrebovať tranzitný vízum	nepotrebovať tranzitný vízum ale na vstup do byť potrebovať vízum
 5	ak nie nerobiť to a stráviť ten čas niečo čo robiť rád	ak sa jej nepáčiť môcť pre vy nájsť niečo čo by byť môcť urobiť
 5	myslieť že odpoveď ktorý nepoznať	nemyslieť byť že nejaký existovať
 5	áno aj keď to asi byť chcieť rozsekať	byť to na vy
@@ -1062,7 +1062,7 @@
 5	tvar telo mať veľa spoločný s ten	veľa to mať spoločný s vaši programovanie
 5	ešte niekoľko vec na zamyslenie	niekoľko vec na zamyslenie
 2	teraz nemusieť byť dokonalý pri každý odpoveď	nemusieť to vedieť
-5	domnievať sa že hľadaný film byť ? 3	? byť názov relácia ktorý hľadať
+5	domnievať sa že hľadaný film byť 3	byť názov relácia ktorý hľadať
 5	obávať sa že v tento nemať šťastie	myslieť byť že toto byť jeden z vec pri ktorý nemať šťastie
 0	rozhodovať mnoho čo by byť mať robiť a čo by byť mať prinútiť ostatný	Ida o vedieť čo chcieť a nebáť sa o to požiadať
 4	ak sa jej nepáčiť môcť pre vy nájsť niečo čo by byť môcť urobiť	ak to naozaj chcieť urobiť neskúšať by byť ona zadržať
@@ -1103,7 +1103,7 @@
 2	to ako to mať byť v poriadok	karta ktorý mať byť v poriadok
 2	povedať by byť že kuchársky nôž pre istota	ako tu vidieť môcť to urobiť kuchársky nôž
 2	nevedieť či to mama povedať ale ak vy vaša práca znepokojovať	nevedieť či to byť fungovať ale určite to nie byť tradičný metóda
-2	v prvý prípad byť myslieť že to nepotrebovať	nepoznať celý algoritmus ale nájsť byť vzorec ktorý by byť potrebovať na jeho ?
+2	v prvý prípad byť myslieť že to nepotrebovať	nepoznať celý algoritmus ale nájsť byť vzorec ktorý by byť potrebovať na jeho
 2	dobre čo môcť urobiť byť vedieť svoj vec	dobre urobiť keď byť na počkanie počkať nájsť ešte niečo zaujímavý
 5	byÅ¥ to aj vec vkus	byť to väčšina vec vkus
 2	súhlasiť s ostatný komentár	súhlasiť s ostatný plagát
@@ -1113,7 +1113,7 @@
 3	myslieť byť že byť v poriadok položiť byť táto otázka	myslieť byť že byť neprofesionálny žiadať jednorazový platba
 3	ja mam to iste	mama rovnaký problém
 3	tvrdý odpoveď byť priamy nie	zaujímavý otázka ale nakoniec odpoveď znieť nie
-3	navrhovať aby byť sa pozrieť na ? čí	zoznámiť sa s kreatívny literatúra fakt
+3	navrhovať aby byť sa pozrieť na čí	zoznámiť sa s kreatívny literatúra fakt
 3	nie ty nie byÅ¥	nie byť bežec
 3	ak nemať taký ktorý byť v poriadok nikto by nečakať že ten veľa napísať	ak nenadväzovať byť niekto kto povedať jeden vec a neurobiť to
 3	dobre čo môcť urobiť byť vedieť svoj vec	jednoducho však môcť vyskúšať
@@ -1128,10 +1128,10 @@
 3	môcť to tiež použiť	áno zvládnuť to
 4	ak byť to čo hľadať oveľa vysoko získať obraz	vy byť ten kto žiadať o preradenie a ak niečo existovať dostať to čo byť k dispozícia
 4	nechápať prečo by s ten mať byť nejaký problém	myslieť byť že s ten nie byť vôbec žiaden problém
-4	dva nástroj ktorý byť použiť na výroba svoj vlastný cestovina byť valček a ?	nikdy byť nepoužívať ? ale pomoc valček na cestovina byť vyrobiť veľa ?
+4	dva nástroj ktorý byť použiť na výroba svoj vlastný cestovina byť valček a	nikdy byť nepoužívať ale pomoc valček na cestovina byť vyrobiť veľa
 4	trocha záležať na vaša pec	trocha záležať na váš ihrisko
 4	tu vidieť problém	takto byť to vypracovať
-4	môcť vyskúšať ?	môcť vyskúšať ?
+4	môcť vyskúšať	môcť vyskúšať
 4	mať byť rovnaký problém ako ty	mať byť rovnaký situácia
 4	musieť sa rozhodnúť čo z ten chcieť mať	musieť zistiť čo vy vyhovovať
 1	musieť len založiť svoj odpoveď na ten čo vedieť čo chcieť	v závislosť od vaši potreba byť musieť opäť zvoliť to čo byť pre vy dobre
@@ -1142,7 +1142,7 @@
 1	myslieť byť že byť to veľmi subjektívny otázka a byť závisieť od ten kto byť sudca	byť to veľmi subjektívne ale myslieť byť že jedlo na gril na uhlie byť dobre
 1	myslieť že by byť mať urobiť oboje	nemyslieť byť že by byť mať prestať
 1	ak chcieť byť manažér byť to iný príbeh	ak mať príbeh ktorý chcieť porozprávať malo by byť možný tento príbeh rozprávať vo váš prostredie
-1	takže byť myslieť že to netreba dávať na obal	pozrieť chápať že to musieť urobiť rýchlo a vedieť že byť zlé obliecť byť ?
+1	takže byť myslieť že to netreba dávať na obal	pozrieť chápať že to musieť urobiť rýchlo a vedieť že byť zlé obliecť byť
 1	nerozmýšľať dvakrát nad ten že nechať holandský rúra v sporák cez noc pri nízky teplota	môj prvý návrh by bola holandský pec pri nízky teplota
 1	existovať tri možnosť	existovať dva možnosť pre vy
 1	odpoveď závisieť od ten kde sa nachádzať	myslieť byť že odpoveď silne závisieť od ten odkiaľ peniaz pochádzať
@@ -1184,7 +1184,7 @@
 5	záležať na ten aký byť	závisieť to od dôvod
 5	závisieť to od ten čo chcieť mať v nádrž	vo svoj životopis chcieť ukázať pokrok v zodpovednosť a vyzerať to že to mať
 5	ak to neurobiť byť zlý nadriadený a neslúžiť on dobre	ak mať dostatočná depresia že nemať pocit že mať priateľ vyhľadať poradca
-5	myslieť byť že to naozaj záležať na ten koľko byť každý mesiac z účet ? vybrať	skutočne záležať na ten koľko hrať
+5	myslieť byť že to naozaj záležať na ten koľko byť každý mesiac z účet vybrať	skutočne záležať na ten koľko hrať
 5	asi to záležať od mäsový rez	myslieť byť že to záležať od program
 5	závisieť to od ten čo chcieť ďalej robiť a kde to chcieť urobiť	neradiť by byť ty čo so životopis byť to na ty
 5	musieť veľa čítať aby byť vedieť čo sa vy páčiť a čo nie	čo by byť mať urobiť byť len na vy
@@ -1192,13 +1192,13 @@
 5	sopečný voda nie byť problém	v ohrievač voda to nie byť nezvyčajný
 5	rozhodovať mnoho čo by byť mať robiť a čo by byť mať prinútiť ostatný	závisieť to od ten čo chcieť ďalej robiť a kde to chcieť urobiť
 5	myslieť že záležať na ten čo chcieť	vlastne byť myslieť že byť to tu
-5	byť byť myslieť že sa chcieť trápiť nie oveľa ťažko ako skutočne potrebovať	tiež ak chcieť byť trocha silný ? byť musieť zvýšiť svoj fyzický aktivita
+5	byť byť myslieť že sa chcieť trápiť nie oveľa ťažko ako skutočne potrebovať	tiež ak chcieť byť trocha silný byť musieť zvýšiť svoj fyzický aktivita
 5	niekedy ak to naozaj chcieť možno byť musieť zaplatiť agentúra aby byť dostať miesto	nemať by ty ublížiť keď to povedať C a môcť ty dať čas aký chcieť
 5	myslieť byť že byť to zlý nápad	myslieť byť že byť to zlý nápad
 1	závisieť to od ten čo chcieť ďalej robiť a kde to chcieť urobiť	musieť byť zvoliť ako a kam chcieť umiestniť noha a urobiť to
 4	všetok vysoko uvedený odpoveď byť dobré	všetok vysoko uvedený odpoveď byť vynikajúci
 4	mať problém	toto byť veľký problém
-2	mať byť šťastie v ? 3D	mať byť šťastie že byť ? ? na vnútorný gril
+2	mať byť šťastie v 3D	mať byť šťastie že byť na vnútorný gril
 2	robiť byť poznámka do prečítaný článok	takto sa naučiť čítať referát
 2	dva vec ktorý môcť urobiť aby byť tu skutočne pomôcť byť	niektorý z vec ktorý môcť urobiť byť
 2	odpoveď znieť nie	jednoduchý odpoveď byť nie
@@ -1214,7 +1214,7 @@
 2	z hlava ja napadať niekoľko možnosť	hneď na koniec moja hlava byť byť myslieť
 2	ak byť to váš prípad naozaj sa steak nemusieť obávať	to nie byť zlo vec ale musieť byť byť vedomie svoj rozhodnutie
 2	rozhodovať mnoho čo by byť mať robiť a čo by byť mať prinútiť ostatný	čo by byť mať urobiť byť len na vy
-2	osobne by byť byť dať pozor na Motley blázon	odporučiť by byť sa pozrieť na th ? ?
+2	osobne by byť byť dať pozor na Motley blázon	odporučiť by byť sa pozrieť na th
 4	ak byť v organizácia relatívne nový kontrola výkonnosť sa nemusieť robiť v prvý rok	váš výkon môcť byť skvelý ale to nič neznamenať ak nie byť v kancelária
 4	myslieť byť že neexistovať všeobecný odpoveď	nemyslieť byť že existovať jediný definícia
 5	v prvý prípad byť myslieť že to nepotrebovať	ale za to byť myslieť že ich ráno robiť nemusieť
@@ -1222,7 +1222,7 @@
 5	ak nemať mať by byť	nemusieť sa báť
 5	film ktorý hľadať byť pravdepodobne zamorený	myslieť že hľadať film
 5	nie byť to dobrý nápad	nie byť to dobrý nápad
-0	môcť to urobiť	? môcť ja ukázať ako to urobiť
+0	môcť to urobiť	môcť ja ukázať ako to urobiť
 0	nepotrebovať nijaký vízum	nemusieť sa báť
 0	možno byť bez práca	to však nemusieť byť práca pre domáca majster
 0	myslieť byť že to záležať od program	závisieť to od vaša krajina
@@ -1269,9 +1269,9 @@
 4	to záležať na ten o čo konkrétne sa uchádzať	závisieť to presne od ten aký zariadenie používať
 4	závisieť to od ten čo chcieť ďalej robiť a kde to chcieť urobiť	ak chcieť zdieľať on ak nechcieť nezdieľať on
 4	môcť urobiť 2 vec aby byť vec menej lepivý	musieť urobiť niekoľko vec
-4	ak musieť byť všetok peniaz ? cesta byť pokladničný poukážka od maklér	patent byť správny cesta ak byť musieť na akademický pôda zarobiť peniaz inteligentný nápad
+4	ak musieť byť všetok peniaz cesta byť pokladničný poukážka od maklér	patent byť správny cesta ak byť musieť na akademický pôda zarobiť peniaz inteligentný nápad
 4	myslieť byť že byť v poriadok položiť byť táto otázka	myslieť byť že byť to len zvyk
-4	domnievať sa že hľadaný film byť ? 3	veriť že film ktorý hľadať byť ? ? th ?
+4	domnievať sa že hľadaný film byť 3	veriť že film ktorý hľadať byť th
 4	to nie byť dobrý nápad	to byť zlý nápad
 4	v prvý prípad byť myslieť že to nepotrebovať	myslieť byť že vôbec nepotrebovať pílka
 4	nie byť to dobrý nápad	byť to naozaj dobré čítanie
@@ -1285,9 +1285,9 @@
 4	nemyslieť byť že nejaký existovať	myslieť byť že tu neexistovať jeden univerzálny norma
 4	nechcieť sa odcudziť svoj spolupracovník	nemusieť to vedieť
 4	nemusieť vedieť všetko	ale nemusieť naozaj
-4	chcieť ten povedať že by byť môcť vidieť nový normál	myslieť že to čo vidieť môcť byť fluorid ktorý do voda dávať spoločnosť ? verejný služba
+4	chcieť ten povedať že by byť môcť vidieť nový normál	myslieť že to čo vidieť môcť byť fluorid ktorý do voda dávať spoločnosť verejný služba
 4	zoznámiť sa s tento	stačiť sa pozrieť na chvost
-4	? nemusieť byť každý deň aj keď dieťa sa to môcť páčiť	možno nebyť musieť robiť tento vec ale mať by byť byť schopný
+4	nemusieť byť každý deň aj keď dieťa sa to môcť páčiť	možno nebyť musieť robiť tento vec ale mať by byť byť schopný
 4	myslieť že to asi záležať od vaši peniaze	záležať na ten aký byť
 4	nemusieť sa báť	okrem ten nemať daňový problém
 4	ak to neurobiť ísť skoro spať	ak chcieť zdieľať on ak nechcieť nezdieľať on
@@ -1368,9 +1368,9 @@
 3	ak chcieť aby byť použiť určitý technika byť to súčasť tréningový proces	väčšina to byť to čo chcieť pre dobré jedlo
 3	takže byť byť urobiť čas na rozhodovanie o štatistika s rezerva	nepoznať poverenie táto stránka takže ona brať s rezerva
 3	nemyslieť byť že existovať iný dôvod ako historický šanca	nemyslieť byť že existovať nejaký znateľný rozdiel
-3	dúfať že to byť to čo hľadať	? ? ? ? čí ? ? ? ? vy poskytnúť to čo hľadať
+3	dúfať že to byť to čo hľadať	čí vy poskytnúť to čo hľadať
 3	3 pre každý prípad vždy existovať možnosť posttraumatický strata pamäti	vždy existovať možnosť
-3	myslieť že niečo na čo by byť sa možno mať pozrieť byť služba s názov ?	? byť produkt na ktorý by byť sa možno mať pozrieť
+3	myslieť že niečo na čo by byť sa možno mať pozrieť byť služba s názov	byť produkt na ktorý by byť sa možno mať pozrieť
 3	skôr záležať na ten v ktorý krajina sa nachádzať	závisieť to od vaša krajina
 3	ak nie nerobiť to a stráviť ten čas niečo čo robiť rád	táto chyba nemusieť urobiť tak necht
 3	ak byť nie byť istiť ako na to nerobiť to vôbec	ak nechcieť robiť android nemať by byť vo váš životopis
@@ -1383,7 +1383,7 @@
 3	nemusieť to vedieť	naozaj by byť nemať mať problém
 3	existovať niekoľko možný dôvod	existovať niekoľko dôvod ktorý maľovať vráska
 5	ja mam to iste	musieť byť urobiť to istý
-5	byť byť myslieť že sa chcieť trápiť nie oveľa ťažko ako skutočne potrebovať	ak mať vysoká citlivosť na ? pravdepodobne byť musieť jesť oveľa mnoho ako teraz
+5	byť byť myslieť že sa chcieť trápiť nie oveľa ťažko ako skutočne potrebovať	ak mať vysoká citlivosť na pravdepodobne byť musieť jesť oveľa mnoho ako teraz
 5	u ja to vždy fungovať	robiť to fungovať ja to úžasne
 5	môcť urobiť niekoľko vec	môcť urobiť niekoľko vec
 5	dokázať to tiež	áno môcť to urobiť
@@ -1410,14 +1410,14 @@
 1	toto nemusieť byť nevyhnutne problém	byť to odôvodnený obava ale nie nevyhnutne problém
 1	čo mnoho to byť robiť ten rýchle byť	čo mnoho prax urobiť ten dobre byť pri ten
 1	osobne by byť to priniesť priamo	ja by byť to nevychovať
-1	súhlasiť so všetok čo povedať ?	súhlasiť so všetok čo povedať ? G
+1	súhlasiť so všetok čo povedať	súhlasiť so všetok čo povedať G
 1	nemyslieť byť že povedať šéf že nečítať e-mail byť dobro stratégia	nemyslieť byť že vy niekto dávať odpoveď ktorý hľadať
 1	myslieť že to asi záležať od vaši peniaze	myslieť byť že záležať na ten aký náročný na prezentácia pracovať
 1	nemusieť to vedieť	len nechcieť aby byť to vedieť
 1	nie byť to dobrý nápad	nie byť to len dobrý nápad byť to aj vynikajúci nápad
 4	dokázať to tiež	nie nemôcť to urobiť
 4	nemusieť vedieť všetko	potrebovať zapracovať
-4	mať byť rovnaký problém ? byť sa a nájsť byť tento riešenie	mať byť rovnaký problém ako ty
+4	mať byť rovnaký problém byť sa a nájsť byť tento riešenie	mať byť rovnaký problém ako ty
 4	kľúčový vec ktorý byť tu musieť uvedomiť byť že nie byť vaša úloha prinútiť človek aby robiť svoj práca	pri vstup na pohovor byť dôležitý klásť otázka vďaka ktorý človek myslieť
 4	myslieť byť že byť to dobré riešenie	myslieť byť že byť to dobrý spôsob ako to urobiť
 4	ak už generátor vlastniť hovoriť chodiť do ten a vyskúšať	ak byť to len na domáca použitie a pre váš potešenie pot môcť robiť čo chcieť
@@ -1425,18 +1425,18 @@
 4	myslieť že záležať na ten čo chcieť	myslieť byť že to závisieť od ten na aký úroveň učiť
 4	nemusieť vedieť všetko	musieť veľa čítať aby byť vedieť čo sa vy páčiť a čo nie
 4	iste mať poradca ale môcť len hádať čo byť	môcť ale spôsob ako to urobiť závisieť od ten čo mať k dispozícia
-4	sám byť fanúšik stránka ?	byť veľký fanúšik vesmírny pera ?
-4	nie byť fanúšik testovací súprava	sám byť fanúšik stránka ?
+4	sám byť fanúšik stránka	byť veľký fanúšik vesmírny pera
+4	nie byť fanúšik testovací súprava	sám byť fanúšik stránka
 4	myslieť byť že neexistovať všeobecný odpoveď	myslieť byť že pre vaša situácia neexistovať jediný výraz takže moja odpoveď byť žiaden
 4	myslieť byť že neexistovať všeobecný odpoveď	myslieť byť že na vaša otázka neexistovať dobro odpoveď
-4	niekedy ak to naozaj chcieť možno byť musieť zaplatiť agentúra aby byť dostať miesto	chcieť aby tam bola ? keď ona potrebovať na zloženie záloh
+4	niekedy ak to naozaj chcieť možno byť musieť zaplatiť agentúra aby byť dostať miesto	chcieť aby tam bola keď ona potrebovať na zloženie záloh
 4	aj keď nemôcť dať definitívny odpoveď môcť iba povedať že byť to do istý mier veľmi bežný	raz byť myslieť že byť možný podať všeobecný názor
 4	ak nemať mať by byť	ak nemať dostatočný rozpočet mať by byť
 4	rozhodovať mnoho čo by byť mať robiť a čo by byť mať prinútiť ostatný	záležať čo s on chcieť robiť
 4	nie nemyslieť byť že by byť mať kontaktovať redaktor	nemyslieť byť že môcť kosť znova použiť a očakávať že získať dobrý produkt nie
 4	nie nepotrebovať pekárnička	nie ty nie byÅ¥
 4	myslieť byť že by byť mať urobiť niekoľko vec	existovať niekoľko minimálne efektívny vec ktorý môcť urobiť na osobný úroveň
-3	súhlasiť s Jolenealasko	súhlasiť s ?
+3	súhlasiť s Jolenealasko	súhlasiť s
 3	nebyť byť môcť vyzdvihnúť batožina pretože v Omán neexistovať nárok na batožina v letový časť	nie nebyť potrebovať špeciálne doklad ani zbierať taška
 3	mať byť rovnaký problém	mať byť rovnaký situácia
 5	nevedieť o použitie v domácnosť	nevedieÅ¥ o program
@@ -1464,7 +1464,7 @@
 0	mať problém	mať auto
 0	myslieť byť že by byť mať urobiť niekoľko vec	niekoľko vec ktorý byť sa naučiť
 0	nemusieť sa báť	na dochutenúť nemusieť robiť nič
-0	na VRBO čí byť mať vždy šťastie	mať byť šťastie v tyč ? ? ? ?
+0	na VRBO čí byť mať vždy šťastie	mať byť šťastie v tyč
 0	neexistovať žiaden test ktorý by vy povedať či byť zapečatený alebo nie	neexistovať žiaden kód ktorý by vy hovoriť že to nemôcť urobiť
 0	nemyslieť byť že nejaký existovať	myslieť byť že na tento tvrdenie nie byť veľa pravda
 0	ak byť nie byť istiť ako na to nerobiť to vôbec	ak od vy nepožiadať aby byť kvalifikovať svoj schopnosť rozprávať nebáť sa o to
@@ -1490,14 +1490,14 @@
 5	angličtina byť skutočne veľmi rozšírený takže to by byť váš dobre riešenie	zdať sa že dobrý riešenie by byť použitie odporový pásmo
 5	možno byť musieť experimentovať a nájsť to čo sa vy páčiť	musieť zistiť čo vy vyhovovať
 1	myslieť že by byť	myslieť že by byť to jednoducho ignorovať
-1	áno zvládnuť to aj s pasívny Y ?	dokázať to tiež
+1	áno zvládnuť to aj s pasívny Y	dokázať to tiež
 1	vedieť že byť nepožiadať o skrutka ale bývať praktický riešenie	ale za to byť myslieť že ich ráno robiť nemusieť
 1	to záležať na ten o čo konkrétne sa uchádzať	závisieť to od ten pre aký príchuť presne ísť
 1	toto byť skvelý	byÅ¥ to tento
-1	k Randommanová odpoveď musieť dodať niekoľko vec	k odpoveď ? by byť pridať niekoľko vec
+1	k Randommanová odpoveď musieť dodať niekoľko vec	k odpoveď by byť pridať niekoľko vec
 1	jeden z nástroj ktorý vy môcť pomôcť ovládať frekvencia vaši úder byť tréner tempo	ak byť môcť dovoliť pomoc osobný tréner chodiť na niektorý
 1	dva vec ktorý môcť urobiť aby byť tu skutočne pomôcť byť	tu byť zrejmý vec
-1	nakoniec byť to všetko o ten ako to prezentovať ak byť ? v rozhovor	všetko byť v ten ako klásť otázka
+1	nakoniec byť to všetko o ten ako to prezentovať ak byť v rozhovor	všetko byť v ten ako klásť otázka
 1	počítačový veda to skutočne závisieť od inštitúcia a skupina	to skutočne závisieť od vaši dvojča
 1	pokiaľ vedieť nie byť časový náročnosť	pokiaľ vedieť neexistovať žiaden pevný požiadavka na dátum
 1	zoznámiť sa s tento	zoznámiť sa s kreatívny literatúra fakt
@@ -1542,7 +1542,7 @@
 1	musieť len založiť svoj odpoveď na ten čo vedieť čo chcieť	neuviesť byť celkom aký práca by byť chcieť robiť
 1	existovať dva možný príčina	existovať dva možnosť pre vy
 5	veľmi záležať na dan grant	závisieť to od drobný písmo
-5	domnievať sa že hľadaný film byť ? 3	myslieť že hľadať film
+5	domnievať sa že hľadaný film byť 3	myslieť že hľadať film
 5	ja byÅ¥ bola na ten podobne	nedávno byť bola na ten podobne
 5	profesionálny spôsob byť dať on vedieť že nemať v úmysel zaujať ponúkaný pozícia	povedať on že byť v poriadok prísť za vy kedykoľvek keď byť mať v budúcnosť otázka
 5	iste mať poradca ale môcť len hádať čo byť	takto mama podozrenie že obvod byť zapojený ale pre istota to byť musieť preskúmať
@@ -1552,18 +1552,18 @@
 5	para vec ktorý treba pridať	len na oprava niekoľký chyba
 5	myslieť byť že byť v poriadok položiť byť táto otázka	myslieť byť že byť to dobré riešenie
 5	odpoveď závisieť od ten kde sa nachádzať	závisieť to od vybavenie ktorý používať
-5	možno byť chcieť vyskúšať technika ?	pokiaľ ísť o prvý otázka možno byť chcieť skontrolovať ?
+5	možno byť chcieť vyskúšať technika	pokiaľ ísť o prvý otázka možno byť chcieť skontrolovať
 5	súhlasiť s ostatný komentár	súhlasiť s predchádzajúci komentár
-3	krátky ? odpoveď by bola	krátky odpoveď byť
-3	odpoveď na oba otázka znieť áno	ak byť odpoveď na ktorýkoľvek z tento otázka kladný môcť sa vy ? hodiť
+3	krátky odpoveď by bola	krátky odpoveď byť
+3	odpoveď na oba otázka znieť áno	ak byť odpoveď na ktorýkoľvek z tento otázka kladný môcť sa vy hodiť
 5	skôr záležať na ten v ktorý krajina sa nachádzať	to závisieť od ten v ktorý krajina sa nachádzať
 5	závisieť to od ten ako sa používať	závisieť to od spôsob výroba syr
 5	byť rovnaký rozum ako SF	mať byť rovnaký problém ako ty
 5	kľúčový vec ktorý byť tu musieť uvedomiť byť že nie byť vaša úloha prinútiť človek aby robiť svoj práca	nie byť vaša úloha súhlasiť s rozhodnutie ale robiť všetko pre to aby fungovať
 5	takto niekto zistiť kde byť byť poznať smer v ktorý vy mať hľadať	podať žiadosť na jeden o ktorý byť myslieť že chcieť a tiež opísať že vy druhá zaujímať
-5	áno pomôcť	áno ? to pravdepodobne byť obsahovať
-5	domnievať sa že hľadaný film byť ? 3	veriť že toto byť epizóda ktorý hľadať
-5	táto otázka byť zodpovedaný na Wikipédia	na táto otázka odpovedať ? čí
-5	? byť názov relácia ktorý hľadať	odpoveď ktorý hľadať byť v názov budova
+5	áno pomôcť	áno to pravdepodobne byť obsahovať
+5	domnievať sa že hľadaný film byť 3	veriť že toto byť epizóda ktorý hľadať
+5	táto otázka byť zodpovedaný na Wikipédia	na táto otázka odpovedať čí
+5	byť názov relácia ktorý hľadať	odpoveď ktorý hľadať byť v názov budova
 5	byť na správny cesta	mať pravda o pravidlo predbiehaniť
 5	toto byť hrozný nápad	to byť zlý nápad
