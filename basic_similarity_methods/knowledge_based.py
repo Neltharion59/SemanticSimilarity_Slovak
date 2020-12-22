@@ -120,18 +120,18 @@ def calculate_knowledge_similarity_sentence(sentence1, sentence2, similarity_fun
         def sim_func(item1, item2, similarity_collector):
             similarity_collector.append(similarity_func_word(item1, item2, synset_strategy, wordnet))
 
-    if sentence_merge_strategy == 'all-to-all':
+    if sentence_merge_strategy == 'all_to_all':
         for item1 in collection1:
             for item2 in collection2:
                 sim_func(item1, item2, similarities)
-    elif sentence_merge_strategy == 'match-cutoff':
+    elif sentence_merge_strategy == 'match_cutoff':
         desired_length = min(len(collection1), len(collection2))
         collection1 = collection1[0:desired_length]
         collection2 = collection2[0:desired_length]
         for i in range(desired_length):
             sim_func(collection1[i], collection2[i], similarities)
 
-    result = average(similarities)
+    result = round(average(similarities), 2)
 
     return result
 
@@ -170,15 +170,6 @@ def leacock_chodorow_similarity_sentence(sentence1, sentence2, args):
         args['sentence_merge_strategy'], args['synset_strategy'], args['wordnet']
     )
     return result
-
-
-args = {
-    'sentence_merge_strategy': ['all-to-all', 'match-cutoff'],
-    'synset_strategy': ['all_synsets', 'first_synsets', 'first', 'max', 'average']
-}
-sentence_pairs = [["slabý pomaranč variť", "silný citrón piecť"]]
-similarities = [wu_palmer_similarity_sentence, path_similarity_sentence, leacock_chodorow_similarity_sentence]
-
 
 # for sentence_pair in sentence_pairs:
 #     for similarity in similarities:

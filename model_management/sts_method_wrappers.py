@@ -13,10 +13,8 @@ class STSMethod:
         return self.method(text1, text2, self.args)
 
     def predict_mass(self, text1_array, text2_array):
-        predictions = []
         for x, y in zip(text1_array, text2_array):
-            predictions.append(self.predict(x, y))
-        return predictions
+            yield self.predict(x, y)
 
     def generate_name(self, method_name):
         string = method_name + "__"

@@ -32,7 +32,7 @@ add_to_method_pool(name, args, hamming, sts_method_pool)
 # -----------------------------------------------------------------------------
 name = "wu_palmer"
 args = {
-    "sentence_merge_strategy": ['all-to-all', 'match-cutoff'],
+    "sentence_merge_strategy": ['all_to_all', 'match_cutoff'],
     "synset_strategy": ['all_synsets', 'first_synsets', 'first', 'max', 'average'],
     "wordnet": ['slk']
 }
