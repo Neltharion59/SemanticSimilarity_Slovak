@@ -4,9 +4,24 @@ from nltk.corpus import wordnet as wn
 import nltk
 
 
-def prepare_synsets(word1, word2, wordnet):
-    syn1 = wn.synsets(word1, lang=wordnet)
-    syn2 = wn.synsets(word2, lang=wordnet)
+leacock_chodorow_similarity_cap = 3.6375861597263857
+
+
+def none_2_zero(value):
+    return 0 if value is None else value
+
+
+def average(values):
+    return 0 if len(values) == 0 else reduce(op.add, values) / len(values)
+
+
+def prepare_synsets_single_word(word, wordnet):
+    return wn.synsets(word, lang=wordnet)
+
+
+def prepare_synsets_two_words(word1, word2, wordnet):
+    syn1 = prepare_synsets_single_word(word1, wordnet)
+    syn2 = prepare_synsets_single_word(word2, wordnet)
     return syn1, syn2
 
 
@@ -33,14 +48,14 @@ def calculate_knowledge_similarity_word(syn1, syn2, synset_strategy, synset_sim_
         if len(values) == 0:
             result = 0
         elif synset_strategy == 'average':
-            result = reduce(op.add, values) / len(values)
+            result = average(values)
         elif synset_strategy == 'max':
             result = max(values)
     return result
 
 
 def wu_palmer_similarity_word(word1, word2, synset_strategy='first', wordnet='slk'):
-    syn1, syn2 = prepare_synsets(word1, word2, wordnet)
+    syn1, syn2 = prepare_synsets_two_words(word1, word2, wordnet)
 
     if len(syn1) == 0 or len(syn2) == 0:
         return None
@@ -53,7 +68,7 @@ def wu_palmer_similarity_word(word1, word2, synset_strategy='first', wordnet='sl
 
 
 def path_similarity_word(word1, word2, synset_strategy='first', wordnet='slk'):
-    syn1, syn2 = prepare_synsets(word1, word2, wordnet)
+    syn1, syn2 = prepare_synsets_two_words(word1, word2, wordnet)
 
     if len(syn1) == 0 or len(syn2) == 0:
         return None
@@ -66,8 +81,7 @@ def path_similarity_word(word1, word2, synset_strategy='first', wordnet='slk'):
 
 
 def leacock_chodorow_similarity_word(word1, word2, synset_strategy='first', wordnet='slk'):
-    syn1, syn2 = prepare_synsets(word1, word2, wordnet)
-    cap = 3.6375861597263857
+    syn1, syn2 = prepare_synsets_two_words(word1, word2, wordnet)
 
     if len(syn1) == 0 or len(syn2) == 0:
         return None
@@ -76,10 +90,81 @@ def leacock_chodorow_similarity_word(word1, word2, synset_strategy='first', word
         return x.lch_similarity(y)
 
     result = calculate_knowledge_similarity_word(syn1, syn2, synset_strategy, similarity_func)
-    result = min(1, result/cap)
+    result = min(1, result/leacock_chodorow_similarity_cap)
     return result
 
 
+def calculate_knowledge_similarity_sentence(sentence1, sentence2, similarity_func_syn, similarity_func_word, synset_strategy, wordnet):
+    words1 = sentence1.split(' ')
+    words2 = sentence2.split(' ')
+
+    if synset_strategy == 'all_synsets':
+        synsets1 = list(reduce(op.add, map(lambda x: prepare_synsets_single_word(x, wordnet), words1)))
+        synsets2 = list(reduce(op.add, map(lambda x: prepare_synsets_single_word(x, wordnet), words2)))
+    elif synset_strategy == 'first_synsets':
+        synsets1 = list(reduce(op.add, map(lambda x: [] if len(x) == 0 else [x[0]], map(lambda x: prepare_synsets_single_word(x, wordnet), words1))))
+        synsets2 = list(reduce(op.add, map(lambda x: [] if len(x) == 0 else [x[0]], map(lambda x: prepare_synsets_single_word(x, wordnet), words2))))
+
+    similarities = []
+    if synset_strategy in ['all_synsets', 'first_synsets']:
+        collection1, collection2 = synsets1, synsets2
+
+        def sim_func(item1, item2, similarity_collector):
+            if item1.pos() == item2.pos():
+                similarity = similarity_func_syn(item1, item2)
+                if similarity is not None:
+                     similarity_collector.append(similarity)
+    elif synset_strategy in ['first', 'max', 'average']:
+        collection1, collection2 = words1, words2
+
+        def sim_func(item1, item2, similarity_collector):
+            similarity_collector.append(similarity_func_word(item1, item2, synset_strategy, wordnet))
+
+    for item1 in collection1:
+        for item2 in collection2:
+            sim_func(item1, item2, similarities)
+    # if synset_strategy in ['all_synsets', 'first_synsets']:
+    #     for synset1 in synsets1:
+    #         for synset2 in synsets2:
+    #             if synset1.pos() == synset2.pos():
+    #                 similarity = similarity_func_syn(synset1, synset2)
+    #                 if similarity is not None:
+    #                     similarities.append(similarity)
+    # else:
+    #     for word1 in words1:
+    #         for word2 in words2:
+    #             similarities.append(similarity_func_word(word1, word2, synset_strategy, wordnet))
+
+    result = average(similarities)
+
+    return result
+
+
+def wu_palmer_similarity_sentence(sentence1, sentence2, synset_strategy='first', wordnet='slk'):
+    def similarity_func_syn(synset1, synset2):
+        return synset1.wup_similarity(synset2)
+    similarity_func_word = wu_palmer_similarity_word
+
+    result = calculate_knowledge_similarity_sentence(sentence1, sentence2, similarity_func_syn, similarity_func_word, synset_strategy, wordnet)
+    return result
+
+
+def path_similarity_sentence(sentence1, sentence2, synset_strategy='first', wordnet='slk'):
+    def similarity_func_syn(synset1, synset2):
+        return synset1.path_similarity(synset2)
+    similarity_func_word = path_similarity_word
+
+    result = calculate_knowledge_similarity_sentence(sentence1, sentence2, similarity_func_syn, similarity_func_word, synset_strategy, wordnet)
+    return result
+
+
+def leacock_chodorow_similarity_sentence(sentence1, sentence2, synset_strategy='first', wordnet='slk'):
+    def similarity_func_syn(synset1, synset2):
+        return min(1, none_2_zero(synset1.lch_similarity(synset2))/leacock_chodorow_similarity_cap)
+    similarity_func_word = leacock_chodorow_similarity_word
+
+    result = calculate_knowledge_similarity_sentence(sentence1, sentence2, similarity_func_syn, similarity_func_word, synset_strategy, wordnet)
+    return result
 # def wu_palmer_similarity_word(word1, word2, synset_strategy='first', wordnet='slk'):
 #     syn1, syn2 = prepare_synsets(word1, word2, wordnet)
 #
@@ -108,6 +193,24 @@ def leacock_chodorow_similarity_word(word1, word2, synset_strategy='first', word
 #             result = max(values)
 #     return result
 
+#temp = wu_palmer_similarity_sentence("slabý pomaranč variť", "silný citrón piecť")
+#print(temp)
+
+sentence_pairs = [["slabý pomaranč variť", "silný citrón piecť"]]
+similarities = [wu_palmer_similarity_sentence, path_similarity_sentence, leacock_chodorow_similarity_sentence]
+synset_strategies = ['all_synsets', 'first_synsets', 'first', 'max', 'average']
+
+for sentence_pair in sentence_pairs:
+    for similarity in similarities:
+        for synset_strategy in synset_strategies:
+            print("{}-{} : {} - {}, {}".format(
+                sentence_pair[0],
+                sentence_pair[1],
+                similarity(sentence_pair[0], sentence_pair[1], synset_strategy),
+                similarity.__name__,
+                synset_strategy
+            ))
+exit()
 
 words_pairs = [["pomaranč", "slabý"], ["šach", "hra"], ["pes", "pes"]]
 similarities = [wu_palmer_similarity_word, path_similarity_word, leacock_chodorow_similarity_word]
