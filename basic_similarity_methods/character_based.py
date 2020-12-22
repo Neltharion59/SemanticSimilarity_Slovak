@@ -1,5 +1,3 @@
-# TODO parametrize normalized output scale? perhaps 0-5 should not be hard-coded
-# TODO perhaps scale should be simply concern of output "layer"
 from functools import reduce
 import operator as op
 

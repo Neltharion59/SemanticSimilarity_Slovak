@@ -136,46 +136,63 @@ def calculate_knowledge_similarity_sentence(sentence1, sentence2, similarity_fun
     return result
 
 
-def wu_palmer_similarity_sentence(sentence1, sentence2, sentence_merge_strategy='all-to-all', synset_strategy='first', wordnet='slk'):
+def wu_palmer_similarity_sentence(sentence1, sentence2, args):
     def similarity_func_syn(synset1, synset2):
         return synset1.wup_similarity(synset2)
     similarity_func_word = wu_palmer_similarity_word
 
-    result = calculate_knowledge_similarity_sentence(sentence1, sentence2, similarity_func_syn, similarity_func_word, sentence_merge_strategy, synset_strategy, wordnet)
+    result = calculate_knowledge_similarity_sentence(
+        sentence1, sentence2, similarity_func_syn, similarity_func_word,
+        args['sentence_merge_strategy'], args['synset_strategy'], args['wordnet']
+    )
     return result
 
 
-def path_similarity_sentence(sentence1, sentence2, sentence_merge_strategy='all-to-all', synset_strategy='first', wordnet='slk'):
+def path_similarity_sentence(sentence1, sentence2, args):
     def similarity_func_syn(synset1, synset2):
         return synset1.path_similarity(synset2)
     similarity_func_word = path_similarity_word
 
-    result = calculate_knowledge_similarity_sentence(sentence1, sentence2, similarity_func_syn, similarity_func_word, sentence_merge_strategy, synset_strategy, wordnet)
+    result = calculate_knowledge_similarity_sentence(
+        sentence1, sentence2, similarity_func_syn, similarity_func_word,
+        args['sentence_merge_strategy'], args['synset_strategy'], args['wordnet']
+    )
     return result
 
 
-def leacock_chodorow_similarity_sentence(sentence1, sentence2, sentence_merge_strategy='all-to-all', synset_strategy='first', wordnet='slk'):
+def leacock_chodorow_similarity_sentence(sentence1, sentence2, args):
     def similarity_func_syn(synset1, synset2):
         return min(1, none_2_zero(synset1.lch_similarity(synset2))/leacock_chodorow_similarity_cap)
     similarity_func_word = leacock_chodorow_similarity_word
 
-    result = calculate_knowledge_similarity_sentence(sentence1, sentence2, similarity_func_syn, similarity_func_word, sentence_merge_strategy, synset_strategy, wordnet)
+    result = calculate_knowledge_similarity_sentence(
+        sentence1, sentence2, similarity_func_syn, similarity_func_word,
+        args['sentence_merge_strategy'], args['synset_strategy'], args['wordnet']
+    )
     return result
 
 
-sentence_merge_strategies = ['all-to-all', 'match-cutoff']
+args = {
+    'sentence_merge_strategy': ['all-to-all', 'match-cutoff'],
+    'synset_strategy': ['all_synsets', 'first_synsets', 'first', 'max', 'average']
+}
 sentence_pairs = [["slabý pomaranč variť", "silný citrón piecť"]]
 similarities = [wu_palmer_similarity_sentence, path_similarity_sentence, leacock_chodorow_similarity_sentence]
-synset_strategies = ['all_synsets', 'first_synsets', 'first', 'max', 'average']
+
 
 for sentence_pair in sentence_pairs:
     for similarity in similarities:
-        for sentence_merge_strategy in sentence_merge_strategies:
-            for synset_strategy in synset_strategies:
+        for sentence_merge_strategy in args['sentence_merge_strategy']:
+            for synset_strategy in args['synset_strategy']:
+                curr_args = {
+                    'sentence_merge_strategy': sentence_merge_strategy,
+                    'synset_strategy': synset_strategy,
+                    'wordnet': 'slk'
+                }
                 print("{}-{} : {} - {}, {}, {}".format(
                     sentence_pair[0],
                     sentence_pair[1],
-                    similarity(sentence_pair[0], sentence_pair[1], sentence_merge_strategy, synset_strategy),
+                    similarity(sentence_pair[0], sentence_pair[1], curr_args),
                     similarity.__name__,
                     sentence_merge_strategy,
                     synset_strategy
