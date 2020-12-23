@@ -19,6 +19,7 @@ def print_dataset_metrics(dataset_name):
     for metric in dataset_metrics[list(dataset_metrics.keys())[0]]:
         headers.append(metric)
     print(tabulate(tabulable_values, headers=headers))
+    return tabulable_values
 
 
 def evaluate_dataset_metrics(dataset_name):
@@ -34,12 +35,15 @@ def evaluate_dataset_metrics(dataset_name):
     gold_standard_values = method_values[gold_standard_name]
     model_metrics = {}
     for method_name in method_values:
-        model_metrics[method_name] = evaluate_prediction_metrics(gold_standard_values, method_values[method_name])
+        if method_name == gold_standard_name:
+            model_metrics[method_name] = evaluate_prediction_metrics(gold_standard_values, method_values[method_name], 1)
+        else:
+            model_metrics[method_name] = evaluate_prediction_metrics(gold_standard_values, method_values[method_name])
     return model_metrics
 
 
-def evaluate_prediction_metrics(gold_standard_values, prediction_values):
-    prediction_values = list(map(lambda x: x * 5, prediction_values))
+def evaluate_prediction_metrics(gold_standard_values, prediction_values, scaling_coefficient=5):
+    prediction_values = list(map(lambda x: x * scaling_coefficient, prediction_values))
     prediction_metrics = {
         'MAE': mean_absolute_error(gold_standard_values, prediction_values),
         'MSE': mean_squared_error(gold_standard_values, prediction_values),

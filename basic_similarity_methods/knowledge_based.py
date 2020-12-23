@@ -1,7 +1,6 @@
 from functools import reduce
 import operator as op
 from nltk.corpus import wordnet as wn
-import nltk
 
 
 leacock_chodorow_similarity_cap = 3.6375861597263857

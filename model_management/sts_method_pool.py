@@ -39,8 +39,8 @@ args = {
 add_to_method_pool(name, args, wu_palmer_similarity_sentence, sts_method_pool)
 # -----------------------------------------------------------------------------
 name = "path"
-add_to_method_pool(name, args, wu_palmer_similarity_sentence, sts_method_pool)
+add_to_method_pool(name, args, path_similarity_sentence, sts_method_pool)
 # -----------------------------------------------------------------------------
 name = "leacock_chodorow"
-add_to_method_pool(name, args, wu_palmer_similarity_sentence, sts_method_pool)
+add_to_method_pool(name, args, leacock_chodorow_similarity_sentence, sts_method_pool)
 # -----------------------------------------------------------------------------
