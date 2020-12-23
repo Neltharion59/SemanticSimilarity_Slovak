@@ -53,7 +53,7 @@ class STSModel(STSMethod):
             print("STSModel::predict_model_input(list) of {} could not predict because received {}/{} required input values".format(self.name, len(input_values), len(self.input_method_names)))
             return None
 
-        return self.method.predict([input_values])
+        return self.method.predict([input_values])[0]
 
     def train(self, x_train, x_test, y_train, y_test):
         self.train_method(x_train, x_test, y_train, y_test, self.method)
