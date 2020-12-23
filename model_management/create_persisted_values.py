@@ -13,7 +13,7 @@ sys.path.append(conf_path + '/../..')
 from model_management.sts_method_pool import sts_method_pool
 from model_management.sts_method_value_persistor import input_folder, predict_and_persist_values, persist_gold_standard
 
-dataset_input_file_name_pattern = re.compile(".*_sk\.txt")
+dataset_input_file_name_pattern = re.compile(".*_sk(_lemma)?\.txt")
 
 input_dataset_files = [x for x in listdir(input_folder) if isfile(join(input_folder, x)) and dataset_input_file_name_pattern.match(x)]
 
