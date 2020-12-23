@@ -1,4 +1,4 @@
-from model_management.sts_method_wrappers import STSMethod
+from model_management.sts_method_pool import sts_method_pool
 
 input_folder = "./../resources/datasets/sts_processed/"
 output_folder = "./../resources/datasets/sts_method_values/"
@@ -28,7 +28,7 @@ def predict_and_persist_values(sts_method, dataset_name):
         if len(persisted_values) == 0 and sts_method.name not in persisted_method_types:
             output_file.write(sts_method.name + ":")
 
-        for predicted_value in sts_method.predict_mass(words1, words2):
+        for predicted_value in sts_method.predict_mass(words1, words2, sts_method_pool):
             print("Predicting sample number {}/{} - {}%".format(i, i_max, round(i/i_max, 2) * 100))
             output_text = ""
             if i > 1 or len(persisted_values) > 0:

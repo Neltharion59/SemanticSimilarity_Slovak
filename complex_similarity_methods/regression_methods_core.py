@@ -1,8 +1,6 @@
 import numpy as np
 import pandas as pd
-from sklearn.metrics import classification_report, confusion_matrix
 from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LinearRegression
 from model_management.sts_method_value_persistor import get_persisted_method_values, gold_standard_name
 from evaluation.evaluate_regression_metrics import evaluate_prediction_metrics
 
@@ -42,10 +40,8 @@ def train_n_test(x_train, x_test, y_train, y_test, model):
     model.fit(x_train, y_train)
     print("Training done")
     print("Prediction begins")
-    lr_score = model.predict(x_test)
-    print("Prediction done")
-
     y_pred = model.predict(x_test)
+    print("Prediction done")
 
     evaluation = evaluate_prediction_metrics(y_test, y_pred, 1)
     for key in evaluation:
