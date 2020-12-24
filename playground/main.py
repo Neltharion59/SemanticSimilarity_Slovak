@@ -2,6 +2,7 @@ from sklearn.linear_model import LinearRegression
 from complex_similarity_methods.regression_methods_core import prepare_training_data, train_n_test
 from model_management.sts_method_wrappers import STSModel
 from model_management.sts_method_pool import sts_method_pool
+from model_management.model_persistence import persist_sklearn_model, load_sklearn_model, get_model_id
 
 methods = [
     "hamming___normalization_strategy-shorter",
@@ -14,13 +15,20 @@ args = {
 }
 
 linear_regression_model = STSModel("linear_regression", LinearRegression(**args), args, methods, train_n_test)
+print(linear_regression_model.name)
 
 x_train, x_test, y_train, y_test = prepare_training_data("dataset_sick_all_sk.txt", linear_regression_model.input_method_names)
 linear_regression_model.train(x_train, x_test, y_train, y_test)
 
-pred = linear_regression_model.predict("kto dnes vidieť", "pomaranč dnes chodiť", sts_method_pool)
-print(pred)
-pred = linear_regression_model.predict("kto dnes vidieť", "pomaranč dnes chodiť", sts_method_pool)
-print(pred)
-pred = linear_regression_model.predict_mass(["kto dnes vidieť"], ["pomaranč dnes chodiť"], sts_method_pool)
+persist_sklearn_model("dataset_sick_all_sk.txt", linear_regression_model)
+
+loaded_model = load_sklearn_model(1)
+print(sts_method_pool.keys())
+pred = loaded_model.predict_mass(["kto dnes vidieť"], ["pomaranč dnes chodiť"], sts_method_pool)
 print(list(pred))
+
+print("model_name:" + linear_regression_model.name)
+print("loade_name:" + loaded_model.name)
+model_id = get_model_id(loaded_model)
+
+print(model_id)

@@ -4,7 +4,58 @@ from scipy.stats.stats import pearsonr
 from tabulate import tabulate
 
 
-def print_dataset_metrics(dataset_name):
+def find_best_methods(grouped_method_results):
+    results = []
+
+    for method_group_name in grouped_method_results:
+        if method_group_name == gold_standard_name:
+            continue
+
+        evaluation_values = grouped_method_results[method_group_name]
+
+        best_mae = min(evaluation_values, key=lambda x: evaluation_values[x][0])
+        best_mse = min(evaluation_values, key=lambda x: evaluation_values[x][1])
+        best_pearson = max(evaluation_values, key=lambda x: evaluation_values[x][2])
+
+        result_dict = {
+            'MAE': {
+                'name': best_mae,
+                'value': evaluation_values[best_mae][0]
+            },
+            'MSE': {
+                'name': best_mse,
+                'value': evaluation_values[best_mse][1]
+            },
+            'PEARSON': {
+                'name': best_pearson,
+                'value': evaluation_values[best_pearson][2]
+            }
+        }
+
+        cardinality_dict = {}
+        for metric in result_dict:
+            if result_dict[metric]["name"] not in cardinality_dict:
+                cardinality_dict[result_dict[metric]["name"]] = 0
+            cardinality_dict[result_dict[metric]["name"]] = cardinality_dict[result_dict[metric]["name"]] + 1
+        best_method = max(cardinality_dict.keys(), key=lambda x: cardinality_dict[x])
+        results.append(method_group_name + "___" + best_method)
+
+    return results
+
+
+def group_by_method(method_metrics):
+    result_dict = {}
+    for method in method_metrics:
+        method_name = method[0].split("___")[0]
+        parameters_name = "" if method_name == gold_standard_name else method[0].split("___")[1]
+        if method_name not in result_dict:
+            result_dict[method_name] = {}
+        result_dict[method_name][parameters_name] = method[1:]
+
+    return result_dict
+
+
+def get_dataset_metrics(dataset_name, print_2_screen=False):
     dataset_metrics = evaluate_dataset_metrics(dataset_name)
     if dataset_metrics is None:
         return
@@ -15,10 +66,12 @@ def print_dataset_metrics(dataset_name):
         for metric in dataset_metrics[method_name]:
             row.append(dataset_metrics[method_name][metric])
         tabulable_values.append(row)
-    headers = ['STS Method']
-    for metric in dataset_metrics[list(dataset_metrics.keys())[0]]:
-        headers.append(metric)
-    print(tabulate(tabulable_values, headers=headers))
+    if print_2_screen:
+        headers = ['STS Method']
+        for metric in dataset_metrics[list(dataset_metrics.keys())[0]]:
+            headers.append(metric)
+        print(tabulate(tabulable_values, headers=headers))
+
     return tabulable_values
 
 

@@ -1,21 +1,9 @@
 from model_management.sts_method_value_persistor import input_folder
-from evaluation.evaluate_regression_metrics import print_dataset_metrics
+from evaluation.evaluate_regression_metrics import get_dataset_metrics, group_by_method
 from model_management.sts_method_value_persistor import gold_standard_name
 import re
 from os import listdir
 from os.path import isfile, join
-
-
-def group_by_method(method_metrics):
-    result_dict = {}
-    for method in method_metrics:
-        method_name = method[0].split("___")[0]
-        parameters_name = "" if method_name == gold_standard_name else method[0].split("___")[1]
-        if method_name not in result_dict:
-            result_dict[method_name] = {}
-        result_dict[method_name][parameters_name] = method[1:]
-
-    return result_dict
 
 
 dataset_input_file_name_pattern = re.compile(".*_sk(_lemma)?\.txt")
@@ -29,7 +17,7 @@ for dataset in input_dataset_files:
     print(delimiter)
     print(dataset)
 
-    evaluation_values = print_dataset_metrics(dataset)
+    evaluation_values = get_dataset_metrics(dataset, print_2_screen=True)
     if evaluation_values is None:
         continue
         
@@ -52,12 +40,12 @@ for dataset in input_dataset_files:
                 'value': evaluation_values[best_mae][0]
             },
             'MSE': {
-                'name': best_mae,
-                'value': evaluation_values[best_mae][1]
+                'name': best_mse,
+                'value': evaluation_values[best_mse][1]
             },
             'PEARSON': {
-                'name': best_mae,
-                'value': evaluation_values[best_mae][2]
+                'name': best_pearson,
+                'value': evaluation_values[best_pearson][2]
             }
         }
 

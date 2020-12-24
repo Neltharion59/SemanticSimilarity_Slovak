@@ -1,7 +1,7 @@
 from basic_similarity_methods.character_based import *
 from basic_similarity_methods.knowledge_based import wu_palmer_similarity_sentence, path_similarity_sentence,\
     leacock_chodorow_similarity_sentence
-from model_management.sts_method_wrappers import STSMethod, STSModel
+from model_management.sts_method_wrappers import STSMethod
 
 
 def all_arg_variations(arg_full_dict, output_arg_dict):
@@ -22,10 +22,7 @@ def add_to_method_pool(method_name, method_arg_possibilites, method_function, me
         method_pool[sts_method.name] = sts_method
 
 
-def add_to_model_pool(method_name, method_arg_possibilites, method_function, model_pool):
-    for arg_variation in list(all_arg_variations(method_arg_possibilites, {})):
-        sts_method = STSModel(method_name, method_function, arg_variation)
-        model_pool[sts_method.name] = sts_method
+
 
 
 sts_method_pool = {}

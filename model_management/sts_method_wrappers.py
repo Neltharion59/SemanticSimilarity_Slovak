@@ -17,9 +17,11 @@ class STSMethod:
             yield self.predict(x, y, sts_method_pool)
 
     def generate_name(self, method_name):
-        string = method_name + "__"
+        string = method_name + "___"
+        i = 1
         for arg in self.args:
-            string = string + "_" + arg + "-" + str(self.args[arg])
+            string = string + ("" if i == 1 else "_") + arg + "-" + str(self.args[arg])
+            i = i + 1
         return string
 
 
@@ -58,4 +60,3 @@ class STSModel(STSMethod):
     def train(self, x_train, x_test, y_train, y_test):
         self.train_method(x_train, x_test, y_train, y_test, self.method)
         self.trained = True
-
