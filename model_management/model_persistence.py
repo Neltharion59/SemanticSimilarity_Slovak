@@ -1,5 +1,5 @@
 from joblib import dump, load
-
+from os import remove
 from complex_similarity_methods.regression_methods_core import train_n_test
 from model_management.sts_method_wrappers import STSModel
 
@@ -27,35 +27,66 @@ def create_model_description(model, model_id, dataset_name):
     return file_description
 
 
+# Params: int
+# Return: str
+def create_model_file_name(model_id):
+    return path_2_model_directory + "/model_" + str(model_id) + ".jolib"
+
+
+# Params: int
+# Return: str
+def delete_sklearn_model(model_id):
+    model_file_name = create_model_file_name(model_id)
+    remove(model_file_name)
+
+
 # Params: str, STSModel, [bool]
 # Return: None
 def persist_sklearn_model(dataset, model, force_overwrite=False):
 
-    # TODO check if model is already persisted
-    # TODO Consider force_overwrite param
+    # Check if model is already persisted
+    existing_model_id = get_model_id(dataset, model)
+    # If it is already persisted
+    if existing_model_id is not None:
+        print("Such model is already persisted, with id {}".format(existing_model_id))
+        # and we do not want a new one, time to quit
+        if not force_overwrite:
+            print("We do not desire to overwrite it, so we quit")
+            return existing_model_id
+        # and we want a new one, let's delete it first
+        else:
+            print("We desire to overwrite it, so we are deleting the model (but preserve its id)")
+            delete_sklearn_model(existing_model_id)
+            pass
 
-    try:
-        with open(path_2_model_id_counter, "r", encoding='utf-8') as id_file:
-            last_model_id = int(id_file.read())
-    except FileNotFoundError:
-        last_model_id = 0
+    if existing_model_id is None:
+        try:
+            with open(path_2_model_id_counter, "r", encoding='utf-8') as id_file:
+                last_model_id = int(id_file.read())
+        except FileNotFoundError:
+            last_model_id = 0
 
-    new_model_id = last_model_id + 1
+        new_model_id = last_model_id + 1
+    else:
+        new_model_id = existing_model_id
 
     # Store the trained model
     dump(model.method, path_2_model_directory + "/model_" + str(new_model_id) + ".jolib")
 
-    # Store new id
-    with open(path_2_model_id_counter, "w+", encoding='utf-8') as id_file:
-        id_file.write(str(new_model_id))
+    if existing_model_id is None:
+        # Store new id
+        with open(path_2_model_id_counter, "w+", encoding='utf-8') as id_file:
+            id_file.write(str(new_model_id))
 
-    # Store its description
-    file_description = create_model_description(model, new_model_id, dataset) + "\n"
+        # Store its description
+        file_description = create_model_description(model, new_model_id, dataset) + "\n"
 
-    with open(path_2_model_description_file, "a+", encoding='utf-8') as description_file:
-        description_file.write(file_description)
+        with open(path_2_model_description_file, "a+", encoding='utf-8') as description_file:
+            description_file.write(file_description)
 
-    pass
+    print("Model successfully persisted with id {}".format(new_model_id))
+
+    return new_model_id
 
 
 # Params: int
@@ -90,11 +121,14 @@ def load_sklearn_model(model_id):
 
 # Params: STSModel
 # Return: int/None
-def get_model_id(model):
+def get_model_id(dataset, model):
     try:
         with open(path_2_model_description_file, "r", encoding='utf-8') as description_file:
             model_description_suffix = create_mode_description_suffix(model)
             for line in description_file:
+                dataset_name = line.split(":")[1]
+                if dataset_name != dataset:
+                    continue
                 temp_line = ":" + ":".join(line.replace("\n", "").split(":")[2:])
                 if temp_line == model_description_suffix:
                     model_id = int(line.split(":")[0])
@@ -107,6 +141,6 @@ def get_model_id(model):
 
 # Params: STSModel
 # Return: bool
-def model_exists(model):
-    model_id = get_model_id(model)
+def model_exists(dataset, model):
+    model_id = get_model_id(dataset, model)
     return model_id is not None
