@@ -41,7 +41,7 @@ def delete_sklearn_model(model_id):
 
 
 # Params: str, STSModel, [bool]
-# Return: None
+# Return: bool
 def persist_sklearn_model(dataset, model, force_overwrite=False):
 
     # Check if model is already persisted
@@ -52,7 +52,7 @@ def persist_sklearn_model(dataset, model, force_overwrite=False):
         # and we do not want a new one, time to quit
         if not force_overwrite:
             print("We do not desire to overwrite it, so we quit")
-            return existing_model_id
+            return False
         # and we want a new one, let's delete it first
         else:
             print("We desire to overwrite it, so we are deleting the model (but preserve its id)")
@@ -86,13 +86,19 @@ def persist_sklearn_model(dataset, model, force_overwrite=False):
 
     print("Model successfully persisted with id {}".format(new_model_id))
 
-    return new_model_id
+    return True
+
+
+# Params: int
+# Return: sklearn.model
+def load_sklearn_model(model_id):
+    return load(path_2_model_directory + "/model_" + str(model_id) + ".jolib")
 
 
 # Params: int
 # Return: STSModel
-def load_sklearn_model(model_id):
-    model = load(path_2_model_directory + "/model_" + str(model_id) + ".jolib")
+def load_sklearn_model_wrapper(model_id):
+    model = load_sklearn_model_wrapper(model_id)
     found = False
     try:
         with open(path_2_model_description_file, "r", encoding='utf-8') as description_file:
@@ -144,3 +150,19 @@ def get_model_id(dataset, model):
 def model_exists(dataset, model):
     model_id = get_model_id(dataset, model)
     return model_id is not None
+
+
+def get_model_description(model_id):
+    try:
+        with open(path_2_model_description_file, "r", encoding='utf-8') as description_file:
+            for line in description_file:
+                line = line.replace("\n", "")
+                tokens = line.split(":")[2]
+                current_model_id = int(tokens[0])
+                if current_model_id == model_id:
+                    description = tokens[2]
+                    return description
+    except FileNotFoundError:
+        pass
+
+    return None

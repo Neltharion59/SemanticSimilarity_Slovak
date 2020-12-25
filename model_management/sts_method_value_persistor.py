@@ -115,3 +115,24 @@ def load_dataset(dataset_name):
             words2.append(tokens[2])
 
     return words1, words2
+
+
+# Params: str, str
+# Return: bool
+def delete_values(dataset_name, method_name):
+    dataset_values_file_path = output_folder + dataset_name
+    try:
+        with open(dataset_values_file_path, 'r', encoding='utf-8') as file:
+            lines = file.readlines()
+    except FileNotFoundError:
+        return False
+
+    new_lines = []
+    for i in range(len(lines)):
+        current_method_name = lines[i].split(":")[0]
+        if current_method_name == method_name:
+            continue
+        new_lines.append(lines[i])
+
+    with open(dataset_values_file_path, 'w+', encoding='utf-8') as file:
+        file.writelines(new_lines)

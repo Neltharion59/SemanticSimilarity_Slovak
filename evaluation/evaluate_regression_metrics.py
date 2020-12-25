@@ -2,6 +2,10 @@ from model_management.sts_method_value_persistor import get_persisted_method_val
 from sklearn.metrics import mean_absolute_error, mean_squared_error
 from scipy.stats.stats import pearsonr
 from tabulate import tabulate
+import re
+
+
+model_method_name_regex = re.compile("model_[1-9]?[0-9]*")
 
 
 def find_best_methods(grouped_method_results):
@@ -47,7 +51,10 @@ def group_by_method(method_metrics):
     result_dict = {}
     for method in method_metrics:
         method_name = method[0].split("___")[0]
-        parameters_name = "" if method_name == gold_standard_name else method[0].split("___")[1]
+        if model_method_name_regex.match(method_name):
+            parameters_name = method_name.split("_")[1]
+        else:
+            parameters_name = "" if method_name == gold_standard_name else method[0].split("___")[1]
         if method_name not in result_dict:
             result_dict[method_name] = {}
         result_dict[method_name][parameters_name] = method[1:]
