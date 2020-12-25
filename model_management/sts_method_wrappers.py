@@ -58,5 +58,6 @@ class STSModel(STSMethod):
         return round(self.method.predict([input_values])[0], 2)
 
     def train(self, x_train, x_test, y_train, y_test):
-        self.train_method(x_train, x_test, y_train, y_test, self.method)
+        result = self.train_method(x_train, x_test, y_train, y_test, self.method)
         self.trained = True
+        return result

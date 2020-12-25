@@ -56,7 +56,7 @@ for dataset in sts_model_pool:
                 dataset,
                 sts_model_pool[dataset][model_name].input_method_names
             )
-            sts_model_pool[dataset][model_name].train(x_train, x_test, y_train, y_test)
+            train_metrics = sts_model_pool[dataset][model_name].train(x_train, x_test, y_train, y_test)
             print("Model trained")
         else:
             print("No need to train the model.")
@@ -65,7 +65,7 @@ for dataset in sts_model_pool:
         print("Checking if model needs to be saved.")
         if recalculate_values or existing_model_id is None:
             print("Need to save the model.")
-            persist_sklearn_model(dataset, sts_model_pool[dataset][model_name], force_overwrite=True)
+            persist_sklearn_model(dataset, sts_model_pool[dataset][model_name], train_metrics, force_overwrite=True)
             print("Model saved")
         else:
             print("No need to save the model.")

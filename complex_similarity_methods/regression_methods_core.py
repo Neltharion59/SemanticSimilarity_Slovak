@@ -46,3 +46,5 @@ def train_n_test(x_train, x_test, y_train, y_test, model):
     evaluation = evaluate_prediction_metrics(y_test, y_pred, 1)
     for key in evaluation:
         print("{}: {}".format(key, evaluation[key]))
+
+    return evaluation

@@ -40,9 +40,23 @@ def delete_sklearn_model(model_id):
     remove(model_file_name)
 
 
+def create_metric_description(metric_dict):
+    print(metric_dict)
+    result = ""
+    i = 1
+    for metric in metric_dict:
+        if i > 1:
+            result = result + ","
+        if isinstance(metric_dict[metric], tuple):
+            metric_dict[metric] = metric_dict[metric][0]
+        result = result + metric + "-" + str(metric_dict[metric])
+        i = i + 1
+    return result
+
+
 # Params: str, STSModel, [bool]
 # Return: bool
-def persist_sklearn_model(dataset, model, force_overwrite=False):
+def persist_sklearn_model(dataset, model, train_metrics, force_overwrite=False):
 
     # Check if model is already persisted
     existing_model_id = get_model_id(dataset, model)
@@ -79,7 +93,7 @@ def persist_sklearn_model(dataset, model, force_overwrite=False):
             id_file.write(str(new_model_id))
 
         # Store its description
-        file_description = create_model_description(model, new_model_id, dataset) + "\n"
+        file_description = create_model_description(model, new_model_id, dataset) + ":" + create_metric_description(train_metrics) +"\n"
 
         with open(path_2_model_description_file, "a+", encoding='utf-8') as description_file:
             description_file.write(file_description)
@@ -135,7 +149,7 @@ def get_model_id(dataset, model):
                 dataset_name = line.split(":")[1]
                 if dataset_name != dataset:
                     continue
-                temp_line = ":" + ":".join(line.replace("\n", "").split(":")[2:])
+                temp_line = ":" + ":".join(line.replace("\n", "").split(":")[2:-1])
                 if temp_line == model_description_suffix:
                     model_id = int(line.split(":")[0])
                     return model_id
