@@ -12,7 +12,7 @@ def find_best_methods(grouped_method_results):
     results = []
 
     for method_group_name in grouped_method_results:
-        if method_group_name == gold_standard_name:
+        if method_group_name == gold_standard_name or model_method_name_regex.match(method_group_name):
             continue
 
         evaluation_values = grouped_method_results[method_group_name]
@@ -52,7 +52,7 @@ def group_by_method(method_metrics):
     for method in method_metrics:
         method_name = method[0].split("___")[0]
         if model_method_name_regex.match(method_name):
-            parameters_name = method_name.split("_")[1]
+            parameters_name = ""
         else:
             parameters_name = "" if method_name == gold_standard_name else method[0].split("___")[1]
         if method_name not in result_dict:
