@@ -159,6 +159,26 @@ def get_model_id(dataset, model):
     return None
 
 
+# Params: str, str
+# Return: int/None
+def get_model_id_by_name(dataset, model_name):
+    try:
+        with open(path_2_model_description_file, "r", encoding='utf-8') as description_file:
+            for line in description_file:
+                tokens = line.split(":")
+                dataset_name = tokens[1]
+                if dataset_name != dataset:
+                    continue
+                model_name_current = tokens[2]
+                if model_name_current == model_name:
+                    model_id = int(tokens[0])
+                    return model_id
+    except FileNotFoundError:
+        return None
+
+    return None
+
+
 # Params: STSModel
 # Return: bool
 def model_exists(dataset, model):
@@ -171,11 +191,32 @@ def get_model_description(model_id):
         with open(path_2_model_description_file, "r", encoding='utf-8') as description_file:
             for line in description_file:
                 line = line.replace("\n", "")
-                tokens = line.split(":")[2]
+                tokens = line.split(":")
                 current_model_id = int(tokens[0])
                 if current_model_id == model_id:
                     description = tokens[2]
                     return description
+    except FileNotFoundError:
+        pass
+
+    return None
+
+
+def get_model_test_metrics(model_id):
+    try:
+        with open(path_2_model_description_file, "r", encoding='utf-8') as description_file:
+            for line in description_file:
+                line = line.replace("\n", "")
+                tokens = line.split(":")
+                current_model_id = int(tokens[0])
+                if current_model_id == model_id:
+                    metrics = tokens[4]
+                    metrics = metrics.split(",")
+                    result_dict = {}
+                    for metric in metrics:
+                        tokens = metric.split("-", 1)
+                        result_dict[tokens[0]] = float(tokens[1])
+                    return result_dict
     except FileNotFoundError:
         pass
 
