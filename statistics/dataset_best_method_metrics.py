@@ -1,13 +1,24 @@
+# Runnable script calculating statistic values to be printed to console.
+# Generate data in table form that can be imported to MS Excel so that it can be included in DP2 report.
+# For each dataset, we have Pearson coefficient(pc_) of all methods (simple methods with best param config)
+# Regression models have value of Pearson coefficient on all data first and in bracets value on testing data second
+# (testing data is more relevant, as it does not include potentially overfitted data).
+# Row order: dataset_name, pc_hamming, pc_wu_palmer, pc_path, pc_leacock_chodorow, pc_linear_regression(pc_test),
+#            pc_svm_regression(pc_test), pc_decision_tree(pc_test), pc_best_from_SemEval
+
 import re
 from os import listdir
 from os.path import isfile, join
-from functools import reduce
 
 from evaluation.evaluate_regression_metrics import find_best_methods, group_by_method, get_dataset_metrics
 from model_management.model_persistence import get_model_description, get_model_id_by_name, get_model_test_metrics
 from statistics.semeval_pearson import semeval_person_results
 
 
+# Simple handy function to calculate average of collection of numbers.
+# Resistant to empty collections and removes strings from collection (first element is usually name of dataset).
+# Params: list<float/int/str>
+# Return: float/int
 def average_(iterable):
     count = 0
     sum_ = 0
@@ -18,11 +29,19 @@ def average_(iterable):
     return 0 if count == 0 else sum_/count
 
 
+# Simple handy function to calculate max of collection of numbers.
+# Removes strings from collection (first element is usually name of dataset).
+# Params: list<float/int/str>
+# Return: float/int
 def max_(iterable):
     iterable = filter(lambda x: not isinstance(x, str), iterable)
     return max(iterable)
 
 
+# Simple handy function to calculate median of collection of numbers.
+# Removes strings from collection (first element is usually name of dataset).
+# Params: list<float/int/str>
+# Return: float/int
 def median_(iterable):
     iterable = filter(lambda x: not isinstance(x, str), iterable)
     iterable = list(iterable)
@@ -31,6 +50,10 @@ def median_(iterable):
     return average_(middles)
 
 
+# Simple handy function to calculate mode(modus) of collection of numbers.
+# Removes strings from collection (first element is usually name of dataset).
+# Params: list<float/int/str>
+# Return: float/int
 def mode_(iterable):
     iterable = filter(lambda x: not isinstance(x, str), iterable)
     card_dict = {}
@@ -47,20 +70,26 @@ def mode_(iterable):
     return results
 
 
+# Is this debug session so we want extra printing to console or not?
 debug_print = False
 
+# Prepare path to read data from
 input_path = "./../resources/datasets/sts_processed/"
 
+# Prepare regexes to be used in this script
 dataset_input_file_name_pattern = re.compile(".*_sk(_lemma)?.txt")
 sts_dataset_name_pattern = re.compile("sts_201[2-6]_[a-zA-Z]+]")
 
+# Prepare list of dataset files to read data from
 input_dataset_files = [x for x in listdir(input_path) if isfile(join(input_path, x)) and dataset_input_file_name_pattern.match(x)]
 
+# Get dict of best methods (best config of each method) for each dataset
 best_methods = map(lambda x: (x, find_best_methods(group_by_method(get_dataset_metrics(x, print_2_screen=False)))), input_dataset_files)
 temp_best_method_dict = {}
 for record in best_methods:
     temp_best_method_dict[record[0]] = record[1]
 
+# Organize the methods in handy dict
 best_method_dict = {}
 for dataset_name in temp_best_method_dict:
     group_name = dataset_name.replace("_sk.txt", "").replace("_sk_lemma.txt", "")
@@ -69,6 +98,7 @@ for dataset_name in temp_best_method_dict:
     best_method_dict[group_name][dataset_name] = {}
     best_method_dict[group_name][dataset_name]["best_methods"] = temp_best_method_dict[dataset_name]
 
+# Check how the dict was constructed if we are debugging
 if debug_print:
     print("Best method dict")
     for x in best_method_dict:
@@ -78,9 +108,11 @@ if debug_print:
             for z in best_method_dict[x][y]:
                 print("\t\t{}: {}".format(z, best_method_dict[x][y][z]))
 
+# Retrieve metrics for all relevant methods
 all_method_metrics = map(lambda x: (x, get_dataset_metrics(x, print_2_screen=False)), input_dataset_files)
 all_method_metrics = list(all_method_metrics)
 
+# Put the metrics to handy dict
 method_metric_dict = {}
 for x in all_method_metrics:
     method_metric_dict[x[0]] = {}
@@ -91,6 +123,7 @@ for x in all_method_metrics:
         method_metric_dict[x[0]][method_name]["MSE"] = method[2]
         method_metric_dict[x[0]][method_name]["PEARSON"] = method[3][0]
 
+# Check how the dict was constructed if we are debugging
 if debug_print:
     print("All results - {}:".format(len(all_method_metrics)))
     for dataset in method_metric_dict:
@@ -100,6 +133,8 @@ if debug_print:
             for metric in method_metric_dict[dataset][method]:
                 print("\t\t{}: {}".format(metric, method_metric_dict[dataset][method][metric]))
 
+# Get metrics for models. We have mapping between model id and description, so it's a bit complicated.
+# Let's not get into detail here.
 model_regex = re.compile("model_[0-9]+")
 result_table = []
 for dataset_group in best_method_dict:
@@ -127,13 +162,12 @@ for dataset_group in best_method_dict:
 
 # Round values to 2 places
 result_table = [[row[0]] + [round(x, 2) for x in row[1:]] for row in result_table]
-
+# Modify dataset names to bare minimum, otherwise they will be too wide for A4 page
 result_table = [row + ([round(semeval_person_results[row[0].replace("_lemma", "") + "_sk.txt"], 2)] if (row[0].replace("_lemma", "") + "_sk.txt") in semeval_person_results else ["N/A"]) for row in result_table]
-
 for i in range(len(result_table)):
     result_table[i][0] = result_table[i][0].replace("dataset_", "")
 
-# Add metrics of models on testing dataset
+# Add metrics of models on testing dataset (within brackets to corresponding columns)
 for row in result_table:
     dataset = ("dataset_" + row[0].replace("_lemma", "") + "_sk_lemma.txt") if "_lemma" in row[0] else ("dataset_" + row[0] + "_sk.txt")
     model_names = ["linear_regression___", "support_vector_regression___", "decision_tree_regression___"]
@@ -146,6 +180,7 @@ for row in result_table:
 
         starting_index = starting_index + 1
 
+# Below metrics of datasets, let's also calculate average, max, median, mode for each method
 average_row = ["Average"]
 max_row = ["Max"]
 median_row = ["Median"]
@@ -176,5 +211,6 @@ result_table.append(mode_row)
 result_table.append(median_row)
 result_table.append(max_row)
 
+# Let's print the rows of table to screen. They can be copied to text file and imported to MS Excel.
 for row in result_table:
     print("\t".join(map(str, row)))

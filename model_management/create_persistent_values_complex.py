@@ -1,7 +1,7 @@
-import re
-from os import listdir, getcwd
-from os.path import isfile, join
+# Runnable script calculating values for each dataset for each aggregation method and persisting them
+# Already persisted values are not calculated again nor persisted
 
+from os import getcwd
 import sys
 
 # Mandatory if we want to run this script from windows cmd. Must precede all imports from this project
@@ -13,21 +13,28 @@ sys.path.append(conf_path + '/..')
 sys.path.append(conf_path + '/../..')
 
 from model_management.sts_model_pool import sts_model_pool
-from model_management.sts_method_value_persistor import input_folder, predict_and_persist_values, persist_gold_standard, \
-    get_persisted_method_types, delete_values
-from model_management.model_persistence import persist_sklearn_model, get_model_id, load_sklearn_model, delete_sklearn_model
+from model_management.sts_method_value_persistor import predict_and_persist_values, get_persisted_method_types,\
+    delete_values
+from model_management.model_persistence import persist_sklearn_model, get_model_id, load_sklearn_model,\
+    delete_sklearn_model
 
-
+# If values are already calculated, should we calculate them again and overwrite persisted values
 recalculate_values = False
 
-
+# Loop over each dataset and calculate values for aggregation methods
 for dataset in sts_model_pool:
+    # Print to screen info of which dataset we are processing right now
     print("Dataset {}".format(dataset))
 
+    # See which methods already have at least some values persisted for them
     persisted_methods = get_persisted_method_types(dataset)
+
+    # Loop over each aggregation method for this dataset
     for model_name in sts_model_pool[dataset]:
+        # Print to screen which aggregation method we are calculating right now
         print("Dataset {}, model {}".format(dataset, sts_model_pool[dataset][model_name].name))
 
+        # If the model already exists, let's get its id
         existing_model_id = get_model_id(dataset, sts_model_pool[dataset][model_name])
 
         # 1. Delete existing model if needed
@@ -70,12 +77,14 @@ for dataset in sts_model_pool:
         else:
             print("No need to save the model.")
 
+        # If we created a new persisted model, let's get its id
         if existing_model_id is None:
             existing_model_id = get_model_id(dataset, sts_model_pool[dataset][model_name])
             if existing_model_id is None:
                 print("The {} model has no id. Something went wrong. Shutting down.".format(sts_model_pool[dataset][model_name].name))
                 exit()
 
+        # If we have untrained existing model, let's load its persisted form
         print("Checking if model needs to be loaded.")
         if not sts_model_pool[dataset][model_name].trained:
             print("Need to load the model.")

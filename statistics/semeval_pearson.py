@@ -1,3 +1,8 @@
+# Library-like script providing data from SemEval competition
+
+# Dictionary of best results (Pearson coefficient) achieved at SemEval competition.
+# The values are not for the best system, but best value any system achieved for given dataset.
+# This sometimes meant average or worse systems.
 semeval_person_results = {
     "dataset_sts_2012_MSRpar_sk.txt": 0.7343,
     "dataset_sts_2012_OnWN_sk.txt": 0.7273,
