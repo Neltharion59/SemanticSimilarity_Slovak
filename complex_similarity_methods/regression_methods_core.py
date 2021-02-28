@@ -11,7 +11,7 @@ from evaluation.evaluate_regression_metrics import evaluate_prediction_metrics
 # Used to prepare data for aggregation models.
 # Params: str, list<str>
 # Return: DataFrame, DataFrame, DataFrame, DataFrame
-def prepare_training_data(dataset, methods):
+def prepare_training_data(dataset, methods, print_head=True):
     # Load all persisted values of given dataset
     available_values = get_persisted_method_values(dataset)
 
@@ -29,7 +29,8 @@ def prepare_training_data(dataset, methods):
     # Let's prepare table of values for the model (and print the sizes of values in case some are missing)
     table = []
     for key in available_values:
-        print("{}: {} values".format(key, len(available_values[key])))
+        if print_head:
+            print("{}: {} values".format(key, len(available_values[key])))
         table.append(available_values[key])
 
     # Let's turn the table to numpy array and transpose it (so that one row represents values for one pair of words)
@@ -38,7 +39,8 @@ def prepare_training_data(dataset, methods):
 
     # Let's turn the table to DataFrame and print the head - make sure something didn't go wrong
     df = pd.DataFrame(numpy_array, index=range(1, numpy_array.shape[0] + 1), columns=list(map(lambda x: x.split("___")[0], available_values.keys())))
-    print(df.head(10))
+    if print_head:
+        print(df.head(10))
 
     # Let's split the dataset to testing and training subsets (using sklearn function)
     train, test = train_test_split(df, test_size=0.3)
