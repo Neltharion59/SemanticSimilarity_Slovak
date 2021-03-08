@@ -105,13 +105,19 @@ def run():
                                list(map(lambda x: 2 * x - 1, method_param_counts)),
                          fun=evaluator,
                          numb_bees=10,
-                         max_itrs=5
+                         max_itrs=20
                         )
 
     # runs model
     cost = model.run()
 
     # plots convergence
+    print("COST START")
+    print(cost)
+    # Make COST contain Pearson instead of fitness function - graph will show Pearson nicely
+    for x in cost:
+        cost[x] = list(map(lambda i: 1-i, cost[x]))
+    print("COST END")
     Utilities.ConvergencePlot(cost)
 
     # prints out best solution

@@ -5,6 +5,7 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from model_management.sts_method_value_persistor import get_persisted_method_values, gold_standard_name
 from evaluation.evaluate_regression_metrics import evaluate_prediction_metrics
+from dataset_modification_scripts.dataset_wrapper import Dataset
 
 
 # Split given dataset (identified by name) to training and testing data, and to attributes and labels
@@ -12,8 +13,11 @@ from evaluation.evaluate_regression_metrics import evaluate_prediction_metrics
 # Params: str, list<str>
 # Return: DataFrame, DataFrame, DataFrame, DataFrame
 def prepare_training_data(dataset, methods, print_head=True):
+    if not isinstance(dataset, Dataset):
+        raise ValueError("Expected instance of Dataset class, got {} instead".format(type(dataset)))
+
     # Load all persisted values of given dataset
-    available_values = get_persisted_method_values(dataset)
+    available_values = dataset.get_data()
 
     # Let's remove all values from the loaded dict of values which we aren't gonna use
     removal_keys = []
