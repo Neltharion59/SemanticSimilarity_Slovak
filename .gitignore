@@ -1,3 +1,5 @@
 .idea/*
 interpreter/*
 __pycache__
+playground/main.py
+playground/main_002.py
