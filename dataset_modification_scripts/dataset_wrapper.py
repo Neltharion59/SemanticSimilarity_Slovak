@@ -19,6 +19,6 @@ class Dataset:
                     raise ValueError("class Dataset method get_data tried to merge dicts with inequal key count")
                 for method_name in available_values:
                     if method_name not in new_dataset:
-                        raise ValueError("class Dataset method get_data trying to append dict with missing method to result dict")
+                        raise ValueError("class Dataset method get_data trying to append dict with missing method \'{}\'to result dict".format(method_name))
                     available_values[method_name] = available_values[method_name] + new_dataset[method_name]
         return available_values

@@ -10,7 +10,7 @@ from dataset_modification_scripts.dataset_wrapper import Dataset
 
 # Split given dataset (identified by name) to training and testing data, and to attributes and labels
 # Used to prepare data for aggregation models.
-# Params: str, list<str>
+# Params: Dataset, list<str>, [bool]
 # Return: DataFrame, DataFrame, DataFrame, DataFrame
 def prepare_training_data(dataset, methods, print_head=True):
     if not isinstance(dataset, Dataset):

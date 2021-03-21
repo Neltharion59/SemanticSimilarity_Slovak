@@ -18,7 +18,19 @@ from Hive import Hive
 
 from complex_similarity_methods.regression_methods_core import prepare_training_data, train_n_test
 from model_management.sts_method_value_persistor import get_persisted_method_types
+from dataset_modification_scripts.dataset_pool import dataset_pool
+from model_management.sts_model_pool import model_types
 
+#' Dataset - specific
+persisted_methods = None
+persisted_methods = None
+grouped_methods = None
+sorted_method_group_names = None
+method_count = None
+method_param_counts = None
+#'Dataset&Model - specific
+sorted_arg_names = None
+arg_possibility_counts = None
 
 def group_method_names(method_names):
     output_dict = {}
@@ -32,37 +44,18 @@ def group_method_names(method_names):
     return output_dict
 
 
-optionsDCT = {
-    'splitter': ['random', 'best'],
-    'max_depth': list(range(5, 20)) + [None],
-    'min_samples_split': list(range(2, 50)),
-    'min_samples_leaf': list(range(1, 30)),
-    'max_features': ['auto', 'sqrt', 'log2', None],
-    'max_leaf_nodes': list(range(2, 10))
-}
-dataset = 'dataset_sick_all_sk.txt'
-persisted_methods = get_persisted_method_types(dataset)
-persisted_methods = list(filter(lambda x: '___' in x, persisted_methods))
-grouped_methods = group_method_names(persisted_methods)
-sorted_method_group_names = sorted(grouped_methods.keys())
-method_count = len(sorted_method_group_names)
-method_param_counts = [len(grouped_methods[sorted_method_group_names[i]]) for i in range(method_count)]
-
-sorted_arg_names = sorted(optionsDCT.keys())
-
-arg_possibility_counts = list(map(lambda x: len(optionsDCT[x]), sorted_arg_names))
-
-
 # Beehive looks for minimum. Make this so that lowest value of this function means the best solution
-def evaluator(vector):
+def solution_evaluator(vector):
 
     temp_vector = list(map(lambda x: int(round(x, 0)), vector))
     #print(len(temp_vector))
     param_dict = {}
     for i in range(len(sorted_arg_names)):
-        param_dict[sorted_arg_names[i]] = optionsDCT[sorted_arg_names[i]][temp_vector[i]]
+        param_dict[sorted_arg_names[i]] = model_type['args'][sorted_arg_names[i]][temp_vector[i]]
         #print(i)
-    model = DecisionTreeRegressor(**param_dict)
+    print(model_type['model'])
+    print(param_dict)
+    model = model_type['model'](**param_dict)
 
     input_names = []
     for i in range(method_count):
@@ -96,37 +89,57 @@ def evaluator(vector):
 
 # ---- SOLVE TEST CASE WITH ARTIFICIAL BEE COLONY ALGORITHM
 
-def run():
+def run_optimization():
 
     # creates model
     model = Hive.BeeHive(
                          lower=[0] * (len(arg_possibility_counts) + method_count),
                          upper=list(map(lambda x: x - 1, arg_possibility_counts)) +
                                list(map(lambda x: 2 * x - 1, method_param_counts)),
-                         fun=evaluator,
-                         numb_bees=10,
-                         max_itrs=20
+                         fun=solution_evaluator,
+                         numb_bees=2,
+                         max_itrs=2
                         )
 
-    # runs model
-    cost = model.run()
+    # # runs model
+    # cost = model.run()
+    #
+    # # plots convergence
+    # print("COST START")
+    # print(cost)
+    # # Make COST contain Pearson instead of fitness function - graph will show Pearson nicely
+    # for x in cost:
+    #     cost[x] = list(map(lambda i: 1-i, cost[x]))
+    # print("COST END")
+    # Utilities.ConvergencePlot(cost)
+    #
+    # # prints out best solution
+    # print("Fitness Value ABC: {0}".format(model.best))
+    # print("Best pearson by ABC: {0}".format(1-model.best))
+    #
+    # x = model.solution
+    # print(x)
 
-    # plots convergence
-    print("COST START")
-    print(cost)
-    # Make COST contain Pearson instead of fitness function - graph will show Pearson nicely
-    for x in cost:
-        cost[x] = list(map(lambda i: 1-i, cost[x]))
-    print("COST END")
-    Utilities.ConvergencePlot(cost)
 
-    # prints out best solution
-    print("Fitness Value ABC: {0}".format(model.best))
-    print("Best pearson by ABC: {0}".format(1-model.best))
+for dataset in dataset_pool:
 
-    x = model.solution
-    print(x)
+    persisted_methods = get_persisted_method_types(dataset)
+    persisted_methods = list(filter(lambda x: '___' in x, persisted_methods))
+    grouped_methods = group_method_names(persisted_methods)
+    sorted_method_group_names = sorted(grouped_methods.keys())
+    method_count = len(sorted_method_group_names)
+    method_param_counts = [len(grouped_methods[sorted_method_group_names[i]]) for i in range(method_count)]
 
+    for model_type in model_types:
+        print((dataset.name,
+               model_type['name']))
 
-if __name__ == "__main__":
-    run()
+        sorted_arg_names = sorted(model_type['args'].keys())
+        print(sorted_arg_names)
+
+        arg_possibility_counts = list(map(lambda x: len(model_type['args'][x]), sorted_arg_names))
+        print(arg_possibility_counts)
+        print('Posibilities: {}'.format(reduce(lambda x, y: x * y, arg_possibility_counts)))
+
+        run_optimization()
+

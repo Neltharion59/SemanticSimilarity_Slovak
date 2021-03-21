@@ -121,22 +121,30 @@ def persist_gold_standard(dataset_name):
 
 
 # Get list of method names of all methods that have some values persisted for given dataset.
-# Params: str
+# Params: Dataset
 # Return: list<str>
-def get_persisted_method_types(dataset_name):
-    # Get path to value file to read from
-    input_file_path = output_folder + dataset_name
-    method_list = []
-    # Read method names from the file
-    try:
-        with open(input_file_path, 'r', encoding='utf-8') as input_file:
-            for line in input_file:
-                method_name = line.split(':')[0]
-                method_list.append(method_name)
-    except FileNotFoundError:
-        pass
+def get_persisted_method_types(dataset):
+    method_lists = []
+    for dataset_name in dataset.dataset_names:
+        # Get path to value file to read from
+        input_file_path = output_folder + dataset_name
+        method_list = []
+        # Read method names from the file
+        try:
+            with open(input_file_path, 'r', encoding='utf-8') as input_file:
+                for line in input_file:
+                    method_name = line.split(':')[0]
+                    method_list.append(method_name)
+        except FileNotFoundError:
+            pass
+        method_lists.append(method_list)
 
-    return method_list
+    result = set(method_lists[0])
+    for method_list in method_lists[1:]:
+        result = result & set(method_list)
+    result = list(result)
+
+    return result
 
 
 # Get dict with method names being keys to lists of their values
