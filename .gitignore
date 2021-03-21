@@ -1,4 +1,3 @@
 .idea/*
 interpreter/*
-*pycache*
-*.pyc
+__pycache__
