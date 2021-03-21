@@ -46,6 +46,7 @@ def group_method_names(method_names):
 
 # Beehive looks for minimum. Make this so that lowest value of this function means the best solution
 def solution_evaluator(vector):
+    #print("-----------------------------------")
 
     temp_vector = list(map(lambda x: int(round(x, 0)), vector))
     #print(len(temp_vector))
@@ -53,8 +54,7 @@ def solution_evaluator(vector):
     for i in range(len(sorted_arg_names)):
         param_dict[sorted_arg_names[i]] = model_type['args'][sorted_arg_names[i]][temp_vector[i]]
         #print(i)
-    print(model_type['model'])
-    print(param_dict)
+    #print('Hive::solution_evaluator: - param dict: {}'.format(param_dict))
     model = model_type['model'](**param_dict)
 
     input_names = []
@@ -74,17 +74,17 @@ def solution_evaluator(vector):
                 input_names,
                 print_head=False
             )
-    print("----------------------------------------------------------------------------------")
-    print(input_names)
-    print(param_dict)
+
+    #print('Hive::solution_evaluator - input names : {}'.format(input_names))
+    #print('Hive::solution_evaluator: - param dict: {}'.format(param_dict))
 
     if len(input_names) < 2:
         return 2
 
-    metrics = train_n_test(x_train, x_test, y_train, y_test, model)
-    print("Model with pearson: ", metrics['PEARSON'][0])
+    metrics = train_n_test(x_train, x_test, y_train, y_test, model, verbose=False)
+    #print("Model with pearson: ", metrics['PEARSON'][0])
 
-    return 1 - metrics['PEARSON'][0]
+    return 1 - metrics['PEARSON'][0] if metrics['PEARSON'][0] is not None else 2
 
 
 # ---- SOLVE TEST CASE WITH ARTIFICIAL BEE COLONY ALGORITHM
@@ -101,26 +101,29 @@ def run_optimization():
                          max_itrs=2
                         )
 
-    # # runs model
-    # cost = model.run()
-    #
-    # # plots convergence
-    # print("COST START")
-    # print(cost)
-    # # Make COST contain Pearson instead of fitness function - graph will show Pearson nicely
-    # for x in cost:
-    #     cost[x] = list(map(lambda i: 1-i, cost[x]))
-    # print("COST END")
-    # Utilities.ConvergencePlot(cost)
-    #
-    # # prints out best solution
-    # print("Fitness Value ABC: {0}".format(model.best))
-    # print("Best pearson by ABC: {0}".format(1-model.best))
-    #
-    # x = model.solution
-    # print(x)
+    # runs model
+    cost = model.run()
+
+    # plots convergence
+    #print(cost)
+    # Make COST contain Pearson instead of fitness function - graph will show Pearson nicely
+    for x in cost:
+        cost[x] = list(map(lambda i: 1-i, cost[x]))
+    #Utilities.ConvergencePlot(cost)
+
+    # prints out best solution
+    #print("Fitness Value ABC: {0}".format(model.best))
+    print("Best pearson by ABC: {0}".format(1-model.best))
+
+    x = model.solution
+    #print('Solution is: {}'.format(x))
 
 
+dataset_counter = 1
+dataset_counter_max = len(dataset_pool)
+total_counter = 1
+total_counter_max = len(dataset_pool) * len(model_types)
+model_in_dataset_counter_max = len(model_types)
 for dataset in dataset_pool:
 
     persisted_methods = get_persisted_method_types(dataset)
@@ -130,16 +133,22 @@ for dataset in dataset_pool:
     method_count = len(sorted_method_group_names)
     method_param_counts = [len(grouped_methods[sorted_method_group_names[i]]) for i in range(method_count)]
 
+    model_in_dataset_counter = 1
     for model_type in model_types:
-        print((dataset.name,
-               model_type['name']))
+        #print('Dataset: {}, Model: {}'.format(dataset.name, model_type['name']))
 
         sorted_arg_names = sorted(model_type['args'].keys())
-        print(sorted_arg_names)
-
         arg_possibility_counts = list(map(lambda x: len(model_type['args'][x]), sorted_arg_names))
-        print(arg_possibility_counts)
-        print('Posibilities: {}'.format(reduce(lambda x, y: x * y, arg_possibility_counts)))
+        #print('Posibilities: {}'.format(reduce(lambda x, y: x * y, arg_possibility_counts)))
+
+        print('TRAINING MODEL {}/{} | DATASET {}: {}/{} | MODEL {}: {}/{}'.format(
+            total_counter, total_counter_max,
+            dataset.name, dataset_counter, dataset_counter_max,
+            model_type['name'], model_in_dataset_counter, model_in_dataset_counter_max
+        ))
 
         run_optimization()
+        model_in_dataset_counter = model_in_dataset_counter + 1
+        total_counter = total_counter + 1
 
+    dataset_counter = dataset_counter + 1

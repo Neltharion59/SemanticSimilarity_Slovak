@@ -62,22 +62,27 @@ def prepare_training_data(dataset, methods, print_head=True):
 # Return dict of metrics of trained model on testing data
 # Params: DataFrame, DataFrame, DataFrame, DataFrame, sklearn.model
 # Return: dict
-def train_n_test(x_train, x_test, y_train, y_test, model):
+def train_n_test(x_train, x_test, y_train, y_test, model, verbose=True):
     # Train the model
-    print("Training begins")
+    if verbose:
+        print("Training begins")
     model.fit(x_train, y_train)
-    print("Training done")
+    if verbose:
+        print("Training done")
 
     # Test the model
-    print("Prediction begins")
+    if verbose:
+        print("Prediction begins")
     y_pred = model.predict(x_test)
-    print("Prediction done")
+    if verbose:
+        print("Prediction done")
 
     # Evaluate metrics of model on testing dataset
     evaluation = evaluate_prediction_metrics(y_test, y_pred, 1)
 
     # Print those metrics
     for key in evaluation:
-        print("{}: {}".format(key, evaluation[key]))
+        if verbose:
+            print("{}: {}".format(key, evaluation[key]))
 
     return evaluation

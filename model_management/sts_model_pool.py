@@ -40,7 +40,7 @@ model_types = [
         "model": SVR,
         "args": {
             # Most significant ones
-            'kernel': ['linear', 'poly', 'rbf', 'sigmoid', 'precomputed'],
+            'kernel': ['linear', 'poly', 'rbf', 'sigmoid'],
             'gamma': ['scale', 'auto'] + [y/(10 ** x) for x in range(1, 4) for y in [1, 2, 5]],   # 0.1, 0.2, 0.5, 0.01, 0.02, 0.05 ...
             'C': [y/(10 ** x) for x in [0, 1] for y in [1, 2, 3, 5, 7, 9]] + [10.0],              # 1.0, 2.0, 3.0, 5.0, 7.0, 9.0, 0.1, 0.2, 0.3, 0.5, 0.7, 0.9, 10.0
 
@@ -48,7 +48,7 @@ model_types = [
             'degree': list(map(lambda x: x * 2 + 1, range(1, 10))),                               # 3, 5, 7, 9 ... 21,
             'epsilon': [y/(10 ** x) for x in range(1, 3) for y in [1, 2, 3]] + [0.05, 0.07, 0.09],# 0.1, 0.2, 0.3, 0.01, 0.02, 0.03, 0.05, 0.07, 0.09
             'shrinking': [True, False],
-            'max_iter': [-1] + [x * 50 for x in range(1, 9)],                                     # 50, 100, 150, 200, 250, 300, 350, 400
+            #'max_iter': [-1] + [x * 50 for x in range(1, 9)],                                     # 50, 100, 150, 200, 250, 300, 350, 400
             'coef0': [0] + [y/(10 ** x) for x in range(1, 4) for y in [1, 2, 3]]                  # 0, 0.1, 0.2, 0.3, 0.01, 0.02, 0.03, 0.001, 0.002, 0.003
         }
     },
