@@ -1,3 +1,3 @@
-from model_management.sts_method_value_persistor import delete_values
+from model_management.model_persistence import get_model_test_metrics
 
-delete_values("dataset_sts_2012_MSRpar_sk.txt", "hamming___normalization_strategy-shorter")
+print(get_model_test_metrics(1))

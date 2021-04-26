@@ -14,6 +14,7 @@ class STSMethod:
         STSMethod.method_id_seed = STSMethod.method_id_seed + 1
         # Assign attribute - Parameters of STS method
         self.args = args
+        self.method_name = method_name
         # Generate name of this method - based on the method and param configuration
         self.name = self.generate_name(method_name)
         # Assign attribute - Function that calculates STS

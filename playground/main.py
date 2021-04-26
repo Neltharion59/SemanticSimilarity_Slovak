@@ -29,6 +29,8 @@ print(list(pred))
 
 print("model_name:" + linear_regression_model.name)
 print("loade_name:" + loaded_model.name)
-model_id = get_model_id(loaded_model)
+model_id = get_model_id("dataset_sick_all_sk.txt", loaded_model)
 
+print(model_id)
+model_id = get_model_id("dataset_sick_all_sk_lemma.txt", loaded_model)
 print(model_id)
