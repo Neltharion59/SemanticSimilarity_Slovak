@@ -17,31 +17,18 @@ from Hive import Utilities
 from Hive import Hive
 
 from complex_similarity_methods.regression_methods_core import prepare_training_data, train_n_test
-from model_management.sts_method_value_persistor import get_persisted_method_types
+from model_management.sts_method_value_persistor import load_values, gold_standard_name
 from dataset_modification_scripts.dataset_pool import dataset_pool
 from model_management.sts_model_pool import model_types
 
 #' Dataset - specific
 persisted_methods = None
-persisted_methods = None
-grouped_methods = None
 sorted_method_group_names = None
 method_count = None
 method_param_counts = None
 #'Dataset&Model - specific
 sorted_arg_names = None
 arg_possibility_counts = None
-
-def group_method_names(method_names):
-    output_dict = {}
-    for method_name in method_names:
-        method = method_name.split('___')[0]
-        params = method_name.split('___')[1]
-        if method not in output_dict:
-            output_dict[method] = []
-        if params not in output_dict[method]:
-            output_dict[method].append(params)
-    return output_dict
 
 
 # Beehive looks for minimum. Make this so that lowest value of this function means the best solution
@@ -126,13 +113,14 @@ total_counter_max = len(dataset_pool) * len(model_types)
 model_in_dataset_counter_max = len(model_types)
 for dataset in dataset_pool:
 
-    persisted_methods = get_persisted_method_types(dataset)
-    persisted_methods = list(filter(lambda x: '___' in x, persisted_methods))
-    grouped_methods = group_method_names(persisted_methods)
-    sorted_method_group_names = sorted(grouped_methods.keys())
+    persisted_methods = load_values(dataset.name)
+    print(persisted_methods)
+    del persisted_methods[gold_standard_name]
+    sorted_method_group_names = sorted(persisted_methods.keys())
     method_count = len(sorted_method_group_names)
-    method_param_counts = [len(grouped_methods[sorted_method_group_names[i]]) for i in range(method_count)]
+    method_param_counts = [len(persisted_methods[sorted_method_group_names[i]]['args']) for i in range(method_count)]
 
+    continue
     model_in_dataset_counter = 1
     for model_type in model_types:
         #print('Dataset: {}, Model: {}'.format(dataset.name, model_type['name']))

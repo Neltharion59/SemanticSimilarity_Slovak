@@ -3,7 +3,7 @@
 import numpy as np
 import pandas as pd
 from sklearn.model_selection import train_test_split
-from model_management.sts_method_value_persistor import get_persisted_method_values, gold_standard_name
+from model_management.sts_method_value_persistor import gold_standard_name
 from evaluation.evaluate_regression_metrics import evaluate_prediction_metrics
 from dataset_modification_scripts.dataset_wrapper import Dataset
 

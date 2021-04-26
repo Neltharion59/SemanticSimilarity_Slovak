@@ -1,6 +1,6 @@
 # Library-like script providing functions for evaluating method metrics
 
-from model_management.sts_method_value_persistor import get_persisted_method_values, gold_standard_name
+from model_management.sts_method_value_persistor import gold_standard_name
 from sklearn.metrics import mean_absolute_error, mean_squared_error
 from scipy.stats.stats import pearsonr
 from tabulate import tabulate
