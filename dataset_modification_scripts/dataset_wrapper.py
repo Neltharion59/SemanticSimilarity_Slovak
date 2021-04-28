@@ -49,7 +49,7 @@ class Dataset:
         return words1, words2
 
     # Persist gold standard from dataset file to file with values.
-    # Params: str
+    # Params:
     # Return:
     def persist_gold_standard(self):
         results = self.load_values()
@@ -79,7 +79,7 @@ class Dataset:
 
     # Predict values using given method for given dataset and persist those values
     # (only those that aren't persisted yet).
-    # Params: STSMethod, Dataset
+    # Params: STSMethod
     # Return:
     def predict_and_persist_values(self, sts_method):
         print("About to predict&persist values of {} method for {} dataset".format(sts_method.name, self.name))
@@ -107,7 +107,7 @@ class Dataset:
         print("Finished prediction")
 
     # Persist predicted values for given method for given dataset.
-    # Params: dict<str, list<dict<str, ...>>>, str
+    # Params: dict<str, list<dict<str, ...>>>
     # Return: None
     def persist_values(self, results):
         # Prepare path to file to write to
@@ -119,7 +119,7 @@ class Dataset:
             os.fsync(file)
 
     # Persist predicted values for given method for given dataset.
-    # Params: str
+    # Params:
     # Return: dict<str, list<dict<str, ...>>>
     def load_values(self):
         # Prepare path to which to persist values to
@@ -139,7 +139,7 @@ class Dataset:
 
     # Delete all values of given method for given dataset from the disk.
     # Useful if a method was bugged when its values were being persisted.
-    # Params: str, STSMethod
+    # Params: STSMethod
     # Return: None
     def delete_values(self, sts_method):
         results = self.load_values()

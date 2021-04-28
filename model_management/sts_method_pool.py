@@ -1,8 +1,8 @@
 # Library-like script providing pool of all simple STS methods
 
 from basic_similarity_methods.character_based import *
-from basic_similarity_methods.knowledge_based import wu_palmer_similarity_sentence, path_similarity_sentence,\
-    leacock_chodorow_similarity_sentence
+from basic_similarity_methods.knowledge_based import wu_palmer_similarity_sentence, path_similarity_sentence, \
+    leacock_chodorow_similarity_sentence, args_knowledge
 from model_management.sts_method_wrappers import STSMethod
 
 
@@ -28,7 +28,7 @@ def all_arg_variations(arg_full_dict, output_arg_dict):
         break
 
 
-# Adds
+# Adds method to method pool
 # Params: str, dict, func<... -> float>, dict<str, STSMethod>
 # Return:
 def add_to_method_pool(method_name, method_arg_possibilites, method_function, method_pool):
@@ -42,25 +42,20 @@ sts_method_pool = {}
 # -----------------------------------------------------------------------------
 # Add Hamming similarity
 name = "hamming"
-args = {
+args_hamming = {
     "normalization_strategy": ["longer", "shorter", "both"]
 }
-add_to_method_pool(name, args, hamming, sts_method_pool)
+add_to_method_pool(name, args_hamming, hamming, sts_method_pool)
 # -----------------------------------------------------------------------------
 # Add Wu-Palmer similarity
 name = "wu_palmer"
-args = {
-    "sentence_merge_strategy": ['all_to_all', 'match_cutoff'],
-    "synset_strategy": ['all_synsets', 'first_synsets', 'first', 'max', 'average'],
-    "wordnet": ['slk']
-}
-add_to_method_pool(name, args, wu_palmer_similarity_sentence, sts_method_pool)
+add_to_method_pool(name, args_knowledge, wu_palmer_similarity_sentence, sts_method_pool)
 # -----------------------------------------------------------------------------
 # Add Path similarity
 name = "path"
-add_to_method_pool(name, args, path_similarity_sentence, sts_method_pool)
+add_to_method_pool(name, args_knowledge, path_similarity_sentence, sts_method_pool)
 # -----------------------------------------------------------------------------
 # Add Leacock-Chodorow similarity
 name = "leacock_chodorow"
-add_to_method_pool(name, args, leacock_chodorow_similarity_sentence, sts_method_pool)
+add_to_method_pool(name, args_knowledge, leacock_chodorow_similarity_sentence, sts_method_pool)
 # -----------------------------------------------------------------------------

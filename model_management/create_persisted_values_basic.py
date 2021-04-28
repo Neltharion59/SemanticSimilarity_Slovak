@@ -24,5 +24,4 @@ for dataset in dataset_pool:
     for sts_method_name in sts_method_pool:
         # Predict and persist values of this dataset of this method if needed
         dataset.predict_and_persist_values(sts_method_pool[sts_method_name])
-        break
     break
