@@ -20,8 +20,12 @@ from dataset_modification_scripts.dataset_pool import dataset_pool
 for dataset in dataset_pool:
     # Persist gold standard first - no need to calculate anything
     dataset.persist_gold_standard()
+    print(sts_method_pool.keys())
+    del sts_method_pool['wu_palmer']
+    del sts_method_pool['path']
+    del sts_method_pool['leacock_chodorow']
     # Loop over each method we know
     for sts_method_name in sts_method_pool:
-        # Predict and persist values of this dataset of this method if needed
-        dataset.predict_and_persist_values(sts_method_pool[sts_method_name])
+        for sts_method in sts_method_pool[sts_method_name]:
+            dataset.predict_and_persist_values(sts_method)
     break
