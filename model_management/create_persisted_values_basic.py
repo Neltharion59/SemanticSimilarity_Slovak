@@ -2,8 +2,7 @@
 # Already persisted values are not calculated again nor persisted
 
 import re
-from os import listdir, getcwd
-from os.path import isfile, join
+from os import getcwd
 
 import sys
 
@@ -23,5 +22,5 @@ for key in dataset_pool:
         dataset.persist_gold_standard()
         # Loop over each method we know
         for sts_method_name in sts_method_pool:
-            for sts_method in sts_method_pool[key][sts_method_name]:
+            for sts_method in sts_method_pool[sts_method_name]:
                 dataset.predict_and_persist_values(sts_method)

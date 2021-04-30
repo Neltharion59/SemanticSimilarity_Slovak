@@ -97,6 +97,7 @@ class Dataset:
                 return
 
         values = list(sts_method.predict_mass(words1, words2, {}))
+        values = [round(x, ndigits=3) for x in values]
         print("values: {}".format(values))
         results[sts_method.method_name].append({
             'args': sts_method.args,
@@ -112,7 +113,7 @@ class Dataset:
     def persist_values(self, results):
         # Prepare path to file to write to
         output_file_path = output_folder + self.name + ".txt"
-        results_json = json.dumps(results, sort_keys=True, indent=4)
+        results_json = json.dumps(results)
         with open(output_file_path, 'w+', encoding='UTF-8') as file:
             file.write(results_json)
             file.flush()
