@@ -1,7 +1,6 @@
 # Runnable script calculating values for each dataset for each method and persisting them
 # Already persisted values are not calculated again nor persisted
 
-import re
 from os import getcwd
 
 import sys

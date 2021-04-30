@@ -1,6 +1,7 @@
 class Corpus:
     def __init__(self, name):
         self.name = name
+        self.is_lemma = 'lemma' in name
 
         try:
             with open("./../resources/corpora/{}".format(self.name), 'r', encoding='utf-8') as file:
