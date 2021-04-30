@@ -50,7 +50,7 @@ def is_word_vectorable(word, corpora_type):
 
 
 def is_word_featurable(word, corpora_type):
-    result = is_word_vectorable(word, corpora_type) or (len(word) > 2 and word.isalpha() and not is_stop_word(word))
+    result = is_word_vectorable(word, corpora_type)# or (len(word) > 2 and word.isalpha() and not is_stop_word(word))
     return result
 
 
@@ -77,7 +77,7 @@ def svd(matrix, n_elements):
 
 
 def corpus_window_slide(corpus, process_window_function, args):
-    save_rate = 500
+    save_rate = 1000
 
     for window_size in args['window_size']:
         if window_size % 2 == 0:
@@ -89,8 +89,9 @@ def corpus_window_slide(corpus, process_window_function, args):
 
     try:
         with open(progress_track_file_name, 'r', encoding='utf-8') as progress_file:
-            progress_object = json.loads(progress_file.read())
-            first_line = False
+            json_string = progress_file.read()
+        progress_object = json.loads(json_string)
+        first_line = False
     except FileNotFoundError:
         progress_object = {
             'already_processed_lines': 0,
@@ -134,8 +135,9 @@ def corpus_window_slide(corpus, process_window_function, args):
                 )
             )
             progress_object['already_processed_lines'] = line_counter
+            json_object = json.dumps(progress_object)
             with open(progress_track_file_name, 'w+', encoding='utf-8') as progress_file:
-                progress_file.write(json.dumps(progress_object))
+                progress_file.write(json_object)
                 progress_file.flush()
                 os.fsync(progress_file)
 
@@ -176,8 +178,9 @@ def corpus_window_slide(corpus, process_window_function, args):
     progress_object['word_position_dict'] = {}
     progress_object['matrix'] = {}
 
+    json_object = json.dumps(progress_object)
     with open(progress_track_file_name, 'w+', encoding='utf-8') as progress_file:
-        progress_file.write(json.dumps(progress_object))
+        progress_file.write(json_object)
         progress_file.flush()
         os.fsync(progress_file)
 
