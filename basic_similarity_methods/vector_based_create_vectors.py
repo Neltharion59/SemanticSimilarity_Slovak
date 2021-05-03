@@ -45,17 +45,17 @@ def is_stop_word(word):
 
 
 def is_word_vectorable(word, corpora_type):
-    result = word in word_pool[corpora_type] and word.isalpha()
+    result = word in word_pool[corpora_type] and word.isalpha() and len(word) > 2 and not is_stop_word(word)
     return result
 
 
 def is_word_featurable(word, corpora_type):
-    result = is_word_vectorable(word, corpora_type)# or (len(word) > 2 and word.isalpha() and not is_stop_word(word))
+    result = is_word_vectorable(word, corpora_type)
     return result
 
 
 # https://machinelearningmastery.com/singular-value-decomposition-for-machine-learning/
-def svd(matrix, n_elements):
+def svd(matrix, n_elements, ndigits=2):
     A = array([matrix[key] for key in matrix])
     # Singular-value decomposition
     U, s, _ = scipy_svd(A)
@@ -71,13 +71,18 @@ def svd(matrix, n_elements):
 
     new_matrix = {}
     for word, vector in zip(matrix, T):
-        new_matrix[word] = vector
+        new_matrix[word] = [round(x, ndigits=ndigits) for x in vector]
 
     return new_matrix
 
 
 def corpus_window_slide(corpus, process_window_function, args):
-    save_rate = 1000
+    if corpus.is_lemma:
+        save_rate = 1
+        line_limit = 50
+    else:
+        save_rate = 500
+        line_limit = 8000
 
     for window_size in args['window_size']:
         if window_size % 2 == 0:
@@ -116,7 +121,10 @@ def corpus_window_slide(corpus, process_window_function, args):
             print('Starting at: {}'.format(line_counter + 1))
             continue
 
-        line = line.replace('\n', '')
+        if line_counter > line_limit:
+            break
+
+        line = line.replace('\n', '').lower()
         word_buffer = word_buffer + line.split(' ')
 
         if line_counter % save_rate == 0:
@@ -128,10 +136,10 @@ def corpus_window_slide(corpus, process_window_function, args):
                 '{}: line {}/{}. Time estimate: {}. One {}-piece batch takes: {}.'.format(
                     corpus.name,
                     line_counter,
-                    corpus.size,
-                    timedelta(seconds=((corpus.size - line_counter) / save_rate) * average(times)),
+                    line_limit,
+                    timedelta(seconds=((line_limit - line_counter) / save_rate) * average(times[-3 if len(times) >= 3 else 0:])),
                     save_rate,
-                    timedelta(seconds=average(times))
+                    timedelta(seconds=average(times[-3 if len(times) >= 3 else 0:]))
                 )
             )
             progress_object['already_processed_lines'] = line_counter
@@ -155,7 +163,7 @@ def corpus_window_slide(corpus, process_window_function, args):
             first_line = False
 
         while len(word_buffer) >= max_window_size:
-            left = word_buffer[0:max_window_size// 2]
+            left = word_buffer[0:max_window_size // 2]
             center = word_buffer[max_window_size // 2]
             right = word_buffer[max_window_size // 2 + 1:max_window_size]
             word_buffer.pop(0)
@@ -195,6 +203,10 @@ def create_vectors_hal(corpus, args):
                 if len(matrix.keys()) > 0:
                     for j in range(len(matrix[list(matrix.keys())[0]])):
                         matrix[center].append([])
+            if center not in word_position_dict:
+                word_position_dict[center] = len(matrix[list(matrix.keys())[0]])
+                for key in matrix:
+                    matrix[key].append([])
 
             for j in reversed(range(len(left))):
                 if is_word_featurable(left[j], 'lemma' if corpus.is_lemma else 'raw') and len(matrix.keys()) > 0:
@@ -218,29 +230,72 @@ def create_vectors_hal(corpus, args):
 
     matrix, word_position_dict = corpus_window_slide(corpus, process_window, args)
 
+    print('Finished sliding')
+
     if matrix is not None and word_position_dict is not None:
+        print('Building matrices')
+
         matrices = {}
+        i = 1
         for window_size in args['window_size']:
             matrices[window_size] = {}
+            print('Starting building matrix {}/{} - {}%'.format(i, len(args['window_size']), round(i/len(args['window_size']), ndigits=2) * 100))
+            j = 1
+            j_max = len(list(matrix.keys()))
             for word in matrix:
-                matrices[window_size][word] = [reduce_matrix_cell([y for y in x if y < window_size // 2 + 1], window_size) for x in matrix[word]]
+                print('Building matrix {}/{} - {}% ===> Word {}/{} - {}%'.format(
+                    i, len(args['window_size']), round(i / len(args['window_size']), ndigits=2) * 100,
+                    j, j_max, round(j / j_max, ndigits=2) * 100
+                ))
+                matrices[window_size][word] = [round(reduce_matrix_cell([y for y in x if y < window_size // 2 + 1], window_size), ndigits=2) for x in matrix[word]]
+                j = j + 1
+            i = i + 1
 
+        print('Concating row and column')
+        i = 1
+        i_max = len(list(matrices.keys()))
         for window_size in matrices:
+            print('Starting concatenating matrix {}/{} - {}%'.format(i, i_max, round(i / i_max, ndigits=2) * 100))
+            j = 1
+            j_max = len(list(matrices[window_size].keys()))
             for word in matrices[window_size]:
+                print('Concatenating matrix {}/{} - {}% ===> Word \'{}\' {}/{} - {}%'.format(
+                    i, i_max, round(i / i_max, ndigits=2) * 100,
+                    word,
+                    j, j_max, round(j / j_max, ndigits=2) * 100
+                ))
                 matrices[window_size][word] = matrices[window_size][word] + [matrices[window_size][word2][word_position_dict[word]] for word2 in matrix]
+                j = j + 1
+            i = i + 1
 
+        print('SVDing matrices')
         result_matrices = {}
+        i = 1
+        i_max = len(list(matrices.keys()))
         for window_size in matrices:
             result_matrices[window_size] = {
                 'full': matrices[window_size]
             }
-
+            print('Starting SVDing matrix {}/{} - {}%'.format(i, i_max, round(i / i_max, ndigits=2) * 100))
+            j = 1
+            j_max = len(args['vector_size'])
             for vector_size in args['vector_size']:
+                print('SVDing matrix {}/{} - {}% ===> Vector size {}/{} - {}%'.format(
+                    i, i_max, round(i / i_max, ndigits=2) * 100,
+                    j, j_max, round(j / j_max, ndigits=2) * 100
+                ))
                 result_matrices[window_size][vector_size] = svd(matrices[window_size], vector_size)
+                j = j + 1
+            i = i + 1
 
-        words = [''] * len(word_position_dict)
+        print('Creating word list')
+        words = [''] * len(list(word_position_dict.keys()))
+        i = 1
+        i_max = len(list(word_position_dict.keys()))
         for word in word_position_dict:
+            print('Appending to word list {}/{} - {}%'.format(i, i_max, round(i / i_max, ndigits=2) * 100))
             words[word_position_dict[word]] = word
+            i = i + 1
 
         return result_matrices, words
 
