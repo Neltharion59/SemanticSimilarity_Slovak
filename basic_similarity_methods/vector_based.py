@@ -1,5 +1,6 @@
 from math import sqrt, pi
 from operator import add
+from scipy.spatial.distance import cosine as cos
 
 from dataset_modification_scripts.corpora_pool import corpora_pool
 from dataset_modification_scripts.vector_pool import vector_pool
@@ -67,9 +68,9 @@ def manhattan(text1, text2, args):
     vector2_normalized = list(map(lambda x: x / vector2_len, vector2))
 
     distance_vector_size = sum([abs(x - y) for x, y in zip(vector1_normalized, vector2_normalized)])
-    distance = 0 if distance_vector_size == 0 else 1 - distance_vector_size / 2
+    similarity = 0 if distance_vector_size == 0 else 1 - distance_vector_size / 2
 
-    return distance
+    return similarity
 
 
 def euclidean(text1, text2, args):
@@ -84,9 +85,9 @@ def euclidean(text1, text2, args):
     vector2_normalized = list(map(lambda x: x / vector2_len, vector2))
 
     distance_vector_size = sqrt(sum([(x - y) ** 2 for x, y in zip(vector1_normalized, vector2_normalized)]))
-    distance = 0 if distance_vector_size == 0 else 1 - distance_vector_size / 2
+    similarity = 0 if distance_vector_size == 0 else 1 - distance_vector_size / 2
 
-    return distance
+    return similarity
 
 
 def minkowski(text1, text2, args):
@@ -101,6 +102,13 @@ def minkowski(text1, text2, args):
     vector2_normalized = list(map(lambda x: x / vector2_len, vector2))
 
     distance_vector_size = (sum([abs(x - y) ** args['p'] for x, y in zip(vector1_normalized, vector2_normalized)]) ** (1 / args['p']))
-    distance = 0 if distance_vector_size == 0 else 1 - distance_vector_size / 2
+    similarity = 0 if distance_vector_size == 0 else 1 - distance_vector_size / 2
 
-    return distance
+    return similarity
+
+
+def cosine_vector(text1, text2, args):
+    vector1, vector2 = vectorize_text(text1, text2, args)
+
+    similarity = 1 - cos(vector1, vector2)
+    return similarity
