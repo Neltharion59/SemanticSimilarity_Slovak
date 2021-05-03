@@ -3,9 +3,8 @@
 import numpy as np
 import pandas as pd
 from sklearn.model_selection import train_test_split
-from model_management.sts_method_value_persistor import gold_standard_name
 from evaluation.evaluate_regression_metrics import evaluate_prediction_metrics
-from dataset_modification_scripts.dataset_wrapper import Dataset
+from dataset_modification_scripts.dataset_wrapper import Dataset, gold_standard_name
 
 
 # Split given dataset (identified by name) to training and testing data, and to attributes and labels

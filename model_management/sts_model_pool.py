@@ -16,7 +16,7 @@ sys.path.append(conf_path)
 sys.path.append(conf_path + '/..')
 sys.path.append(conf_path + '/../..')
 
-from model_management.sts_method_value_persistor import input_folder
+from dataset_modification_scripts.dataset_wrapper import input_folder
 
 # Prepare regexes to be used in this script
 dataset_input_file_name_pattern = re.compile(".*_sk(_lemma)?\.txt")

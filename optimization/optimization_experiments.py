@@ -15,50 +15,54 @@ from sklearn.tree import DecisionTreeRegressor
 
 from Hive import Utilities
 from Hive import Hive
+from complex_similarity_methods.dataset_fragmentation import FragmentedDatasetCV
+from complex_similarity_methods.dataset_split_ratio import DatasetSplitRatio
 
 from complex_similarity_methods.regression_methods_core import prepare_training_data, train_n_test
-from model_management.sts_method_value_persistor import load_values, gold_standard_name
+from dataset_modification_scripts.dataset_wrapper import gold_standard_name
 from dataset_modification_scripts.dataset_pool import dataset_pool
 from model_management.sts_model_pool import model_types
 
-#' Dataset - specific
+# Config
+dataset_split_ratio = DatasetSplitRatio(0.70, 0.30)
+
+# Dataset - specific
 persisted_methods = None
 sorted_method_group_names = None
 method_count = None
 method_param_counts = None
-#'Dataset&Model - specific
+gold_values = None
+# Dataset&Model - specific
 sorted_arg_names = None
 arg_possibility_counts = None
 
 
 # Beehive looks for minimum. Make this so that lowest value of this function means the best solution
 def solution_evaluator(vector):
-    #print("-----------------------------------")
-
-    temp_vector = list(map(lambda x: int(round(x, 0)), vector))
-    #print(len(temp_vector))
+    temp_vector = list(map(lambda x: int(x), vector))
     param_dict = {}
     for i in range(len(sorted_arg_names)):
         param_dict[sorted_arg_names[i]] = model_type['args'][sorted_arg_names[i]][temp_vector[i]]
-        #print(i)
-    #print('Hive::solution_evaluator: - param dict: {}'.format(param_dict))
+
     model = model_type['model'](**param_dict)
 
-    input_names = []
+    inputs = []
+    temp_vector_starting_index = len(sorted_arg_names)
     for i in range(method_count):
-        #print('i: ', i)
-        if temp_vector[len(sorted_arg_names) + i] < method_param_counts[i]:
-            #print('index to temp vector: ', len(sorted_arg_names) + i)
-            #print('index to param array of group: ', temp_vector[len(sorted_arg_names) + i])
-            #print('given group has # arg options: ', method_param_counts[i])
-            input_names.append(sorted_method_group_names[i] +
-                               '___' +
-                               grouped_methods[sorted_method_group_names[i]]
-                               [temp_vector[len(sorted_arg_names) + i]])
-    x_train, x_test, y_train, y_test = prepare_training_data\
-            (
+        if temp_vector[temp_vector_starting_index + i] < method_param_counts[i]:
+            inputs.append({
+                'method_name': sorted_method_group_names[i],
+                'values': persisted_methods[sorted_method_group_names[i]][temp_vector[temp_vector_starting_index + i]]['values']
+            })
+
+    print('ja')
+    dataset_fragments = FragmentedDatasetCV(inputs, gold_values, dataset_split_ratio, 4)
+    print('aj')
+    exit()
+
+    x_train, x_test, y_train, y_test = prepare_training_data(
                 dataset,
-                input_names,
+                inputs,
                 print_head=False
             )
 
@@ -107,36 +111,41 @@ def run_optimization():
 
 
 dataset_counter = 1
-dataset_counter_max = len(dataset_pool)
-total_counter = 1
-total_counter_max = len(dataset_pool) * len(model_types)
+dataset_counter_max = len(list(dataset_pool.keys())) * len(dataset_pool[list(dataset_pool.keys())[0]])
+
 model_in_dataset_counter_max = len(model_types)
-for dataset in dataset_pool:
 
-    persisted_methods = load_values(dataset.name)
-    print(persisted_methods)
-    del persisted_methods[gold_standard_name]
-    sorted_method_group_names = sorted(persisted_methods.keys())
-    method_count = len(sorted_method_group_names)
-    method_param_counts = [len(persisted_methods[sorted_method_group_names[i]]['args']) for i in range(method_count)]
+total_counter = 1
+total_counter_max = dataset_counter_max * model_in_dataset_counter_max
 
-    continue
-    model_in_dataset_counter = 1
-    for model_type in model_types:
-        #print('Dataset: {}, Model: {}'.format(dataset.name, model_type['name']))
+for key in dataset_pool:
+    for dataset in dataset_pool[key]:
 
-        sorted_arg_names = sorted(model_type['args'].keys())
-        arg_possibility_counts = list(map(lambda x: len(model_type['args'][x]), sorted_arg_names))
-        #print('Posibilities: {}'.format(reduce(lambda x, y: x * y, arg_possibility_counts)))
+        persisted_methods = dataset.load_values()
+        gold_values = [round(x/5, ndigits=3) for x in persisted_methods[gold_standard_name][0]['values']]
+        del persisted_methods[gold_standard_name]
 
-        print('TRAINING MODEL {}/{} | DATASET {}: {}/{} | MODEL {}: {}/{}'.format(
-            total_counter, total_counter_max,
-            dataset.name, dataset_counter, dataset_counter_max,
-            model_type['name'], model_in_dataset_counter, model_in_dataset_counter_max
-        ))
+        sorted_method_group_names = sorted(persisted_methods.keys())
+        method_count = len(sorted_method_group_names)
 
-        run_optimization()
-        model_in_dataset_counter = model_in_dataset_counter + 1
-        total_counter = total_counter + 1
+        method_param_counts = [len(persisted_methods[sorted_method_group_names[i]]) for i in range(method_count)]
 
-    dataset_counter = dataset_counter + 1
+        model_in_dataset_counter = 1
+        for model_type in model_types:
+
+            sorted_arg_names = sorted(model_type['args'].keys())
+            arg_possibility_counts = list(map(lambda x: len(model_type['args'][x]), sorted_arg_names))
+
+            print('TRAINING MODEL {}/{} | DATASET {}: {}/{} | MODEL {}: {}/{} | TOTAL {}%'.format(
+                total_counter, total_counter_max,
+                dataset.name, dataset_counter, dataset_counter_max,
+                model_type['name'], model_in_dataset_counter, model_in_dataset_counter_max,
+                round(total_counter / total_counter_max, ndigits=4) * 100
+            ))
+
+            run_optimization()
+
+            model_in_dataset_counter = model_in_dataset_counter + 1
+            total_counter = total_counter + 1
+
+        dataset_counter = dataset_counter + 1
