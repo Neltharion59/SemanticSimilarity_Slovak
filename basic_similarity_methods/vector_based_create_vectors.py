@@ -10,7 +10,6 @@ from numpy import zeros
 from scipy.linalg import svd as scipy_svd
 
 from dataset_modification_scripts.dataset_dictionary import word_pool_total as word_pool
-from dataset_modification_scripts.corpora_pool import corpora_pool
 
 
 # Handy function to easily process missing values

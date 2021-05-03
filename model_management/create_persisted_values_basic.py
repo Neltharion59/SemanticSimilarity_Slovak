@@ -22,4 +22,11 @@ for key in dataset_pool:
         # Loop over each method we know
         for sts_method_name in sts_method_pool:
             for sts_method in sts_method_pool[sts_method_name]:
+
+                if 'corpus' in sts_method.args:
+                    if 'lemma' in dataset.name:
+                        sts_method.args['corpus'] = sts_method.args['corpus'].replace('_sk.txt', '_sk_lemma.txt')
+                    else:
+                        sts_method.args['corpus'] = sts_method.args['corpus'].replace('_sk_lemma.txt', '_sk.txt')
+
                 dataset.predict_and_persist_values(sts_method)

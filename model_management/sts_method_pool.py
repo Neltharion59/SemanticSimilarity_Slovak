@@ -3,6 +3,7 @@
 from basic_similarity_methods.character_based import *
 from basic_similarity_methods.knowledge_based import wu_palmer_similarity_sentence, path_similarity_sentence, \
     leacock_chodorow_similarity_sentence, args_knowledge
+from basic_similarity_methods.vector_based import args_vector_based, args_minkowski_p, manhattan, euclidean, minkowski
 from model_management.sts_method_wrappers import STSMethod
 
 
@@ -126,6 +127,20 @@ add_to_method_pool(name, {}, lcsstr, sts_method_pool)
 # Add ochiai similarity
 name = "ochiai"
 add_to_method_pool(name, args_set_based, ochiai, sts_method_pool)
+# -----------------------------------------------------------------------------
+# ---------------------------   VECTOR   --------------------------------------
+# -----------------------------------------------------------------------------
+# Add manhattan similarity
+name = "manhattan"
+add_to_method_pool(name, args_vector_based, manhattan, sts_method_pool)
+# Add euclidean similarity
+name = "euclidean"
+add_to_method_pool(name, args_vector_based, euclidean, sts_method_pool)
+# Add minkowski similarity
+name = "minkowski"
+args_minkowski = {key: value for (key, value) in args_vector_based.items()}
+args_minkowski['p'] = args_minkowski_p
+add_to_method_pool(name, args_minkowski, minkowski, sts_method_pool)
 # -----------------------------------------------------------------------------
 # ------------------------   KNOWLEDGE   --------------------------------------
 # -----------------------------------------------------------------------------
