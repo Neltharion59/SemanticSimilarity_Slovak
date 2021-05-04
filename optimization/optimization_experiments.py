@@ -15,81 +15,121 @@ from sklearn.tree import DecisionTreeRegressor
 
 from Hive import Utilities
 from Hive import Hive
-from complex_similarity_methods.dataset_fragmentation import FragmentedDatasetCV
+from basic_similarity_methods.vector_based_create_vectors import average
+from complex_similarity_methods.dataset_fragmentation import FragmentedDatasetCV, FragmentedDatasetSuper
 from complex_similarity_methods.dataset_split_ratio import DatasetSplitRatio
 
 from complex_similarity_methods.regression_methods_core import prepare_training_data, train_n_test
 from dataset_modification_scripts.dataset_wrapper import gold_standard_name
 from dataset_modification_scripts.dataset_pool import dataset_pool
+from evaluation.evaluate_regression_metrics import pearson
 from model_management.sts_model_pool import model_types
 
 # Config
 dataset_split_ratio = DatasetSplitRatio(0.70, 0.30)
+cross_validation_fold_count = 4
+fitness_metric = {
+    'name': 'pearson',
+    'method': pearson
+}
+weights = {
+    'elements': ['test', 'validation'],
+    'values': [1, 3]
+}
+
+# Storage
+algorithm_run = {
+    'run_id': 1,
+    'main': {}
+}
 
 # Dataset - specific
-persisted_methods = None
+split_dataset_master = None
 sorted_method_group_names = None
 method_count = None
 method_param_counts = None
-gold_values = None
+
 # Dataset&Model - specific
 sorted_arg_names = None
 arg_possibility_counts = None
+best_model = None
 
 
 # Beehive looks for minimum. Make this so that lowest value of this function means the best solution
 def solution_evaluator(vector):
     temp_vector = list(map(lambda x: int(x), vector))
     param_dict = {}
+
+    # Hyperparameters of model
     for i in range(len(sorted_arg_names)):
         param_dict[sorted_arg_names[i]] = model_type['args'][sorted_arg_names[i]][temp_vector[i]]
 
-    model = model_type['model'](**param_dict)
-
+    # Features to be fed to model
     inputs = []
     temp_vector_starting_index = len(sorted_arg_names)
     for i in range(method_count):
         if temp_vector[temp_vector_starting_index + i] < method_param_counts[i]:
             inputs.append({
                 'method_name': sorted_method_group_names[i],
-                'values': persisted_methods[sorted_method_group_names[i]][temp_vector[temp_vector_starting_index + i]]['values']
+                'values': split_dataset_master.Train.features[sorted_method_group_names[i]][temp_vector[temp_vector_starting_index + i]]['values']
             })
 
-    print('ja')
-    dataset_fragments = FragmentedDatasetCV(inputs, gold_values, dataset_split_ratio, 4)
-    print('aj')
-    exit()
-
-    x_train, x_test, y_train, y_test = prepare_training_data(
-                dataset,
-                inputs,
-                print_head=False
-            )
-
-    #print('Hive::solution_evaluator - input names : {}'.format(input_names))
-    #print('Hive::solution_evaluator: - param dict: {}'.format(param_dict))
-
-    if len(input_names) < 2:
+    if len(inputs) < 2:
         return 2
 
-    metrics = train_n_test(x_train, x_test, y_train, y_test, model, verbose=False)
-    #print("Model with pearson: ", metrics['PEARSON'][0])
+    # Data for model
+    dataset_fragments = FragmentedDatasetCV(inputs, split_dataset_master.Train.labels, cross_validation_fold_count)
+    metric_values_test = []
+    for k in range(len(dataset_fragments.folds)):
+        model_data = dataset_fragments.produce_split_dataset(k).produce_sklearn_ready_data()
 
-    return 1 - metrics['PEARSON'][0] if metrics['PEARSON'][0] is not None else 2
+        # ML Model
+        model = model_type['model'](**param_dict)
+        model.fit(model_data.train.features, model_data.train.labels)
+        metric_values_test.append(fitness_metric['method'](model_data.test.labels, model.predict(model_data.test.features)))
+
+    metric_avg_test = average(metric_values_test)
+
+    # print(metric_values_test)
+    # print(metric_values_valid)
+    # print(metric_avg_test)
+    # print(metric_avg_valid)
+    # print(metric_total)
+
+    # print('Validation.Labels: {}'.format(len(dataset_fragments.validation_data.labels)))
+    # print('Validation.Features: {}x{}'.format(len(dataset_fragments.validation_data.features), len(dataset_fragments.validation_data.features[0])))
+    # for i in range(len(dataset_fragments.folds)):
+    #     print('Fold {}'.format(i + 1))
+    #     print('\tLabels: {}'.format(len(dataset_fragments.folds[i].labels)))
+    #     print('\tFeatures: {}x{}'.format(
+    #         len(dataset_fragments.folds[i].features),
+    #         len(dataset_fragments.folds[i].features[0]))
+    #     )
+
+    # The algorithm minimizes the fitness value -> adjust the metric for this
+    fitness = 1 - metric_avg_test if metric_avg_test is not None else 2
+
+    global best_model
+    if best_model is None or best_model['fitness'] > fitness:
+        best_model = {
+            'vector': vector,
+            'fitness': fitness
+        }
+
+    return fitness
 
 
 # ---- SOLVE TEST CASE WITH ARTIFICIAL BEE COLONY ALGORITHM
 
 def run_optimization():
-
-    # creates model
+    # creates optimizer model
     model = Hive.BeeHive(
                          lower=[0] * (len(arg_possibility_counts) + method_count),
                          upper=list(map(lambda x: x - 1, arg_possibility_counts)) +
                                list(map(lambda x: 2 * x - 1, method_param_counts)),
                          fun=solution_evaluator,
-                         numb_bees=2,
-                         max_itrs=2
+                         numb_bees=5,
+                         max_itrs=10
                         )
 
     # runs model
@@ -104,10 +144,12 @@ def run_optimization():
 
     # prints out best solution
     #print("Fitness Value ABC: {0}".format(model.best))
-    print("Best pearson by ABC: {0}".format(1-model.best))
+    print("Best pearson by ABC: {}\nAchieved by {}\n Best History: {}\n Mean History: {}".format(1-model.best, model.solution, cost['best'], cost['mean']))
 
     x = model.solution
     #print('Solution is: {}'.format(x))
+    print("-" * 40 + "\nBest model - person: {}\nSolution: {}".format(1 - best_model['fitness'], best_model['vector']))
+    exit()
 
 
 dataset_counter = 1
@@ -119,16 +161,19 @@ total_counter = 1
 total_counter_max = dataset_counter_max * model_in_dataset_counter_max
 
 for key in dataset_pool:
+    algorithm_run['main'][key] = {}
     for dataset in dataset_pool[key]:
+        algorithm_run['main'][key][dataset.name] = {}
 
-        persisted_methods = dataset.load_values()
-        gold_values = [round(x/5, ndigits=3) for x in persisted_methods[gold_standard_name][0]['values']]
-        del persisted_methods[gold_standard_name]
+        persisted_methods_temp = dataset.load_values()
+        gold_values_temp = [round(x/5, ndigits=3) for x in persisted_methods_temp[gold_standard_name][0]['values']]
+        del persisted_methods_temp[gold_standard_name]
 
-        sorted_method_group_names = sorted(persisted_methods.keys())
+        split_dataset_master = FragmentedDatasetSuper(persisted_methods_temp, gold_values_temp, dataset_split_ratio)
+        sorted_method_group_names = sorted(persisted_methods_temp.keys())
         method_count = len(sorted_method_group_names)
 
-        method_param_counts = [len(persisted_methods[sorted_method_group_names[i]]) for i in range(method_count)]
+        method_param_counts = [len(persisted_methods_temp[sorted_method_group_names[i]]) for i in range(method_count)]
 
         model_in_dataset_counter = 1
         for model_type in model_types:
@@ -143,6 +188,7 @@ for key in dataset_pool:
                 round(total_counter / total_counter_max, ndigits=4) * 100
             ))
 
+            best_model = None
             run_optimization()
 
             model_in_dataset_counter = model_in_dataset_counter + 1

@@ -166,3 +166,7 @@ def evaluate_prediction_metrics(gold_standard_values, prediction_values, scaling
     }
 
     return prediction_metrics
+
+
+def pearson(labels, predictions):
+    return pearsonr(labels, predictions)[0]
