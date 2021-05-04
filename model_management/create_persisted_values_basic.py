@@ -12,13 +12,53 @@ sys.path.append(conf_path + '/..')
 sys.path.append(conf_path + '/../..')
 
 from model_management.sts_method_pool import sts_method_pool
-from dataset_modification_scripts.dataset_pool import dataset_pool
+from dataset_modification_scripts.dataset_pool import dataset_pool, find_dataset_by_name
 
 for key in dataset_pool:
     # Loop over each dataset to calculate and persist values for all methods
     for dataset in dataset_pool[key]:
         # Persist gold standard first - no need to calculate anything
         dataset.persist_gold_standard()
+
+        # THIS ASSUMES THAT ALL ARG COMBINATIONS ARE ORDERED THE SAME FOR ALL DATASETS AND ALL VALUES ARE CALCULATED 4 ALL DATASETS
+        if dataset.name in ['semeval-all', 'semeval-all_lemma', 'all', 'all_lemma']:
+            sub_datasets = []
+
+            if dataset.name == 'semeval-all':
+                sub_datasets = ['semeval-2012', 'semeval-2013', 'semeval-2014', 'semeval-2015', 'semeval-2016']
+            elif dataset.name == 'semeval-all_lemma':
+                sub_datasets = ['semeval-2012_lemma', 'semeval-2013_lemma', 'semeval-2014_lemma', 'semeval-2015_lemma',
+                                'semeval-2016_lemma']
+            elif dataset.name == 'all':
+                sub_datasets = ['semeval-2012', 'semeval-2013', 'semeval-2014', 'semeval-2015', 'semeval-2016', 'sick']
+            elif dataset.name == 'all_lemma':
+                sub_datasets = ['semeval-2012_lemma', 'semeval-2013_lemma', 'semeval-2014_lemma', 'semeval-2015_lemma',
+                                'semeval-2016_lemma', 'sick_lemma']
+            else:
+                raise ValueError('No sub datasets for composite dataset {}'.format(dataset.name))
+
+            first_dataset = find_dataset_by_name(key, sub_datasets[0])
+            if first_dataset is None:
+                raise ValueError('Sub dataset not found: {} in {}'.format(sub_datasets[0], dataset.name))
+            merged_dict = first_dataset.load_values()
+            if len(list(merged_dict.keys())):
+                raise ValueError('Sub dataset empty: {} in {}'.format(sub_datasets[0], dataset.name))
+
+            for sub_dataset_name in sub_datasets[1:]:
+
+                sub_dataset = find_dataset_by_name(key, sub_dataset_name)
+                if sub_dataset is None:
+                    raise ValueError('Sub dataset not found: {} in {}'.format(sub_dataset_name, dataset.name))
+                current_dict = sub_dataset.load_values()
+                if len(list(current_dict.keys())):
+                    raise ValueError('Sub dataset empty: {} in {}'.format(sub_dataset_name, dataset.name))
+
+                for method_name in current_dict:
+                    for i in range(len(current_dict[method_name])):
+                        merged_dict[method_name][i] = merged_dict[method_name][i] + current_dict[method_name][i]
+
+            dataset.persist_values(merged_dict)
+
         # Loop over each method we know
         for sts_method_name in sts_method_pool:
             for sts_method in sts_method_pool[sts_method_name]:
@@ -29,4 +69,5 @@ for key in dataset_pool:
                     else:
                         sts_method.args['corpus'] = sts_method.args['corpus'].replace('_sk_lemma.txt', '_sk.txt')
 
-                dataset.predict_and_persist_values(sts_method)
+                else:
+                    dataset.predict_and_persist_values(sts_method)

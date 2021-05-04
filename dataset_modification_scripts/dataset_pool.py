@@ -133,3 +133,10 @@ dataset_pool['lemma'] = [
     for dataset in dataset_pool['raw']
 ]
 
+
+def find_dataset_by_name(key, dataset_name):
+    for dataset in dataset_pool[key]:
+        if dataset.name == dataset_name:
+            return dataset
+
+    return None
