@@ -55,7 +55,7 @@ for key in dataset_pool:
 
                 for method_name in current_dict:
                     for i in range(len(current_dict[method_name])):
-                        merged_dict[method_name][i] = merged_dict[method_name][i] + current_dict[method_name][i]
+                        merged_dict[method_name][i]['values'] = merged_dict[method_name][i]['values'] + current_dict[method_name][i]['values']
 
             dataset.persist_values(merged_dict)
 
