@@ -17,6 +17,8 @@ from dataset_modification_scripts.dataset_pool import dataset_pool, find_dataset
 for key in dataset_pool:
     # Loop over each dataset to calculate and persist values for all methods
     for dataset in dataset_pool[key]:
+        print('Processing dataset {}'.format(dataset.name))
+
         # Persist gold standard first - no need to calculate anything
         dataset.persist_gold_standard()
 
@@ -50,12 +52,21 @@ for key in dataset_pool:
                 if sub_dataset is None:
                     raise ValueError('Sub dataset not found: {} in {}'.format(sub_dataset_name, dataset.name))
                 current_dict = sub_dataset.load_values()
-                if len(list(current_dict.keys())):
+                if len(list(current_dict.keys())) == 0:
                     raise ValueError('Sub dataset empty: {} in {}'.format(sub_dataset_name, dataset.name))
 
                 for method_name in current_dict:
+                    if method_name not in merged_dict:
+                        print('For dataset {} skipping {}'.format(dataset.name, method_name))
+                        continue
+
                     for i in range(len(current_dict[method_name])):
                         merged_dict[method_name][i]['values'] = merged_dict[method_name][i]['values'] + current_dict[method_name][i]['values']
+
+                for method_name in merged_dict:
+                    if method_name not in current_dict:
+                        print('For dataset {} removing method {}'.format(dataset.name, method_name))
+                        del method_name[method_name]
 
             dataset.persist_values(merged_dict)
 
@@ -68,6 +79,5 @@ for key in dataset_pool:
                         sts_method.args['corpus'] = sts_method.args['corpus'].replace('_sk.txt', '_sk_lemma.txt')
                     else:
                         sts_method.args['corpus'] = sts_method.args['corpus'].replace('_sk_lemma.txt', '_sk.txt')
-
                 else:
                     dataset.predict_and_persist_values(sts_method)
