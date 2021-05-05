@@ -242,6 +242,14 @@ for key in dataset_pool:
                                     persisted_methods_temp[gold_standard_name][0]['values']]
                 del persisted_methods_temp[gold_standard_name]
 
+                for method_name in persisted_methods_temp:
+                    for i in range(len(persisted_methods_temp[method_name])):
+                        if 'corpus' in persisted_methods_temp[method_name][i]['args']:
+                            if key == 'lemma':
+                                persisted_methods_temp[method_name][i]['args']['corpus'] = persisted_methods_temp[method_name][i]['args']['corpus'].replace('_sk.txt', '_sk_lemma.txt')
+                            else:
+                                persisted_methods_temp[method_name][i]['args']['corpus'] = persisted_methods_temp[method_name][i]['args']['corpus'].replace('_sk_lemma.txt', '_sk.txt')
+
                 split_dataset_master = FragmentedDatasetSuper(persisted_methods_temp, gold_values_temp,
                                                               dataset_split_ratio)
                 sorted_method_group_names = sorted(persisted_methods_temp.keys())
