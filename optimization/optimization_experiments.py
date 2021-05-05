@@ -3,6 +3,8 @@ import json
 import os
 
 from joblib import dump
+from sklearn.exceptions import ConvergenceWarning
+from sklearn.utils._testing import ignore_warnings
 
 from Hive import Hive
 from basic_similarity_methods.vector_based_create_vectors import average
@@ -24,8 +26,8 @@ fitness_metric = {
     'name': 'pearson',
     'method': pearson
 }
-bee_count = 10
-iteration_cap = 20
+bee_count = 2
+iteration_cap = 5
 
 # Storage
 algorithm_run = {
@@ -89,6 +91,7 @@ def persist_optimizer_run():
 
 
 # Beehive looks for minimum. Make this so that lowest value of this function means the best solution
+@ignore_warnings(category=ConvergenceWarning)
 def solution_evaluator(vector):
     global optimizer_iteration_counter
 
