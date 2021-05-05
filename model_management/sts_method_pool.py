@@ -59,12 +59,6 @@ args_hamming = {
 }
 add_to_method_pool(name, args_hamming, hamming, sts_method_pool)
 # -----------------------------------------------------------------------------
-# Add MLIPNS similarity
-name = "mlipns"
-args_mlipns = {
-}
-add_to_method_pool(name, args_mlipns, mlipns, sts_method_pool)
-# -----------------------------------------------------------------------------
 # Add levenshtein similarity
 name = "levenshtein"
 args_levenshtein = {
