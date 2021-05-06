@@ -14,6 +14,24 @@ sys.path.append(conf_path + '/../..')
 from model_management.sts_method_pool import sts_method_pool
 from dataset_modification_scripts.dataset_pool import dataset_pool, find_dataset_by_name
 
+
+def dict_match(dict1, dict2):
+
+    for key in dict1:
+        if key not in dict2:
+            return False
+        if dict1[key] != dict2[key]:
+            return False
+
+    for key in dict2:
+        if key not in dict1:
+            return False
+        if dict1[key] != dict2[key]:
+            return False
+
+    return True
+
+
 for key in dataset_pool:
     # Loop over each dataset to calculate and persist values for all methods
     for dataset in dataset_pool[key]:
@@ -61,12 +79,30 @@ for key in dataset_pool:
                         continue
 
                     for i in range(len(current_dict[method_name])):
-                        merged_dict[method_name][i]['values'] = merged_dict[method_name][i]['values'] + current_dict[method_name][i]['values']
+                        for j in range(len(merged_dict[method_name])):
+                            if dict_match(current_dict[method_name][i]['args'], merged_dict[method_name][i]['args']):
+                                merged_dict[method_name][j]['values'] = merged_dict[method_name][j]['values'] + current_dict[method_name][i]['values']
 
                 for method_name in merged_dict:
                     if method_name not in current_dict:
                         print('For dataset {} removing method {}'.format(dataset.name, method_name))
                         del method_name[method_name]
+
+            max_len = 0
+            for method_name in merged_dict:
+                for record in merged_dict[method_name]:
+                    max_len = max(max_len, len(record['values']))
+
+            for method_name in merged_dict:
+                for i in reversed(range(len(merged_dict[method_name]))):
+                    if len(merged_dict[method_name][i]['values']) < max_len:
+                        print('Removing configuration of method {} for dataset {}. Configuration: {}'.format(method_name, dataset.name,merged_dict[method_name][i]['args']))
+                        del merged_dict[method_name][i]
+
+            for method_name in merged_dict:
+                if len(merged_dict[method_name]) == 0:
+                    print('Removing entire method {} for dataset {}.'.format(method_name, dataset.name))
+                    del merged_dict[method_name]
 
             dataset.persist_values(merged_dict)
 
