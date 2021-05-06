@@ -32,7 +32,7 @@ def average(values, weights=None):
     if len(values) != len(weights):
         raise ValueError('Values and weights do not have the same length')
 
-    return reduce(op.add, [value * weight for value, weight in zip(values, weights)]) / len(values)
+    return reduce(op.add, [value * weight for value, weight in zip(values, weights)]) / sum(weights)
 
 
 with open("./../resources/stop_words.txt", 'r', encoding='utf-8') as file:

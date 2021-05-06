@@ -30,13 +30,6 @@ def hamming(text1, text2, args):
     return value
 
 
-# Calculate MLIPNS similarity on given pair of strings using given parameters.
-# Params: str, str, dict<string, string>
-# Return: float
-def mlipns(text1, text2, args):
-    return textdistance.mlipns.normalized_similarity(text1, text2)
-
-
 # Calculate levenshtein similarity on given pair of strings using given parameters.
 # Params: str, str, dict<string, string>
 # Return: float

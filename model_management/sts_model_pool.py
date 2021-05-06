@@ -1,9 +1,11 @@
 # Library-like script providing pool of all aggregating STS methods
 # Focused on sklearn models
-
-from sklearn.linear_model import LinearRegression
+from sklearn.gaussian_process import GaussianProcessRegressor
+from sklearn.isotonic import IsotonicRegression
+from sklearn.linear_model import LinearRegression, BayesianRidge
 from sklearn.svm import SVR
 from sklearn.tree import DecisionTreeRegressor
+from sklearn.gaussian_process.kernels import *
 
 import re
 from os import listdir, getcwd
@@ -16,7 +18,7 @@ sys.path.append(conf_path)
 sys.path.append(conf_path + '/..')
 sys.path.append(conf_path + '/../..')
 
-from model_management.sts_method_value_persistor import input_folder
+from dataset_modification_scripts.dataset_wrapper import input_folder
 
 # Prepare regexes to be used in this script
 dataset_input_file_name_pattern = re.compile(".*_sk(_lemma)?\.txt")
@@ -62,6 +64,42 @@ model_types = [
             'min_samples_leaf': list(range(1, 30)),
             'max_features': ['auto', 'sqrt', 'log2', None],
             'max_leaf_nodes': list(range(2, 10))
+        }
+    },
+    {
+        "name": "bayesan_ridge_regression",
+        "model": BayesianRidge,
+        "args": {
+            'n_iter': [50 * x for x in range(1, 7)],
+            'alpha_1': [x * (10 ** -y) for x in [1, 2, 5] for y in [4, 5, 6]],
+            'alpha_2': [x * (10 ** -y) for x in [1, 2, 5] for y in [4, 5, 6]],
+            'lambda_1': [x * (10 ** -y) for x in [1, 2, 5] for y in [4, 5, 6]],
+            'lambda_2': [x * (10 ** -y) for x in [1, 2, 5] for y in [4, 5, 6]],
+            'alpha_init': [None] + [x * (10 ** -y) for x in [1, 2, 5] for y in [1, 2, 3]]
+        }
+    },
+    {
+        "name": "gaussian_process_regression",
+        "model": GaussianProcessRegressor,
+        "args": {
+            'kernel':
+                [WhiteKernel(), DotProduct(), Matern(), RationalQuadratic(), ExpSineSquared(), RBF()] +
+                [
+                    Exponentiation(kernel, 2)
+                    for kernel in [WhiteKernel(), DotProduct(), Matern(), RationalQuadratic(), ExpSineSquared(), RBF()]
+                ]  +
+                [
+                    Product(kernel1, kernel2)
+                    for kernel1 in [WhiteKernel(), DotProduct(), Matern(), RationalQuadratic(), ExpSineSquared(), RBF()]
+                    for kernel2 in [WhiteKernel(), DotProduct(), Matern(), RationalQuadratic(), ExpSineSquared(), RBF()]
+                ] +
+                [
+                    kernel1 + kernel2
+                    for kernel1 in [WhiteKernel(), DotProduct(), Matern(), RationalQuadratic(), ExpSineSquared(), RBF()]
+                    for kernel2 in [WhiteKernel(), DotProduct(), Matern(), RationalQuadratic(), ExpSineSquared(), RBF()]
+                ],
+            'alpha': [x * (10 ** -y) for x in [1, 2, 5] for y in [1, 2, 3]],
+            'n_restarts_optimizer': [0, 1, 2]
         }
     }
 ]

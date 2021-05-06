@@ -3,9 +3,6 @@ import os
 from os import listdir
 from os.path import isfile, join
 import re
-import json
-from time import sleep
-from requests import post
 
 # Let's prepare the paths to read from and write to.
 input_path = "./../resources/corpora/raw/"
