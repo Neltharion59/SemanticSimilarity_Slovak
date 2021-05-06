@@ -1,3 +1,4 @@
+from decimal import Decimal
 from math import sqrt, pi
 from operator import add
 from scipy.spatial.distance import cosine as cos
@@ -12,7 +13,7 @@ args_vector_based = {
     'construction_method':  ['hal'],
     'vector_merge_strategy': ['add', 'add_pos_weight', 'add_power11_weight']
 }
-args_minkowski_p = [3, pi, 4, 5]
+args_minkowski_p = [3, 4, 5]
 
 
 def vectorize_text(text1, text2, args):
@@ -93,15 +94,23 @@ def euclidean(text1, text2, args):
 def minkowski(text1, text2, args):
     vector1, vector2 = vectorize_text(text1, text2, args)
 
-    vector1_len = sum(map(lambda x: abs(x) ** args['p'], vector1)) ** (1 / args['p'])
-    vector1_len = 1 if vector1_len == 0 else vector1_len
+    temp_sum = Decimal(0)
+    for number in vector1:
+        temp_sum = Decimal(temp_sum + Decimal(Decimal(abs(number)) ** Decimal(args['p'])))
+    vector1_len = Decimal(temp_sum ** Decimal(1 / args['p']))
+    vector1_len = float(vector1_len)
+    vector1_len = 1.0 if vector1_len == 0.0 else vector1_len
     vector1_normalized = list(map(lambda x: x/vector1_len, vector1))
 
-    vector2_len = sum(map(lambda x: abs(x) ** args['p'], vector2)) ** (1 / args['p'])
-    vector2_len = 1 if vector2_len == 0 else vector2_len
+    temp_sum = Decimal(0)
+    for number in vector2:
+        temp_sum = Decimal(temp_sum + Decimal(Decimal(abs(number)) ** Decimal(args['p'])))
+    vector2_len = Decimal(temp_sum ** Decimal(1 / args['p']))
+    vector2_len = float(vector2_len)
+    vector2_len = 1.0 if vector2_len == 0.0 else vector2_len
     vector2_normalized = list(map(lambda x: x / vector2_len, vector2))
 
-    distance_vector_size = (sum([abs(x - y) ** args['p'] for x, y in zip(vector1_normalized, vector2_normalized)]) ** (1 / args['p']))
+    distance_vector_size = (sum([round(abs(x - y) ** args['p'], ndigits=5) for x, y in zip(vector1_normalized, vector2_normalized)]) ** (1 / args['p']))
     similarity = 0 if distance_vector_size == 0 else 1 - distance_vector_size / 2
 
     return similarity
