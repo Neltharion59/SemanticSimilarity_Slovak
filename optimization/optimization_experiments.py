@@ -17,6 +17,8 @@ from evaluation.evaluate_regression_metrics import pearson
 from model_management.persistent_id_generator import PersistentIdGenerator
 from model_management.sts_model_pool import model_types
 
+from playsound import playsound
+
 path_to_optimizer_run_record_folder = './../resources/optimizer_runs/'
 
 # Config
@@ -214,66 +216,72 @@ model_in_dataset_counter_max = len(model_types)
 total_counter = 1
 total_counter_max = dataset_counter_max * model_in_dataset_counter_max
 
-for key in dataset_pool:
+try:
+    for key in dataset_pool:
+        break
 
-    if key not in algorithm_run['main']:
-        algorithm_run['main'][key] = {}
+        if key not in algorithm_run['main']:
+            algorithm_run['main'][key] = {}
 
-    for dataset in dataset_pool[key]:
-        if dataset.name not in algorithm_run['main'][key]:
-            algorithm_run['main'][key][dataset.name] = {}
+        for dataset in dataset_pool[key]:
+            if dataset.name not in algorithm_run['main'][key]:
+                algorithm_run['main'][key][dataset.name] = {}
 
-        model_in_dataset_counter = 1
-        for model_type in model_types:
+            model_in_dataset_counter = 1
+            for model_type in model_types:
 
-            print('DATASET {}: {}/{} | MODEL {}: {}/{} | TOTAL: {}/{} {}%'.format(
+                print('DATASET {}: {}/{} | MODEL {}: {}/{} | TOTAL: {}/{} {}%'.format(
 
-                dataset.name, dataset_counter, dataset_counter_max,
-                model_type['name'], model_in_dataset_counter, model_in_dataset_counter_max,
-                total_counter, total_counter_max, round(total_counter / total_counter_max, ndigits=4) * 100
-            ))
+                    dataset.name, dataset_counter, dataset_counter_max,
+                    model_type['name'], model_in_dataset_counter, model_in_dataset_counter_max,
+                    total_counter, total_counter_max, round(total_counter / total_counter_max, ndigits=4) * 100
+                ))
 
-            if 'models' not in algorithm_run['main'][key][dataset.name]:
-                algorithm_run['main'][key][dataset.name]['models'] = {}
+                if 'models' not in algorithm_run['main'][key][dataset.name]:
+                    algorithm_run['main'][key][dataset.name]['models'] = {}
 
-            if model_type['name'] not in algorithm_run['main'][key][dataset.name]['models']:
-                print('DOES NOT EXIST - TRAINING')
-                algorithm_run['main'][key][dataset.name]['models'][model_type['name']] = {}
+                if model_type['name'] not in algorithm_run['main'][key][dataset.name]['models']:
+                    print('DOES NOT EXIST - TRAINING')
+                    algorithm_run['main'][key][dataset.name]['models'][model_type['name']] = {}
 
-                persisted_methods_temp = dataset.load_values()
-                gold_values_temp = [round(x / 5, ndigits=3) for x in
-                                    persisted_methods_temp[gold_standard_name][0]['values']]
-                del persisted_methods_temp[gold_standard_name]
+                    persisted_methods_temp = dataset.load_values()
+                    gold_values_temp = [round(x / 5, ndigits=3) for x in
+                                        persisted_methods_temp[gold_standard_name][0]['values']]
+                    del persisted_methods_temp[gold_standard_name]
 
-                for method_name in persisted_methods_temp:
-                    for i in range(len(persisted_methods_temp[method_name])):
-                        if 'corpus' in persisted_methods_temp[method_name][i]['args']:
-                            if key == 'lemma':
-                                persisted_methods_temp[method_name][i]['args']['corpus'] = persisted_methods_temp[method_name][i]['args']['corpus'].replace('_sk.txt', '_sk_lemma.txt')
-                            else:
-                                persisted_methods_temp[method_name][i]['args']['corpus'] = persisted_methods_temp[method_name][i]['args']['corpus'].replace('_sk_lemma.txt', '_sk.txt')
+                    for method_name in persisted_methods_temp:
+                        for i in range(len(persisted_methods_temp[method_name])):
+                            if 'corpus' in persisted_methods_temp[method_name][i]['args']:
+                                if key == 'lemma':
+                                    persisted_methods_temp[method_name][i]['args']['corpus'] = persisted_methods_temp[method_name][i]['args']['corpus'].replace('_sk.txt', '_sk_lemma.txt')
+                                else:
+                                    persisted_methods_temp[method_name][i]['args']['corpus'] = persisted_methods_temp[method_name][i]['args']['corpus'].replace('_sk_lemma.txt', '_sk.txt')
 
-                split_dataset_master = FragmentedDatasetSuper(persisted_methods_temp, gold_values_temp,
-                                                              dataset_split_ratio)
-                sorted_method_group_names = sorted(persisted_methods_temp.keys())
-                method_count = len(sorted_method_group_names)
+                    split_dataset_master = FragmentedDatasetSuper(persisted_methods_temp, gold_values_temp,
+                                                                  dataset_split_ratio)
+                    sorted_method_group_names = sorted(persisted_methods_temp.keys())
+                    method_count = len(sorted_method_group_names)
 
-                method_param_counts = [len(persisted_methods_temp[sorted_method_group_names[i]])
-                                       for i in range(method_count)]
+                    method_param_counts = [len(persisted_methods_temp[sorted_method_group_names[i]])
+                                           for i in range(method_count)]
 
-                sorted_arg_names = sorted(model_type['args'].keys())
-                arg_possibility_counts = list(map(lambda x: len(model_type['args'][x]), sorted_arg_names))
+                    sorted_arg_names = sorted(model_type['args'].keys())
+                    arg_possibility_counts = list(map(lambda x: len(model_type['args'][x]), sorted_arg_names))
 
-                best_model = None
-                optimizer_iteration_counter = 0
-                run_optimization()
+                    best_model = None
+                    optimizer_iteration_counter = 0
+                    run_optimization()
 
-                persist_optimizer_run()
+                    persist_optimizer_run()
 
-            else:
-                print('EXISTS - SKIPPING')
+                else:
+                    print('EXISTS - SKIPPING')
 
-            model_in_dataset_counter = model_in_dataset_counter + 1
-            total_counter = total_counter + 1
+                model_in_dataset_counter = model_in_dataset_counter + 1
+                total_counter = total_counter + 1
 
-        dataset_counter = dataset_counter + 1
+            dataset_counter = dataset_counter + 1
+
+    playsound('./../sounds/victory.mp3')
+except:
+    playsound('./../sounds/wrong.mp3')
