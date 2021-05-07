@@ -83,23 +83,10 @@ model_types = [
         "model": GaussianProcessRegressor,
         "args": {
             'kernel':
-                [WhiteKernel(), DotProduct(), Matern(), RationalQuadratic(), ExpSineSquared(), RBF()] +
-                [
-                    Exponentiation(kernel, 2)
-                    for kernel in [WhiteKernel(), DotProduct(), Matern(), RationalQuadratic(), ExpSineSquared(), RBF()]
-                ]  +
-                [
-                    Product(kernel1, kernel2)
-                    for kernel1 in [WhiteKernel(), DotProduct(), Matern(), RationalQuadratic(), ExpSineSquared(), RBF()]
-                    for kernel2 in [WhiteKernel(), DotProduct(), Matern(), RationalQuadratic(), ExpSineSquared(), RBF()]
-                ] +
-                [
-                    kernel1 + kernel2
-                    for kernel1 in [WhiteKernel(), DotProduct(), Matern(), RationalQuadratic(), ExpSineSquared(), RBF()]
-                    for kernel2 in [WhiteKernel(), DotProduct(), Matern(), RationalQuadratic(), ExpSineSquared(), RBF()]
-                ],
+                [WhiteKernel(), DotProduct(), Matern(), RationalQuadratic(), ExpSineSquared(), RBF()],
             'alpha': [x * (10 ** -y) for x in [1, 2, 5] for y in [1, 2, 3]],
             'n_restarts_optimizer': [0, 1, 2]
         }
     }
 ]
+model_types = [model_types[0]]

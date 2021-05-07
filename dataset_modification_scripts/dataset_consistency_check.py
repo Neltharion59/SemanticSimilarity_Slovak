@@ -8,6 +8,10 @@ for key in dataset_pool:
         print('-' * 40 + '\nType: {} | Dataset: {} | Size: {} | Status:'.format(key, dataset.name, dataset_size))
 
         values = dataset.load_values()
+        if len(list(values.keys())) == 0:
+            print('Empty. SKIPPING')
+            continue
+
         faulty_configs = []
         for method_name in values:
             for config in values[method_name]:

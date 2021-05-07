@@ -7,7 +7,7 @@ from dataset_modification_scripts.corpora_pool import corpora_pool
 from dataset_modification_scripts.vector_pool import vector_pool
 
 args_vector_based = {
-    'corpus': [corpus.name for corpus in corpora_pool['raw']],
+    'corpus': [corpus.name for corpus in corpora_pool['raw'] if '2016_newscrawl' in corpus.name],
     'vector_length': ['200', '400', '600', 'full'],
     'window_size': ['9'],
     'construction_method':  ['hal'],

@@ -22,10 +22,16 @@ confs_to_delete = [
     {
         'method_name': 'minkowski',
         'args': {
-            'p': pi
+            'p': 3.141592653589793
         }
     }
 ]
+confs_only_to_delete = {
+    'corpus': [
+        '2016_web_sk.txt', '2016_wikipedia_sk.txt', '2018_wiki_sk.txt', '2020_news_sk.txt',
+        '2016_web_sk_lemma.txt', '2016_wikipedia_sk_lemma.txt', '2018_wiki_sk_lemma.txt', '2020_news_sk_lemma.txt'
+    ]
+}
 # ---------------------------------------------------------------------------------------
 # ---------------------------------------------------------------------------------------
 # ---------------------------------------------------------------------------------------
@@ -51,15 +57,23 @@ for key in dataset_pool:
         for method_name in methods_to_delete:
             if method_name in values:
                 print('Found {} in {}. TIME TO DELETE!'.format(method_name, dataset.name))
-                del values[method_name]
+                values.pop(method_name)
                 deleted = True
 
         for conf_to_delete in confs_to_delete:
             if conf_to_delete['method_name'] in values:
                 for i in reversed(range(len(values[conf_to_delete['method_name']]))):
-                    if dict_subset(values[conf_to_delete['method_name']], conf_to_delete['args']):
+                    if dict_subset(values[conf_to_delete['method_name']][i]['args'], conf_to_delete['args']):
                         print('Deleting configuration of method {} for dataset {}. Configuration: {}'.format(conf_to_delete['method_name'] , dataset.name, values[conf_to_delete['method_name']][i]['args']))
-                        del values[conf_to_delete['method_name']][i]
+                        values[conf_to_delete['method_name']].pop(i)
+                        deleted = True
+
+        for method_name in values:
+            for i in reversed(range(len(values[method_name]))):
+                for arg_name in confs_only_to_delete:
+                    if arg_name in values[method_name][i]['args'] and values[method_name][i]['args'][arg_name] in confs_only_to_delete[arg_name]:
+                        print('Deleting configuration of method {} for dataset {}. Configuration: {}'.format(method_name, dataset.name, values[method_name][i]['args']))
+                        values[method_name].pop(i)
                         deleted = True
 
         if deleted:

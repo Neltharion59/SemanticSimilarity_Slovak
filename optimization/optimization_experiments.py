@@ -1,6 +1,8 @@
 import math
 import json
 import os
+import sys
+from datetime import datetime
 
 from joblib import dump
 from sklearn.exceptions import ConvergenceWarning
@@ -28,8 +30,8 @@ fitness_metric = {
     'name': 'pearson',
     'method': pearson
 }
-bee_count = 2
-iteration_cap = 5
+bee_count = 80
+iteration_cap = 500
 
 # Storage
 algorithm_run = {
@@ -95,7 +97,7 @@ def persist_optimizer_run():
 # Beehive looks for minimum. Make this so that lowest value of this function means the best solution
 @ignore_warnings(category=ConvergenceWarning)
 def solution_evaluator(vector):
-    global optimizer_iteration_counter
+    global optimizer_iteration_counter, best_model
 
     optimizer_iteration_counter = optimizer_iteration_counter + 1
 
@@ -103,7 +105,10 @@ def solution_evaluator(vector):
         temp = optimizer_iteration_counter // 2
 
         if temp % bee_count == 1:
-            print('\tIteration (estimate) {}/{}'.format(temp // bee_count + 1, iteration_cap))
+            global iteration_start, iteration_end
+            iteration_end = datetime.now()
+            print('\tIteration (estimate) {}/{}, took {}. Best fitness: {}'.format(temp // bee_count + 1, iteration_cap, iteration_end - iteration_start, best_model['fitness']))
+            iteration_start = iteration_end
 
     temp_vector = list(map(lambda x: int(x), vector))
     param_dict = {}
@@ -150,7 +155,6 @@ def solution_evaluator(vector):
 
     fitness = 1 - metric_avg_test
 
-    global best_model
     if best_model is None or fitness < best_model['fitness']:
         best_model = {
             'vector': vector,
@@ -174,7 +178,10 @@ def run_optimization():
     )
 
     # Run da World
+    optimizer_start = datetime.now()
     cost = model.run()
+    optimizer_end = datetime.now()
+    print('Optimization took: {}'.format(optimizer_end - optimizer_start))
 
     #Utilities.ConvergencePlot(cost)
 
@@ -204,6 +211,7 @@ def run_optimization():
 
     algorithm_run['main'][key][dataset.name]['models'][model_type['name']]['best_model_id'] = best_model['id']
     algorithm_run['main'][key][dataset.name]['models'][model_type['name']]['fitness_history'] = cost
+    algorithm_run['main'][key][dataset.name]['models'][model_type['name']]['last_population'] = [x.vector for x in model.population]
 
 
 load_optimizer_run(algorithm_run['run_id'])
@@ -216,9 +224,9 @@ model_in_dataset_counter_max = len(model_types)
 total_counter = 1
 total_counter_max = dataset_counter_max * model_in_dataset_counter_max
 
+global_start = datetime.now()
 try:
     for key in dataset_pool:
-        break
 
         if key not in algorithm_run['main']:
             algorithm_run['main'][key] = {}
@@ -268,8 +276,16 @@ try:
                     sorted_arg_names = sorted(model_type['args'].keys())
                     arg_possibility_counts = list(map(lambda x: len(model_type['args'][x]), sorted_arg_names))
 
+                    if 'available_methods' not in algorithm_run['main'][key][dataset.name]:
+
+                        possibilities = {method_name: [config['args'] for config in persisted_methods_temp[method_name]] for method_name in sorted_method_group_names}
+                        algorithm_run['main'][key][dataset.name]['available_methods'] = possibilities
+
                     best_model = None
                     optimizer_iteration_counter = 0
+                    iteration_start = datetime.now()
+                    iteration_end = None
+
                     run_optimization()
 
                     persist_optimizer_run()
@@ -283,5 +299,9 @@ try:
             dataset_counter = dataset_counter + 1
 
     playsound('./../sounds/victory.mp3')
+    print('ENTIRE ALGORITHM TOOK'.format(datetime.now() - global_start))
+
 except:
     playsound('./../sounds/wrong.mp3')
+    print('ENTIRE ALGORITHM TOOK'.format(datetime.now() - global_start))
+    raise sys.exc_info()[0]
