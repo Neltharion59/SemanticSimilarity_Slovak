@@ -89,4 +89,4 @@ model_types = [
         }
     }
 ]
-model_types = [model_types[0]]
+model_types = [model_types[2]]
