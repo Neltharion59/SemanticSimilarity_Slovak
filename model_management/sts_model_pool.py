@@ -1,5 +1,6 @@
 # Library-like script providing pool of all aggregating STS methods
 # Focused on sklearn models
+from sklearn.ensemble import RandomForestRegressor, GradientBoostingRegressor
 from sklearn.gaussian_process import GaussianProcessRegressor
 from sklearn.isotonic import IsotonicRegression
 from sklearn.linear_model import LinearRegression, BayesianRidge
@@ -50,7 +51,7 @@ model_types = [
             'degree': list(map(lambda x: x * 2 + 1, range(1, 10))),                               # 3, 5, 7, 9 ... 21,
             'epsilon': [y/(10 ** x) for x in range(1, 3) for y in [1, 2, 3]] + [0.05, 0.07, 0.09],# 0.1, 0.2, 0.3, 0.01, 0.02, 0.03, 0.05, 0.07, 0.09
             'shrinking': [True, False],
-            #'max_iter': [-1] + [x * 50 for x in range(1, 9)],                                     # 50, 100, 150, 200, 250, 300, 350, 400
+            'max_iter': [x for x in range(100, 200)],                                     # 50, 100, 150, 200, 250, 300, 350, 400
             'coef0': [0] + [y/(10 ** x) for x in range(1, 4) for y in [1, 2, 3]]                  # 0, 0.1, 0.2, 0.3, 0.01, 0.02, 0.03, 0.001, 0.002, 0.003
         }
     },
@@ -87,6 +88,33 @@ model_types = [
             'alpha': [x * (10 ** -y) for x in [1, 2, 5] for y in [1, 2, 3]],
             'n_restarts_optimizer': [0, 1, 2]
         }
+    },
+    {
+        "name": "random_forest_regression",
+        "model": RandomForestRegressor,
+        "args": {
+            'n_estimators': [x * y for x in [10, 100] for y in [1, 2, 3]] + [50],
+            'max_depth': list(range(5, 20)) + [None],
+            'min_samples_split': list(range(2, 50)),
+            'min_samples_leaf': list(range(1, 30)),
+            'max_features': ['auto', 'sqrt', 'log2', None],
+            'max_leaf_nodes': list(range(2, 10)),
+            'n_jobs': [-1]
+        }
+    },
+    {
+        "name": "gradient_boosting_regression",
+        "model": GradientBoostingRegressor,
+        "args": {
+            'loss': ['ls', 'lad', 'huber', 'quantile'],
+            'n_estimators': [100 * y for y in [2, 3, 4]],
+            'max_depth': list(range(5, 20)) + [None],
+            'min_samples_split': list(range(2, 50)),
+            'min_samples_leaf': list(range(1, 30)),
+            'max_features': ['auto', 'sqrt', 'log2', None],
+            'max_leaf_nodes': list(range(2, 50))
+        }
     }
 ]
-model_types = [model_types[2]]
+print(model_types[6]['name'])
+model_types = [model_types[6]]

@@ -49,10 +49,11 @@ def add_to_method_pool(method_name, method_arg_possibilites, method_function, me
 
 # Dict with all available simple STS methods
 sts_method_pool = {}
-string_based_name_list = []
 # -----------------------------------------------------------------------------
 # ------------------------   CHARACTER   --------------------------------------
 # -----------------------------------------------------------------------------
+string_based_name_list = []
+
 # Add Hamming similarity
 name = "hamming"
 args_hamming = {
@@ -140,35 +141,46 @@ string_based_name_list.append(name)
 # -----------------------------------------------------------------------------
 # ---------------------------   VECTOR   --------------------------------------
 # -----------------------------------------------------------------------------
+corpus_based_name_list = []
+
 # Add manhattan similarity
 name = "manhattan"
 add_to_method_pool(name, args_vector_based, manhattan, sts_method_pool)
+corpus_based_name_list.append(name)
 # -----------------------------------------------------------------------------
 # Add euclidean similarity
 name = "euclidean"
 add_to_method_pool(name, args_vector_based, euclidean, sts_method_pool)
+corpus_based_name_list.append(name)
 # -----------------------------------------------------------------------------
 # Add minkowski similarity
 name = "minkowski"
 args_minkowski = {key: value for (key, value) in args_vector_based.items()}
 args_minkowski['p'] = args_minkowski_p
 add_to_method_pool(name, args_minkowski, minkowski, sts_method_pool)
+corpus_based_name_list.append(name)
 # -----------------------------------------------------------------------------
 # Add cosine_vector similarity
 name = "cosine_vector"
 add_to_method_pool(name, args_vector_based, cosine_vector, sts_method_pool)
+corpus_based_name_list.append(name)
 # -----------------------------------------------------------------------------
 # ------------------------   KNOWLEDGE   --------------------------------------
 # -----------------------------------------------------------------------------
+knowledge_based_name_list = []
+
 # Add Wu-Palmer similarity
 name = "wu_palmer"
 add_to_method_pool(name, args_knowledge, wu_palmer_similarity_sentence, sts_method_pool)
+knowledge_based_name_list.append(name)
 # -----------------------------------------------------------------------------
 # Add Path similarity
 name = "path"
 add_to_method_pool(name, args_knowledge, path_similarity_sentence, sts_method_pool)
+knowledge_based_name_list.append(name)
 # -----------------------------------------------------------------------------
 # Add Leacock-Chodorow similarity
 name = "leacock_chodorow"
 add_to_method_pool(name, args_knowledge, leacock_chodorow_similarity_sentence, sts_method_pool)
+knowledge_based_name_list.append(name)
 # -----------------------------------------------------------------------------
