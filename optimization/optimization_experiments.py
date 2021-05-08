@@ -299,9 +299,9 @@ try:
             dataset_counter = dataset_counter + 1
 
     playsound('./../sounds/victory.mp3')
-    print('ENTIRE ALGORITHM TOOK'.format(datetime.now() - global_start))
+    print('ENTIRE ALGORITHM TOOK {}'.format(datetime.now() - global_start))
 
 except:
-    playsound('./../sounds/wrong.mp3')
-    print('ENTIRE ALGORITHM TOOK'.format(datetime.now() - global_start))
+    playsound('./../sounds/wrong {}.mp3')
+    print('ENTIRE ALGORITHM TOOK {}'.format(datetime.now() - global_start))
     raise sys.exc_info()[0]
