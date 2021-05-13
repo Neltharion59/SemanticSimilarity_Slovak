@@ -64,7 +64,7 @@ model_types = [
             'min_samples_split': list(range(2, 50)),
             'min_samples_leaf': list(range(1, 30)),
             'max_features': ['auto', 'sqrt', 'log2', None],
-            'max_leaf_nodes': list(range(2, 10))
+            'max_leaf_nodes': list(range(10, 50))
         }
     },
     {
@@ -116,5 +116,5 @@ model_types = [
         }
     }
 ]
-print(model_types[6]['name'])
-model_types = [model_types[6]]
+print(model_types[2]['name'])
+model_types = [model_types[2]]
