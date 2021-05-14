@@ -1,3 +1,5 @@
+# Library-like script providing vector-based similarity methods (along with function to turn text to vector)
+
 from decimal import Decimal
 from math import sqrt
 from operator import add
@@ -6,6 +8,7 @@ from scipy.spatial.distance import cosine as cos
 from dataset_modification_scripts.corpora_pool import corpora_pool
 from dataset_modification_scripts.vector_pool import vector_pool
 
+# Arg possibilities for vector-based methods
 args_vector_based = {
     'corpus': [corpus.name for corpus in corpora_pool['raw'] if '2016_newscrawl' in corpus.name],
     'vector_length': ['200', '400', '600', 'full'],
@@ -13,10 +16,15 @@ args_vector_based = {
     'construction_method':  ['hal'],
     'vector_merge_strategy': ['add', 'add_pos_weight', 'add_power11_weight']
 }
+# Additional arg possibilities for 'p' parameter in minkowski distance
 args_minkowski_p = [3, 4, 5]
 
 
+# For given strings of text creates vector representation based on args.
+# Params: str, str, dict<str, str>
+# Return: list<float>, list<float>
 def vectorize_text(text1, text2, args):
+    # Load object with persisted vector representations of known words
     vector_object = vector_pool[args['construction_method']][args['corpus']].access_vector_object()
 
     words1 = text1.replace('\n', '').split(' ')
@@ -57,6 +65,9 @@ def vectorize_text(text1, text2, args):
     return vector1, vector2
 
 
+# For given pair of strings, calculates manhattan similarity using vector representation determined by args.
+# Params: str, str, dict<str, str>
+# Return: float
 def manhattan(text1, text2, args):
     vector1, vector2 = vectorize_text(text1, text2, args)
 
@@ -74,6 +85,9 @@ def manhattan(text1, text2, args):
     return similarity
 
 
+# For given pair of strings, calculates euclidean similarity using vector representation determined by args.
+# Params: str, str, dict<str, str>
+# Return: float
 def euclidean(text1, text2, args):
     vector1, vector2 = vectorize_text(text1, text2, args)
 
@@ -91,6 +105,9 @@ def euclidean(text1, text2, args):
     return similarity
 
 
+# For given pair of strings, calculates minkowski similarity using vector representation determined by args.
+# Params: str, str, dict<str, str>
+# Return: float
 def minkowski(text1, text2, args):
     vector1, vector2 = vectorize_text(text1, text2, args)
 
@@ -116,6 +133,9 @@ def minkowski(text1, text2, args):
     return similarity
 
 
+# For given pair of strings, calculates cosine similarity using vector representation determined by args.
+# Params: str, str, dict<str, str>
+# Return: float
 def cosine_vector(text1, text2, args):
     vector1, vector2 = vectorize_text(text1, text2, args)
 

@@ -2,30 +2,10 @@
 # Focused on sklearn models
 from sklearn.ensemble import RandomForestRegressor, GradientBoostingRegressor
 from sklearn.gaussian_process import GaussianProcessRegressor
-from sklearn.isotonic import IsotonicRegression
 from sklearn.linear_model import LinearRegression, BayesianRidge
 from sklearn.svm import SVR
 from sklearn.tree import DecisionTreeRegressor
 from sklearn.gaussian_process.kernels import *
-
-import re
-from os import listdir, getcwd
-from os.path import isfile, join
-import sys
-
-# Mandatory if we want to run this script from windows cmd. Must precede all imports from this project
-conf_path = getcwd()
-sys.path.append(conf_path)
-sys.path.append(conf_path + '/..')
-sys.path.append(conf_path + '/../..')
-
-from dataset_modification_scripts.dataset_wrapper import input_folder
-
-# Prepare regexes to be used in this script
-dataset_input_file_name_pattern = re.compile(".*_sk(_lemma)?\.txt")
-
-# Load list of existing dataset files
-input_dataset_files = [x for x in listdir(input_folder) if isfile(join(input_folder, x)) and dataset_input_file_name_pattern.match(x)]
 
 # Prepare list of regression sklearn models to be added to pool
 model_types = [

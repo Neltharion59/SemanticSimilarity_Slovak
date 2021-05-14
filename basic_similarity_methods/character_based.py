@@ -71,7 +71,7 @@ def needleman_wunsch(text1, text2, args):
 def smith_waterman(text1, text2, args):
     return textdistance.smith_waterman.normalized_similarity(text1, text2)
 
-
+# Standard possibilities of args for term-based methods
 args_set_based = {
     'level': ['character', 'text']
 }

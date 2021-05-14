@@ -3,6 +3,7 @@
 from util.math import average, none_2_zero
 from nltk.corpus import wordnet as wn
 
+# Arg possibilities for knowledge-based methods
 args_knowledge = {
     "synset_choice": ['1st_synsets', 'all_synsets'],
     "weighting": ['distance', 'ordinary'],

@@ -1,10 +1,5 @@
 # Runnable script lemmatizing datasets, creating new versions of datasets (does not overwrite original datasets)
 
-from os import listdir
-from os.path import isfile, join
-import re
-import json
-
 from dataset_modification_scripts.dataset_pool import dataset_pool
 
 word_pool_total = {}
