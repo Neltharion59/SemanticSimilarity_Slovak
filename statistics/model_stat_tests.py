@@ -1,15 +1,11 @@
 import json
-import math
 
 import numpy as np
 from joblib import load
 from scipy.stats import shapiro, ttest_ind, wilcoxon
 
 from dataset_modification_scripts.dataset_pool import dataset_pool
-from dataset_modification_scripts.dataset_wrapper import gold_standard_name
 from evaluation.evaluate_regression_metrics import pearson
-from model_management.sts_method_pool import character_based_name_list, corpus_based_name_list, \
-    knowledge_based_name_list, term_based_name_list
 
 alpha = 0.05
 p_value_digit_count = 6

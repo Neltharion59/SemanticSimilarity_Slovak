@@ -9,7 +9,7 @@ from sklearn.exceptions import ConvergenceWarning
 from sklearn.utils._testing import ignore_warnings
 
 from Hive import Hive
-from basic_similarity_methods.vector_based_create_vectors import average
+from util.math import average
 from complex_similarity_methods.dataset_fragmentation import FragmentedDatasetCV, FragmentedDatasetSuper
 from complex_similarity_methods.dataset_split_ratio import DatasetSplitRatio
 

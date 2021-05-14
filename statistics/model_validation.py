@@ -3,7 +3,7 @@ import json
 import numpy as np
 from joblib import load
 
-from basic_similarity_methods.knowledge_based import average
+from util.math import average
 from dataset_modification_scripts.dataset_pool import dataset_pool, find_dataset_by_name
 from dataset_modification_scripts.dataset_wrapper import gold_standard_name
 from evaluation.evaluate_regression_metrics import pearson

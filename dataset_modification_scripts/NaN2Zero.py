@@ -13,7 +13,6 @@ sys.path.append(conf_path + '/../..')
 
 from dataset_modification_scripts.dataset_pool import dataset_pool
 
-
 for key in dataset_pool:
     # Loop over each dataset to calculate and persist values for all methods
     for dataset in dataset_pool[key]:

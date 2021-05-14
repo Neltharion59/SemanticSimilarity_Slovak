@@ -1,5 +1,5 @@
 from decimal import Decimal
-from math import sqrt, pi
+from math import sqrt
 from operator import add
 from scipy.spatial.distance import cosine as cos
 

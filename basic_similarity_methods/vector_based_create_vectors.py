@@ -1,8 +1,6 @@
 import json
 import os
 from datetime import datetime, timedelta
-from functools import reduce
-import operator as op
 
 from numpy import array
 from numpy import diag
@@ -10,30 +8,7 @@ from numpy import zeros
 from scipy.linalg import svd as scipy_svd
 
 from dataset_modification_scripts.dataset_dictionary import word_pool_total as word_pool
-
-
-# Handy function to easily process missing values
-# Params: Any
-# Return: Any
-def none_2_zero(value):
-    return 0 if value is None else value
-
-
-# Handy function to calculate average of list of values (can handle empty list)
-# Params: list<float>, [list<float>]
-# Return: float
-def average(values, weights=None):
-    if len(values) == 0:
-        return 0
-
-    if weights is None:
-        weights = [1] * len(values)
-
-    if len(values) != len(weights):
-        raise ValueError('Values and weights do not have the same length')
-
-    return reduce(op.add, [value * weight for value, weight in zip(values, weights)]) / sum(weights)
-
+from util.math import average, none_2_zero
 
 with open("./../resources/stop_words.txt", 'r', encoding='utf-8') as file:
     stop_words = file.readline().replace(' ', '').split(',')
