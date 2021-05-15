@@ -1,5 +1,6 @@
-# Library-like script providing pool of all aggregating STS methods
-# Focused on sklearn models
+# Library-like script providing pool of all method types and possible hyperparameter values.
+# Used in optimization.
+
 from sklearn.ensemble import RandomForestRegressor, GradientBoostingRegressor
 from sklearn.gaussian_process import GaussianProcessRegressor
 from sklearn.linear_model import LinearRegression, BayesianRidge
@@ -15,7 +16,6 @@ model_types = [
         "args": {
             'fit_intercept': [True, False],
             'normalize': [True, False],
-            #'positive': [True, False]
         }
     },
     {
@@ -24,15 +24,15 @@ model_types = [
         "args": {
             # Most significant ones
             'kernel': ['linear', 'poly', 'rbf', 'sigmoid'],
-            'gamma': ['scale', 'auto'] + [y/(10 ** x) for x in range(1, 4) for y in [1, 2, 5]],   # 0.1, 0.2, 0.5, 0.01, 0.02, 0.05 ...
-            'C': [y/(10 ** x) for x in [0, 1] for y in [1, 2, 3, 5, 7, 9]] + [10.0],              # 1.0, 2.0, 3.0, 5.0, 7.0, 9.0, 0.1, 0.2, 0.3, 0.5, 0.7, 0.9, 10.0
+            'gamma': ['scale', 'auto'] + [y/(10 ** x) for x in range(1, 4) for y in [1, 2, 5]],
+            'C': [y/(10 ** x) for x in [0, 1] for y in [1, 2, 3, 5, 7, 9]] + [10.0],
 
             # Less significant ones
-            'degree': list(map(lambda x: x * 2 + 1, range(1, 10))),                               # 3, 5, 7, 9 ... 21,
-            'epsilon': [y/(10 ** x) for x in range(1, 3) for y in [1, 2, 3]] + [0.05, 0.07, 0.09],# 0.1, 0.2, 0.3, 0.01, 0.02, 0.03, 0.05, 0.07, 0.09
+            'degree': list(map(lambda x: x * 2 + 1, range(1, 10))),
+            'epsilon': [y/(10 ** x) for x in range(1, 3) for y in [1, 2, 3]] + [0.05, 0.07, 0.09],
             'shrinking': [True, False],
-            'max_iter': [x for x in range(100, 200)],                                     # 50, 100, 150, 200, 250, 300, 350, 400
-            'coef0': [0] + [y/(10 ** x) for x in range(1, 4) for y in [1, 2, 3]]                  # 0, 0.1, 0.2, 0.3, 0.01, 0.02, 0.03, 0.001, 0.002, 0.003
+            'max_iter': [x for x in range(100, 200)],
+            'coef0': [0] + [y/(10 ** x) for x in range(1, 4) for y in [1, 2, 3]]
         }
     },
     {
@@ -59,6 +59,7 @@ model_types = [
             'alpha_init': [None] + [x * (10 ** -y) for x in [1, 2, 5] for y in [1, 2, 3]]
         }
     },
+    # Was not used in the end, as model-persisting libraries had trouble with kernels
     {
         "name": "gaussian_process_regression",
         "model": GaussianProcessRegressor,
@@ -96,5 +97,8 @@ model_types = [
         }
     }
 ]
-print(model_types[2]['name'])
-model_types = [model_types[2]]
+# Typically, we only use one model at a time during optimization,
+# so if we want to optimize another model type, change it here.
+model_type_index = 2
+print(model_types[model_type_index]['name'])
+model_types = [model_types[model_type_index]]

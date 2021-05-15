@@ -1,3 +1,6 @@
+# Library-like script providing pool of wrappers of all defined datasets
+# Dataset is defined by its name and sub-datasets
+
 from dataset_modification_scripts.dataset_wrapper import Dataset
 
 dataset_pool = {
@@ -124,6 +127,7 @@ dataset_pool = {
         )
     ]
 }
+# Create equivalent lematized entries
 dataset_pool['lemma'] = [
     Dataset
     (
@@ -134,6 +138,9 @@ dataset_pool['lemma'] = [
 ]
 
 
+# Handy function to find dataset in pool with given name.
+# Params: str, str
+# Return: Dataset | None
 def find_dataset_by_name(key, dataset_name):
     for dataset in dataset_pool[key]:
         if dataset.name == dataset_name:

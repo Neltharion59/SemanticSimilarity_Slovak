@@ -1,3 +1,6 @@
+# Runnable script calculating statistic values to be printed to console in CSV format.
+# Perform statistical tests to detect significant differences of various categories of models.
+
 import json
 
 import numpy as np
@@ -15,6 +18,9 @@ optimizer_run_ids = {
 }
 
 
+# Get index of given configuration in list of configurations of given method
+# Params: dict<str, any>, list<dict<str, any>>
+# Return: int
 def configuration_index(config, config_list):
 
     for i in range(len(config_list)):
@@ -41,10 +47,16 @@ def configuration_index(config, config_list):
     return -1
 
 
+# Transposes array.
+# Params: list<list<float>>
+# Return: list<list<float>>
 def transpose(array):
     return np.array(array).T.tolist()
 
 
+# Formats number in string form to have two digits (if it only had one)
+# Params: str
+# Return: str
 def format_number(stringed_number):
     if len(stringed_number.split('.')[1]) == 1:
         return stringed_number + '0'

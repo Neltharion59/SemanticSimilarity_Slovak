@@ -1,3 +1,5 @@
+# Library-like script providing dataset wrapper class and few helpful variables and functions
+
 import json
 import os
 
@@ -9,7 +11,7 @@ output_folder = "./../resources/datasets/sts_method_values/"
 gold_standard_name = "gold_standard"
 
 
-# Check if two dicts are exact value match
+# Check if two dicts are exact value match (same keys and same values). Not nested.
 # Params: dict, dict
 # Return: bool
 def dict_match(dict1, dict2):
@@ -22,7 +24,11 @@ def dict_match(dict1, dict2):
     return True
 
 
+# Wrapper class for dataset
 class Dataset:
+    # Constructor
+    # Params: str, list<str>
+    # Return: Dataset
     def __init__(self, name, dataset_names):
         self.name = name
         self.dataset_names = dataset_names

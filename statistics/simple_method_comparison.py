@@ -1,3 +1,6 @@
+# Runnable script calculating statistic values to be printed to console in CSV format.
+# Compares values of algorithmic STS methods.
+
 import math
 
 from util.math import average

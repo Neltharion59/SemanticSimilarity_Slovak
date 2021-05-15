@@ -1,3 +1,6 @@
+# Library-like script providing wrapper class for corpus.
+
+# Wrapper class for convenient manipulation with a single corpus
 class Corpus:
     def __init__(self, name):
         self.name = name

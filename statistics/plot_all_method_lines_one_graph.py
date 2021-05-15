@@ -1,3 +1,6 @@
+# Runnable script calculating statistic values to be printed to console in R code format.
+# For given dataset version plots values of all algorithmic STS values in single plots.
+
 import math
 
 from util.math import average
@@ -8,6 +11,9 @@ from model_management.sts_method_pool import character_based_name_list, corpus_b
     knowledge_based_name_list, term_based_name_list
 
 
+# Put values into single vector.
+# Params: dict<str, any>, list<str>
+# Return: list<float>
 def list_all_values(value_dict, method_name_list):
     all_values = []
     for method_name in method_name_list:

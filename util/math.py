@@ -1,3 +1,5 @@
+# Library-like script providing mathematical utility functions.
+
 from functools import reduce
 import operator as op
 

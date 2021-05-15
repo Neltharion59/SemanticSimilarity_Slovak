@@ -1,3 +1,8 @@
+# Runnable script calculating statistic values to be printed to console in CSV format.
+# For given run id (set of models of same type),
+# compares various metrics (on test set, on validation set, on semeval-all dataset, on all dataset)
+# across datasets and dataset types.
+
 import json
 
 import numpy as np
@@ -11,6 +16,9 @@ from evaluation.evaluate_regression_metrics import pearson
 optimizer_run_id = 62
 
 
+# Get index of given configuration in list of configurations of given method
+# Params: dict<str, any>, list<dict<str, any>>
+# Return: int
 def configuration_index(config, config_list):
 
     for i in range(len(config_list)):
@@ -37,10 +45,16 @@ def configuration_index(config, config_list):
     return -1
 
 
+# Transposes array.
+# Params: list<list<float>>
+# Return: list<list<float>>
 def transpose(array):
     return np.array(array).T.tolist()
 
 
+# Formats number in string form to have two digits (if it only had one)
+# Params: str
+# Return: str
 def format_number(stringed_number):
     if len(stringed_number.split('.')[1]) == 1:
         return stringed_number + '0'

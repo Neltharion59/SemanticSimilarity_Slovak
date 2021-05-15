@@ -1,10 +1,19 @@
+# Library-like script providing class for persistend ID management
+
 id_folder_path = "./../resources/id_generator/"
 
 
+# Simple class providing utility of persistend unique ID generation.
 class PersistentIdGenerator:
+    # Constructor
+    # Params: str
+    # Return: PersistentIdGenerator
     def __init__(self, name):
         self.name = name
 
+    # Generate new ID.
+    # Params:
+    # Return: int
     def next_id(self):
         file_path = id_folder_path + self.name + '.txt'
         try:

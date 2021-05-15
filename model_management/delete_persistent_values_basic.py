@@ -1,6 +1,4 @@
-# Runnable script calculating values for each dataset for each method and persisting them
-# Already persisted values are not calculated again nor persisted
-from math import pi
+# Runnable script deleting values of specifieds methods and configurations.
 from os import getcwd
 
 import sys
@@ -14,8 +12,7 @@ sys.path.append(conf_path + '/../..')
 from dataset_modification_scripts.dataset_pool import dataset_pool
 
 # ---------------------------------------------------------------------------------------
-# ---------------------------------------------------------------------------------------
-# ---------------------------------------------------------------------------------------
+# ----------------- SPECIFY METHODS AND CONFIGS TO BE DELETED ---------------------------
 # ---------------------------------------------------------------------------------------
 methods_to_delete = ['mlipns']
 confs_to_delete = [
@@ -37,6 +34,9 @@ confs_only_to_delete = {
 # ---------------------------------------------------------------------------------------
 
 
+# Check if second dict is a subset of first dict.
+# Params: dict<str, any>, dict<str, any>
+# Return: bool
 def dict_subset(super_dict, sub_dict):
 
     for key in sub_dict:
@@ -48,18 +48,20 @@ def dict_subset(super_dict, sub_dict):
     return True
 
 
+# For each dataset version.
 for key in dataset_pool:
-    # Loop over each dataset to calculate and persist values for all methods
+    # Loop over each dataset to calculate and persist values for all methods.
     for dataset in dataset_pool[key]:
+        # Load persisted values for given dataset.
         values = dataset.load_values()
         deleted = False
-
+        # Check methods to be deleted.
         for method_name in methods_to_delete:
             if method_name in values:
                 print('Found {} in {}. TIME TO DELETE!'.format(method_name, dataset.name))
                 values.pop(method_name)
                 deleted = True
-
+        # Check configurations to be deleted (single value for each param).
         for conf_to_delete in confs_to_delete:
             if conf_to_delete['method_name'] in values:
                 for i in reversed(range(len(values[conf_to_delete['method_name']]))):
@@ -67,7 +69,7 @@ for key in dataset_pool:
                         print('Deleting configuration of method {} for dataset {}. Configuration: {}'.format(conf_to_delete['method_name'] , dataset.name, values[conf_to_delete['method_name']][i]['args']))
                         values[conf_to_delete['method_name']].pop(i)
                         deleted = True
-
+        # Check configurations to be deleted (multiple values for each param).
         for method_name in values:
             for i in reversed(range(len(values[method_name]))):
                 for arg_name in confs_only_to_delete:
@@ -75,6 +77,6 @@ for key in dataset_pool:
                         print('Deleting configuration of method {} for dataset {}. Configuration: {}'.format(method_name, dataset.name, values[method_name][i]['args']))
                         values[method_name].pop(i)
                         deleted = True
-
+        # Finally, persist the changes.
         if deleted:
             dataset.persist_values(values)

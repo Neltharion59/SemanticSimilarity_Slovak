@@ -1,3 +1,5 @@
+# Library-like script providing wrapper class for datasets
+
 from random import shuffle
 
 import numpy as np

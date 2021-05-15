@@ -1,4 +1,4 @@
-# Runnable script lemmatizing corpora, creating new versions of corpora (does not overwrite original corpuss)
+# Runnable script lematizing corpora, creating new versions of corpora (does not overwrite original corpuss)
 import os
 from os import listdir
 from os.path import isfile, join
@@ -24,7 +24,7 @@ def lemmatize(text):
         'text': text.lower(),
         # Security element. We used our own API key to have unlimited access,
         # but we do not want to publish it. This key is valid thought, but the access is limited.
-        'apikey': 'FIITDPLR2020',
+        'apikey': 'DEMO',
         # Which tool we want to use
         'lemmatizer': 'DictionaryLemmatizer'
     }
@@ -59,7 +59,7 @@ corpus_input_file_name_pattern = re.compile(".*_sk.txt")
 # Let's prepare list of corpus files to be lemmatized.
 input_corpus_files = [x for x in listdir(input_path) if isfile(join(input_path, x)) and corpus_input_file_name_pattern.match(x)]
 
-# Let's loop over all input corpus files.
+# Let's loop over all input corpora files.
 for input_corpus_file in input_corpus_files:
     # Prepare full path to both input and output file
     output_corpus_file = output_path + input_corpus_file.replace("_sk.txt", "_sk_lemma.txt")
@@ -82,15 +82,16 @@ for input_corpus_file in input_corpus_files:
     with open(input_corpus_file, 'r', encoding='utf-8') as input_file:
         for line in input_file:
             current_line_counter = current_line_counter + 1
-
+            # If this line is already processed, let's not process it again
             if current_line_counter <= processed_line_count:
                 continue
-
+            # E-mail adresses mess with the lematizer tool we use.
             line = line.replace('@', ' ')
-
+            # To maximize efficiency, we create batches as large as possible (limitation of the tool).
             if (len(batch) + len(line)) < 20000:
                 batch = batch + ' ' + line
             else:
+                # Perform the lematization.
                 lemmatized_text = lemmatize(batch)
                 words = lemmatized_text.split(' ')
                 words = [word for word in words if word != '?']
@@ -111,7 +112,9 @@ for input_corpus_file in input_corpus_files:
                         counter_file.flush()
                         os.fsync(counter_file)
 
+    # Once we have finished, there may be something left in the batch, so let's process it too.
     if batch != "":
+        # Perform the lematization.
         lemmatized_text = lemmatize(batch)
         words = lemmatized_text.split(' ')
         words = [word for word in words if word != '?']

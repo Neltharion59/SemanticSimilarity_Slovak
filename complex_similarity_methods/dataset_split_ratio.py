@@ -1,3 +1,5 @@
+# Library-like script providing wrapper class for splitting ratio.
+
 # Cute little class to wrap the train/validation split ratio.
 class DatasetSplitRatio:
     # Constructor

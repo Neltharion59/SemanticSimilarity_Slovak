@@ -1,3 +1,6 @@
+# Runnable script calculating statistic values to be printed to console in R code format.
+# Tests statistical significance of improvement achieved by lematization for each method type.
+
 import math
 
 from dataset_modification_scripts.dataset_pool import dataset_pool

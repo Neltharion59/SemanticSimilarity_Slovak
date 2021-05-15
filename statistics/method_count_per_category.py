@@ -1,4 +1,5 @@
-from tabulate import tabulate
+# Runnable script calculating statistic values to be printed to console in CSV format.
+# For each method category, get method and configuration count.
 
 from model_management.sts_method_pool import sts_method_pool, string_based_name_list, corpus_based_name_list, \
     knowledge_based_name_list
