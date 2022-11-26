@@ -191,6 +191,7 @@ for optimizer_run_name in output_table:
         for dataset_version in output_table[optimizer_run_name]:
             dataset_name_local = dataset_name if dataset_version == "raw" else (dataset_name + "_lemma")
             input_list = output_table[optimizer_run_name][dataset_version][dataset_name_local]['best_model']['inputs']
+            model_id = output_table[optimizer_run_name][dataset_version][dataset_name_local]['best_model']['id']
             input_dict = {x['method_name']: x for x in input_list}
             input_names = [x['method_name'] for x in input_list]
             string_based = list(filter(lambda x: x in string_based_name_list, input_names))
@@ -200,6 +201,8 @@ for optimizer_run_name in output_table:
 
             output_overleaf += "\t\\item " + dataset_version + "\n"
             output_overleaf += "\t\\begin{itemize}\n"
+
+            output_overleaf += "\t\t\\item " + str(model_id) + "\n"
 
             output_overleaf += "\t\t\\item Hyperparameters\n"
             output_overleaf += "\t\t\\begin{itemize}\n"
