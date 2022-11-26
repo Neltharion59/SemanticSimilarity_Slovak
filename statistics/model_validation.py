@@ -102,7 +102,7 @@ for dataset in dataset_pool['raw']:
 
         inputs = model_meta['inputs']
 
-        # Pearson on valid. test
+        # Pearson on valid. set
         features = []
         for method in inputs:
             index = configuration_index(method['args'], [x['args'] for x in model_meta['validation']['features'][method['method_name']]])

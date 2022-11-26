@@ -12,6 +12,7 @@ from evaluation.evaluate_regression_metrics import pearson
 from model_management.sts_method_pool import character_based_name_list, corpus_based_name_list, \
     knowledge_based_name_list, term_based_name_list
 
+models_only = True
 optimizer_run_ids = {
     '1st': [25, 33, 31, 30, 38, 41],
     '2nd': [62, 73, 70, 79, 76, 78]
@@ -142,21 +143,22 @@ for dataset_version in ['raw', 'lemma']:
         for dataset_name in values[model_name]:
             values[model_name][dataset_name] = max(values[model_name][dataset_name])
 
-    groups = [character_based_name_list, term_based_name_list, corpus_based_name_list, knowledge_based_name_list]
-    group_names = ['Character-based', 'Term-based', 'Corpus-based', 'Knowledge-based']
+    if not models_only:
+        groups = [character_based_name_list, term_based_name_list, corpus_based_name_list, knowledge_based_name_list]
+        group_names = ['Character-based', 'Term-based', 'Corpus-based', 'Knowledge-based']
 
-    for dataset in dataset_pool[dataset_version]:
-        persisted_values = dataset.load_values()
+        for dataset in dataset_pool[dataset_version]:
+            persisted_values = dataset.load_values()
 
-        for group, group_name in zip(groups, group_names):
-            if group_name not in values:
-                values[group_name] = {}
+            for group, group_name in zip(groups, group_names):
+                if group_name not in values:
+                    values[group_name] = {}
 
-            values[group_name][dataset.name] = 0
+                values[group_name][dataset.name] = 0
 
-            for method_name in group:
-                values[group_name][dataset.name] = max([values[group_name][dataset.name]]
-                    + [pearson(persisted_values[gold_standard_name][0]['values'], persisted_values[method_name][i]['values']) for i in range(len(persisted_values[method_name]))])
+                for method_name in group:
+                    values[group_name][dataset.name] = max([values[group_name][dataset.name]]
+                        + [pearson(persisted_values[gold_standard_name][0]['values'], persisted_values[method_name][i]['values']) for i in range(len(persisted_values[method_name]))])
 
     value_vector = []
     name_vector = []
