@@ -1,5 +1,5 @@
 # Library-like script providing wrapper class for vectors
-
+import os
 import json
 
 
@@ -16,7 +16,7 @@ class VectorSpace:
     # Params:
     # Return: None
     def load_vector_object(self):
-        vector_file_path = "./{}.txt".format(self.corpus_name)
+        vector_file_path = os.path.join(os.path.dirname(__file__), 'vectors.txt')
         try:
             with open(vector_file_path, 'r', encoding='utf-8') as vector_file:
                 vector_file_text = vector_file.read()

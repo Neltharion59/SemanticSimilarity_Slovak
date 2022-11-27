@@ -25,3 +25,14 @@ def average(values, weights=None):
         raise ValueError('Values and weights do not have the same length')
 
     return reduce(op.add, [value * weight for value, weight in zip(values, weights)]) / len(values)
+
+
+special_chars = '.,!?-\n\t\'\"()[]{}=+*/\\'
+
+
+# Params: string
+# Return: list<string>
+def split_to_words(text):
+    for special_char in special_chars:
+        text = text.replace(special_char, '')
+    return text.split(' ')

@@ -4,6 +4,7 @@ from decimal import Decimal
 from math import sqrt
 from operator import add
 from scipy.spatial.distance import cosine as cos
+from shared.custom_util import split_to_words
 
 from shared.corpora_pool import corpora_pool
 from shared.vector_pool import vector_pool
@@ -26,8 +27,8 @@ def vectorize_text(text1, text2, args):
     # Load object with persisted vector representations of known words
     vector_object = vector_pool['vectors'].access_vector_object()
 
-    words1 = text1.replace('\n', '').split(' ')
-    words2 = text2.replace('\n', '').split(' ')
+    words1 = split_to_words(text1)
+    words2 = split_to_words(text2)
 
     vector_length = int(args['vector_length']) if args['vector_length'] != 'full' else len(next(iter(vector_object['vectors'][args['window_size']]['full'].values())))
 
@@ -138,7 +139,5 @@ def minkowski(text1, text2, args):
 def cosine_vector(text1, text2, args):
     vector1, vector2 = vectorize_text(text1, text2, args)
 
-    print(vector1)
-    print(vector2)
     similarity = 1 - cos(vector1, vector2)
     return similarity

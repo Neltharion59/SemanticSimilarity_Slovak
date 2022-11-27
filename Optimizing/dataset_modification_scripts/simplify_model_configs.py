@@ -39,7 +39,7 @@ for optimizer_run in model_ids:
                 del input['args']['corpus']
 
         dataset_version = 'raw' if i % 2 == 0 else 'lemma'
-        dataset = datasets[i % 8]
+        dataset = datasets[(i // 2) % 8]
 
         new_file_name = target_directory + optimizer_run + '_' + dataset_version + '_' + dataset
         with open(new_file_name + '.json', 'w+') as file:

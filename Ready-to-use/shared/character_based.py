@@ -4,6 +4,7 @@ from functools import reduce
 from math import sqrt
 import operator as op
 import textdistance
+from shared.custom_util import split_to_words
 
 
 # Calculate Hamming similarity on given pair of strings using given parameters.
@@ -90,8 +91,8 @@ def jaccard(text1, text2, args):
     if args['level'] == 'character':
         result = textdistance.jaccard.normalized_similarity(text1, text2)
     elif args['level'] == 'text':
-        words1 = set(text1.split(' '))
-        words2 = set(text2.split(' '))
+        words1 = set(split_to_words(text1))
+        words2 = set(split_to_words(text2))
         word_intersection = words1.intersection(words2)
         result = len(word_intersection)/(len(words1) + len(words2) - len(word_intersection))
 
@@ -111,8 +112,8 @@ def sorensen_dice(text1, text2, args):
     if args['level'] == 'character':
         result = textdistance.sorensen_dice.normalized_similarity(text1, text2)
     elif args['level'] == 'text':
-        words1 = set(text1.split(' '))
-        words2 = set(text2.split(' '))
+        words1 = set(split_to_words(text1))
+        words2 = set(split_to_words(text2))
         word_intersection = words1.intersection(words2)
         result = 2 * len(word_intersection)/(len(words1) + len(words2))
 
@@ -132,8 +133,8 @@ def overlap(text1, text2, args):
     if args['level'] == 'character':
         result = textdistance.overlap.normalized_similarity(text1, text2)
     elif args['level'] == 'text':
-        words1 = set(text1.split(' '))
-        words2 = set(text2.split(' '))
+        words1 = set(split_to_words(text1))
+        words2 = set(split_to_words(text2))
         word_intersection = words1.intersection(words2)
         result = len(word_intersection)/min(len(words1), len(words2))
 
@@ -199,8 +200,8 @@ def ochiai(text1, text2, args):
         set1 = set(text1)
         set2 = set(text2)
     elif args['level'] == 'text':
-        set1 = set(text1.split(' '))
-        set2 = set(text2.split(' '))
+        set1 = set(split_to_words(text1))
+        set2 = set(split_to_words(text2))
     set_intersection = set1.intersection(set2)
     result = len(set_intersection)/sqrt(len(set1) * len(set2))
 

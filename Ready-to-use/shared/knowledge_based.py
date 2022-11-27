@@ -1,7 +1,8 @@
 # Library-like script providing knowledge-based similarity methods
 
-from shared.math_util import average, none_2_zero
+from shared.custom_util import average, none_2_zero
 from nltk.corpus import wordnet as wn
+from shared.custom_util import split_to_words
 
 # Arg possibilities for knowledge-based methods
 args_knowledge = {
@@ -28,8 +29,8 @@ def calculate_knowledge_similarity_sentence(sentence1, sentence2, similarity_fun
             raise ValueError('Knowledge-based method argument \'{}\' has unknown value - \'{}\''.format(arg, args[arg]))
 
     # Let's turn text into list of words
-    words1 = sentence1.split(' ')
-    words2 = sentence2.split(' ')
+    words1 = split_to_words(sentence1)
+    words2 = split_to_words(sentence2)
 
     # Prepare list of synsets for each word
     synsets1 = [wn.synsets(word, lang=args['wordnet']) for word in words1]
