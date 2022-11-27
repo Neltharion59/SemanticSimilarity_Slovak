@@ -10,7 +10,14 @@ The GitHub consists of two parts:
 - **Optimizing** - contains the source code used to produce data for the paper, including dataset preprocessing, unsupervised method calculations, artificial beehive optimization of machine learning models using unsupervised methods as features and statistical calculations of results.
 - **Ready-to-use** - contains modified subpart of the above described source code. It offers pretrained models ready for use in your project. The root of this folder demonstrates example usage. Model names specify optimization run (*1st* vs *2nd*), dataset version (*raw* vs *lemmatized*) and dataset name. We recommend using models from *2nd* optimization run. Unless you provide lemmatized input, we suggest using *raw* models. Models trained on *sick* or *all* dataset should cover your needs the best, as they were trained on the largest sample of data. You may also try to compare all existing models to find the best one for you.
 
-Below, we display tables describing all provided models and their configurations. The table was unnecessarily large for the paper.
+Note that these projects depend on various libraries:
+
+    pip install textdistance
+    pip install nltk
+    pip install scipy
+    pip install scikit-learn==0.24.2
+
+Below, we display tables describing all provided models and their configurations. The table was unnecessarily large for the paper. Hyperparameter names and values respect Python notation of [sklearn library v0.24.2]([https://scikit-learn.org/](https://scikit-learn.org/stable/whats_new/v0.24.html)).
 
 ## First optimization run
 
